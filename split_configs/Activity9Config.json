@@ -1,0 +1,64 @@
+{
+  "12": {
+    "Id": 12,
+    "Ntipstext_1": "|C:0xeee104&T:活动：独闯天涯|",
+    "Ntipstext_2": "活动时间：|C:0x2eb52d&T:每周四、周日 19:45-20:15|",
+    "Ntipstext_3": "独闯天涯中共六关，每关消灭10个怪物可通过看守人进入下一关，抵达七层在npc处领取奖励，前50名勇士还可获得神速礼包",
+    "Ntipstext_4": "需要等级：|C:0x28ee01&T:30级\n|C:0xff7700&T:该地图被击败不会掉落装备、道具|",
+    "bg": "Act_hdbg1_dcty",
+    "buttoncolor": 1,
+    "describe": "独闯天涯中共六关，每关消灭10个怪物可通过看守人进入下一关，抵达七层在npc处领取奖励，前50名勇士还可获得神速礼包\n\n|C:0x2eb52d&T:等级30级|\n|C:0x2eb52d&T:每周四，周日 20:00-20:30|\n|C:0xf56f00&T:开服第2天开启|",
+    "name": "独创天涯",
+    "openParam": {
+      "level": 30,
+      "openDay": 1
+    },
+    "rewardBtn": "进入",
+    "rewards": [
+      {
+        "count": 0,
+        "id": 13,
+        "type": 13
+      },
+      {
+        "count": 0,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 0,
+        "id": 3,
+        "type": 3
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1218,
+        "type": 0
+      }
+    ],
+    "ruleID": 35,
+    "showParam": {
+      "level": 1,
+      "openDay": 1
+    },
+    "timeDescribe": "每周四、周日 19:45-20:15",
+    "tipsbuttonfunction": {
+      "param1": "app.ActivityCopiesWin",
+      "param2": [
+        1
+      ],
+      "type": 1
+    },
+    "tipsbuttontext": "立即参与",
+    "tipstext": "独闯天涯中共六关，每层消灭10个怪物可通过看守人进入下一关，抵达七层在npc处领取奖励，前50名勇士还可获得神速礼包",
+    "tipstime": "19:45~20:15",
+    "tipstitleicon": "open_bt_3",
+    "titleIcon": "Act_biaoti_dcty",
+    "uiType": 1
+  }
+}

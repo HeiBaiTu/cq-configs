@@ -1,0 +1,3046 @@
+{
+  "51": {
+    "1": {
+      "1": {
+        "GiftTable": [
+          {
+            "count": 50,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 51,
+        "UpperLimit": [
+          400
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            0
+          ],
+          "type": 3
+        },
+        "describe": "完成1次膜拜",
+        "name": "膜拜",
+        "number": 1,
+        "openday": 1,
+        "subtype": 5,
+        "taskID": 1,
+        "type": 17,
+        "value": 1
+      },
+      "2": {
+        "GiftTable": [
+          {
+            "count": 70,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 51,
+        "UpperLimit": [
+          400
+        ],
+        "buttonUI": {
+          "param1": "app.FlyShoesView",
+          "param2": [
+            2
+          ],
+          "type": 3
+        },
+        "describe": "击败500个怪物",
+        "name": "击败怪物",
+        "number": 1,
+        "openday": 1,
+        "subtype": 1,
+        "taskID": 2,
+        "type": 7,
+        "value": 500
+      },
+      "3": {
+        "GiftTable": [
+          {
+            "count": 70,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 51,
+        "UpperLimit": [
+          400
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            3,
+            0
+          ],
+          "type": 3
+        },
+        "describe": "完成1次夺宝",
+        "name": "夺宝",
+        "number": 1,
+        "openday": 1,
+        "subtype": 7,
+        "taskID": 3,
+        "type": 17,
+        "value": 1
+      },
+      "4": {
+        "GiftTable": [
+          {
+            "count": 70,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 51,
+        "UpperLimit": [
+          400
+        ],
+        "buttonUI": {
+          "param1": "app.RoleView",
+          "param2": [
+            0,
+            3
+          ],
+          "type": 3
+        },
+        "describe": "使用300瓶祝福油",
+        "name": "使用祝福油",
+        "number": 1,
+        "openday": 1,
+        "subtype": 269,
+        "taskID": 4,
+        "type": 21,
+        "value": 300
+      },
+      "5": {
+        "GiftTable": [
+          {
+            "count": 70,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 51,
+        "UpperLimit": [
+          400
+        ],
+        "buttonUI": {
+          "param1": "app.FlyShoesView",
+          "param2": [
+            2
+          ],
+          "type": 3
+        },
+        "describe": "击杀1次妖兽",
+        "name": "击杀妖兽",
+        "number": 1,
+        "openday": 1,
+        "subtype": 3,
+        "taskID": 5,
+        "type": 7,
+        "value": 1
+      },
+      "6": {
+        "GiftTable": [
+          {
+            "count": 70,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 51,
+        "UpperLimit": [
+          400
+        ],
+        "buttonUI": {
+          "param1": "app.FlyShoesView",
+          "param2": [
+            2
+          ],
+          "type": 3
+        },
+        "describe": "击败20只十三陵陵中盗贼",
+        "name": "击杀怪物",
+        "number": 1,
+        "openday": 1,
+        "subtype": 203,
+        "taskID": 6,
+        "type": 22,
+        "value": 20
+      },
+      "7": {
+        "GiftTable": [
+          {
+            "count": 70,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 51,
+        "UpperLimit": [
+          400
+        ],
+        "buttonUI": {
+          "param1": "app.FlyShoesView",
+          "param2": [
+            2
+          ],
+          "type": 3
+        },
+        "describe": "击败10只山海关1层雪谷猛兽",
+        "name": "击杀怪物",
+        "number": 1,
+        "openday": 1,
+        "subtype": 287,
+        "taskID": 7,
+        "type": 22,
+        "value": 10
+      },
+      "8": {
+        "GiftTable": [
+          {
+            "count": 70,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 51,
+        "UpperLimit": [
+          400
+        ],
+        "buttonUI": {
+          "param1": "app.FlyShoesView",
+          "param2": [
+            2
+          ],
+          "type": 3
+        },
+        "describe": "击败1只孤独之路三层[经典]祖玛雕像",
+        "name": "击杀怪物",
+        "number": 1,
+        "openday": 1,
+        "subtype": 333,
+        "taskID": 8,
+        "type": 22,
+        "value": 1
+      },
+      "9": {
+        "GiftTable": [
+          {
+            "count": 70,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 51,
+        "UpperLimit": [
+          400
+        ],
+        "data": [
+          {
+            "count": 5,
+            "id": 480,
+            "type": 0
+          }
+        ],
+        "describe": "捐献5个洗炼石",
+        "name": "捐献物品",
+        "number": 1,
+        "openday": 1,
+        "subtype": 480,
+        "taskID": 9,
+        "type": 30,
+        "value": 5
+      }
+    }
+  },
+  "53": {
+    "1": {
+      "1": {
+        "GiftTable": [
+          {
+            "count": 100,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 53,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            12
+          ],
+          "type": 3
+        },
+        "describe": "完成1次独闯天涯(在7层领取独闯天涯礼包完成)",
+        "name": "独闯天涯",
+        "number": 1,
+        "openday": 2,
+        "subtype": 12,
+        "taskID": 1,
+        "type": 27,
+        "value": 1
+      },
+      "2": {
+        "GiftTable": [
+          {
+            "count": 300,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 53,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            12
+          ],
+          "type": 3
+        },
+        "describe": "完成3次独闯天涯",
+        "name": "独闯天涯",
+        "number": 1,
+        "openday": 2,
+        "subtype": 12,
+        "taskID": 2,
+        "type": 27,
+        "value": 3
+      },
+      "3": {
+        "GiftTable": [
+          {
+            "count": 100,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 53,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            14
+          ],
+          "type": 3
+        },
+        "describe": "参加1次夜战沃玛三(获得50积分完成)",
+        "name": "夜战沃玛三",
+        "number": 1,
+        "openday": 2,
+        "subtype": 14,
+        "taskID": 3,
+        "type": 17,
+        "value": 1
+      },
+      "4": {
+        "GiftTable": [
+          {
+            "count": 200,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 53,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            14
+          ],
+          "type": 3
+        },
+        "describe": "参加3次夜战沃玛三",
+        "name": "夜战沃玛三",
+        "number": 1,
+        "openday": 2,
+        "subtype": 14,
+        "taskID": 4,
+        "type": 17,
+        "value": 3
+      },
+      "5": {
+        "GiftTable": [
+          {
+            "count": 300,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 53,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            14
+          ],
+          "type": 3
+        },
+        "describe": "参加5次夜战沃玛三",
+        "name": "夜战沃玛三",
+        "number": 1,
+        "openday": 2,
+        "subtype": 14,
+        "taskID": 5,
+        "type": 17,
+        "value": 5
+      },
+      "6": {
+        "GiftTable": [
+          {
+            "count": 100,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 53,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            4
+          ],
+          "type": 3
+        },
+        "describe": "参加1次竞技大乱斗(获得50积分完成)",
+        "name": "竞技大乱斗",
+        "number": 1,
+        "openday": 2,
+        "subtype": 4,
+        "taskID": 6,
+        "type": 17,
+        "value": 1
+      },
+      "7": {
+        "GiftTable": [
+          {
+            "count": 200,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 53,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            4
+          ],
+          "type": 3
+        },
+        "describe": "参加3次竞技大乱斗",
+        "name": "竞技大乱斗",
+        "number": 1,
+        "openday": 2,
+        "subtype": 4,
+        "taskID": 7,
+        "type": 17,
+        "value": 3
+      },
+      "8": {
+        "GiftTable": [
+          {
+            "count": 300,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 53,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            4
+          ],
+          "type": 3
+        },
+        "describe": "参加5次竞技大乱斗",
+        "name": "竞技大乱斗",
+        "number": 1,
+        "openday": 2,
+        "subtype": 4,
+        "taskID": 8,
+        "type": 17,
+        "value": 5
+      },
+      "9": {
+        "GiftTable": [
+          {
+            "count": 300,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 53,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ShaChengStarcraftWin",
+          "param2": [
+            1
+          ],
+          "type": 3
+        },
+        "describe": "沙巴克泡点累积1万经验",
+        "name": "沙巴克攻城",
+        "number": 1,
+        "openday": 7,
+        "subtype": 5,
+        "taskID": 9,
+        "type": 5,
+        "value": 10000
+      },
+      "10": {
+        "GiftTable": [
+          {
+            "count": 200,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 53,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ShaChengStarcraftWin",
+          "param2": [
+            1
+          ],
+          "type": 3
+        },
+        "describe": "成为沙巴克成员",
+        "name": "沙巴克攻城",
+        "number": 1,
+        "openday": 7,
+        "subtype": 1,
+        "taskID": 10,
+        "type": 25,
+        "value": 1
+      },
+      "11": {
+        "GiftTable": [
+          {
+            "count": 100,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 53,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            11
+          ],
+          "type": 3
+        },
+        "describe": "参加3次世界BOSS(累积伤害1000完成)",
+        "name": "世界BOSS",
+        "number": 1,
+        "openday": 1,
+        "subtype": 11,
+        "taskID": 11,
+        "type": 17,
+        "value": 3
+      },
+      "12": {
+        "GiftTable": [
+          {
+            "count": 200,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 53,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            11
+          ],
+          "type": 3
+        },
+        "describe": "参加5次世界BOSS",
+        "name": "世界BOSS",
+        "number": 1,
+        "openday": 1,
+        "subtype": 11,
+        "taskID": 12,
+        "type": 17,
+        "value": 5
+      },
+      "13": {
+        "GiftTable": [
+          {
+            "count": 300,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 53,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            11
+          ],
+          "type": 3
+        },
+        "describe": "参加10次世界BOSS",
+        "name": "世界BOSS",
+        "number": 1,
+        "openday": 1,
+        "subtype": 11,
+        "taskID": 13,
+        "type": 17,
+        "value": 10
+      },
+      "14": {
+        "GiftTable": [
+          {
+            "count": 500,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 53,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            11
+          ],
+          "type": 3
+        },
+        "describe": "参加15次世界BOSS",
+        "name": "世界BOSS",
+        "number": 1,
+        "openday": 1,
+        "subtype": 11,
+        "taskID": 14,
+        "type": 17,
+        "value": 15
+      },
+      "15": {
+        "GiftTable": [
+          {
+            "count": 200,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 53,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            3,
+            0
+          ],
+          "type": 3
+        },
+        "describe": "完成10次夺宝",
+        "name": "夺宝",
+        "number": 1,
+        "openday": 1,
+        "subtype": 7,
+        "taskID": 15,
+        "type": 17,
+        "value": 10
+      },
+      "16": {
+        "GiftTable": [
+          {
+            "count": 300,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 53,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            3,
+            0
+          ],
+          "type": 3
+        },
+        "describe": "完成30次夺宝",
+        "name": "夺宝",
+        "number": 1,
+        "openday": 1,
+        "subtype": 7,
+        "taskID": 16,
+        "type": 17,
+        "value": 30
+      }
+    }
+  },
+  "54": {
+    "1": {
+      "1": {
+        "GiftTable": [
+          {
+            "count": 200,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 54,
+        "UpperLimit": [
+          2800
+        ],
+        "buttonUI": {
+          "param1": "app.BossView",
+          "param2": [
+            2
+          ],
+          "type": 3
+        },
+        "describe": "击杀2次野外或重装BOSS",
+        "name": "击杀BOSS",
+        "number": 1,
+        "openday": 1,
+        "subtype": 4,
+        "taskID": 1,
+        "type": 7,
+        "value": 2
+      },
+      "2": {
+        "GiftTable": [
+          {
+            "count": 400,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 54,
+        "UpperLimit": [
+          2800
+        ],
+        "buttonUI": {
+          "param1": "app.BossView",
+          "param2": [
+            2
+          ],
+          "type": 3
+        },
+        "describe": "击杀5次野外或重装BOSS",
+        "name": "击杀BOSS",
+        "number": 1,
+        "openday": 1,
+        "subtype": 4,
+        "taskID": 2,
+        "type": 7,
+        "value": 5
+      },
+      "3": {
+        "GiftTable": [
+          {
+            "count": 100,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 54,
+        "UpperLimit": [
+          2800
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            9
+          ],
+          "type": 3
+        },
+        "describe": "击杀1次散财鹿",
+        "name": "参与活动",
+        "number": 1,
+        "openday": 1,
+        "subtype": 161,
+        "taskID": 3,
+        "type": 22,
+        "value": 1
+      },
+      "4": {
+        "GiftTable": [
+          {
+            "count": 300,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 54,
+        "UpperLimit": [
+          2800
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            9
+          ],
+          "type": 3
+        },
+        "describe": "击杀3次散财鹿",
+        "name": "参与活动",
+        "number": 1,
+        "openday": 1,
+        "subtype": 161,
+        "taskID": 4,
+        "type": 22,
+        "value": 3
+      },
+      "5": {
+        "GiftTable": [
+          {
+            "count": 100,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 54,
+        "UpperLimit": [
+          2800
+        ],
+        "data": [
+          {
+            "count": 300,
+            "id": 838,
+            "type": 0
+          }
+        ],
+        "describe": "捐献300张炎战神凭证",
+        "name": "捐献物品",
+        "number": 1,
+        "openday": 1,
+        "subtype": 838,
+        "taskID": 5,
+        "type": 21,
+        "value": 300
+      },
+      "6": {
+        "GiftTable": [
+          {
+            "count": 200,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 54,
+        "UpperLimit": [
+          2800
+        ],
+        "data": [
+          {
+            "count": 1000,
+            "id": 838,
+            "type": 0
+          }
+        ],
+        "describe": "捐献1000张炎战神凭证",
+        "name": "捐献物品",
+        "number": 1,
+        "openday": 1,
+        "subtype": 838,
+        "taskID": 6,
+        "type": 30,
+        "value": 1000
+      },
+      "7": {
+        "GiftTable": [
+          {
+            "count": 300,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 54,
+        "UpperLimit": [
+          2800
+        ],
+        "data": [
+          {
+            "count": 3000,
+            "id": 838,
+            "type": 0
+          }
+        ],
+        "describe": "捐献3000张炎战神凭证",
+        "name": "捐献物品",
+        "number": 1,
+        "openday": 1,
+        "subtype": 838,
+        "taskID": 7,
+        "type": 31,
+        "value": 3000
+      },
+      "8": {
+        "GiftTable": [
+          {
+            "count": 200,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 54,
+        "UpperLimit": [
+          2800
+        ],
+        "data": [
+          {
+            "count": 3,
+            "id": 840,
+            "type": 0
+          }
+        ],
+        "describe": "捐献3张星王凭证",
+        "name": "捐献物品",
+        "number": 1,
+        "openday": 1,
+        "subtype": 840,
+        "taskID": 8,
+        "type": 21,
+        "value": 3
+      },
+      "9": {
+        "GiftTable": [
+          {
+            "count": 400,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 54,
+        "UpperLimit": [
+          2800
+        ],
+        "data": [
+          {
+            "count": 8,
+            "id": 840,
+            "type": 0
+          }
+        ],
+        "describe": "捐献8张星王凭证",
+        "name": "捐献物品",
+        "number": 1,
+        "openday": 1,
+        "subtype": 840,
+        "taskID": 9,
+        "type": 30,
+        "value": 8
+      },
+      "10": {
+        "GiftTable": [
+          {
+            "count": 200,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 54,
+        "UpperLimit": [
+          2800
+        ],
+        "data": [
+          {
+            "count": 2,
+            "id": 841,
+            "type": 0
+          }
+        ],
+        "describe": "捐献2张炎星王凭证",
+        "name": "捐献物品",
+        "number": 1,
+        "openday": 1,
+        "subtype": 841,
+        "taskID": 10,
+        "type": 21,
+        "value": 2
+      },
+      "11": {
+        "GiftTable": [
+          {
+            "count": 400,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 54,
+        "UpperLimit": [
+          2800
+        ],
+        "data": [
+          {
+            "count": 5,
+            "id": 841,
+            "type": 0
+          }
+        ],
+        "describe": "捐献5张炎星王凭证",
+        "name": "捐献物品",
+        "number": 1,
+        "openday": 1,
+        "subtype": 841,
+        "taskID": 11,
+        "type": 30,
+        "value": 5
+      }
+    }
+  },
+  "56": {
+    "1": {
+      "1": {
+        "GiftTable": [
+          {
+            "count": 50,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 56,
+        "UpperLimit": [
+          400
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            0
+          ],
+          "type": 3
+        },
+        "describe": "完成1次膜拜",
+        "name": "膜拜",
+        "number": 1,
+        "openday": 1,
+        "subtype": 5,
+        "taskID": 1,
+        "type": 17,
+        "value": 1
+      },
+      "2": {
+        "GiftTable": [
+          {
+            "count": 70,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 56,
+        "UpperLimit": [
+          400
+        ],
+        "buttonUI": {
+          "param1": "app.FlyShoesView",
+          "param2": [
+            2
+          ],
+          "type": 3
+        },
+        "describe": "击败500个怪物",
+        "name": "击败怪物",
+        "number": 1,
+        "openday": 1,
+        "subtype": 1,
+        "taskID": 2,
+        "type": 7,
+        "value": 500
+      },
+      "3": {
+        "GiftTable": [
+          {
+            "count": 70,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 56,
+        "UpperLimit": [
+          400
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            3,
+            0
+          ],
+          "type": 3
+        },
+        "describe": "完成1次夺宝",
+        "name": "夺宝",
+        "number": 1,
+        "openday": 1,
+        "subtype": 7,
+        "taskID": 3,
+        "type": 17,
+        "value": 1
+      },
+      "4": {
+        "GiftTable": [
+          {
+            "count": 70,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 56,
+        "UpperLimit": [
+          400
+        ],
+        "buttonUI": {
+          "param1": "app.RoleView",
+          "param2": [
+            0,
+            3
+          ],
+          "type": 3
+        },
+        "describe": "使用300瓶祝福油",
+        "name": "使用祝福油",
+        "number": 1,
+        "openday": 1,
+        "subtype": 269,
+        "taskID": 4,
+        "type": 21,
+        "value": 300
+      },
+      "5": {
+        "GiftTable": [
+          {
+            "count": 70,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 56,
+        "UpperLimit": [
+          400
+        ],
+        "buttonUI": {
+          "param1": "app.FlyShoesView",
+          "param2": [
+            2
+          ],
+          "type": 3
+        },
+        "describe": "击杀1次妖兽",
+        "name": "击杀妖兽",
+        "number": 1,
+        "openday": 1,
+        "subtype": 3,
+        "taskID": 5,
+        "type": 7,
+        "value": 1
+      },
+      "6": {
+        "GiftTable": [
+          {
+            "count": 70,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 56,
+        "UpperLimit": [
+          400
+        ],
+        "buttonUI": {
+          "param1": "app.FlyShoesView",
+          "param2": [
+            2
+          ],
+          "type": 3
+        },
+        "describe": "击败20只十三陵陵中盗贼",
+        "name": "击杀怪物",
+        "number": 1,
+        "openday": 1,
+        "subtype": 203,
+        "taskID": 6,
+        "type": 22,
+        "value": 20
+      },
+      "7": {
+        "GiftTable": [
+          {
+            "count": 70,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 56,
+        "UpperLimit": [
+          400
+        ],
+        "buttonUI": {
+          "param1": "app.FlyShoesView",
+          "param2": [
+            2
+          ],
+          "type": 3
+        },
+        "describe": "击败10只山海关1层雪谷猛兽",
+        "name": "击杀怪物",
+        "number": 1,
+        "openday": 1,
+        "subtype": 287,
+        "taskID": 7,
+        "type": 22,
+        "value": 10
+      },
+      "8": {
+        "GiftTable": [
+          {
+            "count": 70,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 56,
+        "UpperLimit": [
+          400
+        ],
+        "buttonUI": {
+          "param1": "app.FlyShoesView",
+          "param2": [
+            2
+          ],
+          "type": 3
+        },
+        "describe": "击败1只孤独之路三层[经典]祖玛雕像",
+        "name": "击杀怪物",
+        "number": 1,
+        "openday": 1,
+        "subtype": 333,
+        "taskID": 8,
+        "type": 22,
+        "value": 1
+      },
+      "9": {
+        "GiftTable": [
+          {
+            "count": 70,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 56,
+        "UpperLimit": [
+          400
+        ],
+        "data": [
+          {
+            "count": 5,
+            "id": 480,
+            "type": 0
+          }
+        ],
+        "describe": "捐献5个洗炼石",
+        "name": "捐献物品",
+        "number": 1,
+        "openday": 1,
+        "subtype": 480,
+        "taskID": 9,
+        "type": 30,
+        "value": 5
+      }
+    }
+  },
+  "57": {
+    "1": {
+      "1": {
+        "GiftTable": [
+          {
+            "count": 100,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 57,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            12
+          ],
+          "type": 3
+        },
+        "describe": "完成1次独闯天涯(在7层领取独闯天涯礼包完成)",
+        "name": "独闯天涯",
+        "number": 1,
+        "openday": 2,
+        "subtype": 12,
+        "taskID": 1,
+        "type": 27,
+        "value": 1
+      },
+      "2": {
+        "GiftTable": [
+          {
+            "count": 300,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 57,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            12
+          ],
+          "type": 3
+        },
+        "describe": "完成3次独闯天涯",
+        "name": "独闯天涯",
+        "number": 1,
+        "openday": 2,
+        "subtype": 12,
+        "taskID": 2,
+        "type": 27,
+        "value": 3
+      },
+      "3": {
+        "GiftTable": [
+          {
+            "count": 100,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 57,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            14
+          ],
+          "type": 3
+        },
+        "describe": "参加1次夜战沃玛三(获得50积分完成)",
+        "name": "夜战沃玛三",
+        "number": 1,
+        "openday": 2,
+        "subtype": 14,
+        "taskID": 3,
+        "type": 17,
+        "value": 1
+      },
+      "4": {
+        "GiftTable": [
+          {
+            "count": 200,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 57,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            14
+          ],
+          "type": 3
+        },
+        "describe": "参加3次夜战沃玛三",
+        "name": "夜战沃玛三",
+        "number": 1,
+        "openday": 2,
+        "subtype": 14,
+        "taskID": 4,
+        "type": 17,
+        "value": 3
+      },
+      "5": {
+        "GiftTable": [
+          {
+            "count": 300,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 57,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            14
+          ],
+          "type": 3
+        },
+        "describe": "参加5次夜战沃玛三",
+        "name": "夜战沃玛三",
+        "number": 1,
+        "openday": 2,
+        "subtype": 14,
+        "taskID": 5,
+        "type": 17,
+        "value": 5
+      },
+      "6": {
+        "GiftTable": [
+          {
+            "count": 100,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 57,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            4
+          ],
+          "type": 3
+        },
+        "describe": "参加1次竞技大乱斗(获得50积分完成)",
+        "name": "竞技大乱斗",
+        "number": 1,
+        "openday": 2,
+        "subtype": 4,
+        "taskID": 6,
+        "type": 17,
+        "value": 1
+      },
+      "7": {
+        "GiftTable": [
+          {
+            "count": 200,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 57,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            4
+          ],
+          "type": 3
+        },
+        "describe": "参加3次竞技大乱斗",
+        "name": "竞技大乱斗",
+        "number": 1,
+        "openday": 2,
+        "subtype": 4,
+        "taskID": 7,
+        "type": 17,
+        "value": 3
+      },
+      "8": {
+        "GiftTable": [
+          {
+            "count": 300,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 57,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            4
+          ],
+          "type": 3
+        },
+        "describe": "参加5次竞技大乱斗",
+        "name": "竞技大乱斗",
+        "number": 1,
+        "openday": 2,
+        "subtype": 4,
+        "taskID": 8,
+        "type": 17,
+        "value": 5
+      },
+      "9": {
+        "GiftTable": [
+          {
+            "count": 300,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 57,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ShaChengStarcraftWin",
+          "param2": [
+            1
+          ],
+          "type": 3
+        },
+        "describe": "沙巴克泡点累积1万经验",
+        "name": "沙巴克攻城",
+        "number": 1,
+        "openday": 7,
+        "subtype": 5,
+        "taskID": 9,
+        "type": 5,
+        "value": 10000
+      },
+      "10": {
+        "GiftTable": [
+          {
+            "count": 200,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 57,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ShaChengStarcraftWin",
+          "param2": [
+            1
+          ],
+          "type": 3
+        },
+        "describe": "成为沙巴克成员",
+        "name": "沙巴克攻城",
+        "number": 1,
+        "openday": 7,
+        "subtype": 1,
+        "taskID": 10,
+        "type": 25,
+        "value": 1
+      },
+      "11": {
+        "GiftTable": [
+          {
+            "count": 100,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 57,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            11
+          ],
+          "type": 3
+        },
+        "describe": "参加3次世界BOSS(累积伤害1000完成)",
+        "name": "世界BOSS",
+        "number": 1,
+        "openday": 1,
+        "subtype": 11,
+        "taskID": 11,
+        "type": 17,
+        "value": 3
+      },
+      "12": {
+        "GiftTable": [
+          {
+            "count": 200,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 57,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            11
+          ],
+          "type": 3
+        },
+        "describe": "参加5次世界BOSS",
+        "name": "世界BOSS",
+        "number": 1,
+        "openday": 1,
+        "subtype": 11,
+        "taskID": 12,
+        "type": 17,
+        "value": 5
+      },
+      "13": {
+        "GiftTable": [
+          {
+            "count": 300,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 57,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            11
+          ],
+          "type": 3
+        },
+        "describe": "参加10次世界BOSS",
+        "name": "世界BOSS",
+        "number": 1,
+        "openday": 1,
+        "subtype": 11,
+        "taskID": 13,
+        "type": 17,
+        "value": 10
+      },
+      "14": {
+        "GiftTable": [
+          {
+            "count": 500,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 57,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            11
+          ],
+          "type": 3
+        },
+        "describe": "参加15次世界BOSS",
+        "name": "世界BOSS",
+        "number": 1,
+        "openday": 1,
+        "subtype": 11,
+        "taskID": 14,
+        "type": 17,
+        "value": 15
+      },
+      "15": {
+        "GiftTable": [
+          {
+            "count": 200,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 57,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            3,
+            0
+          ],
+          "type": 3
+        },
+        "describe": "完成10次夺宝",
+        "name": "夺宝",
+        "number": 1,
+        "openday": 1,
+        "subtype": 7,
+        "taskID": 15,
+        "type": 17,
+        "value": 10
+      },
+      "16": {
+        "GiftTable": [
+          {
+            "count": 300,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 57,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            3,
+            0
+          ],
+          "type": 3
+        },
+        "describe": "完成30次夺宝",
+        "name": "夺宝",
+        "number": 1,
+        "openday": 1,
+        "subtype": 7,
+        "taskID": 16,
+        "type": 17,
+        "value": 30
+      }
+    }
+  },
+  "58": {
+    "1": {
+      "1": {
+        "GiftTable": [
+          {
+            "count": 200,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 58,
+        "UpperLimit": [
+          2800
+        ],
+        "buttonUI": {
+          "param1": "app.BossView",
+          "param2": [
+            2
+          ],
+          "type": 3
+        },
+        "describe": "击杀2次野外或重装BOSS",
+        "name": "击杀BOSS",
+        "number": 1,
+        "openday": 1,
+        "subtype": 4,
+        "taskID": 1,
+        "type": 7,
+        "value": 2
+      },
+      "2": {
+        "GiftTable": [
+          {
+            "count": 400,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 58,
+        "UpperLimit": [
+          2800
+        ],
+        "buttonUI": {
+          "param1": "app.BossView",
+          "param2": [
+            2
+          ],
+          "type": 3
+        },
+        "describe": "击杀5次野外或重装BOSS",
+        "name": "击杀BOSS",
+        "number": 1,
+        "openday": 1,
+        "subtype": 4,
+        "taskID": 2,
+        "type": 7,
+        "value": 5
+      },
+      "3": {
+        "GiftTable": [
+          {
+            "count": 100,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 58,
+        "UpperLimit": [
+          2800
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            9
+          ],
+          "type": 3
+        },
+        "describe": "击杀1次散财鹿",
+        "name": "参与活动",
+        "number": 1,
+        "openday": 1,
+        "subtype": 161,
+        "taskID": 3,
+        "type": 22,
+        "value": 1
+      },
+      "4": {
+        "GiftTable": [
+          {
+            "count": 300,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 58,
+        "UpperLimit": [
+          2800
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            9
+          ],
+          "type": 3
+        },
+        "describe": "击杀3次散财鹿",
+        "name": "参与活动",
+        "number": 1,
+        "openday": 1,
+        "subtype": 161,
+        "taskID": 4,
+        "type": 22,
+        "value": 3
+      },
+      "5": {
+        "GiftTable": [
+          {
+            "count": 100,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 58,
+        "UpperLimit": [
+          2800
+        ],
+        "data": [
+          {
+            "count": 300,
+            "id": 838,
+            "type": 0
+          }
+        ],
+        "describe": "捐献300张炎战神凭证",
+        "name": "捐献物品",
+        "number": 1,
+        "openday": 1,
+        "subtype": 838,
+        "taskID": 5,
+        "type": 21,
+        "value": 300
+      },
+      "6": {
+        "GiftTable": [
+          {
+            "count": 200,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 58,
+        "UpperLimit": [
+          2800
+        ],
+        "data": [
+          {
+            "count": 1000,
+            "id": 838,
+            "type": 0
+          }
+        ],
+        "describe": "捐献1000张炎战神凭证",
+        "name": "捐献物品",
+        "number": 1,
+        "openday": 1,
+        "subtype": 838,
+        "taskID": 6,
+        "type": 30,
+        "value": 1000
+      },
+      "7": {
+        "GiftTable": [
+          {
+            "count": 300,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 58,
+        "UpperLimit": [
+          2800
+        ],
+        "data": [
+          {
+            "count": 3000,
+            "id": 838,
+            "type": 0
+          }
+        ],
+        "describe": "捐献3000张炎战神凭证",
+        "name": "捐献物品",
+        "number": 1,
+        "openday": 1,
+        "subtype": 838,
+        "taskID": 7,
+        "type": 31,
+        "value": 3000
+      },
+      "8": {
+        "GiftTable": [
+          {
+            "count": 200,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 58,
+        "UpperLimit": [
+          2800
+        ],
+        "data": [
+          {
+            "count": 3,
+            "id": 840,
+            "type": 0
+          }
+        ],
+        "describe": "捐献3张星王凭证",
+        "name": "捐献物品",
+        "number": 1,
+        "openday": 1,
+        "subtype": 840,
+        "taskID": 8,
+        "type": 21,
+        "value": 3
+      },
+      "9": {
+        "GiftTable": [
+          {
+            "count": 400,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 58,
+        "UpperLimit": [
+          2800
+        ],
+        "data": [
+          {
+            "count": 8,
+            "id": 840,
+            "type": 0
+          }
+        ],
+        "describe": "捐献8张星王凭证",
+        "name": "捐献物品",
+        "number": 1,
+        "openday": 1,
+        "subtype": 840,
+        "taskID": 9,
+        "type": 30,
+        "value": 8
+      },
+      "10": {
+        "GiftTable": [
+          {
+            "count": 200,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 58,
+        "UpperLimit": [
+          2800
+        ],
+        "data": [
+          {
+            "count": 2,
+            "id": 841,
+            "type": 0
+          }
+        ],
+        "describe": "捐献2张炎星王凭证",
+        "name": "捐献物品",
+        "number": 1,
+        "openday": 1,
+        "subtype": 841,
+        "taskID": 10,
+        "type": 21,
+        "value": 2
+      },
+      "11": {
+        "GiftTable": [
+          {
+            "count": 400,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 58,
+        "UpperLimit": [
+          2800
+        ],
+        "data": [
+          {
+            "count": 5,
+            "id": 841,
+            "type": 0
+          }
+        ],
+        "describe": "捐献5张炎星王凭证",
+        "name": "捐献物品",
+        "number": 1,
+        "openday": 1,
+        "subtype": 841,
+        "taskID": 11,
+        "type": 30,
+        "value": 5
+      }
+    }
+  },
+  "60": {
+    "1": {
+      "1": {
+        "GiftTable": [
+          {
+            "count": 50,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 60,
+        "UpperLimit": [
+          400
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            0
+          ],
+          "type": 3
+        },
+        "describe": "完成1次膜拜",
+        "name": "膜拜",
+        "number": 1,
+        "openday": 1,
+        "subtype": 5,
+        "taskID": 1,
+        "type": 17,
+        "value": 1
+      },
+      "2": {
+        "GiftTable": [
+          {
+            "count": 70,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 60,
+        "UpperLimit": [
+          400
+        ],
+        "buttonUI": {
+          "param1": "app.FlyShoesView",
+          "param2": [
+            2
+          ],
+          "type": 3
+        },
+        "describe": "击败500个怪物",
+        "name": "击败怪物",
+        "number": 1,
+        "openday": 1,
+        "subtype": 1,
+        "taskID": 2,
+        "type": 7,
+        "value": 500
+      },
+      "3": {
+        "GiftTable": [
+          {
+            "count": 70,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 60,
+        "UpperLimit": [
+          400
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            3,
+            0
+          ],
+          "type": 3
+        },
+        "describe": "完成1次夺宝",
+        "name": "夺宝",
+        "number": 1,
+        "openday": 1,
+        "subtype": 7,
+        "taskID": 3,
+        "type": 17,
+        "value": 1
+      },
+      "4": {
+        "GiftTable": [
+          {
+            "count": 70,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 60,
+        "UpperLimit": [
+          400
+        ],
+        "buttonUI": {
+          "param1": "app.RoleView",
+          "param2": [
+            0,
+            3
+          ],
+          "type": 3
+        },
+        "describe": "使用300瓶祝福油",
+        "name": "使用祝福油",
+        "number": 1,
+        "openday": 1,
+        "subtype": 269,
+        "taskID": 4,
+        "type": 21,
+        "value": 300
+      },
+      "5": {
+        "GiftTable": [
+          {
+            "count": 70,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 60,
+        "UpperLimit": [
+          400
+        ],
+        "buttonUI": {
+          "param1": "app.FlyShoesView",
+          "param2": [
+            2
+          ],
+          "type": 3
+        },
+        "describe": "击杀1次妖兽",
+        "name": "击杀妖兽",
+        "number": 1,
+        "openday": 1,
+        "subtype": 3,
+        "taskID": 5,
+        "type": 7,
+        "value": 1
+      },
+      "6": {
+        "GiftTable": [
+          {
+            "count": 70,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 60,
+        "UpperLimit": [
+          400
+        ],
+        "buttonUI": {
+          "param1": "app.FlyShoesView",
+          "param2": [
+            2
+          ],
+          "type": 3
+        },
+        "describe": "击败20只十三陵陵中盗贼",
+        "name": "击杀怪物",
+        "number": 1,
+        "openday": 1,
+        "subtype": 203,
+        "taskID": 6,
+        "type": 22,
+        "value": 20
+      },
+      "7": {
+        "GiftTable": [
+          {
+            "count": 70,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 60,
+        "UpperLimit": [
+          400
+        ],
+        "buttonUI": {
+          "param1": "app.FlyShoesView",
+          "param2": [
+            2
+          ],
+          "type": 3
+        },
+        "describe": "击败10只山海关1层雪谷猛兽",
+        "name": "击杀怪物",
+        "number": 1,
+        "openday": 1,
+        "subtype": 287,
+        "taskID": 7,
+        "type": 22,
+        "value": 10
+      },
+      "8": {
+        "GiftTable": [
+          {
+            "count": 70,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 60,
+        "UpperLimit": [
+          400
+        ],
+        "buttonUI": {
+          "param1": "app.FlyShoesView",
+          "param2": [
+            2
+          ],
+          "type": 3
+        },
+        "describe": "击败1只孤独之路三层[经典]祖玛雕像",
+        "name": "击杀怪物",
+        "number": 1,
+        "openday": 1,
+        "subtype": 333,
+        "taskID": 8,
+        "type": 22,
+        "value": 1
+      },
+      "9": {
+        "GiftTable": [
+          {
+            "count": 70,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 60,
+        "UpperLimit": [
+          400
+        ],
+        "data": [
+          {
+            "count": 5,
+            "id": 480,
+            "type": 0
+          }
+        ],
+        "describe": "捐献5个洗炼石",
+        "name": "捐献物品",
+        "number": 1,
+        "openday": 1,
+        "subtype": 480,
+        "taskID": 9,
+        "type": 30,
+        "value": 5
+      }
+    }
+  },
+  "61": {
+    "1": {
+      "1": {
+        "GiftTable": [
+          {
+            "count": 100,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 61,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            12
+          ],
+          "type": 3
+        },
+        "describe": "完成1次独闯天涯(在7层领取独闯天涯礼包完成)",
+        "name": "独闯天涯",
+        "number": 1,
+        "openday": 2,
+        "subtype": 12,
+        "taskID": 1,
+        "type": 27,
+        "value": 1
+      },
+      "2": {
+        "GiftTable": [
+          {
+            "count": 300,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 61,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            12
+          ],
+          "type": 3
+        },
+        "describe": "完成3次独闯天涯",
+        "name": "独闯天涯",
+        "number": 1,
+        "openday": 2,
+        "subtype": 12,
+        "taskID": 2,
+        "type": 27,
+        "value": 3
+      },
+      "3": {
+        "GiftTable": [
+          {
+            "count": 100,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 61,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            14
+          ],
+          "type": 3
+        },
+        "describe": "参加1次夜战沃玛三(获得50积分完成)",
+        "name": "夜战沃玛三",
+        "number": 1,
+        "openday": 2,
+        "subtype": 14,
+        "taskID": 3,
+        "type": 17,
+        "value": 1
+      },
+      "4": {
+        "GiftTable": [
+          {
+            "count": 200,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 61,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            14
+          ],
+          "type": 3
+        },
+        "describe": "参加3次夜战沃玛三",
+        "name": "夜战沃玛三",
+        "number": 1,
+        "openday": 2,
+        "subtype": 14,
+        "taskID": 4,
+        "type": 17,
+        "value": 3
+      },
+      "5": {
+        "GiftTable": [
+          {
+            "count": 300,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 61,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            14
+          ],
+          "type": 3
+        },
+        "describe": "参加5次夜战沃玛三",
+        "name": "夜战沃玛三",
+        "number": 1,
+        "openday": 2,
+        "subtype": 14,
+        "taskID": 5,
+        "type": 17,
+        "value": 5
+      },
+      "6": {
+        "GiftTable": [
+          {
+            "count": 100,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 61,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            4
+          ],
+          "type": 3
+        },
+        "describe": "参加1次竞技大乱斗(获得50积分完成)",
+        "name": "竞技大乱斗",
+        "number": 1,
+        "openday": 2,
+        "subtype": 4,
+        "taskID": 6,
+        "type": 17,
+        "value": 1
+      },
+      "7": {
+        "GiftTable": [
+          {
+            "count": 200,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 61,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            4
+          ],
+          "type": 3
+        },
+        "describe": "参加3次竞技大乱斗",
+        "name": "竞技大乱斗",
+        "number": 1,
+        "openday": 2,
+        "subtype": 4,
+        "taskID": 7,
+        "type": 17,
+        "value": 3
+      },
+      "8": {
+        "GiftTable": [
+          {
+            "count": 300,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 61,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            4
+          ],
+          "type": 3
+        },
+        "describe": "参加5次竞技大乱斗",
+        "name": "竞技大乱斗",
+        "number": 1,
+        "openday": 2,
+        "subtype": 4,
+        "taskID": 8,
+        "type": 17,
+        "value": 5
+      },
+      "9": {
+        "GiftTable": [
+          {
+            "count": 300,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 61,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ShaChengStarcraftWin",
+          "param2": [
+            1
+          ],
+          "type": 3
+        },
+        "describe": "沙巴克泡点累积1万经验",
+        "name": "沙巴克攻城",
+        "number": 1,
+        "openday": 7,
+        "subtype": 5,
+        "taskID": 9,
+        "type": 5,
+        "value": 10000
+      },
+      "10": {
+        "GiftTable": [
+          {
+            "count": 200,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 61,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ShaChengStarcraftWin",
+          "param2": [
+            1
+          ],
+          "type": 3
+        },
+        "describe": "成为沙巴克成员",
+        "name": "沙巴克攻城",
+        "number": 1,
+        "openday": 7,
+        "subtype": 1,
+        "taskID": 10,
+        "type": 25,
+        "value": 1
+      },
+      "11": {
+        "GiftTable": [
+          {
+            "count": 100,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 61,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            11
+          ],
+          "type": 3
+        },
+        "describe": "参加3次世界BOSS(累积伤害1000完成)",
+        "name": "世界BOSS",
+        "number": 1,
+        "openday": 1,
+        "subtype": 11,
+        "taskID": 11,
+        "type": 17,
+        "value": 3
+      },
+      "12": {
+        "GiftTable": [
+          {
+            "count": 200,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 61,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            11
+          ],
+          "type": 3
+        },
+        "describe": "参加5次世界BOSS",
+        "name": "世界BOSS",
+        "number": 1,
+        "openday": 1,
+        "subtype": 11,
+        "taskID": 12,
+        "type": 17,
+        "value": 5
+      },
+      "13": {
+        "GiftTable": [
+          {
+            "count": 300,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 61,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            11
+          ],
+          "type": 3
+        },
+        "describe": "参加10次世界BOSS",
+        "name": "世界BOSS",
+        "number": 1,
+        "openday": 1,
+        "subtype": 11,
+        "taskID": 13,
+        "type": 17,
+        "value": 10
+      },
+      "14": {
+        "GiftTable": [
+          {
+            "count": 200,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 61,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            3,
+            0
+          ],
+          "type": 3
+        },
+        "describe": "完成10次夺宝",
+        "name": "夺宝",
+        "number": 1,
+        "openday": 1,
+        "subtype": 7,
+        "taskID": 14,
+        "type": 17,
+        "value": 10
+      },
+      "15": {
+        "GiftTable": [
+          {
+            "count": 300,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 61,
+        "UpperLimit": [
+          3700
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            3,
+            0
+          ],
+          "type": 3
+        },
+        "describe": "完成30次夺宝",
+        "name": "夺宝",
+        "number": 1,
+        "openday": 1,
+        "subtype": 7,
+        "taskID": 15,
+        "type": 17,
+        "value": 30
+      }
+    }
+  },
+  "62": {
+    "1": {
+      "1": {
+        "GiftTable": [
+          {
+            "count": 200,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 62,
+        "UpperLimit": [
+          2800
+        ],
+        "buttonUI": {
+          "param1": "app.BossView",
+          "param2": [
+            2
+          ],
+          "type": 3
+        },
+        "describe": "击杀2次野外或重装BOSS",
+        "name": "击杀BOSS",
+        "number": 1,
+        "openday": 1,
+        "subtype": 4,
+        "taskID": 1,
+        "type": 7,
+        "value": 2
+      },
+      "2": {
+        "GiftTable": [
+          {
+            "count": 400,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 62,
+        "UpperLimit": [
+          2800
+        ],
+        "buttonUI": {
+          "param1": "app.BossView",
+          "param2": [
+            2
+          ],
+          "type": 3
+        },
+        "describe": "击杀5次野外或重装BOSS",
+        "name": "击杀BOSS",
+        "number": 1,
+        "openday": 1,
+        "subtype": 4,
+        "taskID": 2,
+        "type": 7,
+        "value": 5
+      },
+      "3": {
+        "GiftTable": [
+          {
+            "count": 100,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 62,
+        "UpperLimit": [
+          2800
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            9
+          ],
+          "type": 3
+        },
+        "describe": "击杀1次散财鹿",
+        "name": "参与活动",
+        "number": 1,
+        "openday": 1,
+        "subtype": 161,
+        "taskID": 3,
+        "type": 22,
+        "value": 1
+      },
+      "4": {
+        "GiftTable": [
+          {
+            "count": 300,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 62,
+        "UpperLimit": [
+          2800
+        ],
+        "buttonUI": {
+          "param1": "app.ActivityCopiesWin",
+          "param2": [
+            9
+          ],
+          "type": 3
+        },
+        "describe": "击杀3次散财鹿",
+        "name": "参与活动",
+        "number": 1,
+        "openday": 1,
+        "subtype": 161,
+        "taskID": 4,
+        "type": 22,
+        "value": 3
+      },
+      "5": {
+        "GiftTable": [
+          {
+            "count": 100,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 62,
+        "UpperLimit": [
+          2800
+        ],
+        "data": [
+          {
+            "count": 300,
+            "id": 838,
+            "type": 0
+          }
+        ],
+        "describe": "捐献300张炎战神凭证",
+        "name": "捐献物品",
+        "number": 1,
+        "openday": 1,
+        "subtype": 838,
+        "taskID": 5,
+        "type": 21,
+        "value": 300
+      },
+      "6": {
+        "GiftTable": [
+          {
+            "count": 200,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 62,
+        "UpperLimit": [
+          2800
+        ],
+        "data": [
+          {
+            "count": 1000,
+            "id": 838,
+            "type": 0
+          }
+        ],
+        "describe": "捐献1000张炎战神凭证",
+        "name": "捐献物品",
+        "number": 1,
+        "openday": 1,
+        "subtype": 838,
+        "taskID": 6,
+        "type": 30,
+        "value": 1000
+      },
+      "7": {
+        "GiftTable": [
+          {
+            "count": 300,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 62,
+        "UpperLimit": [
+          2800
+        ],
+        "data": [
+          {
+            "count": 3000,
+            "id": 838,
+            "type": 0
+          }
+        ],
+        "describe": "捐献3000张炎战神凭证",
+        "name": "捐献物品",
+        "number": 1,
+        "openday": 1,
+        "subtype": 838,
+        "taskID": 7,
+        "type": 31,
+        "value": 3000
+      },
+      "8": {
+        "GiftTable": [
+          {
+            "count": 200,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 62,
+        "UpperLimit": [
+          2800
+        ],
+        "data": [
+          {
+            "count": 3,
+            "id": 840,
+            "type": 0
+          }
+        ],
+        "describe": "捐献3张星王凭证",
+        "name": "捐献物品",
+        "number": 1,
+        "openday": 1,
+        "subtype": 840,
+        "taskID": 8,
+        "type": 21,
+        "value": 3
+      },
+      "9": {
+        "GiftTable": [
+          {
+            "count": 400,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 62,
+        "UpperLimit": [
+          2800
+        ],
+        "data": [
+          {
+            "count": 8,
+            "id": 840,
+            "type": 0
+          }
+        ],
+        "describe": "捐献8张星王凭证",
+        "name": "捐献物品",
+        "number": 1,
+        "openday": 1,
+        "subtype": 840,
+        "taskID": 9,
+        "type": 30,
+        "value": 8
+      },
+      "10": {
+        "GiftTable": [
+          {
+            "count": 200,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 62,
+        "UpperLimit": [
+          2800
+        ],
+        "data": [
+          {
+            "count": 2,
+            "id": 841,
+            "type": 0
+          }
+        ],
+        "describe": "捐献2张炎星王凭证",
+        "name": "捐献物品",
+        "number": 1,
+        "openday": 1,
+        "subtype": 841,
+        "taskID": 10,
+        "type": 21,
+        "value": 2
+      },
+      "11": {
+        "GiftTable": [
+          {
+            "count": 400,
+            "id": 17,
+            "type": 17
+          }
+        ],
+        "ID": 62,
+        "UpperLimit": [
+          2800
+        ],
+        "data": [
+          {
+            "count": 5,
+            "id": 841,
+            "type": 0
+          }
+        ],
+        "describe": "捐献5张炎星王凭证",
+        "name": "捐献物品",
+        "number": 1,
+        "openday": 1,
+        "subtype": 841,
+        "taskID": 11,
+        "type": 30,
+        "value": 5
+      }
+    }
+  }
+}

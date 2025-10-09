@@ -1,0 +1,3785 @@
+{
+  "50": {
+    "1": {
+      "1": {
+        "Id": 50,
+        "accumulate": 200,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 1,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 1,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 1
+      },
+      "2": {
+        "Id": 50,
+        "accumulate": 400,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 10,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 5,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "tokenlevel": 2
+      },
+      "3": {
+        "Id": 50,
+        "accumulate": 600,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 15000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 2,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 3
+      },
+      "4": {
+        "Id": 50,
+        "accumulate": 800,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 30000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "tokenlevel": 4
+      },
+      "5": {
+        "Id": 50,
+        "accumulate": 1000,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 20,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 50,
+            "id": 421,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 5
+      },
+      "6": {
+        "Id": 50,
+        "accumulate": 1200,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 25,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 6
+      },
+      "7": {
+        "Id": 50,
+        "accumulate": 1400,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 5,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 25,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 7
+      },
+      "8": {
+        "Id": 50,
+        "accumulate": 1600,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 30,
+            "id": 421,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 30000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "tokenlevel": 8
+      },
+      "9": {
+        "Id": 50,
+        "accumulate": 1800,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 15000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 3,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 9
+      },
+      "10": {
+        "Id": 50,
+        "accumulate": 2000,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 30,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 10
+      },
+      "11": {
+        "Id": 50,
+        "accumulate": 2200,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardB": [
+          {
+            "count": 10,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "tokenlevel": 11
+      },
+      "12": {
+        "Id": 50,
+        "accumulate": 2400,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 1,
+            "id": 1018,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 12
+      },
+      "13": {
+        "Id": 50,
+        "accumulate": 2600,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 5,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 30,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 13
+      },
+      "14": {
+        "Id": 50,
+        "accumulate": 2800,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 40,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 14
+      },
+      "15": {
+        "Id": 50,
+        "accumulate": 3000,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 16000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 3,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 15
+      },
+      "16": {
+        "Id": 50,
+        "accumulate": 3200,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 40,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 1,
+            "id": 1022,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 16
+      },
+      "17": {
+        "Id": 50,
+        "accumulate": 3400,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 17000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 40,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 17
+      },
+      "18": {
+        "Id": 50,
+        "accumulate": 3600,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 55,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 18
+      },
+      "19": {
+        "Id": 50,
+        "accumulate": 3800,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardB": [
+          {
+            "count": 30000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "tokenlevel": 19
+      },
+      "20": {
+        "Id": 50,
+        "accumulate": 4000,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 110,
+            "id": 421,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 20
+      },
+      "21": {
+        "Id": 50,
+        "accumulate": 4300,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 5,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 10,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "tokenlevel": 21
+      },
+      "22": {
+        "Id": 50,
+        "accumulate": 4600,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 55,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 22
+      },
+      "23": {
+        "Id": 50,
+        "accumulate": 4900,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 18000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 75,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 23
+      },
+      "24": {
+        "Id": 50,
+        "accumulate": 5200,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 150,
+            "id": 421,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 24
+      },
+      "25": {
+        "Id": 50,
+        "accumulate": 5500,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 20000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 1,
+            "id": 1072,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 25
+      },
+      "26": {
+        "Id": 50,
+        "accumulate": 5800,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 50,
+            "id": 421,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 75,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 26
+      },
+      "27": {
+        "Id": 50,
+        "accumulate": 6100,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardB": [
+          {
+            "count": 3,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 27
+      },
+      "28": {
+        "Id": 50,
+        "accumulate": 6400,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 200,
+            "id": 421,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 28
+      },
+      "29": {
+        "Id": 50,
+        "accumulate": 6700,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 5,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 100,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 29
+      },
+      "30": {
+        "Id": 50,
+        "accumulate": 7000,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 100,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 30
+      },
+      "31": {
+        "Id": 50,
+        "accumulate": 7300,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 20000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 10,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "tokenlevel": 31
+      },
+      "32": {
+        "Id": 50,
+        "accumulate": 7600,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 260,
+            "id": 421,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 32
+      },
+      "33": {
+        "Id": 50,
+        "accumulate": 7900,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 20000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 130,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 33
+      },
+      "34": {
+        "Id": 50,
+        "accumulate": 8200,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 3,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 34
+      },
+      "35": {
+        "Id": 50,
+        "accumulate": 8500,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 60,
+            "id": 421,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 130,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 35
+      },
+      "36": {
+        "Id": 50,
+        "accumulate": 8800,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 1,
+            "id": 1018,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 36
+      },
+      "37": {
+        "Id": 50,
+        "accumulate": 9100,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardB": [
+          {
+            "count": 165,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 37
+      },
+      "38": {
+        "Id": 50,
+        "accumulate": 9400,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 70,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 30000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "tokenlevel": 38
+      },
+      "39": {
+        "Id": 50,
+        "accumulate": 9700,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 5,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 330,
+            "id": 421,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 39
+      },
+      "40": {
+        "Id": 50,
+        "accumulate": 10000,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 10,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "tokenlevel": 40
+      },
+      "41": {
+        "Id": 50,
+        "accumulate": 10300,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 3,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 3,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 41
+      },
+      "42": {
+        "Id": 50,
+        "accumulate": 10600,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardB": [
+          {
+            "count": 165,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 42
+      },
+      "43": {
+        "Id": 50,
+        "accumulate": 10900,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 5,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 10,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "tokenlevel": 43
+      },
+      "44": {
+        "Id": 50,
+        "accumulate": 11200,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 20000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 1,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 44
+      },
+      "45": {
+        "Id": 50,
+        "accumulate": 11500,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 3,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 3,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 45
+      },
+      "46": {
+        "Id": 50,
+        "accumulate": 11800,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardB": [
+          {
+            "count": 205,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 46
+      },
+      "47": {
+        "Id": 50,
+        "accumulate": 12100,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 3,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 10,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "tokenlevel": 47
+      },
+      "48": {
+        "Id": 50,
+        "accumulate": 12400,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 20000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 3,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 48
+      },
+      "49": {
+        "Id": 50,
+        "accumulate": 12700,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 3,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 10,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "tokenlevel": 49
+      },
+      "50": {
+        "Id": 50,
+        "accumulate": 13000,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 80,
+            "id": 421,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 205,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 50
+      },
+      "51": {
+        "Id": 50,
+        "accumulate": 13300,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 3,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 1,
+            "id": 1022,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 51
+      },
+      "52": {
+        "Id": 50,
+        "accumulate": 13600,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 20000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 3,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 52
+      },
+      "53": {
+        "Id": 50,
+        "accumulate": 13900,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 90,
+            "id": 421,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 10,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "tokenlevel": 53
+      },
+      "54": {
+        "Id": 50,
+        "accumulate": 14200,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardB": [
+          {
+            "count": 250,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 54
+      },
+      "55": {
+        "Id": 50,
+        "accumulate": 14500,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardB": [
+          {
+            "count": 3,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 55
+      },
+      "56": {
+        "Id": 50,
+        "accumulate": 14800,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 20000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 10,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "tokenlevel": 56
+      },
+      "57": {
+        "Id": 50,
+        "accumulate": 15100,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 3,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 2,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 57
+      },
+      "58": {
+        "Id": 50,
+        "accumulate": 15400,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 5,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 3,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 58
+      },
+      "59": {
+        "Id": 50,
+        "accumulate": 15700,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardB": [
+          {
+            "count": 500000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "tokenlevel": 59
+      },
+      "60": {
+        "Id": 50,
+        "accumulate": 16000,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 20000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 10,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "tokenlevel": 60
+      }
+    }
+  },
+  "55": {
+    "1": {
+      "1": {
+        "Id": 55,
+        "accumulate": 200,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 1,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 1,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 1
+      },
+      "2": {
+        "Id": 55,
+        "accumulate": 400,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 10,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 5,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "tokenlevel": 2
+      },
+      "3": {
+        "Id": 55,
+        "accumulate": 600,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 15000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 2,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 3
+      },
+      "4": {
+        "Id": 55,
+        "accumulate": 800,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 30000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "tokenlevel": 4
+      },
+      "5": {
+        "Id": 55,
+        "accumulate": 1000,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 20,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 50,
+            "id": 421,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 5
+      },
+      "6": {
+        "Id": 55,
+        "accumulate": 1200,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 25,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 6
+      },
+      "7": {
+        "Id": 55,
+        "accumulate": 1400,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 5,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 25,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 7
+      },
+      "8": {
+        "Id": 55,
+        "accumulate": 1600,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 30,
+            "id": 421,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 30000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "tokenlevel": 8
+      },
+      "9": {
+        "Id": 55,
+        "accumulate": 1800,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 15000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 3,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 9
+      },
+      "10": {
+        "Id": 55,
+        "accumulate": 2000,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 30,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 10
+      },
+      "11": {
+        "Id": 55,
+        "accumulate": 2200,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardB": [
+          {
+            "count": 10,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "tokenlevel": 11
+      },
+      "12": {
+        "Id": 55,
+        "accumulate": 2400,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 1,
+            "id": 1018,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 12
+      },
+      "13": {
+        "Id": 55,
+        "accumulate": 2600,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 5,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 30,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 13
+      },
+      "14": {
+        "Id": 55,
+        "accumulate": 2800,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 40,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 14
+      },
+      "15": {
+        "Id": 55,
+        "accumulate": 3000,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 16000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 3,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 15
+      },
+      "16": {
+        "Id": 55,
+        "accumulate": 3200,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 40,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 1,
+            "id": 1022,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 16
+      },
+      "17": {
+        "Id": 55,
+        "accumulate": 3400,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 17000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 40,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 17
+      },
+      "18": {
+        "Id": 55,
+        "accumulate": 3600,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 55,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 18
+      },
+      "19": {
+        "Id": 55,
+        "accumulate": 3800,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardB": [
+          {
+            "count": 30000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "tokenlevel": 19
+      },
+      "20": {
+        "Id": 55,
+        "accumulate": 4000,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 110,
+            "id": 421,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 20
+      },
+      "21": {
+        "Id": 55,
+        "accumulate": 4300,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 5,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 10,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "tokenlevel": 21
+      },
+      "22": {
+        "Id": 55,
+        "accumulate": 4600,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 55,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 22
+      },
+      "23": {
+        "Id": 55,
+        "accumulate": 4900,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 18000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 75,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 23
+      },
+      "24": {
+        "Id": 55,
+        "accumulate": 5200,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 150,
+            "id": 421,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 24
+      },
+      "25": {
+        "Id": 55,
+        "accumulate": 5500,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 20000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 1,
+            "id": 1072,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 25
+      },
+      "26": {
+        "Id": 55,
+        "accumulate": 5800,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 50,
+            "id": 421,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 75,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 26
+      },
+      "27": {
+        "Id": 55,
+        "accumulate": 6100,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardB": [
+          {
+            "count": 3,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 27
+      },
+      "28": {
+        "Id": 55,
+        "accumulate": 6400,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 200,
+            "id": 421,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 28
+      },
+      "29": {
+        "Id": 55,
+        "accumulate": 6700,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 5,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 100,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 29
+      },
+      "30": {
+        "Id": 55,
+        "accumulate": 7000,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 100,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 30
+      },
+      "31": {
+        "Id": 55,
+        "accumulate": 7300,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 20000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 10,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "tokenlevel": 31
+      },
+      "32": {
+        "Id": 55,
+        "accumulate": 7600,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 260,
+            "id": 421,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 32
+      },
+      "33": {
+        "Id": 55,
+        "accumulate": 7900,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 20000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 130,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 33
+      },
+      "34": {
+        "Id": 55,
+        "accumulate": 8200,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 3,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 34
+      },
+      "35": {
+        "Id": 55,
+        "accumulate": 8500,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 60,
+            "id": 421,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 130,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 35
+      },
+      "36": {
+        "Id": 55,
+        "accumulate": 8800,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 1,
+            "id": 1018,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 36
+      },
+      "37": {
+        "Id": 55,
+        "accumulate": 9100,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardB": [
+          {
+            "count": 165,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 37
+      },
+      "38": {
+        "Id": 55,
+        "accumulate": 9400,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 70,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 30000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "tokenlevel": 38
+      },
+      "39": {
+        "Id": 55,
+        "accumulate": 9700,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 5,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 330,
+            "id": 421,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 39
+      },
+      "40": {
+        "Id": 55,
+        "accumulate": 10000,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 10,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "tokenlevel": 40
+      },
+      "41": {
+        "Id": 55,
+        "accumulate": 10300,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 3,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 3,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 41
+      },
+      "42": {
+        "Id": 55,
+        "accumulate": 10600,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardB": [
+          {
+            "count": 165,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 42
+      },
+      "43": {
+        "Id": 55,
+        "accumulate": 10900,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 5,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 10,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "tokenlevel": 43
+      },
+      "44": {
+        "Id": 55,
+        "accumulate": 11200,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 20000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 1,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 44
+      },
+      "45": {
+        "Id": 55,
+        "accumulate": 11500,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 3,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 3,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 45
+      },
+      "46": {
+        "Id": 55,
+        "accumulate": 11800,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardB": [
+          {
+            "count": 205,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 46
+      },
+      "47": {
+        "Id": 55,
+        "accumulate": 12100,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 3,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 10,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "tokenlevel": 47
+      },
+      "48": {
+        "Id": 55,
+        "accumulate": 12400,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 20000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 3,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 48
+      },
+      "49": {
+        "Id": 55,
+        "accumulate": 12700,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 3,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 10,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "tokenlevel": 49
+      },
+      "50": {
+        "Id": 55,
+        "accumulate": 13000,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 80,
+            "id": 421,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 205,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 50
+      },
+      "51": {
+        "Id": 55,
+        "accumulate": 13300,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 3,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 1,
+            "id": 1022,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 51
+      },
+      "52": {
+        "Id": 55,
+        "accumulate": 13600,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 20000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 3,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 52
+      },
+      "53": {
+        "Id": 55,
+        "accumulate": 13900,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 90,
+            "id": 421,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 10,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "tokenlevel": 53
+      },
+      "54": {
+        "Id": 55,
+        "accumulate": 14200,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardB": [
+          {
+            "count": 250,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 54
+      },
+      "55": {
+        "Id": 55,
+        "accumulate": 14500,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardB": [
+          {
+            "count": 3,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 55
+      },
+      "56": {
+        "Id": 55,
+        "accumulate": 14800,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 20000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 10,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "tokenlevel": 56
+      },
+      "57": {
+        "Id": 55,
+        "accumulate": 15100,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 3,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 2,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 57
+      },
+      "58": {
+        "Id": 55,
+        "accumulate": 15400,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 5,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 3,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 58
+      },
+      "59": {
+        "Id": 55,
+        "accumulate": 15700,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardB": [
+          {
+            "count": 500000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "tokenlevel": 59
+      },
+      "60": {
+        "Id": 55,
+        "accumulate": 16000,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 20000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 10,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "tokenlevel": 60
+      }
+    }
+  },
+  "59": {
+    "1": {
+      "1": {
+        "Id": 59,
+        "accumulate": 200,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 1,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 1,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 1
+      },
+      "2": {
+        "Id": 59,
+        "accumulate": 400,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 10,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 5,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "tokenlevel": 2
+      },
+      "3": {
+        "Id": 59,
+        "accumulate": 600,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 15000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 2,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 3
+      },
+      "4": {
+        "Id": 59,
+        "accumulate": 800,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 30000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "tokenlevel": 4
+      },
+      "5": {
+        "Id": 59,
+        "accumulate": 1000,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 20,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 50,
+            "id": 421,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 5
+      },
+      "6": {
+        "Id": 59,
+        "accumulate": 1200,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 25,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 6
+      },
+      "7": {
+        "Id": 59,
+        "accumulate": 1400,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 5,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 25,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 7
+      },
+      "8": {
+        "Id": 59,
+        "accumulate": 1600,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 30,
+            "id": 421,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 30000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "tokenlevel": 8
+      },
+      "9": {
+        "Id": 59,
+        "accumulate": 1800,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 15000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 3,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 9
+      },
+      "10": {
+        "Id": 59,
+        "accumulate": 2000,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 30,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 10
+      },
+      "11": {
+        "Id": 59,
+        "accumulate": 2200,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardB": [
+          {
+            "count": 10,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "tokenlevel": 11
+      },
+      "12": {
+        "Id": 59,
+        "accumulate": 2400,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 1,
+            "id": 1018,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 12
+      },
+      "13": {
+        "Id": 59,
+        "accumulate": 2600,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 5,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 30,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 13
+      },
+      "14": {
+        "Id": 59,
+        "accumulate": 2800,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 40,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 14
+      },
+      "15": {
+        "Id": 59,
+        "accumulate": 3000,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 16000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 3,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 15
+      },
+      "16": {
+        "Id": 59,
+        "accumulate": 3200,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 40,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 1,
+            "id": 1022,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 16
+      },
+      "17": {
+        "Id": 59,
+        "accumulate": 3400,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 17000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 40,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 17
+      },
+      "18": {
+        "Id": 59,
+        "accumulate": 3600,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 55,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 18
+      },
+      "19": {
+        "Id": 59,
+        "accumulate": 3800,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardB": [
+          {
+            "count": 30000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "tokenlevel": 19
+      },
+      "20": {
+        "Id": 59,
+        "accumulate": 4000,
+        "exp": 200,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 110,
+            "id": 421,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 20
+      },
+      "21": {
+        "Id": 59,
+        "accumulate": 4300,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 5,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 10,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "tokenlevel": 21
+      },
+      "22": {
+        "Id": 59,
+        "accumulate": 4600,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 55,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 22
+      },
+      "23": {
+        "Id": 59,
+        "accumulate": 4900,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 18000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 75,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 23
+      },
+      "24": {
+        "Id": 59,
+        "accumulate": 5200,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 150,
+            "id": 421,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 24
+      },
+      "25": {
+        "Id": 59,
+        "accumulate": 5500,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 20000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 1,
+            "id": 1072,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 25
+      },
+      "26": {
+        "Id": 59,
+        "accumulate": 5800,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 50,
+            "id": 421,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 75,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 26
+      },
+      "27": {
+        "Id": 59,
+        "accumulate": 6100,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardB": [
+          {
+            "count": 3,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 27
+      },
+      "28": {
+        "Id": 59,
+        "accumulate": 6400,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 200,
+            "id": 421,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 28
+      },
+      "29": {
+        "Id": 59,
+        "accumulate": 6700,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 5,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 100,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 29
+      },
+      "30": {
+        "Id": 59,
+        "accumulate": 7000,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 100,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 30
+      },
+      "31": {
+        "Id": 59,
+        "accumulate": 7300,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 20000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 10,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "tokenlevel": 31
+      },
+      "32": {
+        "Id": 59,
+        "accumulate": 7600,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 260,
+            "id": 421,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 32
+      },
+      "33": {
+        "Id": 59,
+        "accumulate": 7900,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 20000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 130,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 33
+      },
+      "34": {
+        "Id": 59,
+        "accumulate": 8200,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 3,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 34
+      },
+      "35": {
+        "Id": 59,
+        "accumulate": 8500,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 60,
+            "id": 421,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 130,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 35
+      },
+      "36": {
+        "Id": 59,
+        "accumulate": 8800,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 1,
+            "id": 1018,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 36
+      },
+      "37": {
+        "Id": 59,
+        "accumulate": 9100,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardB": [
+          {
+            "count": 165,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 37
+      },
+      "38": {
+        "Id": 59,
+        "accumulate": 9400,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 70,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 30000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "tokenlevel": 38
+      },
+      "39": {
+        "Id": 59,
+        "accumulate": 9700,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 5,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 330,
+            "id": 421,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 39
+      },
+      "40": {
+        "Id": 59,
+        "accumulate": 10000,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 2,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 10,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "tokenlevel": 40
+      },
+      "41": {
+        "Id": 59,
+        "accumulate": 10300,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 3,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 3,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 41
+      },
+      "42": {
+        "Id": 59,
+        "accumulate": 10600,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardB": [
+          {
+            "count": 165,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 42
+      },
+      "43": {
+        "Id": 59,
+        "accumulate": 10900,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 5,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 10,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "tokenlevel": 43
+      },
+      "44": {
+        "Id": 59,
+        "accumulate": 11200,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 20000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 1,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 44
+      },
+      "45": {
+        "Id": 59,
+        "accumulate": 11500,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 3,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 3,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 45
+      },
+      "46": {
+        "Id": 59,
+        "accumulate": 11800,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardB": [
+          {
+            "count": 205,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 46
+      },
+      "47": {
+        "Id": 59,
+        "accumulate": 12100,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 3,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 10,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "tokenlevel": 47
+      },
+      "48": {
+        "Id": 59,
+        "accumulate": 12400,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 20000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 3,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 48
+      },
+      "49": {
+        "Id": 59,
+        "accumulate": 12700,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 3,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 10,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "tokenlevel": 49
+      },
+      "50": {
+        "Id": 59,
+        "accumulate": 13000,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 80,
+            "id": 421,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 205,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 50
+      },
+      "51": {
+        "Id": 59,
+        "accumulate": 13300,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 3,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 1,
+            "id": 1022,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 51
+      },
+      "52": {
+        "Id": 59,
+        "accumulate": 13600,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 20000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 3,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 52
+      },
+      "53": {
+        "Id": 59,
+        "accumulate": 13900,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 90,
+            "id": 421,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 10,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "tokenlevel": 53
+      },
+      "54": {
+        "Id": 59,
+        "accumulate": 14200,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardB": [
+          {
+            "count": 250,
+            "id": 261,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 54
+      },
+      "55": {
+        "Id": 59,
+        "accumulate": 14500,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardB": [
+          {
+            "count": 3,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 55
+      },
+      "56": {
+        "Id": 59,
+        "accumulate": 14800,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 20000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 10,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "tokenlevel": 56
+      },
+      "57": {
+        "Id": 59,
+        "accumulate": 15100,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 3,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 2,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 57
+      },
+      "58": {
+        "Id": 59,
+        "accumulate": 15400,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 5,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 3,
+            "id": 299,
+            "type": 0
+          }
+        ],
+        "tokenlevel": 58
+      },
+      "59": {
+        "Id": 59,
+        "accumulate": 15700,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardB": [
+          {
+            "count": 500000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "tokenlevel": 59
+      },
+      "60": {
+        "Id": 59,
+        "accumulate": 16000,
+        "exp": 300,
+        "levellimit": 100,
+        "number": 1,
+        "rewardA": [
+          {
+            "count": 20000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "rewardB": [
+          {
+            "count": 10,
+            "id": 20,
+            "type": 20
+          }
+        ],
+        "tokenlevel": 60
+      }
+    }
+  }
+}

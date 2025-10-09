@@ -1,0 +1,4 @@
+﻿--被他人击杀   杀人者指针 损失经验
+defaultHandlerActorBeKilled = function (pActor,pKiller,nExploit)
+  
+end

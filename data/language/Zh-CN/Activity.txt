@@ -1,0 +1,258 @@
+﻿--[[Activity.txt]]
+Activity =
+{
+	buffCollect1 = "<(c0xFF00FF00)晕眩>",
+	buffCollect2 = "<(c0xFF00FF00)爆裂斩>",
+	buffCollect3 = "<(c0xFFFF0000)铜皮铁骨>",
+	buffCollect4 = "<(c0xFFFF0000)雷霆一击>",
+	buffCollect5 = "<(c0xFF00FF00)减速>",
+	buffCollect6 = "<(c0xFF00FF00)法师护体>",
+	buffCollect7 = "<(c0xFF00FF00)大冰锤>",
+	buffCollect8 = "<(c0xFF00FF00)火焰爆裂>",
+	buffCollect9 = "<(c0xFFFF0000)妙手回春>",
+	buffCollect10 = "<(c0xFF00FF00)隐遁咒>",
+	buffCollect11 = "<(c0xFF00FF00)虚弱巫术>",
+	buffCollect12 = "<(c0xFF00FF00)祈祷>",
+	buffCollect13 = "<(c0xFF00FF00)皇冠贵族>",
+	buffCollect14 = "<(c0xFF00FF00)虚弱>",
+	buffCollect15 = "<(c0xFF00FF00)并肩之谊>",
+	buffCollect16 = "<(c0xFF00FF00)魔神秘宝>",
+	buffCollect17 = "<(c0xFFFFEA00)粮食重压>",
+	buffCollect18 = "<(c0xFF21EDFF)护送物资>",
+	buffCollect19 = "<(c0xFFFF00FF)111>",
+	buffCollect20 = "<(c0xFF00FF00)麻痹(特戒效果)>",
+	buffCollect21 = "<(c0xFF00FF00)寒冰风暴>",
+	buffCollect38 = "<(c0xFF00FF00)激怒>",
+	buffCollect39 = "<(c0xFF00FF00)复仇>",
+	buffCollect40 = "<(c0xFF00FF00)坚韧>",
+	buffCollect41 = "<(c0xFF00FF00)灵动>",
+	buffCollect42 = "<(c0xFF00FF00)精准>",
+	buffCollect43 = "<(c0xFF00FF00)娴熟>",
+	buffCollect44 = "<(c0xFF00FF00)嗜血>",
+	buffCollect45 = "<(c0xFF00FF00)魔神之力>",	
+
+	ActivityNotice001 = "<(c0xFF21EDFF)%s活动>还有5分钟开始啦!请各位勇士做好准备!&<查看详情/@@showWin,GameActivityModule,0>$",
+	ActivityNotice002 = "<(c0xFF21EDFF)%s活动>开始!请各位勇士前往参与活动!&<查看详情/@@showWin,GameActivityModule,0>$", 
+	ActivityNotice003 = "本日<(c0xFF21EDFF)%s活动>已经结束!",
+	ActivityNotice004 = "<(c0xFF21EDFF)%s副本>将在10分钟后关闭副本入口,请抓紧时间哦!  &<寻路前往/M英雄遗迹:0:0:行会使者>$",
+
+
+	ActivityName001 = "攻城战",
+	ActivityDesc001 = "<(c0xFFFFEA00)活动时间:>\\<(c0xFF21EDFF)开服的第三天晚上20:00-21:00,每周二、周四、周六20:00-21:00>\\<(c0xFFFFEA00)活动详情:>\\<(c0xFFFFDAAD)1.在活动当天19:00,等级><(c0xFF21EDFF)大于2级><(c0xFFFFDAAD)的行会将获得占领皇宫资格,行会需要抢先临时占领皇宫><(c0xFF21EDFF)一直到21:00><(c0xFFFFDAAD),即可获得攻城战胜利.\\2.活动开启后,玩家可以通过占领场景目标><(c0xFF21EDFF)复活旗><(c0xFFFFDAAD)占领复活点.>\\3.开服第三天<(c0xFF21EDFF)攻城胜利的行会首领>将获得1件<(c0xFF21EDFF)魔神套装>。",
+	ActivityTips001 = "英雄城战,王者荣誉",	
+	
+	ActivityName002 = "膜拜城主",
+    ActivityDesc002 = "<(c0xFFFFEA00)活动时间:>\\<(c0xFF21EDFF)每天12:00-12:30>\\<(c0xFFFFEA00)活动详情:>\\<(c0xFFFFDAAD)1.活动时间内,满足><(c0xFF21EDFF)75级><(c0xFFFFDAAD)的玩家可在英雄遗迹安全区里挂机膜拜君主.膜拜可以获得经验.>\\<(c0xFFFFDAAD)2.膜拜时,玩家可以通过><(c0xFF21EDFF)消耗金币提升经验加成至200%><(c0xFFFFDAAD)、或者><(c0xFF21EDFF)消耗元宝提升经验加成至300%>",
+	ActivityTips002 = "膜拜鼓舞,经验到手",
+	
+	ActivityName003 = "激情闭关",
+	ActivityDesc003 = "<(c0xFFFFEA00)活动时间:>\\<(c0xFF21EDFF)每天12:45-13:00>\\<(c0xFFFFEA00)活动规则:>\\进入闭关场景的玩家每<(c0xFF00FF00)10秒>可获得一次奖励。\\活动开始后，开启<(c0xFF00FF00)多倍泡点>，抢占对应泡点可获得<(c0xFF00FF00)多倍收益>。\\最高可获得<(c0xFF00FF00)5倍>泡点收益。\\<(c0xFF21EDFF)PS：在活动内待得越久，获得的奖励越多>。",
+	ActivityTips003 = "抢占泡点,多倍收益",
+	
+	ActivityName004 = "世界BOSS",
+	ActivityDesc004 = "<(c0xFFFFEA00)活动时间:>\\<(c0xFF21EDFF)每天14:30-15:00>\\<(c0xFFFFEA00)活动详情:>\\<(c0xFFFFDAAD)1.活动开始后BOSS将在出现世界BOSS地图><(c0xFFFFDAAD)通过><世界BOSS/M英雄遗迹:0:0:世界BOSS><(c0xFFFFDAAD)进入地图>\\<(c0xFFFFDAAD)2.累积对BOSS造成10万伤害即可上榜并获><(c0xFF21EDFF)参与奖><(c0xFFFFDAAD),伤害榜前20名玩家可获><(c0xFF21EDFF)排名奖励><(c0xFFFFDAAD),最后一刀击杀BOSS的玩家可额外获得><(c0xFF21EDFF)最后一刀奖.>\\<(c0xFFFFDAAD)3.伤害榜只统计对BOSS的伤害,><(c0xFF21EDFF)若未击杀BOSS将不发放任何奖励.>",
+    ActivityTips004 = "伤害排行,尾刀奖励",
+	
+	ActivityName005 = "守护神树",
+	ActivityDesc005 = "<(c0xFFFFEA00)活动时间:>\\<(c0xFF21EDFF)每天19:00-22:00>\\<(c0xFFFFEA00)活动详情:>\\<(c0xFFFFDAAD)1.在活动时间内,行会官员有权利在><行会长老/M英雄遗迹:241:345><(c0xFFFFDAAD)处开启本活动.\\2.活动开启后维持><(c0xFF21EDFF)15分钟><(c0xFFFFDAAD),行会成员可通过福利界面进入活动场景\\3.成员需要击败><(c0xFF21EDFF)10波><(c0xFFFFDAAD)怪物,保护神树.若神树血量为零,则守护失败.>",
+    ActivityTips005 = "行会齐心,击退怪物",
+	
+	ActivityName006 = "宝藏传说",
+	ActivityDesc006 = "<(c0xFFFFEA00)活动时间:>\\<(c0xFF21EDFF)每天15:15-15:45>\\<(c0xFFFFEA00)活动详情:>\\<(c0xFFFFDAAD)1.在活动时间内,系统将在><(c0xFF21EDFF)新手村><(c0xFFFFDAAD),><(c0xFF21EDFF)兽人洞><(c0xFFFFDAAD),><(c0xFF21EDFF)桃花林><(c0xFFFFDAAD),><(c0xFF21EDFF)翼族明宫><(c0xFFFFDAAD),><(c0xFF21EDFF)万虫窟><(c0xFFFFDAAD),><(c0xFF21EDFF)镇妖墓><(c0xFFFFDAAD)或><(c0xFF21EDFF)祭祀神庙><(c0xFFFFDAAD)随机一个位置刷出><(c0xFF00FF00)携带宝藏的盗贼><(c0xFFFFDAAD).\\2.盗贼存活><(c0xFF21EDFF)30分钟><(c0xFFFFDAAD),被击败将在随机位置重新刷新,活动期间总共刷出><(c0xFF21EDFF)20个><(c0xFFFFDAAD)盗贼.>",
+    ActivityTips006 = "寻找盗贼,抢夺宝物",
+	
+	ActivityName007 = "双倍经验",
+	ActivityDesc007 = "<(c0xFFFFEA00)活动时间:>\\<(c0xFF21EDFF)周日20:00-21:00>\\<(c0xFFFFEA00)活动详情:>\\<(c0xFFFFDAAD)在活动期间,><(c0xFF21EDFF)全服开启双倍经验><(c0xFFFFDAAD)!\\野外打怪双倍经验,极速升级就在此刻!>",
+    ActivityTips007 = "极速升级,就在此刻",
+	
+	ActivityName008 = "世界BOSS",
+	ActivityDesc008 = "<(c0xFFFFEA00)活动时间:>\\<(c0xFF21EDFF)每天21:00-22:00>\\<(c0xFFFFEA00)活动详情:>\\<(c0xFFFFDAAD)1.世界BOSS><(c0xFF21EDFF)每天21:00><(c0xFFFFDAAD)后会在><(c0xFF21EDFF)英雄遗迹><(c0xFFFFDAAD)出现,BOSS只会><(c0xFF21EDFF)存活1小时><(c0xFFFFDAAD),若1小时内未将其击杀><(c0xFF21EDFF)世界BOSS将会消失><(c0xFFFFDAAD).>\\<(c0xFFFFDAAD)2.世界BOSS每次击杀后,><(c0xFF21EDFF)下一周其实力都会提升><(c0xFFFFDAAD),><(c0xFFFFDAAD)但是它的掉落也会随之变得更加厉害.>",
+    ActivityTips008 = "击败BOSS获上古套装",
+	
+	ActivityName009 = "树海平原",
+	ActivityDesc009 = "<(c0xFFFFEA00)活动时间:>\\<(c0xFF21EDFF)每天22:00-23:59>\\<(c0xFFFFEA00)活动详情:>\\<(c0xFFFFDAAD)1.地图只在特殊的时间才会开启,玩家可以在本地图><(c0xFF21EDFF)击败精英怪物><(c0xFFFFDAAD)完成行会任务并><(c0xFF21EDFF)取得行会材料.>\\<(c0xFFFFDAAD)2.精英怪每间隔><(c0xFF21EDFF)1分钟><(c0xFFFFDAAD)会刷出一波.>",
+    ActivityTips009 = "做行会任务拿材料",
+
+	ActivityName010 = "火域混战",
+	ActivityDesc010 = "<(c0xFFFFEA00)活动时间:>\\<(c0xFF21EDFF)每天13:30-14:00>\\<(c0xFFFFEA00)活动详情:>\\<(c0xFFFFDAAD)1.活动期间,击败><(c0xFF21EDFF)任意玩家><(c0xFFFFDAAD)可获得><(c0xFF21EDFF)战绩×2><(c0xFFFFDAAD)的奖励.\\2.每隔><(c0xFF21EDFF)12秒><(c0xFFFFDAAD)场景内><(c0xFF21EDFF)非死亡状态><(c0xFFFFDAAD)的玩家可获得一次奖励.\\3.场景中的><(c0xFF21EDFF)火灵><(c0xFFFFDAAD)会随活动推进越来越多,避开火灵可免受伤害.\\4.击杀><(c0xFF21EDFF)火灵战士><(c0xFFFFDAAD)将可掉落><(c0xFF21EDFF)火灵丹><(c0xFFFFDAAD),使用道具可暂时免疫火灵的伤害.>",
+    ActivityTips010 = "避开火灵，技巧PK",
+	
+	ActivityName011 = "极速押运",
+	ActivityDesc011 = "<(c0xFFFFEA00)活动时间:>\\<(c0xFF21EDFF)每天16:45-17:15>\\<(c0xFFFFEA00)活动详情:>\\<(c0xFFFFDAAD)1.活动期间满足><(c0xFF21EDFF)70级的玩家><(c0xFFFFDAAD)可以在荒灵城的><北郊站长/M英雄遗迹:0:0:北郊站长><(c0xFFFFDAAD)参与本活动.\\2.><(c0xFF21EDFF)10分钟内><(c0xFFFFDAAD),玩家将镖车护送到南郊站长处即可获得奖励.若镖车无受损可额外获得百分比经验奖励加成!\\3.押运失败><(c0xFF21EDFF)不会扣除押运次数><(c0xFFFFDAAD)但是><(c0xFF21EDFF)不能获得活动奖励>",
+    ActivityTips011 = "限时运镖经验多",
+	
+	ActivityName012 = "雪原争夺",
+	ActivityDesc012 = "<(c0xFFFFEA00)活动时间:>\\<(c0xFF21EDFF)每天19:15-19:30>\\<(c0xFFFFEA00)活动详情:>\\<(c0xFFFFDAAD)1.活动期间满足><(c0xFF21EDFF)75级的玩家><(c0xFFFFDAAD)可以在英雄遗迹的><雪原粮官/M英雄遗迹:0:0:雪原粮官><(c0xFFFFDAAD)参与本活动.\\2.><(c0xFF21EDFF)采集粮车回本阵营提交><(c0xFFFFDAAD)或><(c0xFF21EDFF)击杀敌方阵营玩家><(c0xFFFFDAAD)可增加本阵营资源.\\3.任意一方阵营><(c0xFF21EDFF)达到8000资源><(c0xFFFFDAAD)即可获胜,若未达8000资源则活动结束时资源高的一方获胜,><(c0xFF21EDFF)个人贡献越高奖励越丰厚.>",
+    ActivityTips012 = "阵营运粮,胜者为王",
+	
+	ActivityName013 = "BOSS来袭",
+	ActivityDesc013 = "<(c0xFFFFEA00)活动时间:>\\<(c0xFF21EDFF)每周一、三、五的20:00-20:30>\\<(c0xFFFFEA00)活动详情:>\\<(c0xFFFFDAAD)1.活动期间会有><(c0xFF21EDFF)6波怪物><(c0xFFFFDAAD)袭击英雄城.玩家需要前往英雄城击败所有怪物.\\2.><(c0xFFFFDAAD)普通怪与精英怪有归属,BOSS掉落无归属.><(c0xFF21EDFF)活动结束后><(c0xFFFFDAAD)所有怪物会消失,请快速击败怪物拾取奖励!>",
+    ActivityTips013 = "海量经验,BOSS爆宝",
+	
+	ActivityName014 = "行会魔窟",
+	ActivityDesc014 = "<(c0xFFFFEA00)活动时间:>\\<(c0xFF21EDFF)每天22:00-23:00>\\<(c0xFFFFEA00)活动详情:>\\1.每天活动期间,各行会的<(c0xFF21EDFF)会长和副会长>可以在NPC<行会使者/M英雄遗迹:0:0:行会使者>开启副本\\2.副本开启后本行会玩家可以从NPC进入副本，副本<(c0xFF21EDFF)共有8层>，每层有1只BOSS，<(c0xFF21EDFF)击败后可以进入下一层>\\3.击败每层BOSS后，除了<(c0xFF21EDFF)丰厚的BOSS掉落>外，所有在场的玩家还可以获得<(c0xFF21EDFF)额外BOSS积分>奖励",
+    ActivityTips014 = "行会齐心,击败BOSS",
+	
+	ActivityName015 = "龙城夜战",
+	ActivityDesc015 = "<(c0xFFFFEA00)活动时间:>\\<(c0xFF21EDFF)每天21:15-21:35>\\<(c0xFFFFEA00)活动详情:>\\<(c0xFFFFDAAD)1.角色到达><(c0xFF21EDFF)80级><(c0xFFFFDAAD)可以前往><龙城暗部队长/M英雄遗迹:0:0:龙城暗部队长><(c0xFFFFDAAD)处参与活动.>\\<(c0xFFFFDAAD)2.参加活动的玩家将被分成两个阵营，玩家击杀敌对阵营的玩家即可获得积分.>\\<(c0xFFFFDAAD)3.活动期间每5分钟变更一次阵营.>\\<(c0xFFFFDAAD)4.活动结束后，系统将根据玩家的排名发放对应的奖励.>",
+    ActivityTips015 = "冲锋杀敌，夜战龙城",	
+
+	ActivityName016 = "双倍护送",
+	ActivityDesc016 = "<(c0xFFFFEA00)活动时间:>\\<(c0xFF21EDFF)每天15:45-16:15>\\<(c0xFFFFEA00)活动详情:>\\<(c0xFFFFDAAD)1.角色达到><(c0xFF21EDFF)80级><(c0xFFFFDAAD)的玩家><(c0xFFFFDAAD)可在新手村的><物资队长/M新手村:0:0:物资队长><(c0xFFFFDAAD)处接受护送任务将物资护送到桃花林的商队师爷处.>",
+	ActivityTips016 = "双倍护送,金币到手",
+
+	ActivityName017 = "圣兽幽谷",
+	ActivityDesc017 = "<(c0xFFFFEA00)活动时间:>\\<(c0xFF21EDFF)开服第2天开始每天10:00-12:00、16:00-18:00>\\<(c0xFFFFEA00)活动详情:>\\<(c0xFFFFDAAD)1.活动期间只有><(c0xFF21EDFF)行会人员><(c0xFFFFDAAD)可以在英雄遗迹的><圣兽使者/M英雄遗迹:0:0:圣兽使者><(c0xFFFFDAAD)参与本活动.\\2.><(c0xFFFF0000)场景不可穿人穿怪><(c0xFFFFDAAD)请速战速决>\\<(c0xFFFFDAAD)3.活动一共三层.><(c0xFF21EDFF)第三层为BOSS层.击败封印柱后才会召唤出圣兽BOSS，只有打败圣兽才有机会获得高阶装备。>",
+    ActivityTips017 = "行会集体击杀圣兽",
+
+    ActivityName018 = "双倍经验",
+	ActivityDesc018 = "<(c0xFFFFEA00)活动时间:>\\<(c0xFF21EDFF)每天13:00-14:00、23:00-24:00>\\<(c0xFFFFEA00)活动详情:>\\<(c0xFFFFDAAD)1.活动期间><(c0xFF21EDFF)全体玩家><(c0xFFFFDAAD)在野外地图杀怪可获双倍经验奖励.>",
+    ActivityTips018 = "杀怪可获双倍经验",
+
+    ActivityName019 = "金银满地",
+	ActivityDesc019 = "<(c0xFFFFEA00)活动时间:>\\<(c0xFF21EDFF)每周日的20:00-20:30>\\<(c0xFFFFEA00)活动详情:>\\<(c0xFFFFDAAD)1.活动期间会有><(c0xFF21EDFF)3波怪物><(c0xFFFFDAAD)潜入英雄城.玩家需要前往英雄城击败所有怪物.\\2.><(c0xFFFFDAAD)活动刷新的怪物全部掉落无归属.><(c0xFF21EDFF)活动结束后><(c0xFFFFDAAD)所有怪物会消失,请快速击败怪物拾取奖励!>",
+    ActivityTips019 = "海量金银,遍地都是",
+
+
+
+	
+	ActivityName050 = "翅膀副本",
+	ActivityDesc050 = "<(c0xFFFFEA00)副本等级限制:>\\<(c0xFF21EDFF)80级>\\<(c0xFFFFEA00)副本详情:>\\<(c0xFFFFDAAD)1.角色到达><(c0xFF21EDFF)80级><(c0xFFFFDAAD)能挑战><翅膀副本/M英雄遗迹:0:0:材料副本><(c0xFFFFDAAD),挑战一次需消耗><(c0xFF21EDFF)魔神令><(c0xFFFFDAAD).\\2.进入副本><(c0xFF21EDFF)击杀怪物可通关><(c0xFFFFDAAD).>",
+
+	ActivityName051 = "神盾副本",
+	ActivityDesc051 = "<(c0xFFFFEA00)副本等级限制:>\\<(c0xFF21EDFF)80级>\\<(c0xFFFFEA00)副本详情:>\\<(c0xFFFFDAAD)1.角色到达><(c0xFF21EDFF)80级><(c0xFFFFDAAD)能挑战><神盾副本/M英雄遗迹:0:0:材料副本><(c0xFFFFDAAD),挑战一次需消耗><(c0xFF21EDFF)魔神令><(c0xFFFFDAAD).\\2.进入副本><(c0xFF21EDFF)击杀怪物可通关><(c0xFFFFDAAD).>",
+		
+	ActivityName052 = "龙印副本",
+	ActivityDesc052 = "<(c0xFFFFEA00)副本等级限制:>\\<(c0xFF21EDFF)80级>\\<(c0xFFFFEA00)副本详情:>\\<(c0xFFFFDAAD)1.角色到达><(c0xFF21EDFF)80级><(c0xFFFFDAAD)能挑战><龙印副本/M英雄遗迹:0:0:材料副本><(c0xFFFFDAAD),挑战一次需消耗><(c0xFF21EDFF)魔神令><(c0xFFFFDAAD).\\2.进入副本><(c0xFF21EDFF)击杀怪物可通关><(c0xFFFFDAAD).>",
+
+	ActivityName053 = "暴珠副本",
+	ActivityDesc053 = "<(c0xFFFFEA00)副本等级限制:>\\<(c0xFF21EDFF)80级>\\<(c0xFFFFEA00)副本详情:>\\<(c0xFFFFDAAD)1.角色到达><(c0xFF21EDFF)80级><(c0xFFFFDAAD)能挑战><暴珠副本/M英雄遗迹:0:0:材料副本><(c0xFFFFDAAD),挑战一次需消耗><(c0xFF21EDFF)魔神令><(c0xFFFFDAAD).\\2.进入副本><(c0xFF21EDFF)击杀怪物可通关><(c0xFFFFDAAD).>",
+
+	ActivityName054 = "个人试炼",
+	ActivityDesc054 = "<(c0xFFFFEA00)活动时间:>\\<(c0xFF21EDFF)全天>\\<(c0xFFFFEA00)活动详情:>\\<(c0xFFFFDAAD)1.角色达到><(c0xFF21EDFF)95级><(c0xFFFFDAAD)的玩家><(c0xFFFFDAAD)可在英雄遗迹的><试炼关主/M英雄遗迹:0:0:试炼关主><(c0xFFFFDAAD)进入个人试炼副本.>\\<(c0xFFFFDAAD)2.玩家每天可挑战2次，击杀每关BOSS均可获得一定的经验和试炼宝箱奖励>\\<(c0xFFFFDAAD)3.击杀><(c0xFF21EDFF)10个以上的BOSS><(c0xFFFFDAAD)即可上榜参与排行，><(c0xFF21EDFF)排名前100的玩家><(c0xFFFFDAAD)可在周日23:50获得排名奖励>",	
+	
+	ActivityName055 = "经验副本",
+	ActivityDesc055 = "<(c0xFFFFEA00)副本等级限制:>\\<(c0xFF21EDFF)78级>\\<(c0xFFFFEA00)副本详情:>\\<(c0xFFFFDAAD)1.角色到达><(c0xFF21EDFF)78级><(c0xFFFFDAAD)可以前往><经验副本/M英雄遗迹:0:0:经验副本><(c0xFFFFDAAD)处参与副本,每天可参与2次.>\\<(c0xFFFFDAAD)2.使用雷神令、焰神令在圆圈处摆放击杀怪物.>\\<(c0xFFFFDAAD)3.消灭怪物越多，获得经验越多，使用焰神令更效率点>\\<(c0xFFFFDAAD)4.每天有一次免费领取多倍奖励的机会，第二次需要花费元宝才能领取>\\<(c0xFFFFDAAD)5.VIP等级越高可领取更高的倍数经验奖励>",
+
+
+    ActivityName100 = "护送物资",
+	ActivityDesc100 = "<(c0xFFFFEA00)活动时间:>\\<(c0xFF21EDFF)全天>\\<(c0xFFFFEA00)活动详情:>\\<(c0xFFFFDAAD)1.角色达到><(c0xFF21EDFF)80级><(c0xFFFFDAAD)的玩家><(c0xFFFFDAAD)可在新手村的><物资队长/M新手村:0:0:物资队长><(c0xFFFFDAAD)处接受护送任务将物资护送到桃花林的商队师爷处.>",
+	ActivityTips100 = "护送物资,奖励到手",
+
+	    
+
+
+
+	BossHome001 = "进入未知暗殿(消耗5魔神令)",
+	BossHome002 = "<(c0xFF21EDFF)%s>不足,无法进入活动场景",
+	BossHome003 = "进入暗夜祭坛(消耗祭坛卷轴*1)",
+	BossHome004 = "BOSS<(c0xFF00ffff)%s>已在<(c0xFF00ffff)%s>出现了!",
+	BossHome005 = "<(n%s)>进入了<(c0xFF00ffff)%s>，即刻坐拥众多BOSS和宝物！",
+	BossHome006 = "进入暗夜幻境一层(幻境卷轴*1)",
+	BossHome007 = "进入暗夜幻境二层(幻境卷轴*5)",
+	
+	anheiName001 = "暗夜役角",
+	anheiDesc001 = "BOSS等级：80级\\刷新间隔：15分钟\\地图入口：<祭坛祭司/M英雄遗迹:0:0:祭坛祭司>",
+	anheiScene001 = "暗夜祭坛一层(未刷出)",
+	anheiSceneName001 = "<暗夜祭坛一层(已刷出)/M暗夜祭坛一层:44:128>",
+	
+	anheiName002 = "暗夜翼神",
+	anheiDesc002 = "BOSS等级：82级\\刷新间隔：30分钟\\地图入口：<祭坛祭司/M英雄遗迹:0:0:祭坛祭司>",
+	anheiScene002 = "暗夜祭坛一层(未刷出)",
+	anheiSceneName002 = "<暗夜祭坛一层(已刷出)/M暗夜祭坛一层:82:86>",
+	
+	anheiName003 = "暗夜百足",
+	anheiDesc003 = "BOSS等级：82级\\刷新间隔：30分钟\\地图入口：<祭坛祭司/M英雄遗迹:0:0:祭坛祭司>",
+	anheiScene003 = "暗夜祭坛一层(未刷出)",
+	anheiSceneName003 = "<暗夜祭坛一层(已刷出)/M暗夜祭坛一层:128:40>",
+	
+	anheiName004 = "暗夜猪王",
+	anheiDesc004 = "BOSS等级：84级\\刷新间隔：1小时\\地图入口：<祭坛祭司/M英雄遗迹:0:0:祭坛祭司>",
+	anheiScene004 = "暗夜祭坛二层(未刷出)",
+	anheiSceneName004 = "<暗夜祭坛二层(已刷出)/M暗夜祭坛二层:42:115>",
+	
+	anheiName005 = "暗夜鼠王",
+	anheiDesc005 = "BOSS等级：84级\\刷新间隔：1小时\\地图入口：<祭坛祭司/M英雄遗迹:0:0:祭坛祭司>",
+	anheiScene005 = "暗夜祭坛二层(未刷出)",
+	anheiSceneName005 = "<暗夜祭坛二层(已刷出)/M暗夜祭坛二层:72:81>",
+	
+	anheiName006 = "暗夜尸茧",
+	anheiDesc006 = "BOSS等级：86级\\刷新间隔：1小时\\地图入口：<祭坛祭司/M英雄遗迹:0:0:祭坛祭司>",
+	anheiScene006 = "暗夜祭坛三层(未刷出)",
+	anheiSceneName006 = "<暗夜祭坛三层(已刷出)/M暗夜祭坛三层:55:51>",
+	
+	anheiName007 = "暗夜天魔",
+	anheiDesc007 = "BOSS等级：88级\\刷新间隔：1小时\\地图入口：<祭坛祭司/M英雄遗迹:0:0:祭坛祭司>",
+	anheiScene007 = "暗夜祭坛三层(未刷出)",
+	anheiSceneName007 = "<暗夜祭坛三层(已刷出)/M暗夜祭坛三层:107:42>",
+	
+	anheiName008 = "暗夜九尾",
+	anheiDesc008 = "BOSS等级：90级\\刷新间隔：1小时\\地图入口：<祭坛祭司/M英雄遗迹:0:0:祭坛祭司>",
+	anheiScene008 = "暗夜祭坛三层(未刷出)",
+	anheiSceneName008 = "<暗夜祭坛三层(已刷出)/M暗夜祭坛三层:101:105>",
+	
+	anheiName009 = "暗夜天灵兽",
+	anheiDesc009 = "BOSS等级：90-100级\\刷新间隔：1小时\\地图入口：<幻境守护/M英雄遗迹:0:0:幻境守护>",
+	anheiScene009 = "暗夜幻境一层(未刷出)",
+	anheiScene0099 = "暗夜幻境二层(未刷出)",
+	anheiSceneName009 = "<暗夜幻境一层(已刷出)/M暗夜幻境一层:63:85>",
+	anheiSceneName0099 = "<暗夜幻境二层(已刷出)/M暗夜幻境二层:103:173>",
+	
+	anheiName010 = "暗夜火灵兽",
+	anheiDesc010 = "BOSS等级：92-103级\\刷新间隔：1-2小时\\地图入口：<幻境守护/M英雄遗迹:0:0:幻境守护>",
+	anheiScene010 = "暗夜幻境一层(未刷出)",
+	anheiScene0100 = "暗夜幻境二层(未刷出)",
+	anheiSceneName010 = "<暗夜幻境一层(已刷出)/M暗夜幻境一层:167:176>",
+	anheiSceneName0100 = "<暗夜幻境二层(已刷出)/M暗夜幻境二层:129:140>",
+	
+	anheiName011 = "暗夜判官",
+	anheiDesc011 = "BOSS等级：92-107级\\刷新间隔：1-2小时\\地图入口：<幻境守护/M英雄遗迹:0:0:幻境守护>",
+	anheiScene011 = "暗夜幻境一层(未刷出)",
+	anheiScene0111 = "暗夜幻境二层(未刷出)",
+	anheiSceneName011 = "<暗夜幻境一层(已刷出)/M暗夜幻境一层:145:108>",
+	anheiSceneName0111 = "<暗夜幻境二层(已刷出)/M暗夜幻境二层:163:114>",
+	
+	anheiName012 = "暗夜圣灵",
+	anheiDesc012 = "BOSS等级：94-110级\\刷新间隔：1-2小时\\地图入口：<幻境守护/M英雄遗迹:0:0:幻境守护>",
+	anheiScene012 = "暗夜幻境一层(未刷出)",
+	anheiScene0122 = "暗夜幻境二层(未刷出)",
+	anheiSceneName012 = "<暗夜幻境一层(已刷出)/M暗夜幻境一层:78:179>",
+	anheiSceneName0122 = "<暗夜幻境二层(已刷出)/M暗夜幻境二层:94:99>",
+	
+	
+	anheiName013 = "暗夜冰灵兽",
+	anheiDesc013 = "BOSS等级：94-105级\\刷新间隔：1-2小时\\地图入口：<幻境守护/M英雄遗迹:0:0:幻境守护>",
+	anheiScene013 = "暗夜幻境一层(未刷出)",
+	anheiScene0133 = "暗夜幻境二层(未刷出)",
+	anheiSceneName013 = "<暗夜幻境一层(已刷出)/M暗夜幻境一层:123:210>",
+	anheiSceneName0133 = "<暗夜幻境二层(已刷出)/M暗夜幻境二层:124:59>",
+	
+	anheiName014 = "暗夜邪环",
+	anheiDesc014 = "BOSS等级：96-108级\\刷新间隔：1-2小时\\地图入口：<幻境守护/M英雄遗迹:0:0:幻境守护>",
+	anheiScene014 = "暗夜幻境一层(未刷出)",
+	anheiScene0144 = "暗夜幻境二层(未刷出)",
+	anheiSceneName014 = "<暗夜幻境一层(已刷出)/M暗夜幻境一层:189:130>",
+	anheiSceneName0144 = "<暗夜幻境二层(已刷出)/M暗夜幻境二层:215:139>",
+	
+	anheiName015 = "暗夜金枪客",
+	anheiDesc015 = "BOSS等级：98-112级\\刷新间隔：2-3小时\\地图入口：<幻境守护/M英雄遗迹:0:0:幻境守护>",
+	anheiScene015 = "暗夜幻境一层(未刷出)",
+	anheiScene0155 = "暗夜幻境二层(未刷出)",
+	anheiSceneName015 = "<暗夜幻境一层(已刷出)/M暗夜幻境一层:125:51>",
+	anheiSceneName0155 = "<暗夜幻境二层(已刷出)/M暗夜幻境二层:37:105>",
+	 
+	anheiName016 = "暗夜幻兽",
+	anheiDesc016 = "BOSS等级：100-115级\\刷新间隔：2-3小时\\地图入口：<幻境守护/M英雄遗迹:0:0:幻境守护>",
+	anheiScene016 = "暗夜幻境一层(未刷出)",
+	anheiScene0166 = "暗夜幻境二层(未刷出)",
+	anheiSceneName016 = "<暗夜幻境一层(已刷出)/M暗夜幻境一层:36:141>",
+	anheiSceneName0166 = "<暗夜幻境二层(已刷出)/M暗夜幻境二层:80:45>",
+	
+	
+	NewBossHome001 = "进入BOSS之家第%d层",
+	NewBossHome005 = "<(n%s)>进入了<(c0xFF00ffff)%s>,击杀BOSS将获得BOSS积分及大量极品装备！",
+	NewBossHome006 = "你不满足<(c0xFFFFFF00)VIP%d>,赶紧充值成为<(c0xFFff00ff)尊贵VIP>吧!",
+	NewBossHome007 = "离开Boss之家",
+	
+
+}

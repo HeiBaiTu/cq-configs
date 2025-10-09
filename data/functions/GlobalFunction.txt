@@ -1,0 +1,116 @@
+﻿--[[File: GloabalFunction.txt]]
+
+print("================================= 开始GlobalFunction更新 =================================")
+
+_G.SystemPackagePath = _G.SystemPackagePath or package.path
+package.path = _G.SystemPackagePath .. ";./?.lua;./data/config/?.lua;./data/functions/?.lua"
+
+--全局NPC的脚本文件，游戏重要的语法逻辑全部挂在这个NPC下面
+-- package.path = package.path .. ";data/libs/?.txt";
+thisNPC = nil
+InitFnTable = {}
+FinaFnTable = {}
+MainFnTable = {}
+
+BagType = {ItemBagType =0, EquipBagType = 1, MaterialBagType = 2;}
+--脚本子模块使用的局部函数或常量存放位置，避免使用全局对象 
+local LocalDT = {}
+
+--#include "data\language\LangCode.txt" once  			--语言包
+--#include "data/language/LangCode.config" once			--新语言包
+--#include "data/functions/GameConfigs.txt" once		--所有配置
+--#include "data\functions\Common\RankDef.txt" once 	--排行榜定义
+
+-- 用来给LuaCLVariant作userdata遍历之用
+function Ipairs(ctable)
+	return 
+		function(t, i)
+			i = i + 1
+			local v = CCLVariant.ipair(ctable,i)
+			if v then
+				return i, v
+			end
+		end, 
+		ctable, 
+		0
+end
+
+---用来处理泡点经验
+function addPaodianExp(actorsTable, ntype, nLogId)
+	if actorsTable == nil then
+		return
+	end
+	for i,actorid in Ipairs(actorsTable) do   
+		if actorid ~=nil then 
+			local pActor = Actor.getActorById(actorid)
+			if pActor ~= nil then
+				Actor.addTypePaodianExp(pActor, ntype,nLogId)  --加泡点经验                 
+			end
+		end               
+	end
+end
+
+
+require("Common.RankMgr")				--排行榜管理
+RankMgr.AutoInit()
+
+require("Common.NetmsgDispatcher")		--脚本的网络协议分发中心
+System.InitScriptNetmsgDispatcher()
+
+require("Common.ActorEventDispatcher")	--脚本的玩家事件分发中心
+System.InitScriptActorEventDispatcher()
+
+require("Common.AsyncWorkDispatcher")	--脚本的异步工作分发中心
+
+require("Common.ActivityDispatcher")	--脚本的活动事件分发中心
+require("Common.FubenDispatcher")		--脚本的副本事件分发中心
+require("Common.QuestDispatcher")		--脚本的任务事件分发中心
+require("Common.MonDispatcher")			--脚本的怪物事件分发中心
+require("CommonFunc")					--通用工具
+require("ActorSystems.RechargeSystem.Fee")	--玩家消费充值
+ 
+require("Common.CrossServerDispatcher")
+require("Common.NewCdkey")
+require("Platform.Platform37Gift") 
+require("Platform.PlatformSoGouGift") 
+
+--#include "data\functions\Common\Mail.txt" once 			--邮件
+--#include "data\functions\Common\CommonMisc.txt" once 		--工具
+
+--#include "data\functions\ActorEvent\ActorEvents.lua" once		--默认角色事件
+--#include "data\functions\NpcEvent\NpcEvents.lua" once			--NPC事件
+--#include "data\functions\Activity\Activitys.txt" once			--所有活动
+--#include "data\functions\FuBen\Fubens.txt" once				--所有副本
+--#include "data\functions\MonEvent\MonEvent.txt" once			--怪物
+--#include "data\functions\ActorSystems\Common\Cdkey.lua" once	--礼包码/激活码 
+--#include "data\functions\ActorSystems\RecoverSystem\YBRecover.lua" once	--元宝回收
+--#include "data\functions\ActorSystems\GuildSystem\guildSystem.lua" once	--
+--#include "data\functions\ActorSystems\Common\PcClientDl.lua" once	--元宝回收
+--#include "data\functions\Common\debugLua.txt" once 	
+ 
+ 
+
+--#include "GlobalMiscExpand\ScriptTimeRun.txt" once --ScriptTime中设置调用的内容 ,放最后包含
+
+function main(sysarg)
+	return "global"
+end
+
+--[[初始化函数]]--
+function initialization(npcobj)
+	thisNPC = npcobj
+	for i = 1, table.getn(InitFnTable) do
+		InitFnTable[i]( npcobj )
+	end
+end
+
+--[[析构化函数]]--
+function finalization(npcobj)
+	for i = 1, table.getn(FinaFnTable) do
+		FinaFnTable[i]( npcobj )
+	end
+	thisNPC = nil
+end
+
+
+print("================================= 已完成GlobalFunction更新 =================================")

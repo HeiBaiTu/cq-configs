@@ -1,0 +1,6776 @@
+{
+  "1": {
+    "Serial": 1,
+    "consume": [
+      {
+        "count": 5000,
+        "id": 1,
+        "type": 2
+      },
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "content": "沃玛教主：哭吧，叫吧，这次我可不会手下留情！",
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 28,
+    "delivery_y": 18,
+    "describe": "所在地图：沃玛三层\n刷新：BOSS被击败后间隔20分钟再次刷新\n建议2转后组队前往挑战，该地图被击败后会掉落狂暴状态，有几率掉落装备，道具\n\n推荐点击 立即前往\n消耗：5000绑金、小飞鞋*1",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 396,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 832,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 261,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 269,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 421,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 300,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 853,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 854,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 855,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 856,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1114,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1015,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 265,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1060,
+        "type": 0
+      }
+    ],
+    "endmap": 79,
+    "entityid": 92,
+    "isopen": 1,
+    "limittimes": 21,
+    "map": 79,
+    "mold": 2,
+    "notice": 1,
+    "openday": 0,
+    "range": 2,
+    "reborn": 2,
+    "showday": 0,
+    "showlimit": {
+      "zslv": 2
+    },
+    "showwindow": 1,
+    "time": [
+      1200
+    ],
+    "x": 37,
+    "y": 24
+  },
+  "2": {
+    "Serial": 2,
+    "consume": [
+      {
+        "count": 5000,
+        "id": 1,
+        "type": 2
+      },
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "content": "祖玛教主：我已在祖玛等待了太久，该主动出击了！",
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 10,
+    "delivery_y": 15,
+    "describe": "所在地图：祖玛教主之家\n刷新：BOSS被击败后间隔20分钟再次刷新\n建议2转后组队前往挑战，该地图被击败后会掉落狂暴状态，有几率掉落装备，道具\n\n推荐点击 立即前往\n消耗：5000绑金、小飞鞋*1",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 396,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 832,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 261,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 269,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 421,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 300,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 853,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 854,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 855,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 856,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1114,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1015,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 265,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1060,
+        "type": 0
+      }
+    ],
+    "endmap": 27,
+    "entityid": 93,
+    "isopen": 1,
+    "limittimes": 21,
+    "map": 27,
+    "mold": 2,
+    "notice": 1,
+    "openday": 0,
+    "range": 1,
+    "reborn": 2,
+    "showday": 0,
+    "showlimit": {
+      "zslv": 2
+    },
+    "showwindow": 1,
+    "time": [
+      1200
+    ],
+    "x": 19,
+    "y": 9
+  },
+  "3": {
+    "Serial": 3,
+    "consume": [
+      {
+        "count": 5000,
+        "id": 1,
+        "type": 2
+      },
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "content": "石墓尸王：去吧！本王的僵尸军团是战无不胜的！",
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 53,
+    "delivery_y": 16,
+    "describe": "所在地图：石墓七层\n刷新：BOSS被击败后间隔20分钟再次刷新\n建议2转后组队前往挑战，该地图被击败后不会爆落装备、道具、狂暴状态\n\n推荐点击 立即前往\n消耗：5000绑金、小飞鞋*1",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 396,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 832,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 261,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 269,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 421,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 300,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 853,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 854,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 855,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 856,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1114,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1015,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 265,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1060,
+        "type": 0
+      }
+    ],
+    "endmap": 108,
+    "entityid": 144,
+    "isopen": 1,
+    "limittimes": 21,
+    "map": 108,
+    "mold": 2,
+    "notice": 1,
+    "openday": 0,
+    "range": 2,
+    "reborn": 2,
+    "showday": 0,
+    "showlimit": {
+      "zslv": 2
+    },
+    "showwindow": 1,
+    "time": [
+      1200
+    ],
+    "x": 59,
+    "y": 14
+  },
+  "4": {
+    "Serial": 4,
+    "consume": [
+      {
+        "count": 5000,
+        "id": 1,
+        "type": 2
+      },
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "content": "虹魔教主：愚蠢的人类，我，虹魔教主，又回来了！",
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 38,
+    "delivery_y": 25,
+    "describe": "所在地图：封魔殿\n刷新：BOSS被击败后间隔20分钟再次刷新\n建议2转后组队前往挑战，该地图被击败后会掉落狂暴状态，有几率掉落装备，道具\n\n推荐点击 立即前往\n消耗：5000绑金、小飞鞋*1",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 396,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 832,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 261,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 269,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 421,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 300,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 853,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 854,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 855,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 856,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1114,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1015,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 265,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1060,
+        "type": 0
+      }
+    ],
+    "endmap": 132,
+    "entityid": 101,
+    "isopen": 1,
+    "limittimes": 21,
+    "map": 132,
+    "mold": 2,
+    "notice": 1,
+    "openday": 0,
+    "range": 2,
+    "reborn": 2,
+    "showday": 0,
+    "showlimit": {
+      "zslv": 2
+    },
+    "showwindow": 1,
+    "time": [
+      1200
+    ],
+    "x": 30,
+    "y": 19
+  },
+  "5": {
+    "Serial": 5,
+    "consume": [
+      {
+        "count": 5000,
+        "id": 1,
+        "type": 2
+      },
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "content": "",
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 85,
+    "delivery_y": 10,
+    "describe": "所在地图：宫殿长廊\n刷新：BOSS被击败后间隔30分钟再次刷新\n建议2转后组队前往挑战，该地图被击败后会掉落狂暴状态，有几率掉落装备，道具\n\n推荐点击 立即前往\n消耗：5000绑金、小飞鞋*1",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 396,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 832,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 261,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 269,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 421,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 300,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 853,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 854,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 855,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 856,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1114,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1015,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 265,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1060,
+        "type": 0
+      }
+    ],
+    "endmap": 163,
+    "entityid": 107,
+    "isopen": 1,
+    "limittimes": 21,
+    "map": 163,
+    "mold": 2,
+    "npcid": 170,
+    "openday": 2,
+    "range": 1,
+    "reborn": 2,
+    "showday": 0,
+    "showlimit": {
+      "zslv": 2
+    },
+    "showwindow": 1,
+    "time": [
+      1800
+    ],
+    "x": 88,
+    "y": 4
+  },
+  "6": {
+    "Serial": 6,
+    "consume": [
+      {
+        "count": 5000,
+        "id": 1,
+        "type": 2
+      },
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "content": "魔龙特使：在地底把我吵醒？你们这是自寻死路！",
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 76,
+    "delivery_y": 45,
+    "describe": "所在地图：宫殿长廊内圈\n刷新：BOSS被击败后间隔30分钟再次刷新\n建议2转后组队前往挑战，该地图被击败后会掉落狂暴状态，有几率掉落装备，道具\n\n推荐点击 立即前往\n消耗：5000绑金、小飞鞋*1",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 396,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1002,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1003,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 828,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 832,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 261,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 269,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 421,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 417,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 271,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 424,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 300,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 852,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1114,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1015,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 265,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1060,
+        "type": 0
+      }
+    ],
+    "endmap": 163,
+    "entityid": 145,
+    "isopen": 1,
+    "limittimes": 21,
+    "map": 163,
+    "mold": 2,
+    "notice": 1,
+    "npcid": 170,
+    "openday": 2,
+    "range": 1,
+    "reborn": 2,
+    "showday": 0,
+    "showlimit": {
+      "zslv": 2
+    },
+    "showwindow": 1,
+    "time": [
+      1800
+    ],
+    "x": 76,
+    "y": 50
+  },
+  "7": {
+    "Serial": 7,
+    "consume": [
+      {
+        "count": 5000,
+        "id": 1,
+        "type": 2
+      },
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "content": "黄泉教主：无血无肉，永生不灭！吾乃骷髅军团的王！",
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 161,
+    "delivery_y": 81,
+    "describe": "所在地图：骨魔洞五层\n刷新：BOSS被击败后间隔20分钟再次刷新\n建议2转后组队前往挑战，该地图被击败后会掉落狂暴状态，有几率掉落装备，道具\n\n推荐点击 立即前往\n消耗：5000绑金、小飞鞋*1",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 396,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 832,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 261,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 269,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 421,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 300,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 853,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 854,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 855,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 856,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1114,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1015,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 265,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1060,
+        "type": 0
+      }
+    ],
+    "endmap": 141,
+    "entityid": 99,
+    "isopen": 1,
+    "limittimes": -1,
+    "map": 141,
+    "mold": 2,
+    "notice": 1,
+    "openday": 0,
+    "range": 2,
+    "reborn": 2,
+    "showday": 0,
+    "showlimit": {
+      "viplv": 1,
+      "zslv": 2
+    },
+    "showwindow": 1,
+    "time": [
+      1200
+    ],
+    "vip": 1,
+    "x": 170,
+    "y": 77
+  },
+  "8": {
+    "Serial": 8,
+    "consume": [
+      {
+        "count": 5000,
+        "id": 1,
+        "type": 2
+      },
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "content": "千年树妖：你们的这份绝望，让我再多品尝一些吧！",
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 600,
+    "delivery_y": 82,
+    "describe": "所在地图：盟重\n刷新：BOSS被击败后间隔30分钟再次刷新\n建议2转后组队前往挑战，该地图被击败后会掉落狂暴状态，有几率掉落装备，道具\n\n推荐点击 立即前往\n消耗：5000绑金、小飞鞋*1",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 396,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 832,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 261,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 269,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 421,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 300,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 853,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 854,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 855,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 856,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1114,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1015,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 265,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1060,
+        "type": 0
+      }
+    ],
+    "endmap": 3,
+    "entityid": 98,
+    "isopen": 1,
+    "limittimes": -1,
+    "map": 3,
+    "mold": 2,
+    "notice": 1,
+    "openday": 0,
+    "range": 0,
+    "reborn": 2,
+    "showday": 0,
+    "showlimit": {
+      "viplv": 2,
+      "zslv": 2
+    },
+    "showwindow": 1,
+    "time": [
+      1800
+    ],
+    "vip": 2,
+    "x": 606,
+    "y": 76
+  },
+  "9": {
+    "Serial": 9,
+    "consume": [
+      {
+        "count": 5000,
+        "id": 1,
+        "type": 2
+      },
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "content": "牛魔王：哞嗷！渺小的闯入者，就让本大王教你做人！",
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 32,
+    "delivery_y": 21,
+    "describe": "所在地图：牛魔七层\n刷新：BOSS被击败后间隔30分钟再次刷新\n建议2转后组队前往挑战，该地图被击败后会掉落狂暴状态，有几率掉落装备，道具\n\n推荐点击 立即前往\n消耗：5000绑金、小飞鞋*1",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 832,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 261,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 269,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 421,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 300,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 853,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 854,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 855,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 856,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1114,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1015,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 265,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1060,
+        "type": 0
+      }
+    ],
+    "endmap": 149,
+    "entityid": 102,
+    "isopen": 1,
+    "limittimes": -1,
+    "map": 149,
+    "mold": 2,
+    "notice": 1,
+    "openday": 0,
+    "range": 1,
+    "reborn": 2,
+    "showday": 0,
+    "showlimit": {
+      "viplv": 3,
+      "zslv": 2
+    },
+    "showwindow": 1,
+    "time": [
+      1800
+    ],
+    "vip": 3,
+    "x": 39,
+    "y": 25
+  },
+  "10": {
+    "Serial": 10,
+    "consume": [
+      {
+        "count": 5000,
+        "id": 1,
+        "type": 2
+      },
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "content": "触龙神：吾的忠实护卫，邪恶钳虫啊！该吃点心了！",
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 50,
+    "delivery_y": 40,
+    "describe": "所在地图：死亡棺材\n刷新：BOSS被击败后间隔30分钟再次刷新\n建议2转后组队前往挑战，该地图被击败后会掉落狂暴状态，有几率掉落装备，道具\n\n推荐点击 立即前往\n消耗：5000绑金、小飞鞋*1",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 396,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 832,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 261,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 269,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 421,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 300,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 853,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 854,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 855,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 856,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1114,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1015,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 265,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1060,
+        "type": 0
+      }
+    ],
+    "endmap": 85,
+    "entityid": 97,
+    "isopen": 1,
+    "limittimes": -1,
+    "map": 85,
+    "mold": 2,
+    "notice": 1,
+    "openday": 0,
+    "range": 1,
+    "reborn": 2,
+    "showday": 0,
+    "showlimit": {
+      "viplv": 4,
+      "zslv": 2
+    },
+    "showwindow": 1,
+    "time": [
+      1800
+    ],
+    "vip": 4,
+    "x": 60,
+    "y": 36
+  },
+  "11": {
+    "Serial": 11,
+    "consume": [
+      {
+        "count": 5000,
+        "id": 1,
+        "type": 2
+      },
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "content": "赤月恶魔：赤月已现，吾将带给尔等恐惧…及毁灭！",
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 9,
+    "delivery_y": 11,
+    "describe": "所在地图：赤月魔穴\n刷新：BOSS被击败后间隔30分钟再次刷新\n建议2转后组队前往挑战，该地图被击败后会掉落狂暴状态，有几率掉落装备，道具\n\n推荐点击 立即前往\n消耗：5000绑金、小飞鞋*1",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 396,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1002,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1003,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 828,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 832,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 261,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 269,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 421,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 417,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 271,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 424,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 300,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 852,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1114,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1015,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 265,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1060,
+        "type": 0
+      }
+    ],
+    "endmap": 119,
+    "entityid": 96,
+    "isopen": 1,
+    "limittimes": -1,
+    "map": 119,
+    "mold": 2,
+    "notice": 1,
+    "openday": 2,
+    "range": 0,
+    "reborn": 2,
+    "showday": 0,
+    "showlimit": {
+      "viplv": 5,
+      "zslv": 2
+    },
+    "showwindow": 1,
+    "time": [
+      1800
+    ],
+    "vip": 5,
+    "x": 17,
+    "y": 8
+  },
+  "12": {
+    "Serial": 12,
+    "consume": [
+      {
+        "count": 5000,
+        "id": 1,
+        "type": 2
+      },
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "content": "",
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 9,
+    "delivery_y": 9,
+    "describe": "所在地图：困惑殿堂\n刷新：每天4次刷新\n建议3转后组队前往挑战，该地图被击败后会掉落狂暴状态，有几率掉落装备，道具\n\n推荐点击 立即前往\n消耗：5000绑金、小飞鞋*1",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 365,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 366,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 828,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 832,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 261,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 269,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 421,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 417,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 271,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 300,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1114,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1015,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 265,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1060,
+        "type": 0
+      }
+    ],
+    "endmap": 156,
+    "entityid": 146,
+    "isopen": 1,
+    "limittimes": 21,
+    "map": 156,
+    "mold": 3,
+    "openday": 3,
+    "range": 0,
+    "reborn": 1,
+    "showday": 0,
+    "showlimit": {
+      "zslv": 2
+    },
+    "showwindow": 2,
+    "time": [
+      3600,
+      36000,
+      57600,
+      77400
+    ],
+    "x": 14,
+    "y": 5
+  },
+  "13": {
+    "Serial": 13,
+    "consume": [
+      {
+        "count": 5000,
+        "id": 1,
+        "type": 2
+      },
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "content": "",
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 11,
+    "delivery_y": 14,
+    "describe": "所在地图：地狱烈焰\n刷新：每天4次刷新\n建议3转后组队前往挑战，该地图被击败后会掉落狂暴状态，有几率掉落装备，道具\n\n推荐点击 立即前往\n消耗：5000绑金、小飞鞋*1",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 365,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 366,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 828,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 832,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 261,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 269,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 421,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 417,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 271,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 300,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1114,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1015,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 265,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1060,
+        "type": 0
+      }
+    ],
+    "endmap": 159,
+    "entityid": 148,
+    "isopen": 1,
+    "limittimes": 21,
+    "map": 159,
+    "mold": 3,
+    "openday": 3,
+    "range": 0,
+    "reborn": 1,
+    "showday": 0,
+    "showlimit": {
+      "zslv": 2
+    },
+    "showwindow": 2,
+    "time": [
+      3600,
+      36000,
+      57600,
+      77400
+    ],
+    "x": 19,
+    "y": 9
+  },
+  "14": {
+    "Serial": 14,
+    "consume": [
+      {
+        "count": 5000,
+        "id": 1,
+        "type": 2
+      },
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "content": "",
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 31,
+    "delivery_y": 18,
+    "describe": "所在地图：堕落坟场 \n刷新：每天4次刷新\n建议3转后组队前往挑战，该地图被击败后会掉落狂暴状态，有几率掉落装备，道具\n\n推荐点击 立即前往\n消耗：5000绑金、小飞鞋*1",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 365,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 366,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 828,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 832,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 261,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 269,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 421,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 417,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 271,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 300,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1114,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1015,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 265,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1060,
+        "type": 0
+      }
+    ],
+    "endmap": 157,
+    "entityid": 150,
+    "isopen": 1,
+    "limittimes": 21,
+    "map": 157,
+    "mold": 3,
+    "openday": 3,
+    "range": 0,
+    "reborn": 1,
+    "showday": 0,
+    "showlimit": {
+      "zslv": 2
+    },
+    "showwindow": 2,
+    "time": [
+      3600,
+      36000,
+      57600,
+      77400
+    ],
+    "x": 32,
+    "y": 14
+  },
+  "15": {
+    "Serial": 15,
+    "consume": [
+      {
+        "count": 5000,
+        "id": 1,
+        "type": 2
+      },
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "content": "",
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 6,
+    "delivery_y": 8,
+    "describe": "所在地图：死亡神殿\n刷新：每天4次刷新\n建议3转后组队前往挑战，该地图被击败后会掉落狂暴状态，有几率掉落装备，道具\n\n推荐点击 立即前往\n消耗：5000绑金、小飞鞋*1",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 365,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 366,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 828,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 832,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 261,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 269,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 421,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 417,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 271,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 300,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1114,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1015,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 265,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1060,
+        "type": 0
+      }
+    ],
+    "endmap": 161,
+    "entityid": 151,
+    "isopen": 1,
+    "limittimes": 21,
+    "map": 161,
+    "mold": 3,
+    "openday": 3,
+    "range": 0,
+    "reborn": 1,
+    "showday": 0,
+    "showlimit": {
+      "zslv": 2
+    },
+    "showwindow": 2,
+    "time": [
+      3600,
+      36000,
+      57600,
+      77400
+    ],
+    "x": 14,
+    "y": 8
+  },
+  "16": {
+    "Serial": 16,
+    "consume": [
+      {
+        "count": 5000,
+        "id": 1,
+        "type": 2
+      },
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "content": "",
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 15,
+    "delivery_y": 11,
+    "describe": "所在地图：深渊魔域\n刷新：每天4次刷新\n建议3转后组队前往挑战，该地图被击败后会掉落狂暴状态，有几率掉落装备，道具\n\n推荐点击 立即前往\n消耗：5000绑金、小飞鞋*1",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 365,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 366,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 828,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 832,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 261,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 269,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 421,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 417,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 271,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 300,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1114,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1015,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 265,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1060,
+        "type": 0
+      }
+    ],
+    "endmap": 158,
+    "entityid": 149,
+    "isopen": 1,
+    "limittimes": 21,
+    "map": 158,
+    "mold": 3,
+    "openday": 3,
+    "range": 0,
+    "reborn": 1,
+    "showday": 0,
+    "showlimit": {
+      "zslv": 2
+    },
+    "showwindow": 2,
+    "time": [
+      3600,
+      36000,
+      57600,
+      77400
+    ],
+    "x": 19,
+    "y": 11
+  },
+  "17": {
+    "Serial": 17,
+    "consume": [
+      {
+        "count": 5000,
+        "id": 1,
+        "type": 2
+      },
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "content": "",
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 13,
+    "delivery_y": 15,
+    "describe": "所在地图：钳虫巢穴\n刷新：每天4次刷新\n建议3转后组队前往挑战，该地图被击败后会掉落狂暴状态，有几率掉落装备，道具\n\n推荐点击 立即前往\n消耗：5000绑金、小飞鞋*1",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 365,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 366,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 828,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 832,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 261,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 269,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 421,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 417,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 271,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 300,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1114,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1015,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 265,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1060,
+        "type": 0
+      }
+    ],
+    "endmap": 160,
+    "entityid": 147,
+    "isopen": 1,
+    "limittimes": 21,
+    "map": 160,
+    "mold": 3,
+    "openday": 3,
+    "range": 0,
+    "reborn": 1,
+    "showday": 0,
+    "showlimit": {
+      "zslv": 2
+    },
+    "showwindow": 2,
+    "time": [
+      3600,
+      36000,
+      57600,
+      77400
+    ],
+    "x": 18,
+    "y": 8
+  },
+  "18": {
+    "Serial": 18,
+    "consume": [
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "content": "",
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 220,
+    "delivery_y": 154,
+    "describe": "领主陵中统领经常出没在【十三陵】\n进入要求：40级",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 563,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 564,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 565,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 566,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 567,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 568,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 569,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 570,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 571,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 572,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 573,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 574,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 575,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 576,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 577,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 578,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 579,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 580,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 581,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 582,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 351,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 358,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 365,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 372,
+        "type": 0
+      }
+    ],
+    "endmap": 3,
+    "entityid": 208,
+    "isopen": 1,
+    "levellimit": 40,
+    "limittimes": -1,
+    "mold": 4,
+    "npcid": 186,
+    "openday": 0,
+    "showday": 0
+  },
+  "19": {
+    "Serial": 19,
+    "consume": [
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "content": "",
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 217,
+    "delivery_y": 153,
+    "describe": "领主太阳岛主经常出没在【太阳岛】\n进入要求：45级",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 583,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 584,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 585,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 586,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 587,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 588,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 589,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 590,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 591,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 592,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 593,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 594,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 595,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 596,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 597,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 598,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 599,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 600,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 601,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 602,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 351,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 358,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 365,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 372,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 853,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 854,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 855,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 856,
+        "type": 0
+      }
+    ],
+    "endmap": 3,
+    "entityid": 214,
+    "isopen": 1,
+    "levellimit": 45,
+    "limittimes": -1,
+    "mold": 4,
+    "npcid": 187,
+    "openday": 0,
+    "showday": 0
+  },
+  "20": {
+    "Serial": 20,
+    "berebornlimit": 1,
+    "consume": [
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "content": "",
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 214,
+    "delivery_y": 153,
+    "describe": "领主围场领主经常出没在【木兰围场】\n进入要求：1转",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 603,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 604,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 605,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 606,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 607,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 608,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 609,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 610,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 611,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 612,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 613,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 614,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 615,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 616,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 617,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 618,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 619,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 620,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 621,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 622,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 623,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 624,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 352,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 359,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 366,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 373,
+        "type": 0
+      }
+    ],
+    "endmap": 3,
+    "entityid": 220,
+    "isopen": 1,
+    "limittimes": -1,
+    "mold": 4,
+    "npcid": 188,
+    "openday": 0,
+    "showday": 0
+  },
+  "21": {
+    "Serial": 21,
+    "berebornlimit": 2,
+    "consume": [
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "content": "",
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 211,
+    "delivery_y": 153,
+    "describe": "领主山岭巨人经常出没在【兔耳岭】\n进入要求：2转",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 625,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 626,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 627,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 628,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 629,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 630,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 631,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 632,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 633,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 634,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 635,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 636,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 637,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 638,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 639,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 640,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 641,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 642,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 643,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 644,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 645,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 646,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 871,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 882,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 352,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 359,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 366,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 373,
+        "type": 0
+      }
+    ],
+    "endmap": 3,
+    "entityid": 226,
+    "isopen": 1,
+    "limittimes": -1,
+    "mold": 4,
+    "npcid": 189,
+    "openday": 0,
+    "showday": 0
+  },
+  "22": {
+    "Serial": 22,
+    "berebornlimit": 3,
+    "consume": [
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "content": "",
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 208,
+    "delivery_y": 153,
+    "describe": "领主化身恶魔经常出没在【落凤坡】\n进入要求：3转",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 647,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 648,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 649,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 650,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 651,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 652,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 653,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 654,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 655,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 656,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 657,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 658,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 659,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 660,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 661,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 662,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 663,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 664,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 665,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 666,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 667,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 668,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 871,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 882,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 893,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 352,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 359,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 366,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 373,
+        "type": 0
+      }
+    ],
+    "endmap": 3,
+    "entityid": 232,
+    "isopen": 1,
+    "limittimes": -1,
+    "mold": 4,
+    "npcid": 190,
+    "openday": 0,
+    "showday": 0
+  },
+  "23": {
+    "Serial": 23,
+    "berebornlimit": 4,
+    "consume": [
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "content": "",
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 205,
+    "delivery_y": 153,
+    "describe": "领主游猎巨魔经常出没在【剑门关】\n进入要求：4转",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 691,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 692,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 693,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 694,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 695,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 696,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 697,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 698,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 699,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 700,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 701,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 702,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 703,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 704,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 705,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 706,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 707,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 708,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 709,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 710,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 711,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 712,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 669,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 670,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 671,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 672,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 673,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 674,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 675,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 676,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 677,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 678,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 679,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 680,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 681,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 682,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 683,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 684,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 685,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 686,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 687,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 688,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 689,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 690,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 871,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 882,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 893,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 353,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 360,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 367,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 374,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 954,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 480,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      }
+    ],
+    "endmap": 3,
+    "entityid": 239,
+    "isopen": 1,
+    "limittimes": -1,
+    "mold": 4,
+    "npcid": 191,
+    "openday": 0,
+    "showday": 0
+  },
+  "24": {
+    "Serial": 24,
+    "berebornlimit": 4,
+    "consume": [
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 211,
+    "delivery_y": 145,
+    "describe": "领主堕落神将经常出没在【荒凉之地】\n进入要求：4转",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 691,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 692,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 693,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 694,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 695,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 696,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 697,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 698,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 699,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 700,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 701,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 702,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 703,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 704,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 705,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 706,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 707,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 708,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 709,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 710,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 711,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 712,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 871,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 882,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 893,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 938,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 939,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 940,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 941,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 353,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 360,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 367,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 374,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 954,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 480,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 351,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 905,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 915,
+        "type": 0
+      }
+    ],
+    "endmap": 3,
+    "entityid": 306,
+    "isopen": 1,
+    "limittimes": -1,
+    "mold": 4,
+    "npcid": 199,
+    "openday": 0,
+    "showday": 0
+  },
+  "25": {
+    "Serial": 25,
+    "consume": [
+      {
+        "count": 1,
+        "id": 463,
+        "type": 0
+      }
+    ],
+    "content": "",
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 35,
+    "delivery_y": 25,
+    "describe": "石墓禁地：公共地图，聚集着大量石墓怪物和极品白野猪\n每次进入限时30分钟，离开禁地后无法再次进入\n进入等级：32级\n立即前往将消耗：禁地卷轴*1",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 871,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 882,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 893,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 906,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 916,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 942,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 943,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 944,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 945,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 353,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 360,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 367,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 374,
+        "type": 0
+      }
+    ],
+    "endmap": 151,
+    "entityid": 152,
+    "isopen": 0,
+    "jiontime": 1800,
+    "levellimit": 32,
+    "limittimes": 3,
+    "mold": 5,
+    "monsterName": "极品白野猪",
+    "openday": 0,
+    "showday": 0
+  },
+  "26": {
+    "Serial": 26,
+    "consume": [
+      {
+        "count": 1,
+        "id": 463,
+        "type": 0
+      }
+    ],
+    "content": "",
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 33,
+    "delivery_y": 32,
+    "describe": "地牢禁地：公共地图，聚集着大量地牢怪物和极品邪恶钳虫\n每次进入限时30分钟，离开禁地后无法再次进入\n进入等级：34级\n立即前往将消耗：禁地卷轴*1",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 871,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 882,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 893,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 906,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 916,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 942,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 943,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 944,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 945,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 353,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 360,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 367,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 374,
+        "type": 0
+      }
+    ],
+    "endmap": 152,
+    "entityid": 153,
+    "isopen": 0,
+    "jiontime": 1800,
+    "levellimit": 34,
+    "limittimes": 3,
+    "mold": 5,
+    "monsterName": "极品邪恶钳虫",
+    "openday": 2,
+    "showday": 1
+  },
+  "27": {
+    "Serial": 27,
+    "consume": [
+      {
+        "count": 1,
+        "id": 463,
+        "type": 0
+      }
+    ],
+    "content": "",
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 11,
+    "delivery_y": 8,
+    "describe": "祖玛禁地：公共地图，聚集着大量祖玛怪物和极品祖玛卫士\n每次进入限时30分钟，离开禁地后无法再次进入\n进入等级：36级\n立即前往将消耗：禁地卷轴*1",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 871,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 882,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 893,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 906,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 916,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 942,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 943,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 944,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 945,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 353,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 360,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 367,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 374,
+        "type": 0
+      }
+    ],
+    "endmap": 153,
+    "entityid": 154,
+    "isopen": 0,
+    "jiontime": 1800,
+    "levellimit": 36,
+    "limittimes": 3,
+    "mold": 5,
+    "monsterName": "极品祖玛卫士",
+    "openday": 3,
+    "showday": 2
+  },
+  "28": {
+    "Serial": 28,
+    "consume": [
+      {
+        "count": 1,
+        "id": 463,
+        "type": 0
+      }
+    ],
+    "content": "",
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 35,
+    "delivery_y": 17,
+    "describe": "牛魔禁地：公共地图，聚集着大量牛魔怪物和极品牛魔祭司、极品牛魔将军\n每次进入限时30分钟，离开禁地后无法再次进入\n进入等级：38级\n立即前往将消耗：禁地卷轴*1",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 871,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 882,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 893,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 906,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 916,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 942,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 943,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 944,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 945,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 353,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 360,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 367,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 374,
+        "type": 0
+      }
+    ],
+    "endmap": 154,
+    "entityid": 155,
+    "isopen": 0,
+    "jiontime": 1800,
+    "levellimit": 38,
+    "limittimes": 3,
+    "mold": 5,
+    "monsterName": "极品牛魔祭司,极品牛魔将军",
+    "openday": 4,
+    "showday": 3
+  },
+  "29": {
+    "Serial": 29,
+    "ascription": [
+      {
+        "count": 1,
+        "id": 1114,
+        "type": 0
+      }
+    ],
+    "brave": [
+      {
+        "count": 1,
+        "id": 1114,
+        "type": 0
+      }
+    ],
+    "consume": [
+      {
+        "count": 5000,
+        "id": 1,
+        "type": 2
+      }
+    ],
+    "delivery": 1,
+    "delivery_range": 2,
+    "delivery_x": 45,
+    "delivery_y": 30,
+    "describe": "",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 871,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 882,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 893,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 906,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 916,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 942,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 943,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 944,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 945,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 353,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 360,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 367,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 374,
+        "type": 0
+      }
+    ],
+    "endmap": 176,
+    "entityid": 179,
+    "fbid": 7,
+    "isopen": 0,
+    "levellimit": 30,
+    "limittimes": -1,
+    "map": 176,
+    "mold": 1,
+    "openday": 1,
+    "partake": [
+      {
+        "count": 1,
+        "id": 1114,
+        "type": 0
+      }
+    ],
+    "range": 1,
+    "reborn": 2,
+    "showday": 1,
+    "time": [
+      300
+    ],
+    "x": 10,
+    "y": 7
+  },
+  "30": {
+    "Serial": 30,
+    "ascription": [
+      {
+        "count": 1,
+        "id": 1114,
+        "type": 0
+      }
+    ],
+    "brave": [
+      {
+        "count": 1,
+        "id": 1114,
+        "type": 0
+      }
+    ],
+    "consume": [
+      {
+        "count": 5000,
+        "id": 1,
+        "type": 2
+      }
+    ],
+    "delivery": 1,
+    "delivery_range": 2,
+    "delivery_x": 48,
+    "delivery_y": 19,
+    "describe": "",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 871,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 882,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 893,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 906,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 916,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 942,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 943,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 944,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 945,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 353,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 360,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 367,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 374,
+        "type": 0
+      }
+    ],
+    "endmap": 177,
+    "entityid": 180,
+    "fbid": 8,
+    "isopen": 0,
+    "levellimit": 50,
+    "limittimes": -1,
+    "map": 177,
+    "mold": 1,
+    "openday": 12,
+    "partake": [
+      {
+        "count": 1,
+        "id": 1114,
+        "type": 0
+      }
+    ],
+    "range": 1,
+    "reborn": 2,
+    "showday": 10,
+    "time": [
+      600
+    ],
+    "x": 22,
+    "y": 13
+  },
+  "31": {
+    "AutoFly": 1,
+    "Serial": 31,
+    "ascription": [
+      {
+        "count": 1,
+        "id": 1085,
+        "type": 0
+      }
+    ],
+    "berebornlimit": 3,
+    "brave": [
+      {
+        "count": 1,
+        "id": 1086,
+        "type": 0
+      }
+    ],
+    "chanceshowascription": [
+      {
+        "count": 1,
+        "id": 1061,
+        "type": 0
+      }
+    ],
+    "chanceshowpartake": [
+      {
+        "count": 1,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "consume": [],
+    "content": "次元首领：每次苏醒都会令我更强大，渺小的闯入者准备好了吗？",
+    "defineshowascription": [
+      {
+        "count": 1,
+        "id": 1015,
+        "type": 0
+      },
+      {
+        "count": 12,
+        "id": 265,
+        "type": 0
+      },
+      {
+        "count": 5000000,
+        "id": 13,
+        "type": 13
+      },
+      {
+        "count": 500000,
+        "id": 2,
+        "type": 2
+      }
+    ],
+    "defineshowbrave": [
+      {
+        "count": 1,
+        "id": 1015,
+        "type": 0
+      },
+      {
+        "count": 3000000,
+        "id": 13,
+        "type": 13
+      },
+      {
+        "count": 300000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 8,
+        "id": 265,
+        "type": 0
+      }
+    ],
+    "defineshowpartake": [
+      {
+        "count": 2800000,
+        "id": 13,
+        "type": 13
+      },
+      {
+        "count": 200000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 3,
+        "id": 265,
+        "type": 0
+      }
+    ],
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 24,
+    "delivery_y": 10,
+    "describe": "次元首领常年徘徊在次元深处，每天仅有2个时间段可以遇见",
+    "dropId": [],
+    "endmap": 317,
+    "entityid": 386,
+    "fbid": 23,
+    "isopen": 0,
+    "limittimes": -1,
+    "mailContent1": "恭喜你在跨服次元首领活动中获得了归属奖",
+    "mailContent2": "恭喜你在跨服次元首领活动中获得了勇斗奖",
+    "mailContent3": "恭喜你在跨服次元首领活动中获得了参与奖",
+    "mailTitle": "跨服次元首领奖励",
+    "map": 317,
+    "mold": 7,
+    "notice": 1,
+    "openday": 1,
+    "partake": [
+      {
+        "count": 1,
+        "id": 1087,
+        "type": 0
+      }
+    ],
+    "range": 1,
+    "showday": 1,
+    "showwindow": 1,
+    "time": [
+      60
+    ],
+    "timeslot": [
+      {
+        "EndTime": 39000,
+        "StartTime": 37800
+      },
+      {
+        "EndTime": 53400,
+        "StartTime": 52200
+      },
+      {
+        "EndTime": 75000,
+        "StartTime": 73800
+      }
+    ],
+    "x": 15,
+    "y": 15
+  },
+  "32": {
+    "Serial": 32,
+    "berebornlimit": 2,
+    "consume": [
+      {
+        "count": 5000,
+        "id": 1,
+        "type": 2
+      }
+    ],
+    "delivery": 1,
+    "delivery_range": 2,
+    "delivery_x": 48,
+    "delivery_y": 19,
+    "describe": "",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 871,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 882,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 893,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 906,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 916,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 942,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 943,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 944,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 945,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 353,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 360,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 367,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 374,
+        "type": 0
+      }
+    ],
+    "endmap": 179,
+    "entityid": 182,
+    "fbid": 10,
+    "isopen": 0,
+    "limittimes": -1,
+    "map": 179,
+    "mold": 1,
+    "openday": 10,
+    "range": 1,
+    "reborn": 2,
+    "showday": 10,
+    "time": [
+      1200
+    ],
+    "x": 22,
+    "y": 13
+  },
+  "33": {
+    "Serial": 33,
+    "berebornlimit": 3,
+    "consume": [
+      {
+        "count": 5000,
+        "id": 1,
+        "type": 2
+      }
+    ],
+    "delivery": 1,
+    "delivery_range": 2,
+    "delivery_x": 48,
+    "delivery_y": 19,
+    "describe": "",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 871,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 882,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 893,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 906,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 916,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 942,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 943,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 944,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 945,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 353,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 360,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 367,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 374,
+        "type": 0
+      }
+    ],
+    "endmap": 180,
+    "entityid": 183,
+    "fbid": 11,
+    "isopen": 0,
+    "limittimes": -1,
+    "map": 180,
+    "mold": 1,
+    "openday": 70,
+    "range": 1,
+    "reborn": 2,
+    "showday": 68,
+    "time": [
+      1200
+    ],
+    "x": 10,
+    "y": 7
+  },
+  "34": {
+    "Serial": 34,
+    "berebornlimit": 4,
+    "consume": [
+      {
+        "count": 5000,
+        "id": 1,
+        "type": 2
+      }
+    ],
+    "delivery": 1,
+    "delivery_range": 2,
+    "delivery_x": 48,
+    "delivery_y": 19,
+    "describe": "",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 871,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 882,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 893,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 906,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 916,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 942,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 943,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 944,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 945,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 353,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 360,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 367,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 374,
+        "type": 0
+      }
+    ],
+    "endmap": 181,
+    "entityid": 184,
+    "fbid": 12,
+    "isopen": 0,
+    "limittimes": -1,
+    "map": 181,
+    "mold": 1,
+    "openday": 100,
+    "range": 1,
+    "reborn": 2,
+    "showday": 98,
+    "time": [
+      1200
+    ],
+    "x": 22,
+    "y": 13
+  },
+  "35": {
+    "Serial": 35,
+    "berebornlimit": 5,
+    "consume": [
+      {
+        "count": 5000,
+        "id": 1,
+        "type": 2
+      }
+    ],
+    "delivery": 1,
+    "delivery_range": 2,
+    "delivery_x": 48,
+    "delivery_y": 19,
+    "describe": "",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 871,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 882,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 893,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 906,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 916,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 942,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 943,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 944,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 945,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 353,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 360,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 367,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 374,
+        "type": 0
+      }
+    ],
+    "endmap": 182,
+    "entityid": 185,
+    "fbid": 13,
+    "isopen": 0,
+    "limittimes": -1,
+    "map": 182,
+    "mold": 1,
+    "openday": 130,
+    "range": 1,
+    "reborn": 2,
+    "showday": 128,
+    "time": [
+      1200
+    ],
+    "x": 10,
+    "y": 7
+  },
+  "36": {
+    "Serial": 36,
+    "consume": [
+      {
+        "count": 5000,
+        "id": 1,
+        "type": 2
+      }
+    ],
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 11,
+    "delivery_y": 8,
+    "describe": "骷髅精灵经常出没在洞穴二层，偶尔出没在兽人古墓三层\n挑战等级：25级\n进入消耗：5000绑金",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 871,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 882,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 893,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 906,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 916,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 942,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 943,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 944,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 945,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 353,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 360,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 367,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 374,
+        "type": 0
+      }
+    ],
+    "endmap": 185,
+    "entityid": 189,
+    "fbid": 16,
+    "firstprize": [
+      {
+        "count": 300000,
+        "id": 2,
+        "type": 2
+      }
+    ],
+    "isopen": 0,
+    "jiontime": 600,
+    "levellimit": 25,
+    "limittimes": -1,
+    "map": 185,
+    "mold": 6,
+    "openday": 1,
+    "range": 3,
+    "showday": 1,
+    "x": 11,
+    "y": 6
+  },
+  "37": {
+    "Serial": 37,
+    "consume": [
+      {
+        "count": 5000,
+        "id": 1,
+        "type": 2
+      }
+    ],
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 16,
+    "delivery_y": 10,
+    "describe": "白野猪经常出没在石墓七层，偶尔出没在霸者大厅，幽冥回廊，纵横道，魔魂殿，炼狱回廊，封魔殿，石墓五层\n挑战等级：45级\n进入消耗：5000绑金",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 871,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 882,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 893,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 906,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 916,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 942,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 943,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 944,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 945,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 353,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 360,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 367,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 374,
+        "type": 0
+      }
+    ],
+    "endmap": 186,
+    "entityid": 190,
+    "fbid": 17,
+    "firstprize": [
+      {
+        "count": 1,
+        "id": 259,
+        "type": 0
+      },
+      {
+        "count": 1,
+        "id": 307,
+        "type": 0
+      }
+    ],
+    "isopen": 0,
+    "jiontime": 600,
+    "levellimit": 45,
+    "limittimes": -1,
+    "map": 186,
+    "mold": 6,
+    "openday": 11,
+    "range": 1,
+    "showday": 11,
+    "x": 16,
+    "y": 10
+  },
+  "38": {
+    "Serial": 38,
+    "consume": [
+      {
+        "count": 5000,
+        "id": 1,
+        "type": 2
+      }
+    ],
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 16,
+    "delivery_y": 13,
+    "describe": "沃玛教主：哭吧，叫吧，这次我可不会手下留情！\n挑战等级：70级\n进入消耗：5000绑金",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 871,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 882,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 893,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 906,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 916,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 942,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 943,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 944,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 945,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 353,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 360,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 367,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 374,
+        "type": 0
+      }
+    ],
+    "endmap": 187,
+    "entityid": 191,
+    "fbid": 18,
+    "firstprize": [
+      {
+        "count": 10,
+        "id": 436,
+        "type": 0
+      },
+      {
+        "count": 1,
+        "id": 308,
+        "type": 0
+      }
+    ],
+    "isopen": 0,
+    "jiontime": 600,
+    "levellimit": 70,
+    "limittimes": -1,
+    "map": 187,
+    "mold": 6,
+    "openday": 31,
+    "range": 3,
+    "showday": 31,
+    "x": 15,
+    "y": 13
+  },
+  "39": {
+    "Serial": 39,
+    "consume": [
+      {
+        "count": 5000,
+        "id": 1,
+        "type": 2
+      }
+    ],
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 10,
+    "delivery_y": 7,
+    "describe": "虹魔教主：愚蠢的人类，我，虹魔教主，又回来了！\n挑战等级：90级\n进入消耗：5000绑金",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 871,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 882,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 893,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 906,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 916,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 942,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 943,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 944,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 945,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 353,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 360,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 367,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 374,
+        "type": 0
+      }
+    ],
+    "endmap": 188,
+    "entityid": 192,
+    "fbid": 19,
+    "firstprize": [
+      {
+        "count": 20,
+        "id": 436,
+        "type": 0
+      },
+      {
+        "count": 1,
+        "id": 308,
+        "type": 0
+      }
+    ],
+    "isopen": 0,
+    "jiontime": 600,
+    "levellimit": 99,
+    "limittimes": -1,
+    "map": 188,
+    "mold": 6,
+    "openday": 91,
+    "range": 3,
+    "showday": 91,
+    "x": 10,
+    "y": 6
+  },
+  "40": {
+    "Serial": 40,
+    "berebornlimit": 4,
+    "consume": [
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 47,
+    "delivery_y": 24,
+    "describe": "领主镇关特使经常出没在【东关】\n进入要求：4转",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 871,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 882,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 893,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 938,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 939,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 940,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 941,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 353,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 360,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 367,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 374,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 954,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 480,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 905,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 915,
+        "type": 0
+      }
+    ],
+    "endmap": 256,
+    "entityid": 321,
+    "isopen": 1,
+    "limittimes": -1,
+    "mold": 4,
+    "npcid": 203,
+    "openday": 0,
+    "showday": 0
+  },
+  "41": {
+    "Serial": 41,
+    "berebornlimit": 4,
+    "consume": [
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 47,
+    "delivery_y": 24,
+    "describe": "领主镇关教主经常出没在【西关】\n进入要求：4转",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 871,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 882,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 893,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 938,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 939,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 940,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 941,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 353,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 360,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 367,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 374,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 954,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 480,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 905,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 915,
+        "type": 0
+      }
+    ],
+    "endmap": 256,
+    "entityid": 325,
+    "isopen": 1,
+    "limittimes": -1,
+    "mold": 4,
+    "npcid": 203,
+    "openday": 0,
+    "showday": 0
+  },
+  "42": {
+    "Serial": 42,
+    "berebornlimit": 4,
+    "consume": [
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 45,
+    "delivery_y": 24,
+    "describe": "领主堕落盗王经常出没在【天空之城-潼关】\n进入要求：4转",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 871,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 882,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 893,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 942,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 943,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 944,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 945,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 353,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 360,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 367,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 374,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 954,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 480,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 906,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 916,
+        "type": 0
+      }
+    ],
+    "endmap": 256,
+    "entityid": 272,
+    "isopen": 1,
+    "limittimes": -1,
+    "mold": 4,
+    "npcid": 190,
+    "openday": 0,
+    "showday": 0
+  },
+  "43": {
+    "Serial": 43,
+    "berebornlimit": 5,
+    "consume": [
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "content": "",
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 40,
+    "delivery_y": 27,
+    "describe": "领主陨石灵皇经常出没在【天空之城-石头城】\n进入要求：5转",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 871,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 882,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 893,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 942,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 943,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 944,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 945,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 353,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 360,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 367,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 374,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 954,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 480,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 906,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 916,
+        "type": 0
+      }
+    ],
+    "endmap": 256,
+    "entityid": 246,
+    "isopen": 1,
+    "limittimes": -1,
+    "mold": 4,
+    "npcid": 192,
+    "openday": 0,
+    "showday": 0
+  },
+  "44": {
+    "Serial": 44,
+    "berebornlimit": 5,
+    "consume": [
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 34,
+    "delivery_y": 26,
+    "describe": "领主怒火霸主经常出没在【天空之城-祖玛道】\n进入要求：5转、绿卡特权、神魔总等级达到10级",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 871,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 882,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 893,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 942,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 943,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 944,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 945,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 353,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 360,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 367,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 374,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 954,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 480,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 906,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 916,
+        "type": 0
+      }
+    ],
+    "endmap": 256,
+    "entityid": 284,
+    "isopen": 1,
+    "limittimes": -1,
+    "mold": 4,
+    "npcid": 190,
+    "openday": 0,
+    "showday": 0
+  },
+  "45": {
+    "Serial": 45,
+    "berebornlimit": 5,
+    "consume": [
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 37,
+    "delivery_y": 26,
+    "describe": "领主天将经常出没在【天空之城-冰封之境】\n进入要求：5转、开启狂暴之力、神魔总等级达到10级",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 871,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 882,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 893,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 942,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 943,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 944,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 945,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 353,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 360,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 367,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 374,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 954,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 480,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 906,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 916,
+        "type": 0
+      }
+    ],
+    "endmap": 256,
+    "entityid": 313,
+    "isopen": 1,
+    "limittimes": -1,
+    "mold": 4,
+    "npcid": 204,
+    "openday": 0,
+    "showday": 0
+  },
+  "46": {
+    "Serial": 46,
+    "berebornlimit": 7,
+    "consume": [
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 37,
+    "delivery_y": 26,
+    "describe": "领主魔王经常出没在【天空之城-冰封雪域】\n进入要求：5转、开启狂暴之力、神魔总等级达到15级",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 871,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 882,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 893,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 942,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 943,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 944,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 945,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 353,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 360,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 367,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 374,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 954,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 480,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 906,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 916,
+        "type": 0
+      }
+    ],
+    "endmap": 256,
+    "entityid": 317,
+    "isopen": 1,
+    "limittimes": -1,
+    "mold": 4,
+    "npcid": 204,
+    "openday": 0,
+    "showday": 0
+  },
+  "47": {
+    "Serial": 47,
+    "berebornlimit": 6,
+    "consume": [
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 31,
+    "delivery_y": 27,
+    "describe": "领主鬼王经常出没在【天空之城-沧浪亭】\n进入要求：6转",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 871,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 882,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 893,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 942,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 943,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 944,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 945,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 353,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 360,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 367,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 374,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 954,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 480,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 906,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 916,
+        "type": 0
+      }
+    ],
+    "endmap": 256,
+    "entityid": 253,
+    "isopen": 1,
+    "limittimes": -1,
+    "mold": 4,
+    "npcid": 193,
+    "openday": 0,
+    "showday": 0
+  },
+  "48": {
+    "Serial": 48,
+    "berebornlimit": 6,
+    "consume": [
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 26,
+    "delivery_y": 25,
+    "describe": "领主镇陵巨魔经常出没在【雪山陵墓】\n进入要求：6转、蓝卡特权",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 871,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 882,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 893,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 942,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 943,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 944,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 945,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 353,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 360,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 367,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 374,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 954,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 480,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 906,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 916,
+        "type": 0
+      }
+    ],
+    "endmap": 256,
+    "entityid": 309,
+    "isopen": 1,
+    "limittimes": -1,
+    "mold": 4,
+    "npcid": 206,
+    "openday": 0,
+    "showday": 0
+  },
+  "49": {
+    "Serial": 49,
+    "berebornlimit": 7,
+    "consume": [
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 31,
+    "delivery_y": 23,
+    "describe": "领主占山寨主经常出没在【天空之城-太行山】\n进入要求：7转",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 871,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 882,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 893,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 942,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 943,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 944,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 945,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 353,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 360,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 367,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 374,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 954,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 480,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 906,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 916,
+        "type": 0
+      }
+    ],
+    "endmap": 256,
+    "entityid": 260,
+    "isopen": 1,
+    "limittimes": -1,
+    "mold": 4,
+    "npcid": 194,
+    "openday": 0,
+    "showday": 0
+  },
+  "50": {
+    "Serial": 50,
+    "berebornlimit": 8,
+    "consume": [
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 26,
+    "delivery_y": 15,
+    "describe": "领主遗迹教主经常出没在【迷失之城-楼兰】\n进入要求：8转",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 839,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 368,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 954,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 480,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 906,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 916,
+        "type": 0
+      }
+    ],
+    "endmap": 303,
+    "entityid": 376,
+    "isopen": 1,
+    "limittimes": -1,
+    "mold": 4,
+    "npcid": 216,
+    "openday": 0,
+    "showday": 60
+  },
+  "51": {
+    "Serial": 51,
+    "berebornlimit": 4,
+    "consume": [
+      {
+        "count": 1,
+        "id": 0,
+        "type": 7
+      }
+    ],
+    "delivery": 1,
+    "delivery_range": 1,
+    "delivery_x": 205,
+    "delivery_y": 154,
+    "describe": "所有神话角色的化身都出没于4转及以上各地图最底层，服务器启动后每隔6小时刷新，他们的实力空前强大，请各位准备好再去讨伐\n进入要求：4-8转",
+    "dropId": [
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 956,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 368,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 954,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 480,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 906,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 916,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1015,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 265,
+        "type": 0
+      }
+    ],
+    "endmap": 3,
+    "entityid": 189,
+    "isopen": 1,
+    "limittimes": -1,
+    "mold": 4,
+    "npcid": 191,
+    "openday": 0,
+    "showday": 0
+  }
+}

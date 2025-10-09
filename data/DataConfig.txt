@@ -1,0 +1,15 @@
+﻿--lua script
+Lang = nil --新语言表
+OldLang = nil --置空逻辑脚本中强制导入的Lang变量，否则将导致无法读取tipmsg
+--#include "language\LangCode.txt"
+--#include "language\LangCode.config"
+--#include "config\GlobalConf.config" 
+--#include "config\vocation\VocationConfig.txt"				--
+--#include "config\level\LevelUpExp.config"
+--#include "config\property\SkillMonsterExp.txt"
+--#include "config\property\ExpUpLmtEveryDay.txt"
+--#include "config\property\ActorNameColor.txt"
+--#include "config\item\BagConfig.txt"
+--#include "config\item\SuitConfig.txt"
+--#include "config\scenenpcdynprop\DynPropConfig.txt"		--
+--#include "config\property\RenownLimitLevels.txt"

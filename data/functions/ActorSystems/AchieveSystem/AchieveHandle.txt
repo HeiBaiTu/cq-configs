@@ -1,0 +1,78 @@
+--#include "data\config\achieve\AchieveCfg.txt" once
+--#include "data\functions\ItemEvent\ItemUseCount.txt" once
+
+function OnGetAchieveAwardsCfg(nAchieveID)
+	for k,v in pairs(AchieveCfg)do
+		for i,cfg in pairs(v.AchieveInfo)do
+			if(cfg.id == nAchieveID)then
+				return cfg
+			end
+		end
+	end
+end
+
+--�ȼ�鹻����
+function AchieveLogicCheck(sysarg, consumes, nCount)
+    --���ļ��
+	for k,v in pairs(consumes) do
+		local bCheck = Actor.checkConsume(sysarg, v.type, v.id, v.count*nCount, v.quality or 0, v.strong or 0, -1 , 0) 
+		--BaseFuc_Print("v.type, v.id, v.count*nCount",bCheck,v.type, v.id, v.count*nCount)
+		if bCheck ~= true then
+			if v.type == qatBindMoney then   --�˴��ǽ�������
+				--local myBindCoin = Actor.getMoneyCount( sysarg, mtBindCoin )
+				Actor.sendNotEnoughMoney(sysarg, mtBindCoin, v.count * nCount)
+			else
+				local name = Item.getAwardDesc(v.type, v.id)
+				local tips = string.format(OldLang.Script.EquipHecheng006, name, v.count)
+				Actor.sendTipmsg(sysarg, tips, ttFlyTip)
+			end
+			return false
+		end
+	end	
+	return true
+end
+
+function SendAchieveResult(sysarg, nId, bReslut)
+	local GAME_MSG_S2C_SEND_ACHIEGVE_DRAW_DATA = 11
+	local netPack = DataPack.allocPacket(sysarg,enAchieveSystemID, GAME_MSG_S2C_SEND_ACHIEGVE_DRAW_DATA)	
+	DataPack.writeShort(netPack, nId) 
+	DataPack.writeByte(netPack,bReslut)	
+	DataPack.flush(netPack)		
+end
+
+function OnGetAchieveAwards(sysarg, nAchieveID)
+	local cfg = OnGetAchieveAwardsCfg(nAchieveID)
+	if(AchieveLogicCheck(sysarg, cfg.consume, 1) ~= true)then
+		return --print("AllDayLogicCheck")
+	end	
+	local logId = 180
+	local logStr = OldLang.Log.LogWingActivation	
+	if(SubBatchItemByType(sysarg, cfg.consume, logId, logStr) ~= true)then
+		return --print("btType",btType)
+	end	
+	if(0 < #cfg.award )then
+		if CommonFunc.Awards.CheckBagGridCount(sysarg, {cfg.award}) ~= true then
+			local actorId = Actor.getActorId(sysarg)
+			local title = OldLang.NoticeStr.n093
+			local content = OldLang.NoticeStr.n094
+			SendMail(actorId, title, content, awards)	
+			return 
+		end	
+		CommonFunc.Awards.Give(sysarg, {cfg.award}, logId, logStr)	
+	end	
+	Actor.setAchieveGiveAwards(sysarg, nAchieveID)
+	SendAchieveResult(sysarg, nAchieveID, 1)
+	Actor.sendTipmsg(sysarg, string.format(OldLang.NoticeStr.Achieve1001,cfg.name), ttFlyTip)
+	sendItemUseCount(sysarg, 4)
+end
+
+function GMAchieveFuc(sysarg, arg2,	arg3 )
+	if(arg2 == 1)then
+		Actor.triggerQuestEvent(sysarg, 16, 800, 1)
+		return Actor.setAchieveFinished(sysarg, arg3)		-- @DebugLua 2003 1 1
+	end
+	if(arg2 == 2)then
+		return OnGetAchieveAwards(sysarg, arg3)				-- @DebugLua 2003 2 1
+	end	
+end
+

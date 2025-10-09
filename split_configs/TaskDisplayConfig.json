@@ -1,0 +1,7038 @@
+{
+  "1": {
+    "101": {
+      "NpcName": "[主线]初来乍到",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 5,
+      "award": [
+        {
+          "count": 1,
+          "id": 155,
+          "type": 0
+        },
+        {
+          "count": 1,
+          "id": 157,
+          "type": 0
+        },
+        {
+          "count": 1,
+          "id": 156,
+          "type": 0
+        },
+        {
+          "count": 1500,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 100,
+          "id": 7,
+          "type": 7
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 1,
+          "id": 155,
+          "type": 0
+        },
+        {
+          "count": 1,
+          "id": 157,
+          "type": 0
+        },
+        {
+          "count": 1,
+          "id": 156,
+          "type": 0
+        },
+        {
+          "count": 1500,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 100,
+          "id": 7,
+          "type": 7
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 102,
+          "taskid": 1
+        },
+        {
+          "state": 50701,
+          "taskid": 507
+        }
+      ],
+      "completebutton": 0,
+      "description": "你好勇士，这有一些首饰给你，先去给武器店老板打个招呼吧",
+      "flyshoes": 0,
+      "flyshoespos": [
+        {
+          "map": 1,
+          "npcid": 90,
+          "x": 469,
+          "y": 306
+        }
+      ],
+      "id": 1,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:初来乍到|",
+      "schedule": 0,
+      "specialeffects": "",
+      "state": 101,
+      "task": "去找NPC|C:0x28ee01&T:老兵|",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": 1,
+        "param2": 469,
+        "param3": 306,
+        "type": 4
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": "\n|C:0xfc21ed&T:【特色】||C:0x318aff&T:全部装备打怪爆|\n|C:0xfc21ed&T:【激情】||C:0x318aff&T:升级快、PK爽|\n|C:0xfc21ed&T:【承诺】||C:0x318aff&T:金币永久保值\n|C:0xfc21ed&T:【福利】||C:0x318aff&T:商城道具绑金全买|"
+    },
+    "102": {
+      "NpcName": "[主线]初来乍到",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 1,
+          "id": 11,
+          "type": 0
+        },
+        {
+          "count": 1,
+          "id": 7,
+          "type": 0
+        },
+        {
+          "count": 1,
+          "id": 13,
+          "type": 0
+        },
+        {
+          "count": 1500,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 1,
+          "id": 11,
+          "type": 0
+        },
+        {
+          "count": 1,
+          "id": 7,
+          "type": 0
+        },
+        {
+          "count": 1,
+          "id": 13,
+          "type": 0
+        },
+        {
+          "count": 1500,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 201,
+          "taskid": 2
+        }
+      ],
+      "completebutton": 0,
+      "description": "来，这是我最好的武器，送给你。去找衣服店老板聊聊吧",
+      "flyshoes": 0,
+      "flyshoespos": [
+        {
+          "map": 1,
+          "npcid": 93,
+          "x": 473,
+          "y": 300
+        }
+      ],
+      "id": 1,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:初来乍到|",
+      "schedule": 0,
+      "specialeffects": "eff_jsrw",
+      "specialeffects2": "zi_1",
+      "state": 102,
+      "task": "去找NPC|C:0x28ee01&T:武器店老板|",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": 1,
+        "param2": 473,
+        "param3": 300,
+        "type": 4
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": "\n|C:0xfc21ed&T:【特色】||C:0x318aff&T:全部装备打怪爆|\n|C:0xfc21ed&T:【激情】||C:0x318aff&T:升级快、PK爽|\n|C:0xfc21ed&T:【承诺】||C:0x318aff&T:金币永久保值\n|C:0xfc21ed&T:【福利】||C:0x318aff&T:商城道具绑金全买|"
+    }
+  },
+  "2": {
+    "201": {
+      "NpcName": "[主线]万全准备",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 1,
+          "id": 48,
+          "type": 0
+        },
+        {
+          "count": 1500,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 30000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 1,
+          "id": 48,
+          "type": 0
+        },
+        {
+          "count": 1500,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 30000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 202,
+          "taskid": 2
+        }
+      ],
+      "completebutton": 0,
+      "description": "你是新来的？先送你一件新人穿的衣服，出门在外别那么寒碜。",
+      "flyshoes": 0,
+      "flyshoespos": [
+        {
+          "map": 1,
+          "npcid": 92,
+          "x": 469,
+          "y": 299
+        }
+      ],
+      "id": 2,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:万全准备|",
+      "schedule": 0,
+      "specialeffects": "eff_wcrw",
+      "state": 201,
+      "task": "去找NPC|C:0x28ee01&T:服装店老板|",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": 1,
+        "param2": 469,
+        "param3": 299,
+        "type": 4
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": "\n|C:0xfc21ed&T:【特色】||C:0x318aff&T:全部装备打怪爆|\n|C:0xfc21ed&T:【激情】||C:0x318aff&T:升级快、PK爽|\n|C:0xfc21ed&T:【承诺】||C:0x318aff&T:金币永久保值\n|C:0xfc21ed&T:【福利】||C:0x318aff&T:商城道具绑金全买|"
+    },
+    "202": {
+      "NpcName": "[主线]万全准备",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 30000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1500,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 30000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1500,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 301,
+          "taskid": 3
+        }
+      ],
+      "completebutton": 0,
+      "description": "比奇老兵正在找你，听说要把你当苗子好好培养。这是全村给你凑的盘缠，一帆风顺，快去吧！",
+      "flyshoes": 0,
+      "flyshoespos": [
+        {
+          "map": 1,
+          "npcid": 182,
+          "x": 460,
+          "y": 300
+        }
+      ],
+      "id": 2,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:万全准备|",
+      "schedule": 0,
+      "specialeffects": "eff_jsrw",
+      "specialeffects2": "zi_2",
+      "state": 202,
+      "task": "去找NPC|C:0x28ee01&T:新手村长|",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": 1,
+        "param2": 459,
+        "param3": 300,
+        "type": 4
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": "\n|C:0xfc21ed&T:【特色】||C:0x318aff&T:全部装备打怪爆|\n|C:0xfc21ed&T:【激情】||C:0x318aff&T:升级快、PK爽|\n|C:0xfc21ed&T:【承诺】||C:0x318aff&T:金币永久保值\n|C:0xfc21ed&T:【福利】||C:0x318aff&T:商城道具绑金全买|"
+    }
+  },
+  "3": {
+    "301": {
+      "NpcName": "[主线]初入比奇",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 30000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1500,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 30000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1500,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 302,
+          "taskid": 3
+        },
+        {
+          "state": 50901,
+          "taskid": 509
+        }
+      ],
+      "completebutton": 0,
+      "description": "你来啦，不错，一表人才！\n派你去训练场历练历练。\n那里还会爆矿洞级装备，正好适合你",
+      "flyshoes": 0,
+      "flyshoespos": [
+        {
+          "map": 1,
+          "npcid": 106,
+          "range": 0,
+          "x": 468,
+          "y": 312
+        }
+      ],
+      "id": 3,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:初入比奇|",
+      "schedule": 0,
+      "specialeffects": "eff_wcrw",
+      "state": 301,
+      "task": "前往比奇找|C:0x28ee01&T:老兵|，接受考验",
+      "taskbutton": 1,
+      "taskname": {
+        "type": 1
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": "\n|C:0xfc21ed&T:【特色】||C:0x318aff&T:全部装备打怪爆|\n|C:0xfc21ed&T:【激情】||C:0x318aff&T:升级快、PK爽|\n|C:0xfc21ed&T:【承诺】||C:0x318aff&T:金币永久保值\n|C:0xfc21ed&T:【福利】||C:0x318aff&T:商城道具绑金全买|"
+    },
+    "302": {
+      "NpcName": "[主线]初入比奇",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 30000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1500,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 303,
+          "taskid": 3
+        }
+      ],
+      "completebutton": 0,
+      "description": "把你送到训练场，看看你的实力。\n这里还能打基础装备哦",
+      "flyshoes": 0,
+      "flyshoespos": [
+        {
+          "map": 1,
+          "npcid": 106,
+          "range": 0,
+          "x": 468,
+          "y": 312
+        }
+      ],
+      "id": 3,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:初入比奇|",
+      "noteleport": [
+        246
+      ],
+      "schedule": 0,
+      "specialeffects": "eff_jsrw",
+      "state": 302,
+      "task": "在训练场进行历练",
+      "taskbutton": 0,
+      "taskname": {
+        "type": 1
+      },
+      "taskstate": 0,
+      "tasktarget": "击败4只训练场的稻草人。接受任务开始计数！",
+      "tasktype": 0,
+      "tips": ""
+    },
+    "303": {
+      "NpcName": "[主线]初入比奇",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 30000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1500,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "description": "",
+      "flyshoes": 0,
+      "id": 3,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:初入比奇|",
+      "noteleport": [
+        246,
+        247,
+        248
+      ],
+      "schedule": 1,
+      "specialeffects2": "zi_6",
+      "state": 303,
+      "task": "消灭4只|C:0x28ee01&T:稻草人|",
+      "taskbutton": 0,
+      "taskname": {
+        "type": 1
+      },
+      "taskstate": 1,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": ""
+    }
+  },
+  "4": {
+    "401": {
+      "NpcName": "[主线]泡点升级",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 8,
+      "award": [
+        {
+          "count": 30000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1500,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 30000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1500,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 402,
+          "taskid": 4
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "这么快就消灭4只怪物，很有潜力！\n去泡点升等级吧",
+      "flyshoes": 0,
+      "id": 4,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:泡点升级|",
+      "schedule": 0,
+      "specialeffects": "eff_wcrw",
+      "state": 401,
+      "task": "训练场打完收工\n|C:0x28ee01&T:泡点有经验|赶紧试一试",
+      "taskbutton": 0,
+      "taskname": {
+        "type": 1
+      },
+      "taskstate": 2,
+      "tasktarget": "泡点升到25级",
+      "tasktype": 0,
+      "tips": "\n|C:0xfc21ed&T:【特色】||C:0x318aff&T:全部装备打怪爆|\n|C:0xfc21ed&T:【激情】||C:0x318aff&T:升级快、PK爽|\n|C:0xfc21ed&T:【承诺】||C:0x318aff&T:金币永久保值\n|C:0xfc21ed&T:【福利】||C:0x318aff&T:商城道具绑金全买|"
+    },
+    "402": {
+      "NpcName": "[主线]泡点升级",
+      "acceptbutton": 0,
+      "animation": 0,
+      "automatic": 0,
+      "completebutton": 0,
+      "description": "",
+      "flyshoes": 0,
+      "id": 4,
+      "isauto": 0,
+      "levelTaskschedule": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:泡点升级|",
+      "schedule": 1,
+      "specialeffects": "eff_jsrw",
+      "state": 402,
+      "task": "泡点到|C:0x28ee01&T:25级|",
+      "taskbutton": 0,
+      "taskname": {
+        "type": 1
+      },
+      "tasknametips": "|C:0x318aff&T:原地就能泡点升级，差一点点就到25级了|",
+      "taskstate": 1,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": "|C:0x318aff&T:泡点经验3秒一次\n原地不动就能泡点升级|"
+    },
+    "403": {
+      "NpcName": "[主线]挑战沃玛怪",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 30000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 300,
+          "id": 7,
+          "type": 7
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 30000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 300,
+          "id": 7,
+          "type": 7
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 501,
+          "taskid": 5
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "你变厉害了，去黄龙洞看看吧。\n那里的怪物更强，爆的装备也更好",
+      "flyshoes": 0,
+      "id": 4,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:挑战沃玛怪|",
+      "schedule": 0,
+      "specialeffects": "eff_wcrw",
+      "specialeffects2": "zi_3",
+      "state": 403,
+      "task": "已升到|C:0x28ee01&T:25级|\n可以接受新挑战了",
+      "taskbutton": 1,
+      "taskname": {
+        "type": 1
+      },
+      "taskstate": 2,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": "\n|C:0xfc21ed&T:【特色】||C:0x318aff&T:全部装备打怪爆|\n|C:0xfc21ed&T:【激情】||C:0x318aff&T:升级快、PK爽|\n|C:0xfc21ed&T:【承诺】||C:0x318aff&T:金币永久保值\n|C:0xfc21ed&T:【福利】||C:0x318aff&T:商城道具绑金全买|"
+    }
+  },
+  "5": {
+    "501": {
+      "NpcName": "[主线]挑战沃玛怪",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 30000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 1,
+          "id": 351,
+          "type": 0
+        }
+      ],
+      "completebutton": 0,
+      "description": "",
+      "flyshoes": 0,
+      "flyshoespos": [
+        {
+          "map": 213,
+          "outboard": 1,
+          "x": 38,
+          "y": 25
+        },
+        {
+          "map": 214,
+          "outboard": 1,
+          "x": 19,
+          "y": 16
+        },
+        {
+          "map": 215,
+          "outboard": 1,
+          "x": 19,
+          "y": 16
+        }
+      ],
+      "id": 5,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:挑战沃玛怪|",
+      "noteleport": [
+        213,
+        214,
+        215
+      ],
+      "schedule": 1,
+      "specialeffects": "eff_jsrw",
+      "state": 501,
+      "task": "消灭6只|C:0x28ee01&T:黄龙洞|沃玛怪",
+      "taskbutton": 0,
+      "taskname": {
+        "type": 1
+      },
+      "taskstate": 1,
+      "tasktarget": "击败6只沃玛怪物",
+      "tasktype": 0,
+      "tips": ""
+    },
+    "502": {
+      "NpcName": "[主线]挑战沃玛怪",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 30000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 1,
+          "id": 351,
+          "type": 0
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 30000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 1,
+          "id": 351,
+          "type": 0
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 601,
+          "taskid": 6
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "打怪爆了沃玛装备，实力增强不少。\n升等级学技能，前期随便打",
+      "flyshoes": 0,
+      "id": 5,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:挑战沃玛怪|",
+      "schedule": 0,
+      "specialeffects": "",
+      "state": 502,
+      "task": "怪物已消灭，装备爆不少",
+      "taskbutton": 1,
+      "taskname": {
+        "type": 1
+      },
+      "taskstate": 2,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": "\n|C:0xfc21ed&T:【特色】||C:0x318aff&T:全部装备打怪爆|\n|C:0xfc21ed&T:【激情】||C:0x318aff&T:升级快、PK爽|\n|C:0xfc21ed&T:【承诺】||C:0x318aff&T:金币永久保值\n|C:0xfc21ed&T:【福利】||C:0x318aff&T:商城道具绑金全买|"
+    }
+  },
+  "6": {
+    "601": {
+      "NpcName": "[主线]潜心修炼",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 602,
+          "taskid": 6
+        }
+      ],
+      "completebutton": 0,
+      "description": "安全区能自动泡点，先升到33吧\n升级别忘学技能",
+      "flyshoes": 0,
+      "flyshoespos": [
+        {
+          "map": 213,
+          "outboard": 1,
+          "x": 38,
+          "y": 25
+        },
+        {
+          "map": 214,
+          "outboard": 1,
+          "x": 19,
+          "y": 16
+        },
+        {
+          "map": 215,
+          "outboard": 1,
+          "x": 19,
+          "y": 16
+        }
+      ],
+      "id": 6,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:潜心修炼|",
+      "schedule": 0,
+      "specialeffects": "eff_wcrw",
+      "specialeffects2": "zi_4",
+      "state": 601,
+      "task": "安全区泡点？|C:0x28ee01&T:我来了解一下|",
+      "taskbutton": 0,
+      "taskname": {
+        "type": 1
+      },
+      "taskstate": 1,
+      "tasktarget": "泡点升到33级",
+      "tasktype": 0,
+      "tips": "\n|C:0xfc21ed&T:【特色】||C:0x318aff&T:全部装备打怪爆|\n|C:0xfc21ed&T:【激情】||C:0x318aff&T:升级快、PK爽|\n|C:0xfc21ed&T:【承诺】||C:0x318aff&T:金币永久保值\n|C:0xfc21ed&T:【福利】||C:0x318aff&T:商城道具绑金全买|"
+    },
+    "602": {
+      "NpcName": "[主线]潜心修炼",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 2,
+          "id": 512,
+          "type": 0
+        }
+      ],
+      "completebutton": 0,
+      "description": "",
+      "flyshoes": 0,
+      "flyshoespos": [
+        {
+          "map": 213,
+          "outboard": 1,
+          "x": 38,
+          "y": 25
+        },
+        {
+          "map": 214,
+          "outboard": 1,
+          "x": 19,
+          "y": 16
+        },
+        {
+          "map": 215,
+          "outboard": 1,
+          "x": 19,
+          "y": 16
+        }
+      ],
+      "id": 6,
+      "isauto": 0,
+      "levelTaskschedule": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:潜心修炼|",
+      "schedule": 1,
+      "specialeffects": "eff_jsrw",
+      "state": 602,
+      "task": "泡点到|C:0x28ee01&T:33级|",
+      "taskbutton": 0,
+      "taskname": {
+        "type": 1
+      },
+      "tasknametips": "|C:0x318aff&T:原地就能泡点升级，差一点点就到33级了|",
+      "taskstate": 1,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": "|C:0x318aff&T:泡点经验3秒一次\n原地不动就能泡点升级|\n别忘了|E:-2,4,&U:&C:0x28ee01&T:【技能】|按钮，看看有没有技能可以升"
+    },
+    "603": {
+      "NpcName": "[主线]潜心修炼",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 2,
+          "id": 512,
+          "type": 0
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 2,
+          "id": 512,
+          "type": 0
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 701,
+          "taskid": 7
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "升到了33级，有信心了。还缺金币怎么办？",
+      "flyshoes": 0,
+      "id": 6,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:潜心修炼|",
+      "schedule": 0,
+      "specialeffects": "",
+      "specialeffects2": "zi_5",
+      "state": 603,
+      "task": "已升到|C:0x28ee01&T:33级|，可以领奖励了",
+      "taskbutton": 1,
+      "taskname": {
+        "type": 1
+      },
+      "taskstate": 2,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": "\n|C:0xfc21ed&T:【特色】||C:0x318aff&T:全部装备打怪爆|\n|C:0xfc21ed&T:【激情】||C:0x318aff&T:升级快、PK爽|\n|C:0xfc21ed&T:【承诺】||C:0x318aff&T:金币永久保值\n|C:0xfc21ed&T:【福利】||C:0x318aff&T:商城道具绑金全买|"
+    }
+  },
+  "7": {
+    "701": {
+      "NpcName": "[主线]回收装备",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "description": "",
+      "flyshoes": 0,
+      "id": 7,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:回收装备|",
+      "schedule": 0,
+      "specialeffects": "eff_wcrw",
+      "state": 701,
+      "task": "学会一键回收\n方便以后挂机打金",
+      "taskbutton": 0,
+      "taskname": {
+        "type": 10
+      },
+      "tasknametips": "|C:0x318aff&T:打开背包一键回收装备|",
+      "taskstate": 1,
+      "tasktarget": "进行一键回收",
+      "tasktype": 0,
+      "tips": "\n|C:0xfc21ed&T:【特色】||C:0x318aff&T:全部装备打怪爆|\n|C:0xfc21ed&T:【激情】||C:0x318aff&T:升级快、PK爽|\n|C:0xfc21ed&T:【承诺】||C:0x318aff&T:金币永久保值\n|C:0xfc21ed&T:【福利】||C:0x318aff&T:商城道具绑金全买|"
+    },
+    "702": {
+      "NpcName": "[主线]回收装备",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 801,
+          "taskid": 8
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "学会了一键回收，以后打的各种装备都能回收换金币了。\n游戏金币永久保值",
+      "flyshoes": 0,
+      "id": 7,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:回收装备|",
+      "schedule": 0,
+      "specialeffects": "",
+      "state": 702,
+      "task": "任务完成\n以后不用的装备可以回收换绑金",
+      "taskbutton": 1,
+      "taskname": {
+        "type": 1
+      },
+      "taskstate": 2,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": "\n|C:0xfc21ed&T:【特色】||C:0x318aff&T:全部装备打怪爆|\n|C:0xfc21ed&T:【激情】||C:0x318aff&T:升级快、PK爽|\n|C:0xfc21ed&T:【承诺】||C:0x318aff&T:金币永久保值\n|C:0xfc21ed&T:【福利】||C:0x318aff&T:商城道具绑金全买|"
+    }
+  },
+  "8": {
+    "801": {
+      "NpcName": "[主线]激战老虎滩",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 1,
+          "id": 358,
+          "type": 0
+        }
+      ],
+      "completebutton": 0,
+      "description": "",
+      "flyshoes": 0,
+      "id": 8,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:激战老虎滩|",
+      "noteleport": [
+        219,
+        217,
+        218
+      ],
+      "schedule": 1,
+      "specialeffects": "eff_wcrw",
+      "state": 801,
+      "task": "消灭6只|C:0x28ee01&T:老虎滩|怪物",
+      "taskbutton": 0,
+      "taskname": {
+        "type": 1
+      },
+      "taskstate": 1,
+      "tasktarget": "击败6只老虎滩的怪物",
+      "tasktype": 0,
+      "tips": ""
+    },
+    "802": {
+      "NpcName": "[主线]激战老虎滩",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 1,
+          "id": 358,
+          "type": 0
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 1,
+          "id": 358,
+          "type": 0
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 901,
+          "taskid": 9
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "穿上打怪爆的祖玛装备，有信心去更难的地图挑战了！",
+      "flyshoes": 0,
+      "id": 8,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:激战老虎滩|",
+      "schedule": 0,
+      "specialeffects": "",
+      "state": 802,
+      "task": "怪物已被击败\n去接受更强的挑战吧",
+      "taskbutton": 1,
+      "taskname": {
+        "type": 1
+      },
+      "taskstate": 2,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": "\n|C:0xfc21ed&T:【特色】||C:0x318aff&T:全部装备打怪爆|\n|C:0xfc21ed&T:【激情】||C:0x318aff&T:升级快、PK爽|\n|C:0xfc21ed&T:【承诺】||C:0x318aff&T:金币永久保值\n|C:0xfc21ed&T:【福利】||C:0x318aff&T:商城道具绑金全买|"
+    }
+  },
+  "9": {
+    "901": {
+      "NpcName": "[主线]厉兵秣马",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 1,
+          "id": 925,
+          "type": 0
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 1,
+          "id": 925,
+          "type": 0
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 902,
+          "taskid": 9
+        }
+      ],
+      "completebutton": 0,
+      "description": "40级可以提升的技能很多。\n战士烈火剑法、法师冰咆哮、道士召唤神兽。\n加油吧少年！",
+      "flyshoes": 0,
+      "id": 9,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:厉兵秣马|",
+      "schedule": 0,
+      "specialeffects": "eff_wcrw",
+      "state": 901,
+      "task": "40级在召唤你",
+      "taskbutton": 1,
+      "taskname": {
+        "type": 1
+      },
+      "taskstate": 2,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": ""
+    },
+    "902": {
+      "NpcName": "[主线]厉兵秣马",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "description": "",
+      "flyshoes": 0,
+      "id": 9,
+      "isauto": 1,
+      "levelTaskschedule": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:厉兵秣马|",
+      "schedule": 1,
+      "specialeffects": "eff_jsrw",
+      "state": 902,
+      "task": "泡点到|C:0x28ee01&T:40级|",
+      "taskbutton": 0,
+      "taskname": {
+        "type": 1
+      },
+      "tasknametips": "|C:0x318aff&T:原地就能泡点升级，差一点点就到40级了|",
+      "taskstate": 1,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": "|C:0x318aff&T:泡点经验3秒一次\n原地不动就能泡点升级|\n别忘了|E:-2,4,&U:&C:0x28ee01&T:【技能】|按钮，看看有没有技能可以升"
+    },
+    "903": {
+      "NpcName": "[主线]厉兵秣马",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 1001,
+          "taskid": 10
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "等级不错，相信你已经把能学的技能都学好了，记住技能的快捷键是【-】，就在数字【0】的旁边",
+      "flyshoes": 0,
+      "id": 9,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:厉兵秣马|",
+      "schedule": 0,
+      "specialeffects": "",
+      "state": 903,
+      "task": "已升到|C:0x28ee01&T:40级|，可以领奖励了",
+      "taskbutton": 1,
+      "taskname": {
+        "type": 1
+      },
+      "taskstate": 2,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": ""
+    }
+  },
+  "10": {
+    "1001": {
+      "NpcName": "[主线]深入始皇陵",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 1,
+          "id": 157,
+          "type": 0
+        },
+        {
+          "count": 1,
+          "id": 372,
+          "type": 0
+        }
+      ],
+      "completebutton": 0,
+      "flyshoes": 0,
+      "id": 10,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:深入始皇陵|",
+      "noteleport": [
+        221,
+        222,
+        223
+      ],
+      "schedule": 1,
+      "specialeffects": "eff_wcrw",
+      "state": 1001,
+      "task": "消灭8只|C:0x28ee01&T:始皇陵|怪物",
+      "taskbutton": 0,
+      "taskname": {
+        "type": 1
+      },
+      "taskstate": 1,
+      "tasktarget": "击败8只始皇陵的怪物",
+      "tasktype": 0,
+      "teleport": [
+        {
+          "id": 1,
+          "name": "始皇陵1"
+        },
+        {
+          "id": 2,
+          "name": "始皇陵2"
+        },
+        {
+          "id": 3,
+          "name": "始皇陵3"
+        }
+      ],
+      "tips": ""
+    },
+    "1002": {
+      "NpcName": "[主线]深入始皇陵",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 1,
+          "id": 157,
+          "type": 0
+        },
+        {
+          "count": 1,
+          "id": 372,
+          "type": 0
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 1,
+          "id": 157,
+          "type": 0
+        },
+        {
+          "count": 1,
+          "id": 372,
+          "type": 0
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 1101,
+          "taskid": 11
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "有了炎之祖玛装备，以前的装备就可以回收换成金币了",
+      "flyshoes": 0,
+      "id": 10,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:深入始皇陵|",
+      "schedule": 0,
+      "specialeffects": "",
+      "state": 1002,
+      "task": "怪物已被击败\n去接受更强的挑战吧",
+      "taskbutton": 1,
+      "taskname": {
+        "type": 1
+      },
+      "taskstate": 2,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": "\n|C:0xfc21ed&T:【特色】||C:0x318aff&T:全部装备打怪爆|\n|C:0xfc21ed&T:【激情】||C:0x318aff&T:升级快、PK爽|\n|C:0xfc21ed&T:【承诺】||C:0x318aff&T:金币永久保值\n|C:0xfc21ed&T:【福利】||C:0x318aff&T:商城道具绑金全买|"
+    }
+  },
+  "11": {
+    "1101": {
+      "NpcName": "[主线]回收装备2",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "description": "现在装备需要你自己去打了，换上更好的装备之后，别忘了设置一下把不用的装备回收掉",
+      "flyshoes": 0,
+      "id": 11,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:回收装备2|",
+      "schedule": 1,
+      "specialeffects": "eff_wcrw",
+      "state": 1101,
+      "task": "回收1件装备",
+      "taskbutton": 0,
+      "taskname": {
+        "type": 10
+      },
+      "taskstate": 1,
+      "tasktarget": "回收1件装备",
+      "tasktype": 0,
+      "tips": ""
+    },
+    "1102": {
+      "NpcName": "[主线]回收装备2",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 1201,
+          "taskid": 12
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "你对游戏了解的差不多了，只剩转生的考验还在等待着你",
+      "flyshoes": 0,
+      "id": 11,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:回收装备2|",
+      "schedule": 0,
+      "specialeffects": "",
+      "state": 1102,
+      "task": "回收成功，可以去领奖励了",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 2,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": "\n|C:0xfc21ed&T:【特色】||C:0x318aff&T:全部装备打怪爆|\n|C:0xfc21ed&T:【激情】||C:0x318aff&T:升级快、PK爽|\n|C:0xfc21ed&T:【承诺】||C:0x318aff&T:金币永久保值\n|C:0xfc21ed&T:【福利】||C:0x318aff&T:商城道具绑金全买|"
+    }
+  },
+  "12": {
+    "1201": {
+      "NpcName": "[主线]转生准备",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 1202,
+          "taskid": 12
+        }
+      ],
+      "completebutton": 0,
+      "description": "50级开启转生，你还差一点。\n升级时如果打到转生材料，好好存着",
+      "flyshoes": 0,
+      "id": 12,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:转生准备|",
+      "schedule": 0,
+      "specialeffects": "eff_wcrw",
+      "state": 1201,
+      "task": "等级的考验",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 2,
+      "tasktarget": "升到50级，开转生",
+      "tasktype": 0,
+      "tips": "\n|C:0xfc21ed&T:【特色】||C:0x318aff&T:全部装备打怪爆|\n|C:0xfc21ed&T:【激情】||C:0x318aff&T:升级快、PK爽|\n|C:0xfc21ed&T:【承诺】||C:0x318aff&T:金币永久保值\n|C:0xfc21ed&T:【福利】||C:0x318aff&T:商城道具绑金全买|"
+    },
+    "1202": {
+      "NpcName": "[主线]转生准备",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "description": "",
+      "flyshoes": 0,
+      "id": 12,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:转生准备|",
+      "noteleport": [
+        225,
+        226,
+        257
+      ],
+      "schedule": 1,
+      "specialeffects": "eff_jsrw",
+      "state": 1202,
+      "task": "升到|C:0x28ee01&T:50级|，开转生",
+      "taskbutton": 0,
+      "taskname": {
+        "type": 1
+      },
+      "tasknametips": "|C:0x318aff&T:可以前往推荐地图升级哦|",
+      "taskstate": 1,
+      "tasktarget": "",
+      "tasktype": 0,
+      "teleport": [
+        {
+          "id": 1,
+          "name": "十三陵1"
+        },
+        {
+          "id": 2,
+          "name": "十三陵2"
+        },
+        {
+          "id": 3,
+          "name": "十三陵3"
+        }
+      ],
+      "tips": "|C:0xf56f00&T:↑推荐↑练级↑打宝↑地图↑|"
+    },
+    "1203": {
+      "NpcName": "[主线]转生准备",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 1301,
+          "taskid": 13
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "厉害啊，升到了50级。可以练更高级的技能了！",
+      "flyshoes": 0,
+      "id": 12,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:转生准备|",
+      "schedule": 0,
+      "specialeffects": "",
+      "state": 1203,
+      "task": "已升到|C:0x28ee01&T:50级|，可以转生了",
+      "taskbutton": 1,
+      "taskname": {
+        "type": 1
+      },
+      "taskstate": 2,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": "\n|C:0xfc21ed&T:【特色】||C:0x318aff&T:全部装备打怪爆|\n|C:0xfc21ed&T:【激情】||C:0x318aff&T:升级快、PK爽|\n|C:0xfc21ed&T:【承诺】||C:0x318aff&T:金币永久保值\n|C:0xfc21ed&T:【福利】||C:0x318aff&T:商城道具绑金全买|"
+    }
+  },
+  "13": {
+    "1301": {
+      "NpcName": "[主线]一转轮回",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 1302,
+          "taskid": 13
+        }
+      ],
+      "completebutton": 0,
+      "description": "你的等级已经很高，转生可以提升伤害加成，【角色-转生】可查看，这会是你的重大提升",
+      "flyshoes": 0,
+      "id": 13,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:一转轮回|",
+      "schedule": 0,
+      "specialeffects": "eff_wcrw",
+      "state": 1301,
+      "task": "转生试炼",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 2,
+      "tasktarget": "完成1转",
+      "tasktype": 0,
+      "tips": "\n|C:0xfc21ed&T:【特色】||C:0x318aff&T:全部装备打怪爆|\n|C:0xfc21ed&T:【激情】||C:0x318aff&T:升级快、PK爽|\n|C:0xfc21ed&T:【承诺】||C:0x318aff&T:金币永久保值\n|C:0xfc21ed&T:【福利】||C:0x318aff&T:商城道具绑金全买|"
+    },
+    "1302": {
+      "NpcName": "[主线]一转轮回",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "description": "",
+      "flyshoes": 0,
+      "id": 13,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:一转轮回|",
+      "needitems": [
+        {
+          "item": {
+            "count": 6,
+            "id": 851,
+            "type": 0
+          },
+          "text": "魂火[一转]"
+        },
+        {
+          "item": {
+            "count": 120000,
+            "id": 2,
+            "type": 2
+          },
+          "text": "绑金"
+        }
+      ],
+      "noteleport": [
+        228,
+        229,
+        258
+      ],
+      "schedule": 0,
+      "specialeffects": "eff_jsrw",
+      "state": 1302,
+      "task": "收集材料，完成1转",
+      "taskbutton": 0,
+      "taskname": {
+        "type": 1
+      },
+      "taskstate": 1,
+      "tasktarget": "",
+      "tasktype": 0,
+      "teleport": [
+        {
+          "id": 1,
+          "name": "太阳岛1"
+        },
+        {
+          "id": 2,
+          "name": "太阳岛2"
+        },
+        {
+          "id": 3,
+          "name": "太阳岛3"
+        }
+      ],
+      "tips": "|C:0xf56f00&T:38级以上图↑都爆1转材料|\n推荐1转材料高爆图|C:0xf56f00&T:太阳岛|\n|E:-2,19,&U:&C:0x28ee01&T:白卡会员|送1转全部材料\n|E:-2,23,&U:&C:0x28ee01&T:回收炎之祖玛|装备有绑金"
+    },
+    "1303": {
+      "NpcName": "[主线]一转轮回",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 1401,
+          "taskid": 14
+        },
+        {
+          "state": 50101,
+          "taskid": 501
+        },
+        {
+          "state": 50201,
+          "taskid": 502
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "转生成功了！可以去新地图挑战更强大的怪物。以后有了等级和材料记得及时转生",
+      "flyshoes": 0,
+      "id": 13,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:一转轮回|",
+      "schedule": 0,
+      "specialeffects": "",
+      "state": 1303,
+      "task": "1转已达成",
+      "taskbutton": 1,
+      "taskname": {
+        "type": 1
+      },
+      "taskstate": 2,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": "\n|C:0xfc21ed&T:【特色】||C:0x318aff&T:全部装备打怪爆|\n|C:0xfc21ed&T:【激情】||C:0x318aff&T:升级快、PK爽|\n|C:0xfc21ed&T:【承诺】||C:0x318aff&T:金币永久保值\n|C:0xfc21ed&T:【福利】||C:0x318aff&T:商城道具绑金全买|"
+    }
+  },
+  "14": {
+    "1401": {
+      "NpcName": "[主线]仓库管家",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 1501,
+          "taskid": 15
+        }
+      ],
+      "completebutton": 0,
+      "description": "白卡会员可以开启仓库，仓库格子有限，需要好好利用哦",
+      "flyshoes": 0,
+      "id": 14,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:仓库管家|",
+      "schedule": 0,
+      "specialeffects": "eff_wcrw",
+      "state": 1401,
+      "task": "去找NPC|C:0x28ee01&T:仓库|了解一下",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": 3,
+        "param2": 225,
+        "param3": 151,
+        "type": 4
+      },
+      "taskstate": 2,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": ""
+    }
+  },
+  "15": {
+    "1501": {
+      "NpcName": "[主线]金币回收",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 1601,
+          "taskid": 16
+        }
+      ],
+      "completebutton": 0,
+      "description": "你有多余的绑金？可以在我这里兑换银两哦。也能够兑换成金条、金砖出售",
+      "flyshoes": 0,
+      "id": 15,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:金币回收|",
+      "schedule": 0,
+      "specialeffects": "eff_wcrw",
+      "state": 1501,
+      "task": "去找NPC|C:0x28ee01&T:金币回收|了解一下",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": 3,
+        "param2": 225,
+        "param3": 149,
+        "type": 4
+      },
+      "taskstate": 2,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": ""
+    }
+  },
+  "16": {
+    "1601": {
+      "NpcName": "[主线]膜拜英雄",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 1701,
+          "taskid": 17
+        }
+      ],
+      "completebutton": 0,
+      "description": "本服数得上号的人都在这了，记得每天来膜拜他们",
+      "flyshoes": 0,
+      "id": 16,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:膜拜英雄|",
+      "schedule": 0,
+      "specialeffects": "eff_wcrw",
+      "state": 1601,
+      "task": "去找NPC|C:0x28ee01&T:膜拜英雄|了解一下",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": 3,
+        "param2": 218,
+        "param3": 149,
+        "type": 4
+      },
+      "taskstate": 2,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": ""
+    }
+  },
+  "17": {
+    "1701": {
+      "NpcName": "[主线]装备升星",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 1801,
+          "taskid": 18
+        }
+      ],
+      "completebutton": 0,
+      "description": "升星除了大量基础属性，7星之后还有特殊属性加成。等你有了好的装备，不妨来试一试。",
+      "flyshoes": 0,
+      "id": 17,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:装备升星|",
+      "schedule": 0,
+      "specialeffects": "eff_wcrw",
+      "state": 1701,
+      "task": "去找NPC|C:0x28ee01&T:铁匠铺|了解一下",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": 3,
+        "param2": 220,
+        "param3": 144,
+        "type": 4
+      },
+      "taskstate": 2,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": ""
+    }
+  },
+  "18": {
+    "1801": {
+      "NpcName": "[主线]四象升级",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 1901,
+          "taskid": 19
+        }
+      ],
+      "completebutton": 0,
+      "description": "四象是指青龙、白虎、朱雀、玄武四大神兽。据说40级以上地图的精英和领主都藏了很多四象丹。",
+      "flyshoes": 0,
+      "id": 18,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:四象升级|",
+      "schedule": 0,
+      "specialeffects": "eff_wcrw",
+      "state": 1801,
+      "task": "去找NPC|C:0x28ee01&T:四象神兽|了解一下",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": 3,
+        "param2": 216,
+        "param3": 144,
+        "type": 4
+      },
+      "taskstate": 2,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": ""
+    }
+  },
+  "19": {
+    "1901": {
+      "NpcName": "[主线]鏖战木兰围场",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 1,
+          "id": 512,
+          "type": 0
+        }
+      ],
+      "completebutton": 0,
+      "description": "",
+      "flyshoes": 0,
+      "id": 19,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:鏖战木兰围场|",
+      "noteleport": [
+        231,
+        232,
+        259
+      ],
+      "schedule": 1,
+      "specialeffects": "eff_wcrw",
+      "state": 1901,
+      "task": "击败8只|C:0x28ee01&T:围场|怪物",
+      "taskbutton": 0,
+      "taskname": {
+        "type": 1
+      },
+      "taskstate": 1,
+      "tasktarget": "消灭8只围场怪物",
+      "tasktype": 0,
+      "teleport": [
+        {
+          "id": 1,
+          "name": "围场1"
+        },
+        {
+          "id": 2,
+          "name": "围场2"
+        },
+        {
+          "id": 3,
+          "name": "围场3"
+        }
+      ],
+      "tips": "|C:0xf56f00&T:↑推荐↑打装备↑地图↑|"
+    },
+    "1902": {
+      "NpcName": "[主线]鏖战木兰围场",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 1,
+          "id": 512,
+          "type": 0
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 1,
+          "id": 512,
+          "type": 0
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 2001,
+          "taskid": 20
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "在这里打到了赤月装备，现在可以在前面几张地图放心挂机了。\n反正全部装备打怪爆，提升自己再去打更好的装备",
+      "flyshoes": 0,
+      "id": 19,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:鏖战木兰围场|",
+      "schedule": 0,
+      "specialeffects": "",
+      "state": 1902,
+      "task": "怪物已被击败\n去接受更强的挑战吧",
+      "taskbutton": 1,
+      "taskname": {
+        "type": 1
+      },
+      "taskstate": 2,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": ""
+    }
+  },
+  "20": {
+    "2001": {
+      "NpcName": "[主线]回收装备3",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "description": "现在装备需要你自己去打了，换上更好的装备之后，别忘了设置一下把不用的装备回收掉",
+      "flyshoes": 0,
+      "id": 20,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:回收装备3|",
+      "schedule": 1,
+      "specialeffects": "eff_wcrw",
+      "state": 2001,
+      "task": "回收1件装备",
+      "taskbutton": 0,
+      "taskname": {
+        "type": 10
+      },
+      "taskstate": 1,
+      "tasktarget": "回收1件装备",
+      "tasktype": 0,
+      "tips": ""
+    },
+    "2002": {
+      "NpcName": "[主线]回收装备3",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 2101,
+          "taskid": 21
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "你经受了各种的考验\n接下了解一下游戏的高阶地图吧",
+      "flyshoes": 0,
+      "id": 20,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:回收装备3|",
+      "schedule": 0,
+      "specialeffects": "",
+      "state": 2002,
+      "task": "回收成功，可以去领奖励了",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 2,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": ""
+    }
+  },
+  "21": {
+    "2101": {
+      "NpcName": "[主线]二转轮回",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 2102,
+          "taskid": 21
+        }
+      ],
+      "completebutton": 0,
+      "description": "转生可以提升伤害加成，【角色-转生】可查看，这会是你的重大提升",
+      "flyshoes": 0,
+      "id": 21,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:二转轮回|",
+      "schedule": 0,
+      "specialeffects": "eff_wcrw",
+      "state": 2101,
+      "task": "转生试炼",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 2,
+      "tasktarget": "完成2转",
+      "tasktype": 0,
+      "tips": "\n|C:0xfc21ed&T:【特色】||C:0x318aff&T:全部装备打怪爆|\n|C:0xfc21ed&T:【激情】||C:0x318aff&T:升级快、PK爽|\n|C:0xfc21ed&T:【承诺】||C:0x318aff&T:金币永久保值\n|C:0xfc21ed&T:【福利】||C:0x318aff&T:商城道具绑金全买|"
+    },
+    "2102": {
+      "NpcName": "[主线]二转轮回",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "description": "",
+      "flyshoes": 0,
+      "id": 21,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:二转轮回|",
+      "needitems": [
+        {
+          "item": {
+            "count": 3,
+            "id": 911,
+            "type": 0
+          },
+          "text": "曜石[二转]"
+        },
+        {
+          "item": {
+            "count": 240000,
+            "id": 2,
+            "type": 2
+          },
+          "text": "绑金"
+        }
+      ],
+      "noteleport": [
+        267,
+        268,
+        271
+      ],
+      "schedule": 0,
+      "specialeffects": "eff_jsrw",
+      "state": 2102,
+      "task": "角色55级可进行2转",
+      "taskbutton": 0,
+      "taskname": {
+        "type": 1
+      },
+      "taskstate": 1,
+      "tasktarget": "",
+      "tasktype": 0,
+      "teleport": [
+        {
+          "id": 1,
+          "name": "围场4"
+        },
+        {
+          "id": 2,
+          "name": "围场5"
+        },
+        {
+          "id": 3,
+          "name": "围场6"
+        }
+      ],
+      "tips": "2转材料高爆图|C:0xf56f00&T:↑木兰围场↑|\n|E:-2,19,&U:&C:0x28ee01&T:绿卡会员|专属礼包直升2转\n|E:-2,23,&U:&C:0x28ee01&T:回收赤月装备|有大量绑金"
+    },
+    "2103": {
+      "NpcName": "[主线]二转轮回",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 2201,
+          "taskid": 22
+        },
+        {
+          "state": 50301,
+          "taskid": 503
+        },
+        {
+          "state": 50401,
+          "taskid": 504
+        },
+        {
+          "state": 50501,
+          "taskid": 505
+        },
+        {
+          "state": 50601,
+          "taskid": 506
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "转生成功了！可以去新地图挑战更强大的怪物。以后有了等级和材料记得及时转生",
+      "flyshoes": 0,
+      "id": 21,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:二转轮回|",
+      "schedule": 0,
+      "specialeffects": "",
+      "state": 2103,
+      "task": "2转已达成",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 2,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": ""
+    }
+  },
+  "22": {
+    "2201": {
+      "NpcName": "[主线]天涯海角",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 2301,
+          "taskid": 23
+        }
+      ],
+      "completebutton": 0,
+      "description": "天涯海角是二转开启的地图。\n这里暴击碎片爆率高，要升级暴击特戒可以来",
+      "flyshoes": 0,
+      "id": 22,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:天涯海角|",
+      "schedule": 0,
+      "specialeffects": "eff_wcrw",
+      "state": 2201,
+      "task": "去找NPC|C:0x28ee01&T:天涯海角|了解一下",
+      "taskbutton": 1,
+      "taskname": {
+        "type": 1
+      },
+      "taskstate": 2,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": ""
+    }
+  },
+  "23": {
+    "2301": {
+      "NpcName": "[主线]玉门关",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 2401,
+          "taskid": 24
+        }
+      ],
+      "completebutton": 0,
+      "description": "玉门关是三转开启的地图。\n这里初阶秘籍爆率高，是升级技能的必要材料",
+      "flyshoes": 0,
+      "id": 23,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:玉门关|",
+      "schedule": 0,
+      "specialeffects": "eff_wcrw",
+      "state": 2301,
+      "task": "去找NPC|C:0x28ee01&T:玉门关|了解一下",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": 3,
+        "param2": 210,
+        "param3": 149,
+        "type": 4
+      },
+      "taskstate": 2,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": ""
+    }
+  },
+  "24": {
+    "2401": {
+      "NpcName": "[主线]山海关",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 2501,
+          "taskid": 25
+        }
+      ],
+      "completebutton": 0,
+      "description": "山海关是三转开启的地图\n这里转生材料爆率较高",
+      "flyshoes": 0,
+      "id": 24,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:山海关|",
+      "schedule": 0,
+      "specialeffects": "eff_wcrw",
+      "state": 2401,
+      "task": "去找NPC|C:0x28ee01&T:山海关|了解一下",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": 3,
+        "param2": 210,
+        "param3": 146,
+        "type": 4
+      },
+      "taskstate": 2,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": ""
+    }
+  },
+  "25": {
+    "2501": {
+      "NpcName": "[主线]荒凉之地",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 2601,
+          "taskid": 26
+        }
+      ],
+      "completebutton": 0,
+      "description": "荒凉之地是四转开启的地图，你要提升自己才能挑战。\n这里掉落的配饰是提升战力的好装备",
+      "flyshoes": 0,
+      "id": 25,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:荒凉之地|",
+      "schedule": 0,
+      "specialeffects": "eff_wcrw",
+      "state": 2501,
+      "task": "去找NPC|C:0x28ee01&T:荒凉之地|了解一下",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": 3,
+        "param2": 210,
+        "param3": 144,
+        "type": 4
+      },
+      "taskstate": 2,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": ""
+    }
+  },
+  "26": {
+    "2601": {
+      "NpcName": "[主线]祝福幸运",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 10,
+          "id": 269,
+          "type": 0
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 10,
+          "id": 269,
+          "type": 0
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 2602,
+          "taskid": 26
+        }
+      ],
+      "completebutton": 0,
+      "description": "【角色-祝福】使用祝福油，提升祝福值加幸运。\n先送10瓶祝福油给你体验一下，更多的可要自己打怪爆了。\n38级以上地图都爆，现在就去试试吧",
+      "flyshoes": 0,
+      "id": 26,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:祝福幸运|",
+      "schedule": 0,
+      "specialeffects": "eff_wcrw",
+      "state": 2601,
+      "task": "祝福油加幸运",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 2,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": ""
+    },
+    "2602": {
+      "NpcName": "[主线]祝福幸运",
+      "acceptbutton": 0,
+      "animation": 0,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 1,
+          "id": 512,
+          "type": 0
+        }
+      ],
+      "completebutton": 0,
+      "description": "",
+      "flyshoes": 0,
+      "id": 26,
+      "isauto": 0,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:祝福幸运|",
+      "schedule": 1,
+      "specialeffects": "eff_jsrw",
+      "state": 2602,
+      "task": "获取1瓶|C:0x28ee01&T:祝福油|",
+      "taskbutton": 0,
+      "taskname": {
+        "type": 1
+      },
+      "taskstate": 1,
+      "tasktarget": "【角色-祝福】在各地图挂机均会掉落祝福油",
+      "tasktype": 0,
+      "teleport": [
+        {
+          "id": 1,
+          "name": "兔耳岭1"
+        },
+        {
+          "id": 2,
+          "name": "兔耳岭2"
+        },
+        {
+          "id": 3,
+          "name": "兔耳岭3"
+        }
+      ],
+      "tips": "|C:0xf56f00&T:↑推荐↑打祝福油↑地图↑|"
+    },
+    "2603": {
+      "NpcName": "[主线]祝福幸运",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 1,
+          "id": 512,
+          "type": 0
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 1,
+          "id": 512,
+          "type": 0
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 2701,
+          "taskid": 27
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "现在你已经获得了1瓶祝福油，快去使用吧",
+      "flyshoes": 0,
+      "id": 26,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:祝福幸运|",
+      "schedule": 0,
+      "specialeffects": "",
+      "state": 2603,
+      "task": "已获得1瓶|C:0x28ee01&T:祝福油|",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 2,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": ""
+    }
+  },
+  "27": {
+    "2701": {
+      "NpcName": "[主线]回收装备4",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "description": "现在装备需要你自己去打了，换上更好的装备之后，别忘了设置一下把不用的装备回收掉",
+      "flyshoes": 0,
+      "id": 27,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:回收装备4|",
+      "schedule": 1,
+      "specialeffects": "eff_wcrw",
+      "state": 2701,
+      "task": "回收1件装备",
+      "taskbutton": 0,
+      "taskname": {
+        "type": 10
+      },
+      "taskstate": 1,
+      "tasktarget": "回收1件装备",
+      "tasktype": 0,
+      "tips": ""
+    },
+    "2702": {
+      "NpcName": "[主线]回收装备4",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 2801,
+          "taskid": 28
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "你经受了各种的考验。\n接下来的旅程会更加艰辛，不过来日方长，慢慢成长吧！",
+      "flyshoes": 0,
+      "id": 27,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:回收装备4|",
+      "schedule": 0,
+      "specialeffects": "",
+      "state": 2702,
+      "task": "回收成功，可以去领奖励了",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 2,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": ""
+    }
+  },
+  "28": {
+    "2801": {
+      "NpcName": "[主线]三转轮回",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 1,
+          "id": 512,
+          "type": 0
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 2802,
+          "taskid": 28
+        }
+      ],
+      "completebutton": 0,
+      "description": "你对游戏了解的差不多了，只剩转生的考验还在等待着你。\n转生可以提升伤害加成，进高阶地图。\n【角色-转生】可查看",
+      "flyshoes": 0,
+      "id": 28,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:三转轮回|",
+      "schedule": 0,
+      "specialeffects": "eff_wcrw",
+      "state": 2801,
+      "task": "转生试炼",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 2,
+      "tasktarget": "完成3转",
+      "tasktype": 0,
+      "tips": ""
+    },
+    "2802": {
+      "NpcName": "[主线]三转轮回",
+      "acceptbutton": 0,
+      "animation": 0,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 1,
+          "id": 512,
+          "type": 0
+        }
+      ],
+      "completebutton": 0,
+      "description": "",
+      "flyshoes": 0,
+      "id": 28,
+      "isauto": 0,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:三转轮回|",
+      "schedule": 0,
+      "specialeffects": "eff_jsrw",
+      "state": 2802,
+      "task": "收集材料和绑金，完成3转\n[高级图]怪物强，掉好装备\n[低级图]打金材料效率高",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RoleView",
+        "param2": [
+          2,
+          0
+        ],
+        "type": 3
+      },
+      "taskstate": 1,
+      "tasktarget": "",
+      "tasktype": 0,
+      "teleport": [
+        {
+          "id": 1,
+          "name": "兔耳岭(高级)"
+        },
+        {
+          "id": 2,
+          "name": "木兰围场(低级)"
+        },
+        {
+          "id": 4,
+          "name": "太阳岛(低级)"
+        },
+        {
+          "id": 5,
+          "name": "十三陵(低级)"
+        }
+      ],
+      "tips": "|C:0xf56f00&T:↑以上地图都爆3-4转材料↑|\n|E:-2,19,&U:&C:0x28ee01&T:绿卡会员|专属礼包直升3转\n|E:-2,23,&U:&C:0x28ee01&T:回收装备|可获得绑定金币"
+    },
+    "2803": {
+      "NpcName": "[主线]三转轮回",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 1,
+          "id": 512,
+          "type": 0
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        },
+        {
+          "count": 1,
+          "id": 512,
+          "type": 0
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 2901,
+          "taskid": 29
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "转生成功了！可以去新地图挑战更强大的怪物。以后有了等级和材料记得及时转生",
+      "flyshoes": 0,
+      "id": 28,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:三转轮回|",
+      "schedule": 0,
+      "specialeffects": "",
+      "state": 2803,
+      "task": "3转已达成",
+      "taskbutton": 1,
+      "taskname": {
+        "type": 1
+      },
+      "taskstate": 2,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": ""
+    }
+  },
+  "29": {
+    "2901": {
+      "NpcName": "[主线]回收装备5",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "description": "现在装备需要你自己去打了，换上更好的装备之后，别忘了设置一下把不用的装备回收掉",
+      "flyshoes": 0,
+      "id": 29,
+      "isauto": 0,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:回收装备5|",
+      "schedule": 1,
+      "specialeffects": "eff_wcrw",
+      "state": 2901,
+      "task": "回收1件装备",
+      "taskbutton": 0,
+      "taskname": {
+        "type": 10
+      },
+      "taskstate": 1,
+      "tasktarget": "回收1件装备",
+      "tasktype": 0,
+      "tips": ""
+    },
+    "2902": {
+      "NpcName": "[主线]回收装备5",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 3001,
+          "taskid": 30
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "你对游戏了解的差不多了，只剩转生的考验还在等待着你。\n游戏金币永久保值",
+      "flyshoes": 0,
+      "id": 29,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:回收装备5|",
+      "schedule": 0,
+      "specialeffects": "",
+      "state": 2902,
+      "task": "回收成功，可以去领奖励了",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 2,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": ""
+    }
+  },
+  "30": {
+    "3001": {
+      "NpcName": "[主线]四转轮回",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 3002,
+          "taskid": 30
+        }
+      ],
+      "completebutton": 0,
+      "description": "转生可以提升伤害加成，【角色-转生】可查看，这会是你的重大提升",
+      "flyshoes": 0,
+      "id": 30,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:四转轮回|",
+      "schedule": 0,
+      "specialeffects": "eff_wcrw",
+      "state": 3001,
+      "task": "转生试炼",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 2,
+      "tasktarget": "完成4转",
+      "tasktype": 0,
+      "tips": ""
+    },
+    "3002": {
+      "NpcName": "[主线]四转轮回",
+      "acceptbutton": 0,
+      "animation": 0,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "description": "",
+      "flyshoes": 0,
+      "id": 30,
+      "isauto": 0,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:四转轮回|",
+      "schedule": 0,
+      "specialeffects": "eff_jsrw",
+      "state": 3002,
+      "task": "收集材料和绑金，完成4转\n[高级图]怪物强，掉好装备\n[低级图]打金材料效率高",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RoleView",
+        "param2": [
+          2,
+          0
+        ],
+        "type": 3
+      },
+      "taskstate": 1,
+      "tasktarget": "",
+      "tasktype": 0,
+      "teleport": [
+        {
+          "id": 1,
+          "name": "落凤坡(高级)"
+        },
+        {
+          "id": 2,
+          "name": "兔耳岭(低级)"
+        },
+        {
+          "id": 4,
+          "name": "木兰围场(低级)"
+        },
+        {
+          "id": 5,
+          "name": "太阳岛(低级)"
+        }
+      ],
+      "tips": "|C:0xf56f00&T:↑以上地图都爆3-4转材料↑|\n|E:-2,19,&U:&C:0x28ee01&T:绿卡会员|送4转全部材料\n|E:-2,23,&U:&C:0x28ee01&T:回收装备|可获得绑定金币"
+    },
+    "3003": {
+      "NpcName": "[主线]四转轮回",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 3101,
+          "taskid": 31
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "转生成功了！可以去新地图挑战更强大的怪物。以后有了等级和材料记得及时转生",
+      "flyshoes": 0,
+      "id": 30,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:四转轮回|",
+      "schedule": 0,
+      "specialeffects": "",
+      "state": 3003,
+      "task": "4转已达成，可以去新地图了",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 2,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": ""
+    }
+  },
+  "31": {
+    "3101": {
+      "NpcName": "[主线]天空之城",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "description": "这里是天空之城的入口，那里有强大的怪物和终极的宝物。去之前建议你先在剑门关和荒凉之地好好历练历练，准备好了随时可以出发",
+      "flyshoes": 0,
+      "id": 31,
+      "isauto": 1,
+      "name": "|C:0xff7700&T:[主线]||C:0xff7700&U&T:天空之城|",
+      "schedule": 0,
+      "specialeffects": "eff_wcrw",
+      "state": 3101,
+      "task": "去天空之城的入口看看",
+      "taskbutton": 1,
+      "taskname": {
+        "type": 1
+      },
+      "taskstate": 2,
+      "tasktarget": "",
+      "tasktype": 0,
+      "tips": ""
+    }
+  },
+  "501": {
+    "50101": {
+      "NpcName": "[支线]2品魂玉",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 15000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "completebutton": 0,
+      "flyshoes": 0,
+      "id": 501,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:合成2品魂玉|",
+      "needitems": [
+        {
+          "item": {
+            "count": 2,
+            "id": 869,
+            "type": 0
+          },
+          "text": "材料：1品魂玉"
+        }
+      ],
+      "schedule": 0,
+      "state": 50101,
+      "task": "需两个|C:0x318aff&T:1品魂玉|合成",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RecycleWin",
+        "param2": 1,
+        "param3": 1,
+        "param4": 1,
+        "type": 11
+      },
+      "taskstate": 0,
+      "tasktarget": "合成2品魂玉",
+      "tasktype": 1,
+      "tips": ""
+    },
+    "50102": {
+      "NpcName": "[支线]2品魂玉",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 15000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 15000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "魂玉和勋章都可以合成更高阶\n2级和以上魂玉勋章还有套装效果",
+      "flyshoes": 0,
+      "id": 501,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:合成2品魂玉|",
+      "schedule": 0,
+      "state": 50102,
+      "task": "|C:0x28ee01&T:已完成↑点击↑领绑金|",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    }
+  },
+  "502": {
+    "50201": {
+      "NpcName": "[支线]2阶勋章",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 15000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "completebutton": 0,
+      "flyshoes": 0,
+      "id": 502,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:合成2阶勋章|",
+      "needitems": [
+        {
+          "item": {
+            "count": 2,
+            "id": 880,
+            "type": 0
+          },
+          "text": "材料：1阶勋章"
+        }
+      ],
+      "schedule": 0,
+      "state": 50201,
+      "task": "需两个|C:0x318aff&T:1阶勋章|合成",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RecycleWin",
+        "param2": 1,
+        "param3": 1,
+        "param4": 2,
+        "type": 11
+      },
+      "taskstate": 0,
+      "tasktarget": "合成2阶勋章",
+      "tasktype": 1,
+      "tips": ""
+    },
+    "50202": {
+      "NpcName": "[支线]2阶勋章",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 15000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 15000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "魂玉和勋章都可以合成更高阶\n2级和以上魂玉勋章还有套装效果",
+      "flyshoes": 0,
+      "id": 502,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:合成2阶勋章|",
+      "schedule": 0,
+      "state": 50202,
+      "task": "|C:0x28ee01&T:已完成↑点击↑领绑金|",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    }
+  },
+  "503": {
+    "50301": {
+      "NpcName": "[支线]2级治疗宝玉",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 25000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "completebutton": 0,
+      "flyshoes": 0,
+      "id": 503,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:合成2级治疗宝玉|",
+      "needitems": [
+        {
+          "item": {
+            "count": 3,
+            "id": 891,
+            "type": 0
+          },
+          "text": "材料：1级治疗宝玉"
+        }
+      ],
+      "schedule": 0,
+      "state": 50301,
+      "task": "需三个|C:0x318aff&T:1级治疗宝玉|合成",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RecycleWin",
+        "param2": 1,
+        "param3": 1,
+        "param4": 3,
+        "type": 11
+      },
+      "taskstate": 0,
+      "tasktarget": "合成2级治疗宝玉",
+      "tasktype": 1,
+      "tips": ""
+    },
+    "50302": {
+      "NpcName": "[支线]2级治疗宝玉",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 25000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 25000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "合成更高级的治疗宝玉大大提升回复能力，还有HP和攻魔道加成特殊属性",
+      "flyshoes": 0,
+      "id": 503,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:合成2级治疗宝玉|",
+      "schedule": 0,
+      "state": 50302,
+      "task": "|C:0x28ee01&T:已完成↑点击↑领绑金|",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    }
+  },
+  "504": {
+    "50401": {
+      "NpcName": "[支线]修罗斗笠",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 35000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "completebutton": 0,
+      "flyshoes": 0,
+      "id": 504,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:合成修罗斗笠|",
+      "needitems": [
+        {
+          "item": {
+            "count": 3,
+            "id": 351,
+            "type": 0
+          },
+          "text": "材料：地狱斗笠(30级)"
+        }
+      ],
+      "schedule": 0,
+      "state": 50401,
+      "task": "需三个|C:0x318aff&T:地狱斗笠(30级)|合成",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RecycleWin",
+        "param2": 1,
+        "param3": 1,
+        "param4": 4,
+        "type": 11
+      },
+      "taskstate": 0,
+      "tasktarget": "合成修罗斗笠(40级)",
+      "tasktype": 1,
+      "tips": ""
+    },
+    "50402": {
+      "NpcName": "[支线]修罗斗笠",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 35000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 35000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "神装一共有四件，都可以通过合成成为更高阶装备",
+      "flyshoes": 0,
+      "id": 504,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:合成修罗斗笠|",
+      "schedule": 0,
+      "state": 50402,
+      "task": "|C:0x28ee01&T:已完成↑点击↑领绑金|",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    }
+  },
+  "505": {
+    "50501": {
+      "NpcName": "[支线]修罗盾牌",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 35000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "completebutton": 0,
+      "flyshoes": 0,
+      "id": 505,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:合成修罗盾牌|",
+      "needitems": [
+        {
+          "item": {
+            "count": 3,
+            "id": 372,
+            "type": 0
+          },
+          "text": "材料：地狱盾牌(30级)"
+        }
+      ],
+      "schedule": 0,
+      "state": 50501,
+      "task": "需三个|C:0x318aff&T:地狱盾牌(30级)|合成",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RecycleWin",
+        "param2": 1,
+        "param3": 1,
+        "param4": 5,
+        "type": 11
+      },
+      "taskstate": 0,
+      "tasktarget": "合成修罗盾牌(40级)",
+      "tasktype": 1,
+      "tips": ""
+    },
+    "50502": {
+      "NpcName": "[支线]修罗盾牌",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 35000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 35000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "神装一共有四件，都可以通过合成成为更高阶装备",
+      "flyshoes": 0,
+      "id": 505,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:合成修罗盾牌|",
+      "schedule": 0,
+      "state": 50502,
+      "task": "|C:0x28ee01&T:已完成↑点击↑领绑金|",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    }
+  },
+  "506": {
+    "50601": {
+      "NpcName": "[支线]修罗面甲",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 35000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "completebutton": 0,
+      "flyshoes": 0,
+      "id": 506,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:合成修罗面甲|",
+      "needitems": [
+        {
+          "item": {
+            "count": 3,
+            "id": 358,
+            "type": 0
+          },
+          "text": "材料：地狱面甲(30级)"
+        }
+      ],
+      "schedule": 0,
+      "state": 50601,
+      "task": "需三个|C:0x318aff&T:地狱面甲(30级)|合成",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RecycleWin",
+        "param2": 1,
+        "param3": 1,
+        "param4": 6,
+        "type": 11
+      },
+      "taskstate": 0,
+      "tasktarget": "合成修罗面甲(40级)",
+      "tasktype": 1,
+      "tips": ""
+    },
+    "50602": {
+      "NpcName": "[支线]修罗面甲",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 35000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 35000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "神装一共有四件，都可以通过合成成为更高阶装备",
+      "flyshoes": 0,
+      "id": 506,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:合成修罗面甲|",
+      "schedule": 0,
+      "state": 50602,
+      "task": "|C:0x28ee01&T:已完成↑点击↑领绑金|",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    }
+  },
+  "507": {
+    "50701": {
+      "NpcName": "[支线]修炼内功",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 35000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 2,
+          "id": 1013,
+          "type": 0
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 50702,
+          "taskid": 507
+        }
+      ],
+      "completebutton": 0,
+      "description": "五转开启【技能-内功】系统。升级经脉需要内功百会丹，据说只有【天空之城-雪山之巅-马卡鲁峰】的雪怪会掉落这些材料",
+      "flyshoes": 0,
+      "id": 507,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:修炼内功|",
+      "schedule": 0,
+      "state": 50701,
+      "task": "修炼内功提升角色回血、瞬回药品回复率、生命上限和主属性",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "击败马卡鲁峰雪怪",
+      "tasktype": 1,
+      "tips": ""
+    },
+    "50702": {
+      "NpcName": "[支线]修炼内功",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 35000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 2,
+          "id": 1013,
+          "type": 0
+        }
+      ],
+      "completebutton": 0,
+      "description": "",
+      "flyshoes": 0,
+      "id": 507,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:修炼内功|",
+      "schedule": 1,
+      "state": 50702,
+      "task": "击败马卡鲁峰的雪怪",
+      "taskbutton": 0,
+      "taskname": {
+        "type": 1
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": "|C:0xf56f00&T:这里的雪怪会掉落内功百会丹|"
+    },
+    "50703": {
+      "NpcName": "[支线]修炼内功",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 35000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 2,
+          "id": 1013,
+          "type": 0
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 35000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 2,
+          "id": 1013,
+          "type": 0
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "内功能提升角色回血、瞬回药品回复率、生命上限和主属性，磨刀不误砍柴工，尽可能提升内功是不错的选择",
+      "flyshoes": 0,
+      "id": 507,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:修炼内功|",
+      "schedule": 0,
+      "state": 50703,
+      "task": "怪物已经消灭",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    }
+  },
+  "508": {
+    "50801": {
+      "NpcName": "[支线]内功小成",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 35000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 2,
+          "id": 1014,
+          "type": 0
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 50802,
+          "taskid": 508
+        }
+      ],
+      "completebutton": 0,
+      "description": "开服60天开启更高等级的内功系统。继续升级内功需要内功神庭丹，据说只有【天空之城-雪山之巅-干城章嘉峰】的雪怪会掉落这些材料",
+      "flyshoes": 0,
+      "id": 508,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:内功小成|",
+      "schedule": 0,
+      "state": 50801,
+      "task": "修炼内功提升角色回血、瞬回药品回复率、生命上限和主属性",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "击败干城章嘉峰雪怪",
+      "tasktype": 1,
+      "tips": ""
+    },
+    "50802": {
+      "NpcName": "[支线]内功小成",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 35000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 2,
+          "id": 1014,
+          "type": 0
+        }
+      ],
+      "completebutton": 0,
+      "flyshoes": 0,
+      "id": 508,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:内功小成|",
+      "schedule": 1,
+      "state": 50802,
+      "task": "击败干城章嘉峰峰的雪怪",
+      "taskbutton": 0,
+      "taskname": {
+        "type": 1
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    },
+    "50803": {
+      "NpcName": "[支线]内功小成",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 35000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 2,
+          "id": 1014,
+          "type": 0
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 35000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 2,
+          "id": 1014,
+          "type": 0
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "内功能提升角色回血、瞬回药品回复率、生命上限和主属性，磨刀不误砍柴工，尽可能提升内功是不错的选择",
+      "flyshoes": 0,
+      "id": 508,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:内功小成|",
+      "schedule": 0,
+      "state": 50803,
+      "task": "怪物已经消灭",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    }
+  },
+  "509": {
+    "50901": {
+      "NpcName": "[支线]矿洞装备",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "description": "你身上的装备有些简陋，我把你送到了训练场，在这打点基础装备吧",
+      "flyshoes": 0,
+      "id": 509,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:矿洞装备|",
+      "schedule": 1,
+      "state": 50901,
+      "task": "穿戴|C:0x28ee01&T:3件矿洞装备|",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RoleView",
+        "param2": [
+          0,
+          0
+        ],
+        "type": 3
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": "|C:0xfc21ed&T:【本服】||C:0x318aff&T:全部装备打怪爆|\n|C:0xfc21ed&T:【永久】||C:0x318aff&T:小怪也能爆终极|"
+    },
+    "50902": {
+      "NpcName": "[支线]矿洞装备",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 51001,
+          "taskid": 510
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "这么快就打到3件装备了，爆率很高啊！\n有了装备，打怪更厉害了\n|C:0xfc21ed&T:【特色】||C:0x318aff&T:全部装备打怪爆|\n|C:0xfc21ed&T:【激情】||C:0x318aff&T:升级快、PK爽|\n|C:0xfc21ed&T:【承诺】||C:0x318aff&T:金币永久保值\n|C:0xfc21ed&T:【福利】||C:0x318aff&T:商城道具绑金全买|",
+      "flyshoes": 0,
+      "id": 509,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:矿洞装备|",
+      "schedule": 0,
+      "state": 50902,
+      "task": "|C:0x28ee01&T:已达成↑点击领奖|",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    }
+  },
+  "510": {
+    "51001": {
+      "NpcName": "[支线]沃玛装备",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "description": "",
+      "flyshoes": 0,
+      "id": 510,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:沃玛装备|",
+      "schedule": 1,
+      "state": 51001,
+      "task": "穿戴|C:0x28ee01&T:6件沃玛装备|",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RoleView",
+        "param2": [
+          0,
+          0
+        ],
+        "type": 3
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": "|C:0xfc21ed&T:【本服】||C:0x318aff&T:全部装备打怪爆|\n|C:0xfc21ed&T:【永久】||C:0x318aff&T:小怪也能爆终极|"
+    },
+    "51002": {
+      "NpcName": "[支线]沃玛装备",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 51101,
+          "taskid": 511
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "沃玛装备已集齐，你的表现不错，再接再厉！\n|C:0xfc21ed&T:【特色】||C:0x318aff&T:全部装备打怪爆||\n|C:0xfc21ed&T:【承诺】||C:0x318aff&T:金币永久保值",
+      "flyshoes": 0,
+      "id": 510,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:沃玛装备|",
+      "schedule": 0,
+      "state": 51002,
+      "task": "|C:0x28ee01&T:已达成↑点击领奖|",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    }
+  },
+  "511": {
+    "51101": {
+      "NpcName": "[支线]祖玛装备",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "description": "",
+      "flyshoes": 0,
+      "id": 511,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:祖玛装备|",
+      "schedule": 1,
+      "state": 51101,
+      "task": "穿戴|C:0x28ee01&T:6件祖玛装备|",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RoleView",
+        "param2": [
+          0,
+          0
+        ],
+        "type": 3
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": "|C:0xfc21ed&T:【本服】||C:0x318aff&T:全部装备打怪爆|\n|C:0xfc21ed&T:【永久】||C:0x318aff&T:小怪也能爆终极|"
+    },
+    "51102": {
+      "NpcName": "[支线]祖玛装备",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 52101,
+          "taskid": 10521
+        },
+        {
+          "state": 52201,
+          "taskid": 20522
+        },
+        {
+          "state": 52301,
+          "taskid": 30523
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "祖玛装备已集齐，你的表现不错，再接再厉！\n|C:0xfc21ed&T:【特色】||C:0x318aff&T:全部装备打怪爆||\n|C:0xfc21ed&T:【承诺】||C:0x318aff&T:金币永久保值",
+      "flyshoes": 0,
+      "id": 511,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:祖玛装备|",
+      "schedule": 0,
+      "state": 51102,
+      "task": "|C:0x28ee01&T:已达成↑点击领奖|",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    }
+  },
+  "512": {
+    "51201": {
+      "NpcName": "[支线]炎之祖玛",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "description": "",
+      "flyshoes": 0,
+      "id": 512,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:炎之祖玛|",
+      "schedule": 1,
+      "state": 51201,
+      "task": "穿戴|C:0x28ee01&T:6件炎之祖玛|",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RoleView",
+        "param2": [
+          0,
+          0
+        ],
+        "type": 3
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": "|C:0xfc21ed&T:【本服】||C:0x318aff&T:全部装备打怪爆|\n|C:0xfc21ed&T:【永久】||C:0x318aff&T:小怪也能爆终极|"
+    },
+    "51202": {
+      "NpcName": "[支线]炎之祖玛",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 52401,
+          "taskid": 10524
+        },
+        {
+          "state": 52501,
+          "taskid": 20525
+        },
+        {
+          "state": 52601,
+          "taskid": 30526
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "炎之祖玛装备已集齐，你的表现不错，再接再厉！\n|C:0xfc21ed&T:【特色】||C:0x318aff&T:全部装备打怪爆||\n|C:0xfc21ed&T:【承诺】||C:0x318aff&T:金币永久保值",
+      "flyshoes": 0,
+      "id": 512,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:炎之祖玛|",
+      "schedule": 0,
+      "state": 51202,
+      "task": "|C:0x28ee01&T:已达成↑点击领奖|",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    }
+  },
+  "513": {
+    "51301": {
+      "NpcName": "[支线]赤月装备",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "description": "",
+      "flyshoes": 0,
+      "id": 513,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:赤月装备|",
+      "schedule": 1,
+      "state": 51301,
+      "task": "穿戴|C:0x28ee01&T:6件赤月装备|",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RoleView",
+        "param2": [
+          0,
+          0
+        ],
+        "type": 3
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": "|C:0xfc21ed&T:【本服】||C:0x318aff&T:全部装备打怪爆|\n|C:0xfc21ed&T:【永久】||C:0x318aff&T:小怪也能爆终极|"
+    },
+    "51302": {
+      "NpcName": "[支线]赤月装备",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 51401,
+          "taskid": 514
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "赤月装备已集齐，你的表现不错，再接再厉！\n|C:0xfc21ed&T:【特色】||C:0x318aff&T:全部装备打怪爆||\n|C:0xfc21ed&T:【承诺】||C:0x318aff&T:金币永久保值",
+      "flyshoes": 0,
+      "id": 513,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:赤月装备|",
+      "schedule": 0,
+      "state": 51302,
+      "task": "|C:0x28ee01&T:已达成↑点击领奖|",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    }
+  },
+  "514": {
+    "51401": {
+      "NpcName": "[支线]炎之赤月",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "description": "",
+      "flyshoes": 0,
+      "id": 514,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:炎之赤月|",
+      "schedule": 1,
+      "state": 51401,
+      "task": "穿戴|C:0x28ee01&T:6件炎之赤月|",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RoleView",
+        "param2": [
+          0,
+          0
+        ],
+        "type": 3
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": "|C:0xfc21ed&T:【本服】||C:0x318aff&T:全部装备打怪爆|\n|C:0xfc21ed&T:【永久】||C:0x318aff&T:小怪也能爆终极|"
+    },
+    "51402": {
+      "NpcName": "[支线]炎之赤月",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 51501,
+          "taskid": 515
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "炎之赤月装备已集齐，你的表现不错，再接再厉！\n|C:0xfc21ed&T:【特色】||C:0x318aff&T:全部装备打怪爆||\n|C:0xfc21ed&T:【承诺】||C:0x318aff&T:金币永久保值",
+      "flyshoes": 0,
+      "id": 514,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:炎之赤月|",
+      "schedule": 0,
+      "state": 51402,
+      "task": "|C:0x28ee01&T:已达成↑点击领奖|",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    }
+  },
+  "515": {
+    "51501": {
+      "NpcName": "[支线]魔龙装备",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "description": "",
+      "flyshoes": 0,
+      "id": 515,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:魔龙装备|",
+      "schedule": 1,
+      "state": 51501,
+      "task": "穿戴|C:0x28ee01&T:7件魔龙装备|",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RoleView",
+        "param2": [
+          0,
+          0
+        ],
+        "type": 3
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": "|C:0xfc21ed&T:【本服】||C:0x318aff&T:全部装备打怪爆|\n|C:0xfc21ed&T:【永久】||C:0x318aff&T:小怪也能爆终极|"
+    },
+    "51502": {
+      "NpcName": "[支线]魔龙装备",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 51601,
+          "taskid": 516
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "魔龙装备已集齐，你的表现不错，再接再厉！\n|C:0xfc21ed&T:【特色】||C:0x318aff&T:全部装备打怪爆||\n|C:0xfc21ed&T:【承诺】||C:0x318aff&T:金币永久保值",
+      "flyshoes": 0,
+      "id": 515,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:魔龙装备|",
+      "schedule": 0,
+      "state": 51502,
+      "task": "|C:0x28ee01&T:已达成↑点击领奖|",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    }
+  },
+  "516": {
+    "51601": {
+      "NpcName": "[支线]炎之魔龙",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "description": "",
+      "flyshoes": 0,
+      "id": 516,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:炎之魔龙|",
+      "schedule": 1,
+      "state": 51601,
+      "task": "穿戴|C:0x28ee01&T:7件炎之魔龙|",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RoleView",
+        "param2": [
+          0,
+          0
+        ],
+        "type": 3
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": "|C:0xfc21ed&T:【本服】||C:0x318aff&T:全部装备打怪爆|\n|C:0xfc21ed&T:【永久】||C:0x318aff&T:小怪也能爆终极|"
+    },
+    "51602": {
+      "NpcName": "[支线]炎之魔龙",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 51701,
+          "taskid": 517
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "炎之魔龙装备已集齐，你的表现不错，再接再厉！\n|C:0xfc21ed&T:【特色】||C:0x318aff&T:全部装备打怪爆||\n|C:0xfc21ed&T:【承诺】||C:0x318aff&T:金币永久保值",
+      "flyshoes": 0,
+      "id": 516,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:炎之魔龙|",
+      "schedule": 0,
+      "state": 51602,
+      "task": "|C:0x28ee01&T:已达成↑点击领奖|",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    }
+  },
+  "517": {
+    "51701": {
+      "NpcName": "[支线]强化魔龙",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "description": "",
+      "flyshoes": 0,
+      "id": 517,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:强化魔龙|",
+      "schedule": 1,
+      "state": 51701,
+      "task": "穿戴|C:0x28ee01&T:7件强化魔龙|",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RoleView",
+        "param2": [
+          0,
+          0
+        ],
+        "type": 3
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": "|C:0xfc21ed&T:【本服】||C:0x318aff&T:全部装备打怪爆|\n|C:0xfc21ed&T:【永久】||C:0x318aff&T:小怪也能爆终极|"
+    },
+    "51702": {
+      "NpcName": "[支线]强化魔龙",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 51801,
+          "taskid": 518
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "强化魔龙装备已集齐，你的表现不错，再接再厉！\n|C:0xfc21ed&T:【特色】||C:0x318aff&T:全部装备打怪爆||\n|C:0xfc21ed&T:【承诺】||C:0x318aff&T:金币永久保值",
+      "flyshoes": 0,
+      "id": 517,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:强化魔龙|",
+      "schedule": 0,
+      "state": 51702,
+      "task": "|C:0x28ee01&T:已达成↑点击领奖|",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    }
+  },
+  "518": {
+    "51801": {
+      "NpcName": "[支线]炎之强魔",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "description": "",
+      "flyshoes": 0,
+      "id": 518,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:炎之强魔|",
+      "schedule": 1,
+      "state": 51801,
+      "task": "穿戴|C:0x28ee01&T:7件炎之强魔|",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RoleView",
+        "param2": [
+          0,
+          0
+        ],
+        "type": 3
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    },
+    "51802": {
+      "NpcName": "[支线]炎之强魔",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 51901,
+          "taskid": 519
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "炎之强化魔龙装备已集齐，你的表现不错，再接再厉！\n|C:0xfc21ed&T:【特色】||C:0x318aff&T:全部装备打怪爆||\n|C:0xfc21ed&T:【承诺】||C:0x318aff&T:金币永久保值",
+      "flyshoes": 0,
+      "id": 518,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:炎之强魔|",
+      "schedule": 0,
+      "state": 51802,
+      "task": "|C:0x28ee01&T:已达成↑点击领奖|",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    }
+  },
+  "519": {
+    "51901": {
+      "NpcName": "[支线]战神装备",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "description": "",
+      "flyshoes": 0,
+      "id": 519,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:战神装备|",
+      "schedule": 1,
+      "state": 51901,
+      "task": "穿戴|C:0x28ee01&T:7件战神装备|",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RoleView",
+        "param2": [
+          0,
+          0
+        ],
+        "type": 3
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    },
+    "51902": {
+      "NpcName": "[支线]战神装备",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 52001,
+          "taskid": 520
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "战神装备已集齐，你的表现不错，再接再厉！\n|C:0xfc21ed&T:【特色】||C:0x318aff&T:全部装备打怪爆||\n|C:0xfc21ed&T:【承诺】||C:0x318aff&T:金币永久保值",
+      "flyshoes": 0,
+      "id": 519,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:战神装备|",
+      "schedule": 0,
+      "state": 51902,
+      "task": "|C:0x28ee01&T:已达成↑点击领奖|",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    }
+  },
+  "520": {
+    "52001": {
+      "NpcName": "[支线]炎之战神",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "description": "",
+      "flyshoes": 0,
+      "id": 520,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:炎之战神|",
+      "schedule": 1,
+      "state": 52001,
+      "task": "穿戴|C:0x28ee01&T:7件炎之战神|",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RoleView",
+        "param2": [
+          0,
+          0
+        ],
+        "type": 3
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    },
+    "52002": {
+      "NpcName": "[支线]炎之战神",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "炎之战神装备已集齐，你的表现不错，再接再厉！\n|C:0xfc21ed&T:【特色】||C:0x318aff&T:全部装备打怪爆||\n|C:0xfc21ed&T:【承诺】||C:0x318aff&T:金币永久保值",
+      "flyshoes": 0,
+      "id": 520,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:炎之战神|",
+      "schedule": 0,
+      "state": 52002,
+      "task": "|C:0x28ee01&T:已达成↑点击领奖|",
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    }
+  },
+  "536": {
+    "53601": {
+      "NpcName": "[支线]狂风神戒",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 1,
+      "description": "开服第4天，狂风神戒已开启。\n【角色-神戒-狂风】可查看详细信息。\n升级狂风神戒享攻速加成，攻速效果会提升法师、道士技能伤害百分比，三职业都有效\nPS：打怪掉落的狂风戒指[残]可以回收成狂风碎片",
+      "flyshoes": 0,
+      "id": 536,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:狂风神戒(已开启)|",
+      "schedule": 0,
+      "state": 53601,
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.RoleView",
+        "param2": [
+          3,
+          4
+        ],
+        "type": 3
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": "【角色-神戒-狂风】可查看\n升狂风神戒享攻速加成"
+    }
+  },
+  "537": {
+    "53701": {
+      "NpcName": "[支线]虹魔神戒",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 1,
+      "description": "开服第8天，虹魔神戒已开启。\n【角色-神戒-虹魔】可查看详细信息。\n升级虹魔神戒加吸血特效，持久续航好伙伴。\nPS：打怪掉落的虹魔戒指[残]可以回收成虹魔碎片",
+      "flyshoes": 0,
+      "id": 537,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:虹魔神戒(已开启)|",
+      "schedule": 0,
+      "state": 53701,
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.RoleView",
+        "param2": [
+          3,
+          5
+        ],
+        "type": 3
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": "【角色-神戒-虹魔】可查看\n升虹魔神戒加吸血特效"
+    }
+  },
+  "538": {
+    "53801": {
+      "NpcName": "[支线]护身神戒",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 1,
+      "description": "开服第16天，护身神戒已开启。\n【角色-神戒-护身】可查看详细信息。\n升级护身神戒享护身特效，受到伤害转换成魔法吸收。\nPS：打怪掉落的护身戒指[残]可以回收成护身碎片",
+      "flyshoes": 0,
+      "id": 538,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:护身神戒(已开启)|",
+      "schedule": 0,
+      "state": 53801,
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.RoleView",
+        "param2": [
+          3,
+          6
+        ],
+        "type": 3
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": "【角色-神戒-护身】可查看\n升护身神戒加护身特效"
+    }
+  },
+  "10521": {
+    "52101": {
+      "NpcName": "[支线]烈火剑法Lv2",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "description": "",
+      "flyshoes": 0,
+      "id": 10521,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:烈火剑法Lv2|",
+      "schedule": 1,
+      "state": 52101,
+      "task": "将烈火剑法升至2级",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RoleView",
+        "param2": [
+          1,
+          0
+        ],
+        "type": 3
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    },
+    "52102": {
+      "NpcName": "[支线]烈火剑法Lv2",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 51201,
+          "taskid": 512
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "烈火剑法已升至2级！\n这是战士重要技能，好好利用",
+      "flyshoes": 0,
+      "id": 10521,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:烈火剑法Lv2|",
+      "schedule": 0,
+      "state": 52102,
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": "烈火剑法已升至2级"
+    }
+  },
+  "10524": {
+    "52401": {
+      "NpcName": "[支线]烈火剑法Lv3",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "flyshoes": 0,
+      "id": 10524,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:烈火剑法Lv3|",
+      "schedule": 1,
+      "state": 52401,
+      "task": "将烈火剑法升至3级",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RoleView",
+        "param2": [
+          1,
+          0
+        ],
+        "type": 3
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    },
+    "52402": {
+      "NpcName": "[支线]烈火剑法Lv3",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 51301,
+          "taskid": 513
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "烈火剑法已升至3级！\n这是战士重要技能，好好利用",
+      "flyshoes": 0,
+      "id": 10524,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:烈火剑法Lv3|",
+      "schedule": 0,
+      "state": 52402,
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": "烈火剑法已升至3级"
+    }
+  },
+  "10527": {
+    "52701": {
+      "NpcName": "[支线]烈火剑法Lv5",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "flyshoes": 0,
+      "id": 10527,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:烈火剑法Lv5|",
+      "schedule": 1,
+      "state": 52701,
+      "task": "将烈火剑法升至5级",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RoleView",
+        "param2": [
+          1,
+          0
+        ],
+        "type": 3
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    },
+    "52702": {
+      "NpcName": "[支线]烈火剑法Lv5",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "烈火剑法已升至5级！\n这是战士重要技能，好好利用",
+      "flyshoes": 0,
+      "id": 10527,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:烈火剑法Lv5|",
+      "schedule": 0,
+      "state": 52702,
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": "烈火剑法已升至5级"
+    }
+  },
+  "10530": {
+    "53001": {
+      "NpcName": "[支线]烈火剑法Lv7",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "flyshoes": 0,
+      "id": 10530,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:烈火剑法Lv7|",
+      "schedule": 1,
+      "state": 53001,
+      "task": "将烈火剑法升至7级",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RoleView",
+        "param2": [
+          1,
+          0
+        ],
+        "type": 3
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    },
+    "53002": {
+      "NpcName": "[支线]烈火剑法Lv7",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "烈火剑法已升至7级！\n这是战士重要技能，好好利用",
+      "flyshoes": 0,
+      "id": 10530,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:烈火剑法Lv7|",
+      "schedule": 0,
+      "state": 53002,
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": "烈火剑法已升至7级"
+    }
+  },
+  "10533": {
+    "53301": {
+      "NpcName": "[支线]逐日剑法Lv1",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "flyshoes": 0,
+      "id": 10533,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:逐日剑法Lv1|",
+      "schedule": 1,
+      "state": 53301,
+      "task": "将逐日剑法升至1级",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RoleView",
+        "param2": [
+          1,
+          0
+        ],
+        "type": 3
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    },
+    "53302": {
+      "NpcName": "[支线]逐日剑法Lv1",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "逐日剑法已学习！\n这是战士终极技能，威力巨大",
+      "flyshoes": 0,
+      "id": 10533,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:逐日剑法Lv1|",
+      "schedule": 0,
+      "state": 53302,
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": "将逐日剑法升至1级"
+    }
+  },
+  "20522": {
+    "52201": {
+      "NpcName": "[支线]冰咆哮Lv2",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "flyshoes": 0,
+      "id": 20522,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:冰咆哮Lv2|",
+      "schedule": 1,
+      "state": 52201,
+      "task": "将冰咆哮升至2级",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RoleView",
+        "param2": [
+          1,
+          0
+        ],
+        "type": 3
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    },
+    "52202": {
+      "NpcName": "[支线]冰咆哮Lv2",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 51201,
+          "taskid": 512
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "冰咆哮已升至2级！\n这是法师重要技能，好好利用",
+      "flyshoes": 0,
+      "id": 20522,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:冰咆哮Lv2|",
+      "schedule": 0,
+      "state": 52202,
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": "冰咆哮已升至2级"
+    }
+  },
+  "20525": {
+    "52501": {
+      "NpcName": "[支线]冰咆哮Lv3",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "flyshoes": 0,
+      "id": 20525,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:冰咆哮Lv3|",
+      "schedule": 1,
+      "state": 52501,
+      "task": "将冰咆哮升至3级",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RoleView",
+        "param2": [
+          1,
+          0
+        ],
+        "type": 3
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    },
+    "52502": {
+      "NpcName": "[支线]冰咆哮Lv3",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 51301,
+          "taskid": 513
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "冰咆哮已升至3级！\n这是法师重要技能，好好利用",
+      "flyshoes": 0,
+      "id": 20525,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:冰咆哮Lv3|",
+      "schedule": 0,
+      "state": 52502,
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": "冰咆哮已升至3级"
+    }
+  },
+  "20528": {
+    "52801": {
+      "NpcName": "[支线]冰咆哮Lv5",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "flyshoes": 0,
+      "id": 20528,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:冰咆哮Lv5|",
+      "schedule": 1,
+      "state": 52801,
+      "task": "将冰咆哮升至5级",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RoleView",
+        "param2": [
+          1,
+          0
+        ],
+        "type": 3
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    },
+    "52802": {
+      "NpcName": "[支线]冰咆哮Lv5",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "冰咆哮已升至5级！\n这是法师重要技能，好好利用",
+      "flyshoes": 0,
+      "id": 20528,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:冰咆哮Lv5|",
+      "schedule": 0,
+      "state": 52802,
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": "冰咆哮已升至5级"
+    }
+  },
+  "20531": {
+    "53101": {
+      "NpcName": "[支线]冰咆哮Lv7",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "flyshoes": 0,
+      "id": 20531,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:冰咆哮Lv7|",
+      "schedule": 1,
+      "state": 53101,
+      "task": "将冰咆哮升至7级",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RoleView",
+        "param2": [
+          1,
+          0
+        ],
+        "type": 3
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    },
+    "53102": {
+      "NpcName": "[支线]冰咆哮Lv7",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "冰咆哮已升至7级！\n这是法师重要技能，好好利用",
+      "flyshoes": 0,
+      "id": 20531,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:冰咆哮Lv7|",
+      "schedule": 0,
+      "state": 53102,
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": "冰咆哮已升至7级"
+    }
+  },
+  "20534": {
+    "53401": {
+      "NpcName": "[支线]流星火雨Lv1",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "flyshoes": 0,
+      "id": 20534,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:流星火雨Lv1|",
+      "schedule": 1,
+      "state": 53401,
+      "task": "将流星火雨升至1级",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RoleView",
+        "param2": [
+          1,
+          0
+        ],
+        "type": 3
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    },
+    "53402": {
+      "NpcName": "[支线]流星火雨Lv1",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "流星火雨已学习！\n这是法师终极技能，威力巨大",
+      "flyshoes": 0,
+      "id": 20534,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:流星火雨Lv1|",
+      "schedule": 0,
+      "state": 53402,
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": "将流星火雨升至1级"
+    }
+  },
+  "30523": {
+    "52301": {
+      "NpcName": "[支线]召唤神兽Lv2",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "flyshoes": 0,
+      "id": 30523,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:召唤神兽Lv2|",
+      "schedule": 1,
+      "state": 52301,
+      "task": "将召唤神兽升至2级",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RoleView",
+        "param2": [
+          1,
+          0
+        ],
+        "type": 3
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    },
+    "52302": {
+      "NpcName": "[支线]召唤神兽Lv2",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 51201,
+          "taskid": 512
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "召唤神兽已升至2级！\n这是道士重要技能，好好利用",
+      "flyshoes": 0,
+      "id": 30523,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:召唤神兽Lv2|",
+      "schedule": 0,
+      "state": 52302,
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": "召唤神兽已升至2级"
+    }
+  },
+  "30526": {
+    "52601": {
+      "NpcName": "[支线]召唤神兽Lv3",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "flyshoes": 0,
+      "id": 30526,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:召唤神兽Lv3|",
+      "schedule": 1,
+      "state": 52601,
+      "task": "将召唤神兽升至3级",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RoleView",
+        "param2": [
+          1,
+          0
+        ],
+        "type": 3
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    },
+    "52602": {
+      "NpcName": "[支线]召唤神兽Lv3",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "buttonchange": [
+        {
+          "state": 51301,
+          "taskid": 513
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "召唤神兽已升至3级\n这是道士重要技能，好好利用",
+      "flyshoes": 0,
+      "id": 30526,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:召唤神兽Lv3|",
+      "schedule": 0,
+      "state": 52602,
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": "召唤神兽已升至3级"
+    }
+  },
+  "30529": {
+    "52901": {
+      "NpcName": "[支线]召唤神兽Lv5",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "flyshoes": 0,
+      "id": 30529,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:召唤神兽Lv5|",
+      "schedule": 1,
+      "state": 52901,
+      "task": "将召唤神兽升至5级",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RoleView",
+        "param2": [
+          1,
+          0
+        ],
+        "type": 3
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    },
+    "52902": {
+      "NpcName": "[支线]召唤神兽Lv5",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "召唤神兽已升至5级\n这是道士重要技能，好好利用",
+      "flyshoes": 0,
+      "id": 30529,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:召唤神兽Lv5|",
+      "schedule": 0,
+      "state": 52902,
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": "召唤神兽已升至5级"
+    }
+  },
+  "30532": {
+    "53201": {
+      "NpcName": "[支线]召唤神兽Lv7",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "flyshoes": 0,
+      "id": 30532,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:召唤神兽Lv7|",
+      "schedule": 1,
+      "state": 53201,
+      "task": "将召唤神兽升至7级",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RoleView",
+        "param2": [
+          1,
+          0
+        ],
+        "type": 3
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    },
+    "53202": {
+      "NpcName": "[支线]召唤神兽Lv7",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "召唤神兽已升至7级\n这是道士重要技能，好好利用",
+      "flyshoes": 0,
+      "id": 30532,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:召唤神兽Lv7|",
+      "schedule": 0,
+      "state": 53202,
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": "召唤神兽已升至7级"
+    }
+  },
+  "30535": {
+    "53501": {
+      "NpcName": "[支线]噬血术Lv1",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completebutton": 0,
+      "flyshoes": 0,
+      "id": 30535,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:噬血术Lv1|",
+      "schedule": 1,
+      "state": 53501,
+      "task": "将噬血术升至1级",
+      "taskbutton": 0,
+      "taskname": {
+        "param1": "app.RoleView",
+        "param2": [
+          1,
+          0
+        ],
+        "type": 3
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": ""
+    },
+    "53502": {
+      "NpcName": "[支线]噬血术Lv1",
+      "acceptbutton": 0,
+      "animation": 1,
+      "automatic": 6,
+      "award": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "awarddisplay": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1000,
+          "id": 5,
+          "type": 5
+        }
+      ],
+      "completeSign": 1,
+      "completebutton": 0,
+      "description": "噬血术已学习！\n这是道士终极技能，威力巨大",
+      "flyshoes": 0,
+      "id": 30535,
+      "isauto": 0,
+      "name": "|C:0xd6aa0e&T:[支线]||C:0xd6aa0e&U&T:噬血术Lv1|",
+      "schedule": 0,
+      "state": 53502,
+      "taskbutton": 1,
+      "taskname": {
+        "param1": "app.TaskInfoWin",
+        "type": 7
+      },
+      "taskstate": 0,
+      "tasktarget": "",
+      "tasktype": 1,
+      "tips": "将噬血术升至1级"
+    }
+  }
+}

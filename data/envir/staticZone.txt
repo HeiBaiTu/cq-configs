@@ -1,0 +1,5 @@
+﻿--lua script
+--#include "..\language\LangCode.txt"
+--#include "..\language\LangCode.config"
+--#include ".\StaticFubens.config"
+--#include ".\Scenes.config"

@@ -1,0 +1,25 @@
+{
+  "4": {
+    "ActivityID": 13,
+    "ActivityID2": 41,
+    "noticetips": "沙巴克攻城结束后，城主可通过我来领取专属奖励！/n",
+    "position": 4,
+    "showreward": [
+      {
+        "count": 1,
+        "id": 950,
+        "type": 0
+      },
+      {
+        "count": 1,
+        "id": 1031,
+        "type": 0
+      },
+      {
+        "count": 1,
+        "id": 1032,
+        "type": 0
+      }
+    ]
+  }
+}

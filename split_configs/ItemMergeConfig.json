@@ -1,0 +1,8606 @@
+{
+  "1": {
+    "1": {
+      "1": {
+        "Eid": 1,
+        "buttontxt10": "合成10次",
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 870,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "mergebutton10": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 1,
+        "table": [
+          {
+            "count": 2,
+            "id": 869,
+            "type": 0
+          },
+          {
+            "count": 10000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "2": {
+        "Eid": 2,
+        "buttontxt10": "合成10次",
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 871,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "mergebutton10": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 1,
+        "table": [
+          {
+            "count": 2,
+            "id": 870,
+            "type": 0
+          },
+          {
+            "count": 30000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "3": {
+        "Eid": 3,
+        "buttontxt10": "合成10次",
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 872,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "mergebutton10": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 1,
+        "table": [
+          {
+            "count": 2,
+            "id": 871,
+            "type": 0
+          },
+          {
+            "count": 50000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "4": {
+        "Eid": 4,
+        "buttontxt10": "合成10次",
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 873,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "mergebutton10": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 1,
+        "table": [
+          {
+            "count": 2,
+            "id": 872,
+            "type": 0
+          },
+          {
+            "count": 100000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "5": {
+        "Eid": 5,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 874,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 1,
+        "table": [
+          {
+            "count": 2,
+            "id": 873,
+            "type": 0
+          },
+          {
+            "count": 300000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "6": {
+        "Eid": 6,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 875,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 1,
+        "table": [
+          {
+            "count": 3,
+            "id": 874,
+            "type": 0
+          },
+          {
+            "count": 500000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "7": {
+        "Eid": 7,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 876,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 1,
+        "table": [
+          {
+            "count": 3,
+            "id": 875,
+            "type": 0
+          },
+          {
+            "count": 1000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "8": {
+        "Eid": 8,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 877,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 1,
+        "table": [
+          {
+            "count": 3,
+            "id": 876,
+            "type": 0
+          },
+          {
+            "count": 3000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "9": {
+        "Eid": 9,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 878,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 1,
+        "table": [
+          {
+            "count": 3,
+            "id": 877,
+            "type": 0
+          },
+          {
+            "count": 5000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "10": {
+        "Eid": 10,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 879,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 1,
+        "table": [
+          {
+            "count": 3,
+            "id": 878,
+            "type": 0
+          },
+          {
+            "count": 10000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      }
+    },
+    "2": {
+      "11": {
+        "Eid": 11,
+        "buttontxt10": "合成10次",
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 881,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "mergebutton10": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 2,
+        "table": [
+          {
+            "count": 2,
+            "id": 880,
+            "type": 0
+          },
+          {
+            "count": 10000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "12": {
+        "Eid": 12,
+        "buttontxt10": "合成10次",
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 882,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "mergebutton10": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 2,
+        "table": [
+          {
+            "count": 2,
+            "id": 881,
+            "type": 0
+          },
+          {
+            "count": 30000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "13": {
+        "Eid": 13,
+        "buttontxt10": "合成10次",
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 883,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "mergebutton10": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 2,
+        "table": [
+          {
+            "count": 2,
+            "id": 882,
+            "type": 0
+          },
+          {
+            "count": 50000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "14": {
+        "Eid": 14,
+        "buttontxt10": "合成10次",
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 884,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "mergebutton10": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 2,
+        "table": [
+          {
+            "count": 2,
+            "id": 883,
+            "type": 0
+          },
+          {
+            "count": 100000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "15": {
+        "Eid": 15,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 885,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 2,
+        "table": [
+          {
+            "count": 2,
+            "id": 884,
+            "type": 0
+          },
+          {
+            "count": 300000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "16": {
+        "Eid": 16,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 886,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 2,
+        "table": [
+          {
+            "count": 3,
+            "id": 885,
+            "type": 0
+          },
+          {
+            "count": 500000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "17": {
+        "Eid": 17,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 887,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 2,
+        "table": [
+          {
+            "count": 3,
+            "id": 886,
+            "type": 0
+          },
+          {
+            "count": 1000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "18": {
+        "Eid": 18,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 888,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 2,
+        "table": [
+          {
+            "count": 3,
+            "id": 887,
+            "type": 0
+          },
+          {
+            "count": 3000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "19": {
+        "Eid": 19,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 889,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 2,
+        "table": [
+          {
+            "count": 3,
+            "id": 888,
+            "type": 0
+          },
+          {
+            "count": 5000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "20": {
+        "Eid": 20,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 890,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 2,
+        "table": [
+          {
+            "count": 3,
+            "id": 889,
+            "type": 0
+          },
+          {
+            "count": 10000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      }
+    },
+    "3": {
+      "21": {
+        "Eid": 21,
+        "buttontxt10": "合成10次",
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 892,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "mergebutton10": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 3,
+        "table": [
+          {
+            "count": 3,
+            "id": 891,
+            "type": 0
+          },
+          {
+            "count": 20000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "22": {
+        "Eid": 22,
+        "buttontxt10": "合成10次",
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 893,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "mergebutton10": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 3,
+        "table": [
+          {
+            "count": 3,
+            "id": 892,
+            "type": 0
+          },
+          {
+            "count": 50000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "23": {
+        "Eid": 23,
+        "buttontxt10": "合成10次",
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 894,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "mergebutton10": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 3,
+        "table": [
+          {
+            "count": 3,
+            "id": 893,
+            "type": 0
+          },
+          {
+            "count": 100000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "24": {
+        "Eid": 24,
+        "buttontxt10": "合成10次",
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 895,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "mergebutton10": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 3,
+        "table": [
+          {
+            "count": 3,
+            "id": 894,
+            "type": 0
+          },
+          {
+            "count": 300000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "25": {
+        "Eid": 25,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 896,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 3,
+        "table": [
+          {
+            "count": 3,
+            "id": 895,
+            "type": 0
+          },
+          {
+            "count": 500000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "26": {
+        "Eid": 26,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 897,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 3,
+        "table": [
+          {
+            "count": 3,
+            "id": 896,
+            "type": 0
+          },
+          {
+            "count": 1000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "27": {
+        "Eid": 27,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 898,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 3,
+        "table": [
+          {
+            "count": 3,
+            "id": 897,
+            "type": 0
+          },
+          {
+            "count": 3000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "28": {
+        "Eid": 28,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 899,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 3,
+        "table": [
+          {
+            "count": 3,
+            "id": 898,
+            "type": 0
+          },
+          {
+            "count": 5000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "29": {
+        "Eid": 29,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 900,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 3,
+        "table": [
+          {
+            "count": 3,
+            "id": 899,
+            "type": 0
+          },
+          {
+            "count": 10000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      }
+    },
+    "4": {
+      "30": {
+        "Eid": 30,
+        "buttontxt10": "合成10次",
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 352,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "mergebutton10": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 4,
+        "table": [
+          {
+            "count": 3,
+            "id": 351,
+            "type": 0
+          },
+          {
+            "count": 30000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "31": {
+        "Eid": 31,
+        "buttontxt10": "合成10次",
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 353,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "mergebutton10": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 4,
+        "table": [
+          {
+            "count": 3,
+            "id": 352,
+            "type": 0
+          },
+          {
+            "count": 50000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "32": {
+        "Eid": 32,
+        "buttontxt10": "合成10次",
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 354,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "mergebutton10": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 4,
+        "table": [
+          {
+            "count": 3,
+            "id": 353,
+            "type": 0
+          },
+          {
+            "count": 100000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "33": {
+        "Eid": 33,
+        "buttontxt10": "合成10次",
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 355,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "mergebutton10": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 4,
+        "table": [
+          {
+            "count": 3,
+            "id": 354,
+            "type": 0
+          },
+          {
+            "count": 300000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "34": {
+        "Eid": 34,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 356,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 4,
+        "table": [
+          {
+            "count": 3,
+            "id": 355,
+            "type": 0
+          },
+          {
+            "count": 500000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "35": {
+        "Eid": 35,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 357,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 4,
+        "table": [
+          {
+            "count": 3,
+            "id": 356,
+            "type": 0
+          },
+          {
+            "count": 1000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "36": {
+        "Eid": 36,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 857,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 4,
+        "table": [
+          {
+            "count": 3,
+            "id": 357,
+            "type": 0
+          },
+          {
+            "count": 3000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "37": {
+        "Eid": 37,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 858,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 4,
+        "table": [
+          {
+            "count": 3,
+            "id": 857,
+            "type": 0
+          },
+          {
+            "count": 5000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "38": {
+        "Eid": 38,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 859,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 4,
+        "table": [
+          {
+            "count": 3,
+            "id": 858,
+            "type": 0
+          },
+          {
+            "count": 10000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      }
+    },
+    "5": {
+      "39": {
+        "Eid": 39,
+        "buttontxt10": "合成10次",
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 373,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "mergebutton10": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 5,
+        "table": [
+          {
+            "count": 3,
+            "id": 372,
+            "type": 0
+          },
+          {
+            "count": 30000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "40": {
+        "Eid": 40,
+        "buttontxt10": "合成10次",
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 374,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "mergebutton10": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 5,
+        "table": [
+          {
+            "count": 3,
+            "id": 373,
+            "type": 0
+          },
+          {
+            "count": 50000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "41": {
+        "Eid": 41,
+        "buttontxt10": "合成10次",
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 375,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "mergebutton10": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 5,
+        "table": [
+          {
+            "count": 3,
+            "id": 374,
+            "type": 0
+          },
+          {
+            "count": 100000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "42": {
+        "Eid": 42,
+        "buttontxt10": "合成10次",
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 376,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "mergebutton10": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 5,
+        "table": [
+          {
+            "count": 3,
+            "id": 375,
+            "type": 0
+          },
+          {
+            "count": 300000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "43": {
+        "Eid": 43,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 377,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 5,
+        "table": [
+          {
+            "count": 3,
+            "id": 376,
+            "type": 0
+          },
+          {
+            "count": 500000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "44": {
+        "Eid": 44,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 378,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 5,
+        "table": [
+          {
+            "count": 3,
+            "id": 377,
+            "type": 0
+          },
+          {
+            "count": 1000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "45": {
+        "Eid": 45,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 866,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 5,
+        "table": [
+          {
+            "count": 3,
+            "id": 378,
+            "type": 0
+          },
+          {
+            "count": 3000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "46": {
+        "Eid": 46,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 867,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 5,
+        "table": [
+          {
+            "count": 3,
+            "id": 866,
+            "type": 0
+          },
+          {
+            "count": 5000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "47": {
+        "Eid": 47,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 868,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 5,
+        "table": [
+          {
+            "count": 3,
+            "id": 867,
+            "type": 0
+          },
+          {
+            "count": 10000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      }
+    },
+    "6": {
+      "48": {
+        "Eid": 48,
+        "buttontxt10": "合成10次",
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 359,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "mergebutton10": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 6,
+        "table": [
+          {
+            "count": 3,
+            "id": 358,
+            "type": 0
+          },
+          {
+            "count": 30000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "49": {
+        "Eid": 49,
+        "buttontxt10": "合成10次",
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 360,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "mergebutton10": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 6,
+        "table": [
+          {
+            "count": 3,
+            "id": 359,
+            "type": 0
+          },
+          {
+            "count": 50000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "50": {
+        "Eid": 50,
+        "buttontxt10": "合成10次",
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 361,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "mergebutton10": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 6,
+        "table": [
+          {
+            "count": 3,
+            "id": 360,
+            "type": 0
+          },
+          {
+            "count": 100000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "51": {
+        "Eid": 51,
+        "buttontxt10": "合成10次",
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 362,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "mergebutton10": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 6,
+        "table": [
+          {
+            "count": 3,
+            "id": 361,
+            "type": 0
+          },
+          {
+            "count": 300000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "52": {
+        "Eid": 52,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 363,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 6,
+        "table": [
+          {
+            "count": 3,
+            "id": 362,
+            "type": 0
+          },
+          {
+            "count": 500000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "53": {
+        "Eid": 53,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 364,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 6,
+        "table": [
+          {
+            "count": 3,
+            "id": 363,
+            "type": 0
+          },
+          {
+            "count": 1000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "54": {
+        "Eid": 54,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 860,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 6,
+        "table": [
+          {
+            "count": 3,
+            "id": 364,
+            "type": 0
+          },
+          {
+            "count": 3000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "55": {
+        "Eid": 55,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 861,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 6,
+        "table": [
+          {
+            "count": 3,
+            "id": 860,
+            "type": 0
+          },
+          {
+            "count": 5000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "56": {
+        "Eid": 56,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 862,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 6,
+        "table": [
+          {
+            "count": 3,
+            "id": 861,
+            "type": 0
+          },
+          {
+            "count": 10000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      }
+    },
+    "7": {
+      "57": {
+        "Eid": 57,
+        "buttontxt10": "合成10次",
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 366,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "mergebutton10": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 7,
+        "table": [
+          {
+            "count": 5,
+            "id": 365,
+            "type": 0
+          },
+          {
+            "count": 10000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "58": {
+        "Eid": 58,
+        "buttontxt10": "合成10次",
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 367,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "mergebutton10": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 7,
+        "table": [
+          {
+            "count": 5,
+            "id": 366,
+            "type": 0
+          },
+          {
+            "count": 30000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "59": {
+        "Eid": 59,
+        "buttontxt10": "合成10次",
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 368,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "mergebutton10": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 7,
+        "table": [
+          {
+            "count": 5,
+            "id": 367,
+            "type": 0
+          },
+          {
+            "count": 50000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "60": {
+        "Eid": 60,
+        "buttontxt10": "合成10次",
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 369,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "mergebutton10": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 7,
+        "table": [
+          {
+            "count": 5,
+            "id": 368,
+            "type": 0
+          },
+          {
+            "count": 80000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "61": {
+        "Eid": 61,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 370,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 7,
+        "table": [
+          {
+            "count": 5,
+            "id": 369,
+            "type": 0
+          },
+          {
+            "count": 150000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "62": {
+        "Eid": 62,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 371,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 7,
+        "table": [
+          {
+            "count": 5,
+            "id": 370,
+            "type": 0
+          },
+          {
+            "count": 300000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "63": {
+        "Eid": 63,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 863,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 7,
+        "table": [
+          {
+            "count": 5,
+            "id": 371,
+            "type": 0
+          },
+          {
+            "count": 500000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "64": {
+        "Eid": 64,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 864,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 7,
+        "table": [
+          {
+            "count": 5,
+            "id": 863,
+            "type": 0
+          },
+          {
+            "count": 800000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "65": {
+        "Eid": 65,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 865,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 7,
+        "table": [
+          {
+            "count": 5,
+            "id": 864,
+            "type": 0
+          },
+          {
+            "count": 1200000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      }
+    },
+    "8": {
+      "112": {
+        "Eid": 112,
+        "buttontxt10": "合成10次",
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 995,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "limitTips": "官职九品开放",
+        "mergebutton10": 1,
+        "mergelimit": {
+          "office": 1
+        },
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 8,
+        "table": [
+          {
+            "count": 5,
+            "id": 994,
+            "type": 0
+          },
+          {
+            "count": 500,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "113": {
+        "Eid": 113,
+        "buttontxt10": "合成10次",
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 996,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "limitTips": "官职八品开放",
+        "mergebutton10": 1,
+        "mergelimit": {
+          "office": 2
+        },
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 8,
+        "table": [
+          {
+            "count": 5,
+            "id": 995,
+            "type": 0
+          },
+          {
+            "count": 1000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "114": {
+        "Eid": 114,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 997,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "limitTips": "官职七品开放",
+        "mergelimit": {
+          "office": 3
+        },
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 8,
+        "table": [
+          {
+            "count": 5,
+            "id": 996,
+            "type": 0
+          },
+          {
+            "count": 2000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "115": {
+        "Eid": 115,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 998,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "limitTips": "官职六品开放",
+        "mergelimit": {
+          "office": 4
+        },
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 8,
+        "table": [
+          {
+            "count": 5,
+            "id": 997,
+            "type": 0
+          },
+          {
+            "count": 3000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "116": {
+        "Eid": 116,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 999,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "limitTips": "官职五品开放",
+        "mergelimit": {
+          "office": 5
+        },
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 8,
+        "table": [
+          {
+            "count": 5,
+            "id": 998,
+            "type": 0
+          },
+          {
+            "count": 4000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "117": {
+        "Eid": 117,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 1000,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "limitTips": "官职四品开放",
+        "mergelimit": {
+          "office": 6
+        },
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 8,
+        "table": [
+          {
+            "count": 5,
+            "id": 999,
+            "type": 0
+          },
+          {
+            "count": 5000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "118": {
+        "Eid": 118,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 1001,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "limitTips": "官职四品开放",
+        "mergelimit": {
+          "office": 6
+        },
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 8,
+        "table": [
+          {
+            "count": 5,
+            "id": 1000,
+            "type": 0
+          },
+          {
+            "count": 6000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "243": {
+        "Eid": 243,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 1002,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "limitTips": "官职二品开放",
+        "mergelimit": {
+          "office": 8
+        },
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 8,
+        "table": [
+          {
+            "count": 5,
+            "id": 1001,
+            "type": 0
+          },
+          {
+            "count": 7000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      }
+    },
+    "9": {
+      "137": {
+        "Eid": 137,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 1130,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 60,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 9,
+        "table": [
+          {
+            "count": 3,
+            "id": 879,
+            "type": 0
+          },
+          {
+            "count": 3,
+            "id": 841,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "138": {
+        "Eid": 138,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 1132,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 60,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 9,
+        "table": [
+          {
+            "count": 3,
+            "id": 890,
+            "type": 0
+          },
+          {
+            "count": 3,
+            "id": 841,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "139": {
+        "Eid": 139,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 1134,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 60,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 9,
+        "table": [
+          {
+            "count": 3,
+            "id": 900,
+            "type": 0
+          },
+          {
+            "count": 3,
+            "id": 841,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "140": {
+        "Eid": 140,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 1136,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 60,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 9,
+        "table": [
+          {
+            "count": 3,
+            "id": 859,
+            "type": 0
+          },
+          {
+            "count": 10000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "141": {
+        "Eid": 141,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 1139,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 60,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 9,
+        "table": [
+          {
+            "count": 3,
+            "id": 868,
+            "type": 0
+          },
+          {
+            "count": 10000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "142": {
+        "Eid": 142,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 1137,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 60,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 9,
+        "table": [
+          {
+            "count": 3,
+            "id": 862,
+            "type": 0
+          },
+          {
+            "count": 10000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "143": {
+        "Eid": 143,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 1138,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 60,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 9,
+        "table": [
+          {
+            "count": 3,
+            "id": 865,
+            "type": 0
+          },
+          {
+            "count": 1200000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "144": {
+        "Eid": 144,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 1131,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 60,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 9,
+        "table": [
+          {
+            "count": 3,
+            "id": 1130,
+            "type": 0
+          },
+          {
+            "count": 3,
+            "id": 842,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "145": {
+        "Eid": 145,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 1133,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 60,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 9,
+        "table": [
+          {
+            "count": 3,
+            "id": 1132,
+            "type": 0
+          },
+          {
+            "count": 3,
+            "id": 842,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "146": {
+        "Eid": 146,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 1135,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 60,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 9,
+        "table": [
+          {
+            "count": 3,
+            "id": 1134,
+            "type": 0
+          },
+          {
+            "count": 3,
+            "id": 842,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "147": {
+        "Eid": 147,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 1140,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 60,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 9,
+        "table": [
+          {
+            "count": 3,
+            "id": 1136,
+            "type": 0
+          },
+          {
+            "count": 10000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "148": {
+        "Eid": 148,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 1143,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 60,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 9,
+        "table": [
+          {
+            "count": 3,
+            "id": 1139,
+            "type": 0
+          },
+          {
+            "count": 10000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "149": {
+        "Eid": 149,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 1141,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 60,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 9,
+        "table": [
+          {
+            "count": 3,
+            "id": 1137,
+            "type": 0
+          },
+          {
+            "count": 10000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "150": {
+        "Eid": 150,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 1142,
+          "type": 0
+        },
+        "index": 1,
+        "level": 1,
+        "openserverday": 60,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 9,
+        "table": [
+          {
+            "count": 3,
+            "id": 1138,
+            "type": 0
+          },
+          {
+            "count": 1200000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      }
+    }
+  },
+  "2": {
+    "1": {
+      "130": {
+        "Eid": 130,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 953,
+          "type": 0
+        },
+        "index": 2,
+        "level": 1,
+        "limitTips": "4转绿卡",
+        "mergelimit": {
+          "vip": 2,
+          "zsLevel": 4
+        },
+        "openserverday": 1,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 1,
+            "id": 927,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "131": {
+        "Eid": 131,
+        "circle": 0,
+        "compose": {
+          "count": 2,
+          "id": 953,
+          "type": 0
+        },
+        "index": 2,
+        "level": 1,
+        "limitTips": "6转蓝卡",
+        "mergelimit": {
+          "vip": 3,
+          "zsLevel": 6
+        },
+        "openserverday": 1,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 1,
+            "id": 928,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "133": {
+        "Eid": 133,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1010,
+          "type": 0
+        },
+        "index": 2,
+        "level": 1,
+        "limitTips": "紫卡开放",
+        "mergelimit": {
+          "vip": 4
+        },
+        "openserverday": 1,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 500,
+            "id": 4,
+            "type": 4
+          },
+          {
+            "count": 880000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "兑换"
+      },
+      "156": {
+        "Eid": 156,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 1166,
+          "type": 0
+        },
+        "index": 2,
+        "level": 1,
+        "limitTips": "绿卡会员开启",
+        "mergelimit": {
+          "vip": 2
+        },
+        "openserverday": 1,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 2,
+            "id": 1087,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "236": {
+        "Eid": 236,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1086,
+          "type": 0
+        },
+        "index": 2,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 5,
+            "id": 1087,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "237": {
+        "Eid": 237,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1085,
+          "type": 0
+        },
+        "index": 2,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 5,
+            "id": 1086,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      }
+    },
+    "2": {
+      "119": {
+        "Eid": 119,
+        "circle": 2,
+        "compose": {
+          "count": 5,
+          "id": 997,
+          "type": 0
+        },
+        "index": 2,
+        "level": 1,
+        "limitTips": "官职七品蓝卡",
+        "mergelimit": {
+          "office": 3,
+          "vip": 3
+        },
+        "openserverday": 1,
+        "second_index": 2,
+        "table": [
+          {
+            "count": 1,
+            "id": 1002,
+            "type": 0
+          },
+          {
+            "count": 10000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "兑换"
+      },
+      "120": {
+        "Eid": 120,
+        "circle": 2,
+        "compose": {
+          "count": 5,
+          "id": 998,
+          "type": 0
+        },
+        "index": 2,
+        "level": 1,
+        "limitTips": "官职六品蓝卡",
+        "mergelimit": {
+          "office": 4,
+          "vip": 3
+        },
+        "openserverday": 1,
+        "second_index": 2,
+        "table": [
+          {
+            "count": 1,
+            "id": 1002,
+            "type": 0
+          },
+          {
+            "count": 20000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "兑换"
+      },
+      "121": {
+        "Eid": 121,
+        "circle": 2,
+        "compose": {
+          "count": 5,
+          "id": 999,
+          "type": 0
+        },
+        "index": 2,
+        "level": 1,
+        "limitTips": "官职五品蓝卡",
+        "mergelimit": {
+          "office": 5,
+          "vip": 3
+        },
+        "openserverday": 1,
+        "second_index": 2,
+        "table": [
+          {
+            "count": 1,
+            "id": 1002,
+            "type": 0
+          },
+          {
+            "count": 30000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "兑换"
+      },
+      "126": {
+        "Eid": 126,
+        "circle": 2,
+        "compose": {
+          "count": 2,
+          "id": 1000,
+          "type": 0
+        },
+        "index": 2,
+        "level": 1,
+        "limitTips": "官职四品开放",
+        "mergelimit": {
+          "office": 6
+        },
+        "openserverday": 1,
+        "second_index": 2,
+        "table": [
+          {
+            "count": 1,
+            "id": 1001,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "127": {
+        "Eid": 127,
+        "circle": 2,
+        "compose": {
+          "count": 3,
+          "id": 999,
+          "type": 0
+        },
+        "index": 2,
+        "level": 1,
+        "limitTips": "官职五品开放",
+        "mergelimit": {
+          "office": 5
+        },
+        "openserverday": 1,
+        "second_index": 2,
+        "table": [
+          {
+            "count": 1,
+            "id": 1001,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "128": {
+        "Eid": 128,
+        "circle": 2,
+        "compose": {
+          "count": 4,
+          "id": 998,
+          "type": 0
+        },
+        "index": 2,
+        "level": 1,
+        "limitTips": "官职六品开放",
+        "mergelimit": {
+          "office": 4
+        },
+        "openserverday": 1,
+        "second_index": 2,
+        "table": [
+          {
+            "count": 1,
+            "id": 1001,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "129": {
+        "Eid": 129,
+        "circle": 2,
+        "compose": {
+          "count": 5,
+          "id": 997,
+          "type": 0
+        },
+        "index": 2,
+        "level": 1,
+        "limitTips": "官职七品开放",
+        "mergelimit": {
+          "office": 3
+        },
+        "openserverday": 1,
+        "second_index": 2,
+        "table": [
+          {
+            "count": 1,
+            "id": 1001,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      }
+    },
+    "3": {
+      "122": {
+        "Eid": 122,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1004,
+          "type": 0
+        },
+        "index": 2,
+        "level": 1,
+        "limitTips": "白卡会员开启",
+        "mergelimit": {
+          "vip": 1
+        },
+        "openserverday": 1,
+        "second_index": 3,
+        "table": [
+          {
+            "count": 100,
+            "id": 269,
+            "type": 0
+          },
+          {
+            "count": 1000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "123": {
+        "Eid": 123,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1005,
+          "type": 0
+        },
+        "index": 2,
+        "level": 1,
+        "limitTips": "三转开启",
+        "mergelimit": {
+          "zsLevel": 3
+        },
+        "openserverday": 1,
+        "second_index": 3,
+        "table": [
+          {
+            "count": 500,
+            "id": 239,
+            "type": 0
+          },
+          {
+            "count": 1000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "124": {
+        "Eid": 124,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1006,
+          "type": 0
+        },
+        "index": 2,
+        "level": 1,
+        "limitTips": "绿卡会员开启",
+        "mergelimit": {
+          "vip": 2
+        },
+        "openserverday": 1,
+        "second_index": 3,
+        "table": [
+          {
+            "count": 300,
+            "id": 247,
+            "type": 0
+          },
+          {
+            "count": 1000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "125": {
+        "Eid": 125,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1007,
+          "type": 0
+        },
+        "index": 2,
+        "level": 1,
+        "limitTips": "蓝卡会员开启",
+        "mergelimit": {
+          "vip": 3
+        },
+        "openserverday": 1,
+        "second_index": 3,
+        "table": [
+          {
+            "count": 30,
+            "id": 838,
+            "type": 0
+          },
+          {
+            "count": 25,
+            "id": 421,
+            "type": 0
+          },
+          {
+            "count": 80000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      }
+    },
+    "4": {
+      "151": {
+        "Eid": 151,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 1156,
+          "type": 0
+        },
+        "index": 2,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 4,
+        "table": [
+          {
+            "count": 1,
+            "id": 1164,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "152": {
+        "Eid": 152,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 1152,
+          "type": 0
+        },
+        "index": 2,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 4,
+        "table": [
+          {
+            "count": 6,
+            "id": 1164,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "153": {
+        "Eid": 153,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 1125,
+          "type": 0
+        },
+        "index": 2,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 4,
+        "table": [
+          {
+            "count": 15,
+            "id": 1164,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "154": {
+        "Eid": 154,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 1126,
+          "type": 0
+        },
+        "index": 2,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 4,
+        "table": [
+          {
+            "count": 15,
+            "id": 1164,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "155": {
+        "Eid": 155,
+        "circle": 2,
+        "compose": {
+          "count": 1,
+          "id": 1128,
+          "type": 0
+        },
+        "index": 2,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 2,
+        "redpointlimit": {
+          "zsLevel": 2
+        },
+        "second_index": 4,
+        "table": [
+          {
+            "count": 28,
+            "id": 1164,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      }
+    },
+    "5": {
+      "134": {
+        "Eid": 134,
+        "circle": 10,
+        "compose": {
+          "count": 1,
+          "id": 907,
+          "type": 0
+        },
+        "index": 2,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 10
+        },
+        "second_index": 5,
+        "table": [
+          {
+            "count": 3,
+            "id": 906,
+            "type": 0
+          },
+          {
+            "count": 300,
+            "id": 838,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "135": {
+        "Eid": 135,
+        "circle": 10,
+        "compose": {
+          "count": 1,
+          "id": 917,
+          "type": 0
+        },
+        "index": 2,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "redpointlimit": {
+          "zsLevel": 10
+        },
+        "second_index": 5,
+        "table": [
+          {
+            "count": 3,
+            "id": 916,
+            "type": 0
+          },
+          {
+            "count": 300,
+            "id": 838,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "157": {
+        "Eid": 157,
+        "circle": 10,
+        "compose": {
+          "count": 200,
+          "id": 838,
+          "type": 0
+        },
+        "index": 2,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 30,
+            "id": 480,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "158": {
+        "Eid": 158,
+        "circle": 7,
+        "compose": {
+          "count": 990000,
+          "id": 2,
+          "type": 2
+        },
+        "index": 2,
+        "level": 1,
+        "limitTips": "神魔总等级50级",
+        "mergelimit": {
+          "smLevel": 50
+        },
+        "openserverday": 1,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 10,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "160": {
+        "Eid": 160,
+        "circle": 5,
+        "compose": {
+          "count": 2,
+          "id": 265,
+          "type": 0
+        },
+        "index": 2,
+        "level": 1,
+        "openserverday": 45,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 1015,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "211": {
+        "Eid": 211,
+        "circle": 3,
+        "compose": {
+          "count": 1,
+          "id": 1063,
+          "type": 0
+        },
+        "index": 2,
+        "level": 1,
+        "openserverday": 3,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 5,
+            "id": 1059,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "212": {
+        "Eid": 212,
+        "circle": 3,
+        "compose": {
+          "count": 1,
+          "id": 1064,
+          "type": 0
+        },
+        "index": 2,
+        "level": 1,
+        "openserverday": 3,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 5,
+            "id": 1060,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "213": {
+        "Eid": 213,
+        "circle": 3,
+        "compose": {
+          "count": 1,
+          "id": 1065,
+          "type": 0
+        },
+        "index": 2,
+        "level": 1,
+        "openserverday": 3,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 5,
+            "id": 1061,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "214": {
+        "Eid": 214,
+        "circle": 3,
+        "compose": {
+          "count": 1,
+          "id": 1066,
+          "type": 0
+        },
+        "index": 2,
+        "level": 1,
+        "openserverday": 3,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 5,
+            "id": 1062,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "233": {
+        "Eid": 233,
+        "circle": 7,
+        "compose": {
+          "count": 1,
+          "id": 917,
+          "type": 0
+        },
+        "index": 2,
+        "level": 1,
+        "limitTips": "神魔总等级50级",
+        "mergelimit": {
+          "smLevel": 50
+        },
+        "openserverday": 50,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 300,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "234": {
+        "Eid": 234,
+        "circle": 7,
+        "compose": {
+          "count": 1,
+          "id": 907,
+          "type": 0
+        },
+        "index": 2,
+        "level": 1,
+        "limitTips": "神魔总等级50级",
+        "mergelimit": {
+          "smLevel": 50
+        },
+        "openserverday": 50,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 300,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      }
+    }
+  },
+  "3": {
+    "1": {
+      "68": {
+        "Eid": 68,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 946,
+          "type": 0
+        },
+        "index": 3,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 2,
+            "id": 942,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 943,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 944,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 945,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "69": {
+        "Eid": 69,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 947,
+          "type": 0
+        },
+        "index": 3,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 2,
+            "id": 943,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 942,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 944,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 945,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "70": {
+        "Eid": 70,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 948,
+          "type": 0
+        },
+        "index": 3,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 2,
+            "id": 944,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 942,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 943,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 945,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "71": {
+        "Eid": 71,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 949,
+          "type": 0
+        },
+        "index": 3,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 2,
+            "id": 945,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 942,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 943,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 944,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "231": {
+        "Eid": 231,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1268,
+          "type": 0
+        },
+        "index": 3,
+        "level": 1,
+        "openserverday": 85,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 85
+        },
+        "second_index": 1,
+        "table": [
+          {
+            "count": 2,
+            "id": 946,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 948,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 949,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 947,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "232": {
+        "Eid": 232,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1269,
+          "type": 0
+        },
+        "index": 3,
+        "level": 1,
+        "openserverday": 85,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 85
+        },
+        "second_index": 1,
+        "table": [
+          {
+            "count": 1,
+            "id": 946,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 948,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 949,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 947,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      }
+    },
+    "2": {
+      "72": {
+        "Eid": 72,
+        "circle": 0,
+        "compose": {
+          "count": 20000,
+          "id": 2,
+          "type": 2
+        },
+        "index": 3,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 2,
+        "table": [
+          {
+            "count": 10,
+            "id": 838,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "73": {
+        "Eid": 73,
+        "circle": 0,
+        "compose": {
+          "count": 10,
+          "id": 838,
+          "type": 0
+        },
+        "index": 3,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 2,
+        "table": [
+          {
+            "count": 1,
+            "id": 840,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "78": {
+        "Eid": 78,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 841,
+          "type": 0
+        },
+        "index": 3,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 2,
+        "table": [
+          {
+            "count": 10,
+            "id": 840,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "132": {
+        "Eid": 132,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 842,
+          "type": 0
+        },
+        "index": 3,
+        "level": 1,
+        "openserverday": 15,
+        "second_index": 2,
+        "table": [
+          {
+            "count": 3,
+            "id": 841,
+            "type": 0
+          },
+          {
+            "count": 1000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "兑换"
+      },
+      "238": {
+        "Eid": 238,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 300,
+          "type": 0
+        },
+        "index": 3,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 2,
+        "table": [
+          {
+            "count": 1,
+            "id": 842,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      }
+    }
+  },
+  "4": {
+    "1": {
+      "80": {
+        "Eid": 80,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 761,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 4,
+            "id": 739,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 740,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 741,
+            "type": 0
+          },
+          {
+            "count": 3000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "81": {
+        "Eid": 81,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 762,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 4,
+            "id": 740,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 739,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 741,
+            "type": 0
+          },
+          {
+            "count": 3000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "82": {
+        "Eid": 82,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 763,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 4,
+            "id": 741,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 739,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 740,
+            "type": 0
+          },
+          {
+            "count": 3000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "83": {
+        "Eid": 83,
+        "circle": 6,
+        "compose": {
+          "count": 1,
+          "id": 785,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 50,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 4,
+            "id": 761,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 762,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 763,
+            "type": 0
+          },
+          {
+            "count": 8000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "84": {
+        "Eid": 84,
+        "circle": 6,
+        "compose": {
+          "count": 1,
+          "id": 786,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 50,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 4,
+            "id": 762,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 761,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 763,
+            "type": 0
+          },
+          {
+            "count": 8000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "85": {
+        "Eid": 85,
+        "circle": 6,
+        "compose": {
+          "count": 1,
+          "id": 787,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 50,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 4,
+            "id": 763,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 761,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 762,
+            "type": 0
+          },
+          {
+            "count": 8000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "86": {
+        "Eid": 86,
+        "circle": 999,
+        "compose": {
+          "count": 1,
+          "id": 807,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 4,
+            "id": 785,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 786,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 787,
+            "type": 0
+          },
+          {
+            "count": 1500000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "87": {
+        "Eid": 87,
+        "circle": 999,
+        "compose": {
+          "count": 1,
+          "id": 808,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 4,
+            "id": 786,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 785,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 787,
+            "type": 0
+          },
+          {
+            "count": 1500000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "88": {
+        "Eid": 88,
+        "circle": 999,
+        "compose": {
+          "count": 1,
+          "id": 809,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 4,
+            "id": 787,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 785,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 786,
+            "type": 0
+          },
+          {
+            "count": 1500000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "801": {
+        "Eid": 801,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 749,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 1,
+            "id": 739,
+            "type": 0
+          },
+          {
+            "count": 10,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 20,
+            "id": 855,
+            "type": 0
+          },
+          {
+            "count": 1000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "802": {
+        "Eid": 802,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 761,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 1,
+            "id": 749,
+            "type": 0
+          },
+          {
+            "count": 20,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 40,
+            "id": 855,
+            "type": 0
+          },
+          {
+            "count": 2000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "803": {
+        "Eid": 803,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 773,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 1,
+            "id": 761,
+            "type": 0
+          },
+          {
+            "count": 30,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 60,
+            "id": 855,
+            "type": 0
+          },
+          {
+            "count": 3000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "804": {
+        "Eid": 804,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 785,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 2,
+            "id": 773,
+            "type": 0
+          },
+          {
+            "count": 60,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 100,
+            "id": 855,
+            "type": 0
+          },
+          {
+            "count": 5000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "805": {
+        "Eid": 805,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 797,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 2,
+            "id": 785,
+            "type": 0
+          },
+          {
+            "count": 400,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 150,
+            "id": 855,
+            "type": 0
+          },
+          {
+            "count": 8000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "806": {
+        "Eid": 806,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 1265,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 2,
+            "id": 797,
+            "type": 0
+          },
+          {
+            "count": 1000,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 300,
+            "id": 855,
+            "type": 0
+          },
+          {
+            "count": 12000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "807": {
+        "Eid": 807,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 1372,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 2,
+            "id": 1265,
+            "type": 0
+          },
+          {
+            "count": 2500,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 800,
+            "id": 855,
+            "type": 0
+          },
+          {
+            "count": 30000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      }
+    },
+    "2": {
+      "89": {
+        "Eid": 89,
+        "circle": 4,
+        "compose": {
+          "count": 1,
+          "id": 749,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 2,
+        "table": [
+          {
+            "count": 1,
+            "id": 739,
+            "type": 0
+          },
+          {
+            "count": 60,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 100,
+            "id": 855,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "90": {
+        "Eid": 90,
+        "circle": 4,
+        "compose": {
+          "count": 1,
+          "id": 750,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 2,
+        "table": [
+          {
+            "count": 1,
+            "id": 740,
+            "type": 0
+          },
+          {
+            "count": 60,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 100,
+            "id": 855,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "91": {
+        "Eid": 91,
+        "circle": 4,
+        "compose": {
+          "count": 1,
+          "id": 751,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 2,
+        "table": [
+          {
+            "count": 1,
+            "id": 741,
+            "type": 0
+          },
+          {
+            "count": 60,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 100,
+            "id": 855,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "92": {
+        "Eid": 92,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 773,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 2,
+        "table": [
+          {
+            "count": 1,
+            "id": 749,
+            "type": 0
+          },
+          {
+            "count": 150,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 200,
+            "id": 855,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "93": {
+        "Eid": 93,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 774,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 2,
+        "table": [
+          {
+            "count": 1,
+            "id": 750,
+            "type": 0
+          },
+          {
+            "count": 150,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 200,
+            "id": 855,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "94": {
+        "Eid": 94,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 775,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 2,
+        "table": [
+          {
+            "count": 1,
+            "id": 751,
+            "type": 0
+          },
+          {
+            "count": 150,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 200,
+            "id": 855,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "95": {
+        "Eid": 95,
+        "circle": 6,
+        "compose": {
+          "count": 1,
+          "id": 797,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 50,
+        "second_index": 2,
+        "table": [
+          {
+            "count": 1,
+            "id": 773,
+            "type": 0
+          },
+          {
+            "count": 800,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 400,
+            "id": 855,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "96": {
+        "Eid": 96,
+        "circle": 6,
+        "compose": {
+          "count": 1,
+          "id": 798,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 50,
+        "second_index": 2,
+        "table": [
+          {
+            "count": 1,
+            "id": 774,
+            "type": 0
+          },
+          {
+            "count": 800,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 400,
+            "id": 855,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "97": {
+        "Eid": 97,
+        "circle": 6,
+        "compose": {
+          "count": 1,
+          "id": 799,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 50,
+        "second_index": 2,
+        "table": [
+          {
+            "count": 1,
+            "id": 775,
+            "type": 0
+          },
+          {
+            "count": 800,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 400,
+            "id": 855,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "225": {
+        "Eid": 225,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1265,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 85,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 85
+        },
+        "second_index": 2,
+        "table": [
+          {
+            "count": 1,
+            "id": 797,
+            "type": 0
+          },
+          {
+            "count": 2000,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 500,
+            "id": 855,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "226": {
+        "Eid": 226,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1266,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 85,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 85
+        },
+        "second_index": 2,
+        "table": [
+          {
+            "count": 1,
+            "id": 798,
+            "type": 0
+          },
+          {
+            "count": 2000,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 500,
+            "id": 855,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "227": {
+        "Eid": 227,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1267,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 85,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 85
+        },
+        "second_index": 2,
+        "table": [
+          {
+            "count": 1,
+            "id": 799,
+            "type": 0
+          },
+          {
+            "count": 2000,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 500,
+            "id": 855,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      }
+    },
+    "3": {
+      "98": {
+        "Eid": 98,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 758,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 3,
+        "table": [
+          {
+            "count": 6,
+            "id": 738,
+            "type": 0
+          },
+          {
+            "count": 5,
+            "id": 840,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "99": {
+        "Eid": 99,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 759,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 3,
+        "table": [
+          {
+            "count": 6,
+            "id": 738,
+            "type": 0
+          },
+          {
+            "count": 5,
+            "id": 840,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "100": {
+        "Eid": 100,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 760,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 3,
+        "table": [
+          {
+            "count": 6,
+            "id": 738,
+            "type": 0
+          },
+          {
+            "count": 5,
+            "id": 840,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "101": {
+        "Eid": 101,
+        "circle": 6,
+        "compose": {
+          "count": 1,
+          "id": 782,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 50,
+        "second_index": 3,
+        "table": [
+          {
+            "count": 2,
+            "id": 758,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 759,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 760,
+            "type": 0
+          },
+          {
+            "count": 5,
+            "id": 842,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "102": {
+        "Eid": 102,
+        "circle": 6,
+        "compose": {
+          "count": 1,
+          "id": 783,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 50,
+        "second_index": 3,
+        "table": [
+          {
+            "count": 2,
+            "id": 758,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 759,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 760,
+            "type": 0
+          },
+          {
+            "count": 5,
+            "id": 842,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "103": {
+        "Eid": 103,
+        "circle": 6,
+        "compose": {
+          "count": 1,
+          "id": 784,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 50,
+        "second_index": 3,
+        "table": [
+          {
+            "count": 2,
+            "id": 758,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 759,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 760,
+            "type": 0
+          },
+          {
+            "count": 5,
+            "id": 842,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "104": {
+        "Eid": 104,
+        "circle": 999,
+        "compose": {
+          "count": 1,
+          "id": 806,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 3,
+        "table": [
+          {
+            "count": 2,
+            "id": 758,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 759,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 760,
+            "type": 0
+          },
+          {
+            "count": 5,
+            "id": 842,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "105": {
+        "Eid": 105,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 748,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 3,
+        "table": [
+          {
+            "count": 1,
+            "id": 738,
+            "type": 0
+          },
+          {
+            "count": 10,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 20,
+            "id": 855,
+            "type": 0
+          },
+          {
+            "count": 1000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "106": {
+        "Eid": 106,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 758,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 3,
+        "table": [
+          {
+            "count": 1,
+            "id": 748,
+            "type": 0
+          },
+          {
+            "count": 20,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 40,
+            "id": 855,
+            "type": 0
+          },
+          {
+            "count": 2000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "107": {
+        "Eid": 107,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 770,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 3,
+        "table": [
+          {
+            "count": 1,
+            "id": 758,
+            "type": 0
+          },
+          {
+            "count": 30,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 60,
+            "id": 855,
+            "type": 0
+          },
+          {
+            "count": 3000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "108": {
+        "Eid": 108,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 782,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 3,
+        "table": [
+          {
+            "count": 2,
+            "id": 770,
+            "type": 0
+          },
+          {
+            "count": 60,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 100,
+            "id": 855,
+            "type": 0
+          },
+          {
+            "count": 5000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "109": {
+        "Eid": 109,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 794,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 3,
+        "table": [
+          {
+            "count": 2,
+            "id": 782,
+            "type": 0
+          },
+          {
+            "count": 400,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 150,
+            "id": 855,
+            "type": 0
+          },
+          {
+            "count": 8000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "110": {
+        "Eid": 110,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 1264,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 3,
+        "table": [
+          {
+            "count": 2,
+            "id": 794,
+            "type": 0
+          },
+          {
+            "count": 1000,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 300,
+            "id": 855,
+            "type": 0
+          },
+          {
+            "count": 12000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "111": {
+        "Eid": 111,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 1375,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 3,
+        "table": [
+          {
+            "count": 2,
+            "id": 1264,
+            "type": 0
+          },
+          {
+            "count": 2500,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 800,
+            "id": 855,
+            "type": 0
+          },
+          {
+            "count": 30000000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      }
+    },
+    "4": {
+      "105": {
+        "Eid": 105,
+        "circle": 4,
+        "compose": {
+          "count": 1,
+          "id": 748,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 4,
+        "table": [
+          {
+            "count": 1,
+            "id": 738,
+            "type": 0
+          },
+          {
+            "count": 30,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 100,
+            "id": 856,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "106": {
+        "Eid": 106,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 770,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 4,
+        "table": [
+          {
+            "count": 1,
+            "id": 748,
+            "type": 0
+          },
+          {
+            "count": 80,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 200,
+            "id": 856,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "107": {
+        "Eid": 107,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 771,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 4,
+        "table": [
+          {
+            "count": 1,
+            "id": 748,
+            "type": 0
+          },
+          {
+            "count": 80,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 200,
+            "id": 856,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "108": {
+        "Eid": 108,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 772,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 4,
+        "table": [
+          {
+            "count": 1,
+            "id": 748,
+            "type": 0
+          },
+          {
+            "count": 80,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 200,
+            "id": 856,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "109": {
+        "Eid": 109,
+        "circle": 6,
+        "compose": {
+          "count": 1,
+          "id": 794,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 50,
+        "second_index": 4,
+        "table": [
+          {
+            "count": 1,
+            "id": 770,
+            "type": 0
+          },
+          {
+            "count": 500,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 400,
+            "id": 856,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "110": {
+        "Eid": 110,
+        "circle": 6,
+        "compose": {
+          "count": 1,
+          "id": 795,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 50,
+        "second_index": 4,
+        "table": [
+          {
+            "count": 1,
+            "id": 771,
+            "type": 0
+          },
+          {
+            "count": 500,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 400,
+            "id": 856,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "111": {
+        "Eid": 111,
+        "circle": 6,
+        "compose": {
+          "count": 1,
+          "id": 796,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 50,
+        "second_index": 4,
+        "table": [
+          {
+            "count": 1,
+            "id": 772,
+            "type": 0
+          },
+          {
+            "count": 500,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 400,
+            "id": 856,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "228": {
+        "Eid": 228,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1264,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 85,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 85
+        },
+        "second_index": 4,
+        "table": [
+          {
+            "count": 1,
+            "id": 794,
+            "type": 0
+          },
+          {
+            "count": 1200,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 500,
+            "id": 855,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "229": {
+        "Eid": 229,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1264,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 85,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 85
+        },
+        "second_index": 4,
+        "table": [
+          {
+            "count": 1,
+            "id": 795,
+            "type": 0
+          },
+          {
+            "count": 1200,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 500,
+            "id": 855,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "230": {
+        "Eid": 230,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1264,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 85,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 85
+        },
+        "second_index": 4,
+        "table": [
+          {
+            "count": 1,
+            "id": 796,
+            "type": 0
+          },
+          {
+            "count": 1200,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 500,
+            "id": 855,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      }
+    },
+    "5": {
+      "244": {
+        "Eid": 244,
+        "circle": 4,
+        "compose": {
+          "count": 1,
+          "id": 750,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 749,
+            "type": 0
+          },
+          {
+            "count": 5,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 5,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "245": {
+        "Eid": 245,
+        "circle": 4,
+        "compose": {
+          "count": 1,
+          "id": 751,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 749,
+            "type": 0
+          },
+          {
+            "count": 5,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 5,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "246": {
+        "Eid": 246,
+        "circle": 4,
+        "compose": {
+          "count": 1,
+          "id": 749,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 750,
+            "type": 0
+          },
+          {
+            "count": 5,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 5,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "247": {
+        "Eid": 247,
+        "circle": 4,
+        "compose": {
+          "count": 1,
+          "id": 751,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 750,
+            "type": 0
+          },
+          {
+            "count": 5,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 5,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "248": {
+        "Eid": 248,
+        "circle": 4,
+        "compose": {
+          "count": 1,
+          "id": 749,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 751,
+            "type": 0
+          },
+          {
+            "count": 5,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 5,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "249": {
+        "Eid": 249,
+        "circle": 4,
+        "compose": {
+          "count": 1,
+          "id": 750,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 751,
+            "type": 0
+          },
+          {
+            "count": 5,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 5,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "250": {
+        "Eid": 250,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 774,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 773,
+            "type": 0
+          },
+          {
+            "count": 10,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 10,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "251": {
+        "Eid": 251,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 775,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 773,
+            "type": 0
+          },
+          {
+            "count": 10,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 10,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "252": {
+        "Eid": 252,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 773,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 774,
+            "type": 0
+          },
+          {
+            "count": 10,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 10,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "253": {
+        "Eid": 253,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 775,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 774,
+            "type": 0
+          },
+          {
+            "count": 10,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 10,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "254": {
+        "Eid": 254,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 773,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 775,
+            "type": 0
+          },
+          {
+            "count": 10,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 10,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "255": {
+        "Eid": 255,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 774,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 775,
+            "type": 0
+          },
+          {
+            "count": 10,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 10,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "256": {
+        "Eid": 256,
+        "circle": 6,
+        "compose": {
+          "count": 1,
+          "id": 798,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 50,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 797,
+            "type": 0
+          },
+          {
+            "count": 20,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 20,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "257": {
+        "Eid": 257,
+        "circle": 6,
+        "compose": {
+          "count": 1,
+          "id": 799,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 50,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 797,
+            "type": 0
+          },
+          {
+            "count": 20,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 20,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "258": {
+        "Eid": 258,
+        "circle": 6,
+        "compose": {
+          "count": 1,
+          "id": 797,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 50,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 798,
+            "type": 0
+          },
+          {
+            "count": 20,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 20,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "259": {
+        "Eid": 259,
+        "circle": 6,
+        "compose": {
+          "count": 1,
+          "id": 799,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 50,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 798,
+            "type": 0
+          },
+          {
+            "count": 20,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 20,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "260": {
+        "Eid": 260,
+        "circle": 6,
+        "compose": {
+          "count": 1,
+          "id": 797,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 50,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 799,
+            "type": 0
+          },
+          {
+            "count": 20,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 20,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "261": {
+        "Eid": 261,
+        "circle": 6,
+        "compose": {
+          "count": 1,
+          "id": 798,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 50,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 799,
+            "type": 0
+          },
+          {
+            "count": 20,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 20,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "262": {
+        "Eid": 262,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1266,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 85,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 1265,
+            "type": 0
+          },
+          {
+            "count": 50,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 50,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "263": {
+        "Eid": 263,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1267,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 85,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 1265,
+            "type": 0
+          },
+          {
+            "count": 50,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 50,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "264": {
+        "Eid": 264,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1265,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 85,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 1266,
+            "type": 0
+          },
+          {
+            "count": 50,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 50,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "265": {
+        "Eid": 265,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1267,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 85,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 1266,
+            "type": 0
+          },
+          {
+            "count": 50,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 50,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "266": {
+        "Eid": 266,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1265,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 85,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 1267,
+            "type": 0
+          },
+          {
+            "count": 50,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 50,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "267": {
+        "Eid": 267,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1266,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 85,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 1267,
+            "type": 0
+          },
+          {
+            "count": 50,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 50,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "268": {
+        "Eid": 268,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 771,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 770,
+            "type": 0
+          },
+          {
+            "count": 10,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 10,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "269": {
+        "Eid": 269,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 772,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 770,
+            "type": 0
+          },
+          {
+            "count": 10,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 10,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "270": {
+        "Eid": 270,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 770,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 771,
+            "type": 0
+          },
+          {
+            "count": 10,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 10,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "271": {
+        "Eid": 271,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 772,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 771,
+            "type": 0
+          },
+          {
+            "count": 10,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 10,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "272": {
+        "Eid": 272,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 770,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 772,
+            "type": 0
+          },
+          {
+            "count": 10,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 10,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "273": {
+        "Eid": 273,
+        "circle": 5,
+        "compose": {
+          "count": 1,
+          "id": 771,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 772,
+            "type": 0
+          },
+          {
+            "count": 10,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 10,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "274": {
+        "Eid": 274,
+        "circle": 6,
+        "compose": {
+          "count": 1,
+          "id": 795,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 50,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 794,
+            "type": 0
+          },
+          {
+            "count": 20,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 20,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "275": {
+        "Eid": 275,
+        "circle": 6,
+        "compose": {
+          "count": 1,
+          "id": 796,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 50,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 794,
+            "type": 0
+          },
+          {
+            "count": 20,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 20,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "276": {
+        "Eid": 276,
+        "circle": 6,
+        "compose": {
+          "count": 1,
+          "id": 794,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 50,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 795,
+            "type": 0
+          },
+          {
+            "count": 20,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 20,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "277": {
+        "Eid": 277,
+        "circle": 6,
+        "compose": {
+          "count": 1,
+          "id": 796,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 50,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 795,
+            "type": 0
+          },
+          {
+            "count": 20,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 20,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "278": {
+        "Eid": 278,
+        "circle": 6,
+        "compose": {
+          "count": 1,
+          "id": 794,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 50,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 796,
+            "type": 0
+          },
+          {
+            "count": 20,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 20,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "279": {
+        "Eid": 279,
+        "circle": 6,
+        "compose": {
+          "count": 1,
+          "id": 795,
+          "type": 0
+        },
+        "index": 4,
+        "level": 1,
+        "openserverday": 50,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 1,
+            "id": 796,
+            "type": 0
+          },
+          {
+            "count": 20,
+            "id": 1114,
+            "type": 0
+          },
+          {
+            "count": 20,
+            "id": 970,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      }
+    }
+  },
+  "5": {
+    "1": {
+      "209": {
+        "Eid": 209,
+        "circle": 999,
+        "compose": {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        "index": 5,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 1,
+            "id": 1310,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 1311,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 1312,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 1313,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      }
+    }
+  },
+  "6": {
+    "1": {
+      "167": {
+        "Eid": 167,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1189,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8
+        },
+        "second_index": 1,
+        "table": [
+          {
+            "count": 5,
+            "id": 1188,
+            "type": 0
+          },
+          {
+            "count": 100,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "168": {
+        "Eid": 168,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1190,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8
+        },
+        "second_index": 1,
+        "table": [
+          {
+            "count": 4,
+            "id": 1189,
+            "type": 0
+          },
+          {
+            "count": 200,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "169": {
+        "Eid": 169,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1191,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8
+        },
+        "second_index": 1,
+        "table": [
+          {
+            "count": 3,
+            "id": 1190,
+            "type": 0
+          },
+          {
+            "count": 500,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "170": {
+        "Eid": 170,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1192,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8
+        },
+        "second_index": 1,
+        "table": [
+          {
+            "count": 3,
+            "id": 1191,
+            "type": 0
+          },
+          {
+            "count": 1000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "171": {
+        "Eid": 171,
+        "circle": 7,
+        "compose": {
+          "count": 1,
+          "id": 1193,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8,
+          "zsLevel": 7
+        },
+        "second_index": 1,
+        "table": [
+          {
+            "count": 3,
+            "id": 1192,
+            "type": 0
+          },
+          {
+            "count": 2000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "172": {
+        "Eid": 172,
+        "circle": 7,
+        "compose": {
+          "count": 1,
+          "id": 1194,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8,
+          "zsLevel": 7
+        },
+        "second_index": 1,
+        "table": [
+          {
+            "count": 3,
+            "id": 1193,
+            "type": 0
+          },
+          {
+            "count": 5000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "173": {
+        "Eid": 173,
+        "circle": 7,
+        "compose": {
+          "count": 1,
+          "id": 1195,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8,
+          "zsLevel": 7
+        },
+        "second_index": 1,
+        "table": [
+          {
+            "count": 3,
+            "id": 1194,
+            "type": 0
+          },
+          {
+            "count": 10000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "174": {
+        "Eid": 174,
+        "circle": 10,
+        "compose": {
+          "count": 1,
+          "id": 1196,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8,
+          "zsLevel": 10
+        },
+        "second_index": 1,
+        "table": [
+          {
+            "count": 3,
+            "id": 1195,
+            "type": 0
+          },
+          {
+            "count": 20000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "175": {
+        "Eid": 175,
+        "circle": 10,
+        "compose": {
+          "count": 1,
+          "id": 1197,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8,
+          "zsLevel": 10
+        },
+        "second_index": 1,
+        "table": [
+          {
+            "count": 3,
+            "id": 1196,
+            "type": 0
+          },
+          {
+            "count": 50000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      }
+    },
+    "2": {
+      "176": {
+        "Eid": 176,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1199,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8
+        },
+        "second_index": 2,
+        "table": [
+          {
+            "count": 5,
+            "id": 1198,
+            "type": 0
+          },
+          {
+            "count": 100,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "177": {
+        "Eid": 177,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1200,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8
+        },
+        "second_index": 2,
+        "table": [
+          {
+            "count": 4,
+            "id": 1199,
+            "type": 0
+          },
+          {
+            "count": 200,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "178": {
+        "Eid": 178,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1201,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8
+        },
+        "second_index": 2,
+        "table": [
+          {
+            "count": 3,
+            "id": 1200,
+            "type": 0
+          },
+          {
+            "count": 500,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "179": {
+        "Eid": 179,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1202,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8
+        },
+        "second_index": 2,
+        "table": [
+          {
+            "count": 3,
+            "id": 1201,
+            "type": 0
+          },
+          {
+            "count": 1000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "180": {
+        "Eid": 180,
+        "circle": 7,
+        "compose": {
+          "count": 1,
+          "id": 1203,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8,
+          "zsLevel": 7
+        },
+        "second_index": 2,
+        "table": [
+          {
+            "count": 3,
+            "id": 1202,
+            "type": 0
+          },
+          {
+            "count": 2000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "181": {
+        "Eid": 181,
+        "circle": 7,
+        "compose": {
+          "count": 1,
+          "id": 1204,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8,
+          "zsLevel": 7
+        },
+        "second_index": 2,
+        "table": [
+          {
+            "count": 3,
+            "id": 1203,
+            "type": 0
+          },
+          {
+            "count": 5000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "182": {
+        "Eid": 182,
+        "circle": 7,
+        "compose": {
+          "count": 1,
+          "id": 1205,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8,
+          "zsLevel": 7
+        },
+        "second_index": 2,
+        "table": [
+          {
+            "count": 3,
+            "id": 1204,
+            "type": 0
+          },
+          {
+            "count": 10000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "183": {
+        "Eid": 183,
+        "circle": 10,
+        "compose": {
+          "count": 1,
+          "id": 1206,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8,
+          "zsLevel": 10
+        },
+        "second_index": 2,
+        "table": [
+          {
+            "count": 3,
+            "id": 1205,
+            "type": 0
+          },
+          {
+            "count": 20000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "184": {
+        "Eid": 184,
+        "circle": 10,
+        "compose": {
+          "count": 1,
+          "id": 1207,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8,
+          "zsLevel": 10
+        },
+        "second_index": 2,
+        "table": [
+          {
+            "count": 3,
+            "id": 1206,
+            "type": 0
+          },
+          {
+            "count": 50000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      }
+    },
+    "3": {
+      "185": {
+        "Eid": 185,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1209,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8
+        },
+        "second_index": 3,
+        "table": [
+          {
+            "count": 5,
+            "id": 1208,
+            "type": 0
+          },
+          {
+            "count": 100,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "186": {
+        "Eid": 186,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1210,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8
+        },
+        "second_index": 3,
+        "table": [
+          {
+            "count": 4,
+            "id": 1209,
+            "type": 0
+          },
+          {
+            "count": 200,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "187": {
+        "Eid": 187,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1211,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8
+        },
+        "second_index": 3,
+        "table": [
+          {
+            "count": 3,
+            "id": 1210,
+            "type": 0
+          },
+          {
+            "count": 500,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "188": {
+        "Eid": 188,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1212,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8
+        },
+        "second_index": 3,
+        "table": [
+          {
+            "count": 3,
+            "id": 1211,
+            "type": 0
+          },
+          {
+            "count": 1000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "189": {
+        "Eid": 189,
+        "circle": 7,
+        "compose": {
+          "count": 1,
+          "id": 1213,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8,
+          "zsLevel": 7
+        },
+        "second_index": 3,
+        "table": [
+          {
+            "count": 3,
+            "id": 1212,
+            "type": 0
+          },
+          {
+            "count": 2000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "190": {
+        "Eid": 190,
+        "circle": 7,
+        "compose": {
+          "count": 1,
+          "id": 1214,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8,
+          "zsLevel": 7
+        },
+        "second_index": 3,
+        "table": [
+          {
+            "count": 3,
+            "id": 1213,
+            "type": 0
+          },
+          {
+            "count": 5000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "191": {
+        "Eid": 191,
+        "circle": 7,
+        "compose": {
+          "count": 1,
+          "id": 1215,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8,
+          "zsLevel": 7
+        },
+        "second_index": 3,
+        "table": [
+          {
+            "count": 3,
+            "id": 1214,
+            "type": 0
+          },
+          {
+            "count": 10000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "192": {
+        "Eid": 192,
+        "circle": 10,
+        "compose": {
+          "count": 1,
+          "id": 1216,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8,
+          "zsLevel": 10
+        },
+        "second_index": 3,
+        "table": [
+          {
+            "count": 3,
+            "id": 1215,
+            "type": 0
+          },
+          {
+            "count": 20000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "193": {
+        "Eid": 193,
+        "circle": 10,
+        "compose": {
+          "count": 1,
+          "id": 1217,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8,
+          "zsLevel": 10
+        },
+        "second_index": 3,
+        "table": [
+          {
+            "count": 3,
+            "id": 1216,
+            "type": 0
+          },
+          {
+            "count": 50000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      }
+    },
+    "4": {
+      "194": {
+        "Eid": 194,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1219,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8
+        },
+        "second_index": 4,
+        "table": [
+          {
+            "count": 5,
+            "id": 1218,
+            "type": 0
+          },
+          {
+            "count": 100,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "195": {
+        "Eid": 195,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1220,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8
+        },
+        "second_index": 4,
+        "table": [
+          {
+            "count": 4,
+            "id": 1219,
+            "type": 0
+          },
+          {
+            "count": 200,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "196": {
+        "Eid": 196,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1221,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8
+        },
+        "second_index": 4,
+        "table": [
+          {
+            "count": 3,
+            "id": 1220,
+            "type": 0
+          },
+          {
+            "count": 500,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "197": {
+        "Eid": 197,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1222,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8
+        },
+        "second_index": 4,
+        "table": [
+          {
+            "count": 3,
+            "id": 1221,
+            "type": 0
+          },
+          {
+            "count": 1000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "198": {
+        "Eid": 198,
+        "circle": 7,
+        "compose": {
+          "count": 1,
+          "id": 1223,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8,
+          "zsLevel": 7
+        },
+        "second_index": 4,
+        "table": [
+          {
+            "count": 3,
+            "id": 1222,
+            "type": 0
+          },
+          {
+            "count": 2000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "199": {
+        "Eid": 199,
+        "circle": 7,
+        "compose": {
+          "count": 1,
+          "id": 1224,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8,
+          "zsLevel": 7
+        },
+        "second_index": 4,
+        "table": [
+          {
+            "count": 3,
+            "id": 1223,
+            "type": 0
+          },
+          {
+            "count": 5000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "200": {
+        "Eid": 200,
+        "circle": 7,
+        "compose": {
+          "count": 1,
+          "id": 1225,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8,
+          "zsLevel": 7
+        },
+        "second_index": 4,
+        "table": [
+          {
+            "count": 3,
+            "id": 1224,
+            "type": 0
+          },
+          {
+            "count": 10000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "201": {
+        "Eid": 201,
+        "circle": 10,
+        "compose": {
+          "count": 1,
+          "id": 1226,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8,
+          "zsLevel": 10
+        },
+        "second_index": 4,
+        "table": [
+          {
+            "count": 3,
+            "id": 1225,
+            "type": 0
+          },
+          {
+            "count": 20000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "202": {
+        "Eid": 202,
+        "circle": 10,
+        "compose": {
+          "count": 1,
+          "id": 1227,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 8,
+        "redpoint": 1,
+        "redpointlimit": {
+          "openDay": 8,
+          "zsLevel": 10
+        },
+        "second_index": 4,
+        "table": [
+          {
+            "count": 3,
+            "id": 1226,
+            "type": 0
+          },
+          {
+            "count": 50000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      }
+    },
+    "5": {
+      "203": {
+        "Eid": 203,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1182,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 30,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 2,
+            "id": 1167,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 1172,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 1177,
+            "type": 0
+          },
+          {
+            "count": 3,
+            "id": 840,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "204": {
+        "Eid": 204,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1183,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 30,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 2,
+            "id": 1168,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 1173,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 1178,
+            "type": 0
+          },
+          {
+            "count": 3,
+            "id": 841,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "205": {
+        "Eid": 205,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1184,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 65,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 2,
+            "id": 1169,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 1174,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 1179,
+            "type": 0
+          },
+          {
+            "count": 3,
+            "id": 842,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "222": {
+        "Eid": 222,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 1185,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 85,
+        "second_index": 5,
+        "table": [
+          {
+            "count": 2,
+            "id": 1170,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 1175,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 1180,
+            "type": 0
+          },
+          {
+            "count": 9,
+            "id": 842,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      }
+    },
+    "6": {
+      "206": {
+        "Eid": 206,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 267,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 70,
+        "second_index": 6,
+        "table": [
+          {
+            "count": 3,
+            "id": 1167,
+            "type": 0
+          },
+          {
+            "count": 3,
+            "id": 1172,
+            "type": 0
+          },
+          {
+            "count": 3,
+            "id": 1177,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "207": {
+        "Eid": 207,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 267,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 70,
+        "second_index": 6,
+        "table": [
+          {
+            "count": 2,
+            "id": 1168,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 1173,
+            "type": 0
+          },
+          {
+            "count": 2,
+            "id": 1178,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "208": {
+        "Eid": 208,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 267,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 70,
+        "second_index": 6,
+        "table": [
+          {
+            "count": 1,
+            "id": 1169,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 1174,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 1179,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      }
+    },
+    "7": {
+      "210": {
+        "Eid": 210,
+        "circle": 6,
+        "compose": {
+          "count": 20,
+          "id": 265,
+          "type": 0
+        },
+        "index": 6,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 7,
+        "table": [
+          {
+            "count": 200,
+            "id": 261,
+            "type": 0
+          },
+          {
+            "count": 100000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "兑换"
+      }
+    }
+  },
+  "7": {
+    "1": {
+      "215": {
+        "Eid": 215,
+        "circle": 0,
+        "clicklimit": 1,
+        "compose": {
+          "count": 1,
+          "id": 4,
+          "type": 4
+        },
+        "index": 7,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 1,
+            "id": 825,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "216": {
+        "Eid": 216,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 396,
+          "type": 0
+        },
+        "index": 7,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 1,
+            "id": 828,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "217": {
+        "Eid": 217,
+        "circle": 0,
+        "clicklimit": 1,
+        "compose": {
+          "count": 5,
+          "id": 4,
+          "type": 4
+        },
+        "index": 7,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 1,
+            "id": 826,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "218": {
+        "Eid": 218,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 398,
+          "type": 0
+        },
+        "index": 7,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 2,
+            "id": 828,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "219": {
+        "Eid": 219,
+        "circle": 0,
+        "clicklimit": 1,
+        "compose": {
+          "count": 20,
+          "id": 4,
+          "type": 4
+        },
+        "index": 7,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 1,
+            "id": 827,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "220": {
+        "Eid": 220,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 399,
+          "type": 0
+        },
+        "index": 7,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 3,
+            "id": 828,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      }
+    },
+    "2": {
+      "221": {
+        "Eid": 221,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 826,
+          "type": 0
+        },
+        "index": 7,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 2,
+        "table": [
+          {
+            "count": 3,
+            "id": 825,
+            "type": 0
+          },
+          {
+            "count": 10000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "223": {
+        "Eid": 223,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 827,
+          "type": 0
+        },
+        "index": 7,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 2,
+        "table": [
+          {
+            "count": 4,
+            "id": 826,
+            "type": 0
+          },
+          {
+            "count": 20000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      },
+      "224": {
+        "Eid": 224,
+        "circle": 0,
+        "compose": {
+          "count": 1,
+          "id": 828,
+          "type": 0
+        },
+        "index": 7,
+        "level": 1,
+        "openserverday": 1,
+        "second_index": 2,
+        "table": [
+          {
+            "count": 5,
+            "id": 827,
+            "type": 0
+          },
+          {
+            "count": 50000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "text": "合成"
+      }
+    },
+    "3": {
+      "239": {
+        "Eid": 239,
+        "circle": 0,
+        "clicklimit": 1,
+        "compose": {
+          "count": 3,
+          "id": 3,
+          "type": 3
+        },
+        "index": 7,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "second_index": 3,
+        "table": [
+          {
+            "count": 1,
+            "id": 829,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "240": {
+        "Eid": 240,
+        "circle": 0,
+        "clicklimit": 1,
+        "compose": {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        },
+        "index": 7,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "second_index": 3,
+        "table": [
+          {
+            "count": 1,
+            "id": 830,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "241": {
+        "Eid": 241,
+        "circle": 0,
+        "clicklimit": 1,
+        "compose": {
+          "count": 700,
+          "id": 3,
+          "type": 3
+        },
+        "index": 7,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "second_index": 3,
+        "table": [
+          {
+            "count": 1,
+            "id": 831,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      },
+      "242": {
+        "Eid": 242,
+        "circle": 0,
+        "clicklimit": 1,
+        "compose": {
+          "count": 2600,
+          "id": 3,
+          "type": 3
+        },
+        "index": 7,
+        "level": 1,
+        "openserverday": 1,
+        "redpoint": 1,
+        "second_index": 3,
+        "table": [
+          {
+            "count": 1,
+            "id": 832,
+            "type": 0
+          }
+        ],
+        "text": "兑换"
+      }
+    }
+  },
+  "8": {
+    "1": {
+      "280": {
+        "Eid": 280,
+        "circle": 3,
+        "compose": {
+          "count": 1,
+          "id": 1335,
+          "type": 0
+        },
+        "index": 8,
+        "level": 1,
+        "openserverday": 15,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 2,
+            "id": 1339,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 1340,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 1341,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      },
+      "281": {
+        "Eid": 281,
+        "circle": 3,
+        "compose": {
+          "count": 1,
+          "id": 1337,
+          "type": 0
+        },
+        "index": 8,
+        "level": 1,
+        "openserverday": 15,
+        "second_index": 1,
+        "table": [
+          {
+            "count": 2,
+            "id": 1339,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 1340,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 1342,
+            "type": 0
+          }
+        ],
+        "text": "合成"
+      }
+    }
+  }
+}

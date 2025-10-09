@@ -1,0 +1,369 @@
+{
+  "0": {
+    "destoryTime": -1,
+    "fbConfType": 0,
+    "fbid": 0,
+    "fbname": "主场景",
+    "reliveConfId": 1
+  },
+  "1": {
+    "consumeList": [
+      {
+        "count": 20000,
+        "id": 0,
+        "type": 2
+      }
+    ],
+    "delayOnHook": 1,
+    "destoryTime": 5,
+    "enterType": 0,
+    "fbConfType": 1,
+    "fbid": 1,
+    "fbname": "石墓烧猪",
+    "kickTime": 10,
+    "onHook": 1,
+    "reliveConfId": 3,
+    "scenes": [
+      155
+    ],
+    "timeOut": 600
+  },
+  "2": {
+    "destoryTime": 3600,
+    "enterType": 2,
+    "fbConfType": 2,
+    "fbid": 2,
+    "fbname": "竞技大乱斗",
+    "reliveConfId": 2,
+    "scenes": [
+      165
+    ]
+  },
+  "3": {
+    "consumeList": [
+      {
+        "count": 50000,
+        "id": 0,
+        "type": 2
+      }
+    ],
+    "destoryTime": 180,
+    "enterType": 2,
+    "fbConfType": 4,
+    "fbid": 3,
+    "fbname": "藏经峡谷",
+    "reliveConfId": 5,
+    "scenes": [
+      167
+    ]
+  },
+  "4": {
+    "defSceneID": 168,
+    "destoryTime": 30,
+    "enterType": 2,
+    "fbConfType": 4,
+    "fbid": 4,
+    "fbname": "独闯天涯",
+    "reliveConfId": 5,
+    "scenes": [
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174
+    ]
+  },
+  "5": {
+    "delayOnHook": 1,
+    "destoryTime": -1,
+    "enterType": 2,
+    "fbConfType": 4,
+    "fbid": 5,
+    "fbname": "世界BOSS",
+    "onHook": 1,
+    "reliveConfId": 4,
+    "scenes": [
+      175
+    ]
+  },
+  "6": {
+    "destoryTime": 3600,
+    "enterType": 2,
+    "fbConfType": 2,
+    "fbid": 6,
+    "fbname": "夜战沃玛三",
+    "reliveConfId": 6,
+    "scenes": [
+      166
+    ],
+    "warType": 1
+  },
+  "7": {
+    "destoryTime": -1,
+    "enterType": 2,
+    "fbConfType": 4,
+    "fbid": 7,
+    "fbname": "森罗地狱一层",
+    "kickTime": 3,
+    "onHook": 1,
+    "reliveConfId": 7,
+    "scenes": [
+      176
+    ]
+  },
+  "8": {
+    "destoryTime": -1,
+    "enterType": 2,
+    "fbConfType": 4,
+    "fbid": 8,
+    "fbname": "森罗地狱二层",
+    "kickTime": 3,
+    "onHook": 1,
+    "reliveConfId": 8,
+    "scenes": [
+      177
+    ]
+  },
+  "9": {
+    "destoryTime": -1,
+    "enterType": 2,
+    "fbConfType": 4,
+    "fbid": 9,
+    "fbname": "森罗地狱三层",
+    "kickTime": 3,
+    "onHook": 1,
+    "reliveConfId": 9,
+    "scenes": [
+      178
+    ]
+  },
+  "10": {
+    "destoryTime": -1,
+    "enterType": 2,
+    "fbConfType": 4,
+    "fbid": 10,
+    "fbname": "森罗地狱四层",
+    "kickTime": 3,
+    "onHook": 1,
+    "reliveConfId": 10,
+    "scenes": [
+      179
+    ]
+  },
+  "11": {
+    "destoryTime": -1,
+    "enterType": 2,
+    "fbConfType": 4,
+    "fbid": 11,
+    "fbname": "森罗地狱五层",
+    "kickTime": 3,
+    "onHook": 1,
+    "reliveConfId": 11,
+    "scenes": [
+      180
+    ]
+  },
+  "12": {
+    "destoryTime": -1,
+    "enterType": 2,
+    "fbConfType": 4,
+    "fbid": 12,
+    "fbname": "森罗地狱六层",
+    "kickTime": 3,
+    "onHook": 1,
+    "reliveConfId": 12,
+    "scenes": [
+      181
+    ]
+  },
+  "13": {
+    "destoryTime": -1,
+    "enterType": 2,
+    "fbConfType": 4,
+    "fbid": 13,
+    "fbname": "森罗地狱七层",
+    "kickTime": 3,
+    "onHook": 1,
+    "reliveConfId": 13,
+    "scenes": [
+      182
+    ]
+  },
+  "14": {
+    "consumeList": [
+      {
+        "count": 20000,
+        "id": 0,
+        "type": 2
+      }
+    ],
+    "delayOnHook": 1,
+    "destoryTime": 5,
+    "enterType": 0,
+    "fbConfType": 1,
+    "fbid": 14,
+    "fbname": "强化石副本",
+    "kickTime": 10,
+    "onHook": 1,
+    "reliveConfId": 3,
+    "scenes": [
+      183
+    ],
+    "timeOut": 300
+  },
+  "15": {
+    "consumeList": [
+      {
+        "count": 20000,
+        "id": 0,
+        "type": 2
+      }
+    ],
+    "delayOnHook": 1,
+    "destoryTime": 5,
+    "enterType": 0,
+    "fbConfType": 1,
+    "fbid": 15,
+    "fbname": "四象副本",
+    "kickTime": 10,
+    "onHook": 1,
+    "reliveConfId": 3,
+    "scenes": [
+      184
+    ],
+    "timeOut": 300
+  },
+  "16": {
+    "delayOnHook": 1,
+    "destoryTime": 0,
+    "enterType": 0,
+    "fbConfType": 1,
+    "fbid": 16,
+    "fbname": "25级个人副本",
+    "kickTime": 30,
+    "onHook": 1,
+    "reliveConfId": 14,
+    "scenes": [
+      185
+    ],
+    "timeOut": 600
+  },
+  "17": {
+    "delayOnHook": 1,
+    "destoryTime": 0,
+    "enterType": 0,
+    "fbConfType": 1,
+    "fbid": 17,
+    "fbname": "45级个人副本",
+    "kickTime": 30,
+    "onHook": 1,
+    "reliveConfId": 14,
+    "scenes": [
+      186
+    ],
+    "timeOut": 600
+  },
+  "18": {
+    "delayOnHook": 1,
+    "destoryTime": 0,
+    "enterType": 0,
+    "fbConfType": 1,
+    "fbid": 18,
+    "fbname": "70级个人副本",
+    "kickTime": 30,
+    "onHook": 1,
+    "reliveConfId": 14,
+    "scenes": [
+      187
+    ],
+    "timeOut": 600
+  },
+  "19": {
+    "delayOnHook": 1,
+    "destoryTime": 0,
+    "enterType": 0,
+    "fbConfType": 1,
+    "fbid": 19,
+    "fbname": "99级个人副本",
+    "kickTime": 30,
+    "onHook": 1,
+    "reliveConfId": 14,
+    "scenes": [
+      188
+    ],
+    "timeOut": 600
+  },
+  "20": {
+    "destoryTime": 3600,
+    "enterType": 2,
+    "fbConfType": 2,
+    "fbid": 20,
+    "fbname": "跨服竞技大乱斗",
+    "reliveConfId": 15,
+    "scenes": [
+      314
+    ]
+  },
+  "21": {
+    "destoryTime": 3600,
+    "enterType": 2,
+    "fbConfType": 2,
+    "fbid": 21,
+    "fbname": "跨服夜战沃玛三",
+    "reliveConfId": 16,
+    "scenes": [
+      315
+    ],
+    "warType": 1
+  },
+  "22": {
+    "delayOnHook": 1,
+    "destoryTime": -1,
+    "enterType": 2,
+    "fbConfType": 2,
+    "fbid": 22,
+    "fbname": "跨服领主",
+    "onHook": 1,
+    "reliveConfId": 17,
+    "scenes": [
+      316
+    ]
+  },
+  "23": {
+    "destoryTime": -1,
+    "enterType": 2,
+    "fbConfType": 2,
+    "fbid": 23,
+    "fbname": "次元首领",
+    "kickTime": 3,
+    "reliveConfId": 18,
+    "scenes": [
+      317
+    ]
+  },
+  "24": {
+    "destoryTime": 3600,
+    "enterType": 2,
+    "fbConfType": 2,
+    "fbid": 24,
+    "fbname": "逃脱试炼",
+    "reliveConfId": 15,
+    "scenes": [
+      326
+    ]
+  },
+  "25": {
+    "destoryTime": 3600,
+    "enterType": 2,
+    "fbConfType": 2,
+    "fbid": 25,
+    "fbname": "秘境打宝",
+    "kickTime": 3,
+    "reliveConfId": 19,
+    "scenes": [
+      346
+    ]
+  }
+}

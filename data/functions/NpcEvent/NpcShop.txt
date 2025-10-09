@@ -1,0 +1,35 @@
+-- 商店类NPC功能
+
+local NpcFuncType = 1
+NpcFuncs[NpcFuncType] = {}
+
+-- 主方法
+NpcFuncs[NpcFuncType] = function(pActor, nNpcHandle, nNpcId, nFuncId, pDPack)
+    local thisNpcConf = NpcConf[nNpcId]
+    local funcGroup = thisNpcConf.funcGroup
+    -- 检查是否合法的请求NPC
+    if funcGroup then
+        for i,id in ipairs(funcGroup) do
+            if id == nFuncId then
+                local thisFunc = NpcFunctionsConf[id]
+                if thisFunc and thisFunc.funcType and thisFunc.funcType==NpcFuncType then
+                    OnOpenStore(pActor, nNpcHandle, thisFunc.param1, thisFunc.param2)
+                end
+            end
+        end
+    end
+
+end
+
+--打开商店
+function OnOpenStore(pActor, nNpcHandle, shoptype, Tabshop)
+    if shoptype and Tabshop then
+        local npack = DataPack.allocPacket(pActor, enStoreSystemID, sOpenStore)
+        if npack then
+            DataPack.writeChar(npack, shoptype)
+            DataPack.writeChar(npack, Tabshop)
+            DataPack.writeUint64(npack, nNpcHandle)
+            DataPack.flush(npack)
+        end	
+    end
+end

@@ -1,0 +1,20 @@
+{
+  "0": {
+    "ActivityType": 12,
+    "Duration": -1,
+    "Id": 0,
+    "Level": 999,
+    "OpenSrvDate": 999,
+    "TimeType": 2,
+    "ZSLevel": 0
+  },
+  "19": {
+    "ActivityType": 13,
+    "Duration": -1,
+    "Id": 19,
+    "Level": 999,
+    "OpenSrvDate": 999,
+    "TimeType": 2,
+    "ZSLevel": 0
+  }
+}

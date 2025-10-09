@@ -1,0 +1,8 @@
+{
+  "AttackModeTips": "点击可切换攻击模式",
+  "ChatExpansionTips": "点击查看大聊天框",
+  "ChatRuleTips": "点击查看聊天系统介绍",
+  "guideChannelChatTips": "开启/关闭行会频道的信息",
+  "nearChannelChatTips": "开启/关闭附近频道的信息",
+  "secretChannelChatCD": "开启/关闭私聊频道的信息"
+}

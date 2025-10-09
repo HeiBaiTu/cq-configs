@@ -1,0 +1,4407 @@
+{
+  "1": {
+    "1": {
+      "1": {
+        "Tabshop": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 10,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 50000,
+          "id": 2,
+          "type": 2
+        },
+        "shopid": 1,
+        "shoptype": 1
+      },
+      "2": {
+        "Maxbatchbuy": 99,
+        "Tabshop": 1,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 100,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 500000,
+          "id": 2,
+          "type": 2
+        },
+        "shopid": 2,
+        "shoptype": 1
+      },
+      "3": {
+        "Tabshop": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 999,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 350,
+          "type": 0
+        },
+        "shopid": 3,
+        "shoptype": 1
+      },
+      "4": {
+        "Tabshop": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 300000000,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 350,
+          "type": 0
+        },
+        "shopid": 4,
+        "shoptype": 1
+      },
+      "5": {
+        "Tabshop": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 20,
+          "id": 0,
+          "type": 3
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 307,
+          "type": 0
+        },
+        "shopid": 5,
+        "shoptype": 1
+      },
+      "6": {
+        "Tabshop": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 200000,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 307,
+          "type": 0
+        },
+        "shopid": 6,
+        "shoptype": 1
+      },
+      "7": {
+        "Tabshop": 1,
+        "buytype": [
+          {
+            "limit": [
+              {
+                "times": 1,
+                "value": 0
+              },
+              {
+                "times": -1,
+                "value": 8
+              }
+            ],
+            "type": 3
+          }
+        ],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 1,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1051,
+          "type": 0
+        },
+        "shopid": 7,
+        "shoptype": 1,
+        "statictype": 757
+      },
+      "92": {
+        "Tabshop": 1,
+        "buytype": [
+          {
+            "limit": [
+              {
+                "times": 1,
+                "value": 3
+              }
+            ],
+            "type": 3
+          }
+        ],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 6,
+          "id": 3,
+          "type": 3
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1165,
+          "type": 0
+        },
+        "shopid": 92,
+        "shoptype": 1,
+        "statictype": 50
+      },
+      "93": {
+        "Maxbatchbuy": 999,
+        "Tabshop": 1,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 88,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1242,
+          "type": 0
+        },
+        "shopid": 93,
+        "shoptype": 1
+      },
+      "94": {
+        "Tabshop": 1,
+        "buytype": [
+          {
+            "limit": [
+              {
+                "times": 1,
+                "value": 0
+              }
+            ],
+            "type": 3
+          }
+        ],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 188,
+          "id": 3,
+          "type": 3
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1242,
+          "type": 0
+        },
+        "shopid": 94,
+        "shoptype": 1,
+        "statictype": 51
+      }
+    },
+    "2": {
+      "5": {
+        "Maxbatchbuy": 999,
+        "Tabshop": 2,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 33,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 459,
+          "type": 0
+        },
+        "shopid": 5,
+        "shoptype": 1
+      },
+      "6": {
+        "Maxbatchbuy": 999,
+        "Tabshop": 2,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 66,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 460,
+          "type": 0
+        },
+        "shopid": 6,
+        "shoptype": 1
+      },
+      "7": {
+        "Maxbatchbuy": 999,
+        "Tabshop": 2,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 88,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 461,
+          "type": 0
+        },
+        "shopid": 7,
+        "shoptype": 1
+      },
+      "8": {
+        "Maxbatchbuy": 999,
+        "Tabshop": 2,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 166,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 462,
+          "type": 0
+        },
+        "shopid": 8,
+        "shoptype": 1
+      },
+      "9": {
+        "Maxbatchbuy": 999,
+        "Tabshop": 2,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 50,
+          "id": 3,
+          "type": 3
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 10,
+          "id": 300,
+          "type": 0
+        },
+        "shopid": 9,
+        "shoptype": 1
+      },
+      "10": {
+        "Maxbatchbuy": 999,
+        "Tabshop": 2,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 5,
+          "id": 3,
+          "type": 3
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 853,
+          "type": 0
+        },
+        "shopid": 10,
+        "shoptype": 1
+      },
+      "11": {
+        "Maxbatchbuy": 999,
+        "Tabshop": 2,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 5,
+          "id": 3,
+          "type": 3
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 854,
+          "type": 0
+        },
+        "shopid": 11,
+        "shoptype": 1
+      },
+      "12": {
+        "Maxbatchbuy": 999,
+        "Tabshop": 2,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 5,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 855,
+          "type": 0
+        },
+        "shopid": 12,
+        "shoptype": 1
+      },
+      "13": {
+        "Maxbatchbuy": 999,
+        "Tabshop": 2,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 5,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 856,
+          "type": 0
+        },
+        "shopid": 13,
+        "shoptype": 1
+      },
+      "14": {
+        "Maxbatchbuy": 999,
+        "Tabshop": 2,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 50,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 852,
+          "type": 0
+        },
+        "shopid": 14,
+        "shoptype": 1
+      },
+      "15": {
+        "Maxbatchbuy": 999,
+        "Tabshop": 2,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 10,
+          "id": 3,
+          "type": 3
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 954,
+          "type": 0
+        },
+        "shopid": 15,
+        "shoptype": 1
+      },
+      "16": {
+        "Maxbatchbuy": 999,
+        "Tabshop": 2,
+        "batchbuy": 1,
+        "buytype": [
+          {
+            "limit": [
+              {
+                "times": 0,
+                "value": 4
+              }
+            ],
+            "type": 2
+          }
+        ],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 10,
+          "id": 3,
+          "type": 3
+        },
+        "reincarnationlimit": 4,
+        "shop": {
+          "count": 1,
+          "id": 480,
+          "type": 0
+        },
+        "shopid": 16,
+        "shoptype": 1
+      },
+      "17": {
+        "Maxbatchbuy": 999,
+        "Tabshop": 2,
+        "batchbuy": 1,
+        "buytype": [
+          {
+            "limit": [
+              {
+                "times": 0,
+                "value": 4
+              }
+            ],
+            "type": 2
+          }
+        ],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 50,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 4,
+        "shop": {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        "shopid": 17,
+        "shoptype": 1
+      }
+    },
+    "3": {
+      "18": {
+        "Maxbatchbuy": 99,
+        "Tabshop": 3,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 3,
+          "id": 3,
+          "type": 3
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 10,
+          "id": 248,
+          "type": 0
+        },
+        "shopid": 18,
+        "shoptype": 1
+      },
+      "19": {
+        "Maxbatchbuy": 99,
+        "Tabshop": 3,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 550,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 10,
+          "id": 245,
+          "type": 0
+        },
+        "shopid": 19,
+        "shoptype": 1
+      },
+      "20": {
+        "Maxbatchbuy": 99,
+        "Tabshop": 3,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 1100,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 10,
+          "id": 246,
+          "type": 0
+        },
+        "shopid": 20,
+        "shoptype": 1
+      },
+      "21": {
+        "Maxbatchbuy": 99,
+        "Tabshop": 3,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 3300,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 10,
+          "id": 247,
+          "type": 0
+        },
+        "shopid": 21,
+        "shoptype": 1
+      },
+      "22": {
+        "Maxbatchbuy": 99,
+        "Tabshop": 3,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 33000,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 10,
+          "id": 248,
+          "type": 0
+        },
+        "shopid": 22,
+        "shoptype": 1
+      },
+      "23": {
+        "Maxbatchbuy": 99,
+        "Tabshop": 3,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 10,
+          "id": 239,
+          "type": 0
+        },
+        "shopid": 23,
+        "shoptype": 1
+      },
+      "24": {
+        "Tabshop": 3,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 500,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1015,
+          "type": 0
+        },
+        "shopid": 24,
+        "shoptype": 1
+      },
+      "25": {
+        "Tabshop": 3,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 1000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1037,
+          "type": 0
+        },
+        "shopid": 25,
+        "shoptype": 1
+      },
+      "26": {
+        "Maxbatchbuy": 99,
+        "Tabshop": 3,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 9990000,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1004,
+          "type": 0
+        },
+        "shopid": 26,
+        "shoptype": 1
+      },
+      "27": {
+        "Maxbatchbuy": 99,
+        "Tabshop": 3,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 9990000,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1005,
+          "type": 0
+        },
+        "shopid": 27,
+        "shoptype": 1
+      },
+      "28": {
+        "Maxbatchbuy": 99,
+        "Tabshop": 3,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 99,
+          "id": 3,
+          "type": 3
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1006,
+          "type": 0
+        },
+        "shopid": 28,
+        "shoptype": 1
+      },
+      "29": {
+        "Maxbatchbuy": 99,
+        "Tabshop": 3,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 99,
+          "id": 3,
+          "type": 3
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1007,
+          "type": 0
+        },
+        "shopid": 29,
+        "shoptype": 1
+      }
+    },
+    "4": {
+      "30": {
+        "Tabshop": 4,
+        "buytype": [
+          {
+            "limit": [
+              {
+                "times": 0,
+                "value": 0
+              },
+              {
+                "times": -1,
+                "value": 1
+              }
+            ],
+            "type": 2
+          }
+        ],
+        "daylimit": 0,
+        "levellimit": 0,
+        "price": {
+          "count": 200000,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 851,
+          "type": 0
+        },
+        "shopid": 30,
+        "shoptype": 1
+      },
+      "31": {
+        "Tabshop": 4,
+        "buytype": [
+          {
+            "limit": [
+              {
+                "times": 0,
+                "value": 1
+              },
+              {
+                "times": -1,
+                "value": 2
+              }
+            ],
+            "type": 2
+          }
+        ],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 300000,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 901,
+          "type": 0
+        },
+        "shopid": 31,
+        "shoptype": 1
+      },
+      "32": {
+        "Tabshop": 4,
+        "buytype": [
+          {
+            "limit": [
+              {
+                "times": 0,
+                "value": 2
+              },
+              {
+                "times": -1,
+                "value": 3
+              }
+            ],
+            "type": 2
+          }
+        ],
+        "daylimit": 0,
+        "levellimit": 2,
+        "price": {
+          "count": 500000,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 902,
+          "type": 0
+        },
+        "shopid": 32,
+        "shoptype": 1
+      },
+      "33": {
+        "Tabshop": 4,
+        "buytype": [
+          {
+            "limit": [
+              {
+                "times": 0,
+                "value": 3
+              },
+              {
+                "times": -1,
+                "value": 4
+              }
+            ],
+            "type": 2
+          }
+        ],
+        "daylimit": 0,
+        "levellimit": 3,
+        "price": {
+          "count": 800000,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 903,
+          "type": 0
+        },
+        "shopid": 33,
+        "shoptype": 1
+      },
+      "34": {
+        "Tabshop": 4,
+        "buytype": [
+          {
+            "limit": [
+              {
+                "times": 1,
+                "value": 4
+              },
+              {
+                "times": -1,
+                "value": 5
+              }
+            ],
+            "type": 2
+          }
+        ],
+        "daylimit": 0,
+        "levellimit": 4,
+        "price": {
+          "count": 1200000,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 904,
+          "type": 0
+        },
+        "shopid": 34,
+        "shoptype": 1,
+        "statictype": 8
+      },
+      "35": {
+        "Tabshop": 4,
+        "buytype": [
+          {
+            "limit": [
+              {
+                "times": 1,
+                "value": 5
+              },
+              {
+                "times": -1,
+                "value": 6
+              }
+            ],
+            "type": 2
+          }
+        ],
+        "daylimit": 0,
+        "levellimit": 5,
+        "price": {
+          "count": 1600000,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 905,
+          "type": 0
+        },
+        "shopid": 35,
+        "shoptype": 1,
+        "statictype": 26
+      },
+      "36": {
+        "Tabshop": 4,
+        "buytype": [
+          {
+            "limit": [
+              {
+                "times": 1,
+                "value": 6
+              }
+            ],
+            "type": 2
+          }
+        ],
+        "daylimit": 0,
+        "levellimit": 6,
+        "price": {
+          "count": 1880,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1039,
+          "type": 0
+        },
+        "shopid": 36,
+        "shoptype": 1,
+        "statictype": 27
+      },
+      "37": {
+        "Tabshop": 4,
+        "buytype": [
+          {
+            "limit": [
+              {
+                "times": 0,
+                "value": 0
+              },
+              {
+                "times": -1,
+                "value": 1
+              }
+            ],
+            "type": 2
+          }
+        ],
+        "daylimit": 0,
+        "levellimit": 0,
+        "price": {
+          "count": 200000,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 910,
+          "type": 0
+        },
+        "shopid": 37,
+        "shoptype": 1
+      },
+      "38": {
+        "Tabshop": 4,
+        "buytype": [
+          {
+            "limit": [
+              {
+                "times": 0,
+                "value": 1
+              },
+              {
+                "times": -1,
+                "value": 2
+              }
+            ],
+            "type": 2
+          }
+        ],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 300000,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 911,
+          "type": 0
+        },
+        "shopid": 38,
+        "shoptype": 1
+      },
+      "39": {
+        "Tabshop": 4,
+        "buytype": [
+          {
+            "limit": [
+              {
+                "times": 0,
+                "value": 2
+              },
+              {
+                "times": -1,
+                "value": 3
+              }
+            ],
+            "type": 2
+          }
+        ],
+        "daylimit": 0,
+        "levellimit": 2,
+        "price": {
+          "count": 500000,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 912,
+          "type": 0
+        },
+        "shopid": 39,
+        "shoptype": 1
+      },
+      "40": {
+        "Tabshop": 4,
+        "buytype": [
+          {
+            "limit": [
+              {
+                "times": 0,
+                "value": 3
+              },
+              {
+                "times": -1,
+                "value": 4
+              }
+            ],
+            "type": 2
+          }
+        ],
+        "daylimit": 0,
+        "levellimit": 3,
+        "price": {
+          "count": 800000,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 913,
+          "type": 0
+        },
+        "shopid": 40,
+        "shoptype": 1
+      },
+      "41": {
+        "Tabshop": 4,
+        "buytype": [
+          {
+            "limit": [
+              {
+                "times": 1,
+                "value": 4
+              },
+              {
+                "times": -1,
+                "value": 5
+              }
+            ],
+            "type": 2
+          }
+        ],
+        "daylimit": 0,
+        "levellimit": 4,
+        "price": {
+          "count": 1200000,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 914,
+          "type": 0
+        },
+        "shopid": 41,
+        "shoptype": 1,
+        "statictype": 34
+      },
+      "42": {
+        "Tabshop": 4,
+        "buytype": [
+          {
+            "limit": [
+              {
+                "times": 1,
+                "value": 5
+              },
+              {
+                "times": -1,
+                "value": 6
+              }
+            ],
+            "type": 2
+          }
+        ],
+        "daylimit": 0,
+        "levellimit": 5,
+        "price": {
+          "count": 1600000,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 915,
+          "type": 0
+        },
+        "shopid": 42,
+        "shoptype": 1,
+        "statictype": 35
+      },
+      "43": {
+        "Tabshop": 4,
+        "buytype": [
+          {
+            "limit": [
+              {
+                "times": 1,
+                "value": 6
+              }
+            ],
+            "type": 2
+          }
+        ],
+        "daylimit": 0,
+        "levellimit": 6,
+        "price": {
+          "count": 1380,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1039,
+          "type": 0
+        },
+        "shopid": 43,
+        "shoptype": 1,
+        "statictype": 36
+      },
+      "44": {
+        "Maxbatchbuy": 999,
+        "Tabshop": 4,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 5,
+          "id": 3,
+          "type": 3
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        },
+        "shopid": 44,
+        "shoptype": 1
+      },
+      "45": {
+        "Maxbatchbuy": 999,
+        "Tabshop": 4,
+        "batchbuy": 1,
+        "buytype": [
+          {
+            "limit": [
+              {
+                "times": 0,
+                "value": 0
+              },
+              {
+                "times": -1,
+                "value": 11
+              }
+            ],
+            "type": 3
+          }
+        ],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 100000,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        },
+        "shopid": 45,
+        "shoptype": 1
+      },
+      "46": {
+        "Maxbatchbuy": 999,
+        "Tabshop": 4,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 5,
+          "id": 3,
+          "type": 3
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 269,
+          "type": 0
+        },
+        "shopid": 46,
+        "shoptype": 1
+      },
+      "47": {
+        "Maxbatchbuy": 999,
+        "Tabshop": 4,
+        "batchbuy": 1,
+        "buytype": [
+          {
+            "limit": [
+              {
+                "times": 0,
+                "value": 0
+              },
+              {
+                "times": -1,
+                "value": 11
+              }
+            ],
+            "type": 3
+          }
+        ],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 100000,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 269,
+          "type": 0
+        },
+        "shopid": 47,
+        "shoptype": 1
+      },
+      "48": {
+        "Tabshop": 4,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 5,
+          "id": 3,
+          "type": 3
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 421,
+          "type": 0
+        },
+        "shopid": 48,
+        "shoptype": 1
+      },
+      "49": {
+        "Tabshop": 4,
+        "buytype": [
+          {
+            "limit": [
+              {
+                "times": 0,
+                "value": 0
+              },
+              {
+                "times": -1,
+                "value": 11
+              }
+            ],
+            "type": 3
+          }
+        ],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 100000,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 421,
+          "type": 0
+        },
+        "shopid": 49,
+        "shoptype": 1
+      },
+      "51": {
+        "Maxbatchbuy": 999,
+        "Tabshop": 4,
+        "batchbuy": 1,
+        "buytype": [
+          {
+            "limit": [
+              {
+                "times": 0,
+                "value": 4
+              }
+            ],
+            "type": 3
+          }
+        ],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 30,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1018,
+          "type": 0
+        },
+        "shopid": 51,
+        "shoptype": 1,
+        "statictype": 43
+      },
+      "52": {
+        "Maxbatchbuy": 999,
+        "Tabshop": 4,
+        "batchbuy": 1,
+        "buytype": [
+          {
+            "limit": [
+              {
+                "times": 0,
+                "value": 8
+              }
+            ],
+            "type": 3
+          }
+        ],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 50,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1022,
+          "type": 0
+        },
+        "shopid": 52,
+        "shoptype": 1
+      }
+    },
+    "5": {
+      "53": {
+        "Tabshop": 5,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 688,
+          "id": 3,
+          "type": 3
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 42,
+          "type": 0
+        },
+        "shopid": 53,
+        "shoptype": 1
+      },
+      "54": {
+        "Tabshop": 5,
+        "buytype": [
+          {
+            "limit": [
+              {
+                "times": 3,
+                "value": 0
+              }
+            ],
+            "type": 2
+          }
+        ],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 18880000,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 42,
+          "type": 0
+        },
+        "shopid": 54,
+        "shoptype": 1,
+        "statictype": 759
+      },
+      "57": {
+        "Tabshop": 5,
+        "buytype": [
+          {
+            "limit": [
+              {
+                "times": 1,
+                "value": 0
+              }
+            ],
+            "type": 2
+          }
+        ],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 99990000,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 46,
+          "type": 0
+        },
+        "shopid": 57,
+        "shoptype": 1,
+        "statictype": 758
+      },
+      "58": {
+        "Tabshop": 5,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 2999,
+          "id": 3,
+          "type": 3
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 43,
+          "type": 0
+        },
+        "shopid": 58,
+        "shoptype": 1
+      },
+      "59": {
+        "Tabshop": 5,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 2999,
+          "id": 3,
+          "type": 3
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 44,
+          "type": 0
+        },
+        "shopid": 59,
+        "shoptype": 1
+      },
+      "89": {
+        "Tabshop": 5,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 2999,
+          "id": 3,
+          "type": 3
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 45,
+          "type": 0
+        },
+        "shopid": 89,
+        "shoptype": 1
+      },
+      "90": {
+        "Tabshop": 5,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 3880,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1008,
+          "type": 0
+        },
+        "shopid": 90,
+        "shoptype": 1
+      },
+      "91": {
+        "Tabshop": 5,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 888,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1012,
+          "type": 0
+        },
+        "shopid": 91,
+        "shoptype": 1
+      },
+      "92": {
+        "Tabshop": 5,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 8888,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1241,
+          "type": 0
+        },
+        "shopid": 92,
+        "shoptype": 1
+      }
+    },
+    "6": {
+      "1": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 100,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 755,
+          "type": 0
+        },
+        "shopid": 1,
+        "shoptype": 1
+      },
+      "2": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 100,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 756,
+          "type": 0
+        },
+        "shopid": 2,
+        "shoptype": 1
+      },
+      "3": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 100,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 757,
+          "type": 0
+        },
+        "shopid": 3,
+        "shoptype": 1
+      },
+      "4": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 100,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 758,
+          "type": 0
+        },
+        "shopid": 4,
+        "shoptype": 1
+      },
+      "5": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 100,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 759,
+          "type": 0
+        },
+        "shopid": 5,
+        "shoptype": 1
+      },
+      "6": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 100,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 760,
+          "type": 0
+        },
+        "shopid": 6,
+        "shoptype": 1
+      },
+      "7": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 100,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 761,
+          "type": 0
+        },
+        "shopid": 7,
+        "shoptype": 1
+      },
+      "8": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 100,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 762,
+          "type": 0
+        },
+        "shopid": 8,
+        "shoptype": 1
+      },
+      "9": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 100,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 763,
+          "type": 0
+        },
+        "shopid": 9,
+        "shoptype": 1
+      },
+      "10": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 100,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 764,
+          "type": 0
+        },
+        "shopid": 10,
+        "shoptype": 1
+      },
+      "11": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 100,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 765,
+          "type": 0
+        },
+        "shopid": 11,
+        "shoptype": 1
+      },
+      "12": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 100,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 766,
+          "type": 0
+        },
+        "shopid": 12,
+        "shoptype": 1
+      },
+      "13": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 100,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 876,
+          "type": 0
+        },
+        "shopid": 13,
+        "shoptype": 1
+      },
+      "14": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 100,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 887,
+          "type": 0
+        },
+        "shopid": 14,
+        "shoptype": 1
+      },
+      "15": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 100,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 897,
+          "type": 0
+        },
+        "shopid": 15,
+        "shoptype": 1
+      },
+      "16": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 100,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 946,
+          "type": 0
+        },
+        "shopid": 16,
+        "shoptype": 1
+      },
+      "17": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 500,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 767,
+          "type": 0
+        },
+        "shopid": 17,
+        "shoptype": 1
+      },
+      "18": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 500,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 768,
+          "type": 0
+        },
+        "shopid": 18,
+        "shoptype": 1
+      },
+      "19": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 500,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 769,
+          "type": 0
+        },
+        "shopid": 19,
+        "shoptype": 1
+      },
+      "20": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 500,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 770,
+          "type": 0
+        },
+        "shopid": 20,
+        "shoptype": 1
+      },
+      "21": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 500,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 771,
+          "type": 0
+        },
+        "shopid": 21,
+        "shoptype": 1
+      },
+      "22": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 500,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 772,
+          "type": 0
+        },
+        "shopid": 22,
+        "shoptype": 1
+      },
+      "23": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 500,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 773,
+          "type": 0
+        },
+        "shopid": 23,
+        "shoptype": 1
+      },
+      "24": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 500,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 774,
+          "type": 0
+        },
+        "shopid": 24,
+        "shoptype": 1
+      },
+      "25": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 500,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 775,
+          "type": 0
+        },
+        "shopid": 25,
+        "shoptype": 1
+      },
+      "26": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 500,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 776,
+          "type": 0
+        },
+        "shopid": 26,
+        "shoptype": 1
+      },
+      "27": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 500,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 777,
+          "type": 0
+        },
+        "shopid": 27,
+        "shoptype": 1
+      },
+      "28": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 500,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 778,
+          "type": 0
+        },
+        "shopid": 28,
+        "shoptype": 1
+      },
+      "29": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 500,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 877,
+          "type": 0
+        },
+        "shopid": 29,
+        "shoptype": 1
+      },
+      "30": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 500,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 888,
+          "type": 0
+        },
+        "shopid": 30,
+        "shoptype": 1
+      },
+      "31": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 500,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 898,
+          "type": 0
+        },
+        "shopid": 31,
+        "shoptype": 1
+      },
+      "32": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 500,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 947,
+          "type": 0
+        },
+        "shopid": 32,
+        "shoptype": 1
+      },
+      "33": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 2000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 803,
+          "type": 0
+        },
+        "shopid": 33,
+        "shoptype": 1
+      },
+      "34": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 2000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 804,
+          "type": 0
+        },
+        "shopid": 34,
+        "shoptype": 1
+      },
+      "35": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 2000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 805,
+          "type": 0
+        },
+        "shopid": 35,
+        "shoptype": 1
+      },
+      "36": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 2000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 806,
+          "type": 0
+        },
+        "shopid": 36,
+        "shoptype": 1
+      },
+      "37": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 2000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 807,
+          "type": 0
+        },
+        "shopid": 37,
+        "shoptype": 1
+      },
+      "38": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 2000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 808,
+          "type": 0
+        },
+        "shopid": 38,
+        "shoptype": 1
+      },
+      "39": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 2000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 809,
+          "type": 0
+        },
+        "shopid": 39,
+        "shoptype": 1
+      },
+      "40": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 2000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 810,
+          "type": 0
+        },
+        "shopid": 40,
+        "shoptype": 1
+      },
+      "41": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 2000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 811,
+          "type": 0
+        },
+        "shopid": 41,
+        "shoptype": 1
+      },
+      "42": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 2000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 812,
+          "type": 0
+        },
+        "shopid": 42,
+        "shoptype": 1
+      },
+      "43": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 2000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 878,
+          "type": 0
+        },
+        "shopid": 43,
+        "shoptype": 1
+      },
+      "44": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 2000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 889,
+          "type": 0
+        },
+        "shopid": 44,
+        "shoptype": 1
+      },
+      "45": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 2000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 899,
+          "type": 0
+        },
+        "shopid": 45,
+        "shoptype": 1
+      },
+      "46": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 2000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 948,
+          "type": 0
+        },
+        "shopid": 46,
+        "shoptype": 1
+      },
+      "47": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 4000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 813,
+          "type": 0
+        },
+        "shopid": 47,
+        "shoptype": 1
+      },
+      "48": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 4000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 814,
+          "type": 0
+        },
+        "shopid": 48,
+        "shoptype": 1
+      },
+      "49": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 4000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 815,
+          "type": 0
+        },
+        "shopid": 49,
+        "shoptype": 1
+      },
+      "50": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 4000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 816,
+          "type": 0
+        },
+        "shopid": 50,
+        "shoptype": 1
+      },
+      "51": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 4000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 817,
+          "type": 0
+        },
+        "shopid": 51,
+        "shoptype": 1
+      },
+      "52": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 4000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 818,
+          "type": 0
+        },
+        "shopid": 52,
+        "shoptype": 1
+      },
+      "53": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 4000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 819,
+          "type": 0
+        },
+        "shopid": 53,
+        "shoptype": 1
+      },
+      "54": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 4000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 820,
+          "type": 0
+        },
+        "shopid": 54,
+        "shoptype": 1
+      },
+      "55": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 4000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 821,
+          "type": 0
+        },
+        "shopid": 55,
+        "shoptype": 1
+      },
+      "56": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 4000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 822,
+          "type": 0
+        },
+        "shopid": 56,
+        "shoptype": 1
+      },
+      "57": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 4000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 879,
+          "type": 0
+        },
+        "shopid": 57,
+        "shoptype": 1
+      },
+      "58": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 4000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 890,
+          "type": 0
+        },
+        "shopid": 58,
+        "shoptype": 1
+      },
+      "59": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 4000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 900,
+          "type": 0
+        },
+        "shopid": 59,
+        "shoptype": 1
+      },
+      "60": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 4000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 949,
+          "type": 0
+        },
+        "shopid": 60,
+        "shoptype": 1
+      },
+      "61": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 10000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 779,
+          "type": 0
+        },
+        "shopid": 61,
+        "shoptype": 1
+      },
+      "62": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 10000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 780,
+          "type": 0
+        },
+        "shopid": 62,
+        "shoptype": 1
+      },
+      "63": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 10000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 781,
+          "type": 0
+        },
+        "shopid": 63,
+        "shoptype": 1
+      },
+      "64": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 10000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 788,
+          "type": 0
+        },
+        "shopid": 64,
+        "shoptype": 1
+      },
+      "65": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 10000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 789,
+          "type": 0
+        },
+        "shopid": 65,
+        "shoptype": 1
+      },
+      "66": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 10000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 790,
+          "type": 0
+        },
+        "shopid": 66,
+        "shoptype": 1
+      },
+      "67": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 10000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1130,
+          "type": 0
+        },
+        "shopid": 67,
+        "shoptype": 1
+      },
+      "68": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 10000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1132,
+          "type": 0
+        },
+        "shopid": 68,
+        "shoptype": 1
+      },
+      "69": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 10000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1134,
+          "type": 0
+        },
+        "shopid": 69,
+        "shoptype": 1
+      },
+      "70": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 10000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1264,
+          "type": 0
+        },
+        "shopid": 70,
+        "shoptype": 1
+      },
+      "71": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 10000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1265,
+          "type": 0
+        },
+        "shopid": 71,
+        "shoptype": 1
+      },
+      "72": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 10000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1266,
+          "type": 0
+        },
+        "shopid": 72,
+        "shoptype": 1
+      },
+      "73": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 10000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1267,
+          "type": 0
+        },
+        "shopid": 73,
+        "shoptype": 1
+      },
+      "74": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 10000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1268,
+          "type": 0
+        },
+        "shopid": 74,
+        "shoptype": 1
+      },
+      "75": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 20000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 791,
+          "type": 0
+        },
+        "shopid": 75,
+        "shoptype": 1
+      },
+      "76": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 20000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 792,
+          "type": 0
+        },
+        "shopid": 76,
+        "shoptype": 1
+      },
+      "77": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 20000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 793,
+          "type": 0
+        },
+        "shopid": 77,
+        "shoptype": 1
+      },
+      "78": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 20000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 800,
+          "type": 0
+        },
+        "shopid": 78,
+        "shoptype": 1
+      },
+      "79": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 20000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 801,
+          "type": 0
+        },
+        "shopid": 79,
+        "shoptype": 1
+      },
+      "80": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 20000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 802,
+          "type": 0
+        },
+        "shopid": 80,
+        "shoptype": 1
+      },
+      "81": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 20000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1131,
+          "type": 0
+        },
+        "shopid": 81,
+        "shoptype": 1
+      },
+      "82": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 20000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1133,
+          "type": 0
+        },
+        "shopid": 82,
+        "shoptype": 1
+      },
+      "83": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 20000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1135,
+          "type": 0
+        },
+        "shopid": 83,
+        "shoptype": 1
+      },
+      "84": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 20000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1269,
+          "type": 0
+        },
+        "shopid": 84,
+        "shoptype": 1
+      },
+      "85": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 20000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1372,
+          "type": 0
+        },
+        "shopid": 85,
+        "shoptype": 1
+      },
+      "86": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 20000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1373,
+          "type": 0
+        },
+        "shopid": 86,
+        "shoptype": 1
+      },
+      "87": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 20000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1374,
+          "type": 0
+        },
+        "shopid": 87,
+        "shoptype": 1
+      },
+      "88": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 20000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1375,
+          "type": 0
+        },
+        "shopid": 88,
+        "shoptype": 1
+      },
+      "89": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 50000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 966,
+          "type": 0
+        },
+        "shopid": 89,
+        "shoptype": 1
+      },
+      "90": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 800000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 965,
+          "type": 0
+        },
+        "shopid": 90,
+        "shoptype": 1
+      },
+      "91": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 50000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 968,
+          "type": 0
+        },
+        "shopid": 91,
+        "shoptype": 1
+      },
+      "92": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 50000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 969,
+          "type": 0
+        },
+        "shopid": 92,
+        "shoptype": 1
+      },
+      "93": {
+        "Maxbatchbuy": 1,
+        "Tabshop": 6,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 50000,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 980,
+          "type": 0
+        },
+        "shopid": 93,
+        "shoptype": 1
+      }
+    },
+    "7": {
+      "95": {
+        "Maxbatchbuy": 999,
+        "Tabshop": 7,
+        "batchbuy": 1,
+        "buytype": [
+          {
+            "limit": [
+              {
+                "times": 3,
+                "value": 0
+              }
+            ],
+            "type": 3
+          }
+        ],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1059,
+          "type": 0
+        },
+        "shopid": 95,
+        "shoptype": 1,
+        "statictype": 52
+      },
+      "96": {
+        "Maxbatchbuy": 999,
+        "Tabshop": 7,
+        "batchbuy": 1,
+        "buytype": [
+          {
+            "limit": [
+              {
+                "times": 3,
+                "value": 0
+              }
+            ],
+            "type": 3
+          }
+        ],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1060,
+          "type": 0
+        },
+        "shopid": 96,
+        "shoptype": 1,
+        "statictype": 53
+      },
+      "97": {
+        "Maxbatchbuy": 999,
+        "Tabshop": 7,
+        "batchbuy": 1,
+        "buytype": [
+          {
+            "limit": [
+              {
+                "times": 3,
+                "value": 0
+              }
+            ],
+            "type": 3
+          }
+        ],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1061,
+          "type": 0
+        },
+        "shopid": 97,
+        "shoptype": 1,
+        "statictype": 54
+      },
+      "98": {
+        "Maxbatchbuy": 999,
+        "Tabshop": 7,
+        "batchbuy": 1,
+        "buytype": [
+          {
+            "limit": [
+              {
+                "times": 3,
+                "value": 0
+              }
+            ],
+            "type": 3
+          }
+        ],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1062,
+          "type": 0
+        },
+        "shopid": 98,
+        "shoptype": 1,
+        "statictype": 55
+      },
+      "99": {
+        "Maxbatchbuy": 999,
+        "Tabshop": 7,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 80,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1063,
+          "type": 0
+        },
+        "shopid": 99,
+        "shoptype": 1
+      },
+      "100": {
+        "Maxbatchbuy": 999,
+        "Tabshop": 7,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 80,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1064,
+          "type": 0
+        },
+        "shopid": 100,
+        "shoptype": 1
+      },
+      "101": {
+        "Maxbatchbuy": 999,
+        "Tabshop": 7,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 80,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1065,
+          "type": 0
+        },
+        "shopid": 101,
+        "shoptype": 1
+      },
+      "102": {
+        "Maxbatchbuy": 999,
+        "Tabshop": 7,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 80,
+          "id": 4,
+          "type": 4
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1066,
+          "type": 0
+        },
+        "shopid": 102,
+        "shoptype": 1
+      },
+      "103": {
+        "Maxbatchbuy": 999,
+        "Tabshop": 7,
+        "batchbuy": 1,
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 88,
+          "id": 3,
+          "type": 3
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1161,
+          "type": 0
+        },
+        "shopid": 103,
+        "shoptype": 1
+      }
+    }
+  },
+  "2": {
+    "1": {
+      "60": {
+        "Tabshop": 1,
+        "buytype": [],
+        "daylimit": 1,
+        "levellimit": 1,
+        "price": {
+          "count": 30,
+          "id": 0,
+          "type": 10
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        },
+        "shopid": 60,
+        "shoptype": 2
+      },
+      "61": {
+        "Tabshop": 1,
+        "buytype": [],
+        "daylimit": 2,
+        "levellimit": 1,
+        "price": {
+          "count": 40,
+          "id": 0,
+          "type": 10
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 421,
+          "type": 0
+        },
+        "shopid": 61,
+        "shoptype": 2
+      },
+      "104": {
+        "Tabshop": 1,
+        "buytype": [
+          {
+            "limit": [
+              {
+                "times": 3,
+                "value": 0
+              }
+            ],
+            "type": 3
+          }
+        ],
+        "daylimit": 1,
+        "guildLevel": 2,
+        "levellimit": 1,
+        "price": {
+          "count": 500,
+          "id": 10,
+          "type": 10
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        "shopid": 104,
+        "shoptype": 2,
+        "statictype": 56
+      },
+      "105": {
+        "Tabshop": 1,
+        "buytype": [
+          {
+            "limit": [
+              {
+                "times": 1,
+                "value": 0
+              }
+            ],
+            "type": 3
+          }
+        ],
+        "daylimit": 1,
+        "guildLevel": 3,
+        "levellimit": 1,
+        "price": {
+          "count": 288,
+          "id": 10,
+          "type": 10
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 852,
+          "type": 0
+        },
+        "shopid": 105,
+        "shoptype": 2,
+        "statictype": 57
+      }
+    }
+  },
+  "3": {
+    "1": {
+      "62": {
+        "Tabshop": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 110,
+          "id": 0,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 251,
+          "type": 0
+        },
+        "shopid": 62,
+        "shoptype": 3
+      },
+      "63": {
+        "Tabshop": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 700,
+          "id": 0,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 6,
+          "id": 251,
+          "type": 0
+        },
+        "shopid": 63,
+        "shoptype": 3
+      },
+      "64": {
+        "Maxbatchbuy": 99,
+        "Tabshop": 1,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 500,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 10,
+          "id": 245,
+          "type": 0
+        },
+        "shopid": 64,
+        "shoptype": 3
+      },
+      "65": {
+        "Maxbatchbuy": 99,
+        "Tabshop": 1,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 10,
+          "id": 246,
+          "type": 0
+        },
+        "shopid": 65,
+        "shoptype": 3
+      },
+      "66": {
+        "Maxbatchbuy": 99,
+        "Tabshop": 1,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 3000,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 10,
+          "id": 247,
+          "type": 0
+        },
+        "shopid": 66,
+        "shoptype": 3
+      },
+      "67": {
+        "Maxbatchbuy": 99,
+        "Tabshop": 1,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 30000,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 10,
+          "id": 248,
+          "type": 0
+        },
+        "shopid": 67,
+        "shoptype": 3
+      },
+      "68": {
+        "Maxbatchbuy": 99,
+        "Tabshop": 1,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 10,
+          "id": 239,
+          "type": 0
+        },
+        "shopid": 68,
+        "shoptype": 3
+      }
+    }
+  },
+  "4": {
+    "1": {
+      "69": {
+        "Tabshop": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 110,
+          "id": 0,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 251,
+          "type": 0
+        },
+        "shopid": 69,
+        "shoptype": 4
+      },
+      "70": {
+        "Tabshop": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 700,
+          "id": 0,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 6,
+          "id": 251,
+          "type": 0
+        },
+        "shopid": 70,
+        "shoptype": 4
+      },
+      "71": {
+        "Maxbatchbuy": 99,
+        "Tabshop": 1,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 500,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 10,
+          "id": 245,
+          "type": 0
+        },
+        "shopid": 71,
+        "shoptype": 4
+      },
+      "72": {
+        "Maxbatchbuy": 99,
+        "Tabshop": 1,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 10,
+          "id": 246,
+          "type": 0
+        },
+        "shopid": 72,
+        "shoptype": 4
+      },
+      "73": {
+        "Maxbatchbuy": 99,
+        "Tabshop": 1,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 3000,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 10,
+          "id": 247,
+          "type": 0
+        },
+        "shopid": 73,
+        "shoptype": 4
+      },
+      "74": {
+        "Maxbatchbuy": 99,
+        "Tabshop": 1,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 30000,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 10,
+          "id": 248,
+          "type": 0
+        },
+        "shopid": 74,
+        "shoptype": 4
+      },
+      "75": {
+        "Maxbatchbuy": 99,
+        "Tabshop": 1,
+        "batchbuy": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 10,
+          "id": 239,
+          "type": 0
+        },
+        "shopid": 75,
+        "shoptype": 4
+      }
+    }
+  },
+  "6": {
+    "1": {
+      "76": {
+        "Tabshop": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 90,
+          "id": 20,
+          "type": 20
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 42,
+          "type": 0
+        },
+        "shopid": 76,
+        "shoptype": 6
+      },
+      "77": {
+        "Tabshop": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 30,
+          "id": 20,
+          "type": 20
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1072,
+          "type": 0
+        },
+        "shopid": 77,
+        "shoptype": 6
+      },
+      "78": {
+        "Tabshop": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 20,
+          "id": 20,
+          "type": 20
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1059,
+          "type": 0
+        },
+        "shopid": 78,
+        "shoptype": 6
+      },
+      "79": {
+        "Tabshop": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 20,
+          "id": 20,
+          "type": 20
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 1063,
+          "type": 0
+        },
+        "shopid": 79,
+        "shoptype": 6
+      },
+      "80": {
+        "Tabshop": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 3,
+          "id": 20,
+          "type": 20
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 853,
+          "type": 0
+        },
+        "shopid": 80,
+        "shoptype": 6
+      },
+      "81": {
+        "Tabshop": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 3,
+          "id": 20,
+          "type": 20
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 854,
+          "type": 0
+        },
+        "shopid": 81,
+        "shoptype": 6
+      },
+      "82": {
+        "Tabshop": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 5,
+          "id": 20,
+          "type": 20
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 855,
+          "type": 0
+        },
+        "shopid": 82,
+        "shoptype": 6
+      },
+      "83": {
+        "Tabshop": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 5,
+          "id": 20,
+          "type": 20
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 856,
+          "type": 0
+        },
+        "shopid": 83,
+        "shoptype": 6
+      },
+      "84": {
+        "Tabshop": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 1,
+          "id": 20,
+          "type": 20
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        },
+        "shopid": 84,
+        "shoptype": 6
+      },
+      "85": {
+        "Tabshop": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 1,
+          "id": 20,
+          "type": 20
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 421,
+          "type": 0
+        },
+        "shopid": 85,
+        "shoptype": 6
+      },
+      "86": {
+        "Tabshop": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 1,
+          "id": 20,
+          "type": 20
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 269,
+          "type": 0
+        },
+        "shopid": 86,
+        "shoptype": 6
+      },
+      "87": {
+        "Tabshop": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 10,
+          "id": 20,
+          "type": 20
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 200000,
+          "id": 2,
+          "type": 2
+        },
+        "shopid": 87,
+        "shoptype": 6
+      },
+      "88": {
+        "Tabshop": 1,
+        "buytype": [],
+        "daylimit": 0,
+        "levellimit": 1,
+        "price": {
+          "count": 35,
+          "id": 20,
+          "type": 20
+        },
+        "reincarnationlimit": 0,
+        "shop": {
+          "count": 1,
+          "id": 249,
+          "type": 0
+        },
+        "shopid": 88,
+        "shoptype": 6
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "authentication": [
+    {
+      "count": 1,
+      "id": 365,
+      "type": 0
+    },
+    {
+      "count": 10,
+      "id": 261,
+      "type": 0
+    },
+    {
+      "count": 1,
+      "id": 300,
+      "type": 0
+    },
+    {
+      "count": 50000,
+      "id": 2,
+      "type": 2
+    }
+  ],
+  "bindPhoneReward": [
+    {
+      "count": 1,
+      "id": 351,
+      "type": 0
+    },
+    {
+      "count": 5,
+      "id": 421,
+      "type": 0
+    },
+    {
+      "count": 1,
+      "id": 302,
+      "type": 0
+    },
+    {
+      "count": 30000,
+      "id": 2,
+      "type": 2
+    }
+  ],
+  "limit": 30000
+}

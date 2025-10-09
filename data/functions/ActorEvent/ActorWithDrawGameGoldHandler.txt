@@ -1,0 +1,5 @@
+﻿--提取元宝操作 参数1：提取的元宝数
+defaultHandleActorWithDrawGameGold = function (pActor,nArgWithDrawCount)
+  
+  
+end

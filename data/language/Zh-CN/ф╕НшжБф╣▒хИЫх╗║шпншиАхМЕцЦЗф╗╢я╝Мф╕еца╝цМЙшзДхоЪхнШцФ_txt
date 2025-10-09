@@ -1,0 +1,17 @@
+﻿Item.txt  物品配置语言包
+Quest.txt  任务配置语言包
+System.txt 系统C++语言包
+Skill.txt   技能配置语言包
+NormalTalk.txt 怪物说话配置语言包
+newTitle.txt  头衔配置语言包
+EntityName.txt 实体名字语言包
+SceneName.txt  场景配置语言包
+Buff.txt       buff配置语言包
+AchieveName.txt 成就配置语言包
+Store.txt     商城配置语言包
+NpcTitle.txt  npc头衔配置语言包
+Log.txt				日志描述语言包
+Script.txt    脚本中用到的语言包
+MiscConfig.txt  所有配置中杂七杂八的语言包
+talk.txt npc对话
+ItemRecover		分解合成语言包

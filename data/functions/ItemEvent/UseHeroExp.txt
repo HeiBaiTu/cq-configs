@@ -1,0 +1,73 @@
+--#include "data\functions\ItemEvent\ItemUseCount.txt" once
+--#include "data\functions\GlobalMiscExpand\GlobalMisc.txt" once
+--#include "data\config\item\HeroExp.txt" once
+--#include "data\config\Hero\HeroConfig.txt" once
+
+--英雄经验丹
+
+function UseHeroExpItem(sysarg, count, itemidx, itemPtr,ItemTable, delType, param)
+	if(Actor.getItemCount(sysarg, itemidx) == 0) then
+		Actor.sendTipmsg( sysarg,OldLang.Script.HeroItem001,ttFlyTip)
+		return
+	end
+    local nHeroId = Hero.getBattleHeroId(sysarg)
+	if nHeroId == -1  then
+		Actor.sendTipmsg( sysarg,OldLang.Script.HeroItem002,ttFlyTip)
+		return
+    end
+	--判断英雄等级是否已经到了本阶最高等级
+	local Stage = Hero.getHeroProperty(sysarg,nHeroId,enHeroStage)
+	local Level = Hero.getHeroProperty(sysarg,nHeroId,enHeroLevel)
+	local Exp   = Hero.getHeroProperty(sysarg,nHeroId,enHeroExp)
+	local cfg = HeroConfig.HeroList[nHeroId]
+	if not cfg then
+	    return
+	end
+	local LevelCfg = cfg.Levels[Level]
+	local StageCfg = cfg.Stages[Stage]
+	if not StageCfg or not LevelCfg then
+	    return
+	end
+	local MaxLevel = StageCfg.MaxLevel 
+	local MaxExp = LevelCfg.LevelUpExp
+	if  Level == MaxLevel  and Exp >=  MaxExp then
+	    Actor.sendTipmsg( sysarg,OldLang.Script.Hero009,ttFlyTip)
+	    return
+	end
+
+	local canAddExp = MaxExp - Exp
+	if Level < MaxLevel then
+		for idx = Level + 1, MaxLevel do
+			LevelCfg = cfg.Levels[idx]
+			canAddExp = canAddExp + LevelCfg.LevelUpExp
+		end
+	end
+	local useCount = math.ceil(canAddExp/ItemTable.exp)
+	if useCount > count then
+		useCount = count
+	end
+	useCount = Actor.removeItemByPtr(sysarg, itemPtr, useCount, true, "HeroExp",303)
+	if useCount > 0 then
+		local addExp = ItemTable.exp * useCount
+		if addExp > canAddExp then
+			addExp = canAddExp
+		end
+		Hero.addExp(sysarg, addExp)
+		local ItemName = Item.getItemName(ItemTable.itemid)
+		Actor.sendTipmsg( sysarg, string.format(OldLang.Script.HeroItem003, useCount, ItemName,addExp), ttFlyTip )
+		return true,useCount
+	end
+	
+end
+
+function UseHeroExpInit(sysarg)
+  for i = 1,table.getn(HeroExpConfig) do
+	local x = HeroExpConfig[i]
+	GlobalItemFn[x.itemid] = { func = UseHeroExpItem, params = x }
+  end
+end
+
+table.insert(InitFnTable, UseHeroExpInit)
+
+
+

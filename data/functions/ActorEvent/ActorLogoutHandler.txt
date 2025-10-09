@@ -1,0 +1,27 @@
+﻿--lua script
+
+--人物登出事件 
+defaultHandlerPlayerLogout = function (pActor,nActorId)
+
+	local fbId = Actor.getFubenId(pActor)
+	if fbId > 0 then
+		
+	end
+	SaveData(pActor,Actor.getIntProperty(pActor,PROP_ENTITY_ID))
+end
+
+--保存玩家的PK模式数据
+function savePKModeDataFunc(pActor,var)
+	local pkmode = var.pkmode
+	if pkmode == nil then 
+		var.pkmode = {}
+		pkmode = var.pkmode
+	end
+	pkmode[1] = Actor.getPkMode(pActor)
+end
+ 
+--玩家退出时保存玩家的数据
+function SaveData(pActor)
+	local var = Actor.getStaticVar( pActor )
+	savePKModeDataFunc(pActor,var)	--玩家的PK模式数据
+end

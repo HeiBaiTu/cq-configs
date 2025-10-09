@@ -1,0 +1,441 @@
+{
+  "1": {
+    "RecoverRatio": {
+      "hp": 10,
+      "mp": 100
+    },
+    "VipRevive": 120,
+    "autoType": 1,
+    "description": 1,
+    "expire": 120,
+    "idx": 1,
+    "limit": -1,
+    "selectInfo": [
+      {
+        "hp": 10,
+        "limit": -1,
+        "mp": 10,
+        "type": 4
+      },
+      {
+        "hp": 10,
+        "limit": -1,
+        "mp": 10,
+        "type": 6
+      }
+    ]
+  },
+  "2": {
+    "RecoverRatio": {
+      "hp": 100,
+      "mp": 100
+    },
+    "VipRevive": 5,
+    "autoType": 3,
+    "description": 3,
+    "expire": 10,
+    "idx": 2,
+    "limit": -1,
+    "selectInfo": []
+  },
+  "3": {
+    "RecoverRatio": {
+      "hp": 100,
+      "mp": 100
+    },
+    "VipRevive": 5,
+    "autoType": 4,
+    "description": 2,
+    "expire": 10,
+    "idx": 3,
+    "limit": -1,
+    "selectInfo": []
+  },
+  "4": {
+    "FixedPosi": {
+      "x": 25,
+      "y": 17
+    },
+    "RecoverRatio": {
+      "hp": 100,
+      "mp": 100
+    },
+    "VipRevive": 5,
+    "autoType": 5,
+    "description": 3,
+    "expire": 10,
+    "idx": 4,
+    "limit": -1,
+    "selectInfo": [
+      {
+        "consume": {
+          "count": 10,
+          "id": 4,
+          "type": 4
+        },
+        "hp": 100,
+        "limit": -1,
+        "mp": 100,
+        "type": 1
+      }
+    ]
+  },
+  "5": {
+    "RecoverRatio": {
+      "hp": 100,
+      "mp": 100
+    },
+    "VipRevive": 5,
+    "autoType": 1,
+    "description": 1,
+    "expire": 10,
+    "idx": 5,
+    "limit": -1,
+    "selectInfo": [
+      {
+        "hp": 100,
+        "limit": -1,
+        "mp": 100,
+        "type": 4
+      }
+    ]
+  },
+  "6": {
+    "FixedPosi": {
+      "x": 16,
+      "y": 9
+    },
+    "RecoverRatio": {
+      "hp": 100,
+      "mp": 100
+    },
+    "VipRevive": 5,
+    "autoType": 6,
+    "camprevive": {
+      "nEnterRangeA": [
+        166,
+        62,
+        41,
+        4,
+        3
+      ],
+      "nEnterRangeB": [
+        166,
+        16,
+        9,
+        4,
+        3
+      ]
+    },
+    "description": 3,
+    "expire": 10,
+    "idx": 6,
+    "limit": -1,
+    "selectInfo": []
+  },
+  "7": {
+    "FixedPosi": {
+      "x": 20,
+      "y": 15
+    },
+    "RecoverRatio": {
+      "hp": 100,
+      "mp": 100
+    },
+    "VipRevive": 5,
+    "autoType": 5,
+    "description": 3,
+    "expire": 10,
+    "idx": 7,
+    "limit": -1,
+    "selectInfo": [
+      {
+        "consume": {
+          "count": 10,
+          "id": 4,
+          "type": 4
+        },
+        "hp": 100,
+        "limit": -1,
+        "mp": 100,
+        "type": 1
+      }
+    ]
+  },
+  "8": {
+    "FixedPosi": {
+      "x": 11,
+      "y": 20
+    },
+    "RecoverRatio": {
+      "hp": 100,
+      "mp": 100
+    },
+    "VipRevive": 5,
+    "autoType": 5,
+    "description": 3,
+    "expire": 10,
+    "idx": 8,
+    "limit": -1,
+    "selectInfo": [
+      {
+        "consume": {
+          "count": 10,
+          "id": 4,
+          "type": 4
+        },
+        "hp": 100,
+        "limit": -1,
+        "mp": 100,
+        "type": 1
+      }
+    ]
+  },
+  "9": {
+    "FixedPosi": {
+      "x": 20,
+      "y": 15
+    },
+    "RecoverRatio": {
+      "hp": 100,
+      "mp": 100
+    },
+    "VipRevive": 5,
+    "autoType": 5,
+    "description": 3,
+    "expire": 10,
+    "idx": 9,
+    "limit": -1,
+    "selectInfo": [
+      {
+        "consume": {
+          "count": 10,
+          "id": 4,
+          "type": 4
+        },
+        "hp": 100,
+        "limit": -1,
+        "mp": 100,
+        "type": 1
+      }
+    ]
+  },
+  "10": {
+    "FixedPosi": {
+      "x": 11,
+      "y": 20
+    },
+    "RecoverRatio": {
+      "hp": 100,
+      "mp": 100
+    },
+    "VipRevive": 5,
+    "autoType": 5,
+    "description": 3,
+    "expire": 10,
+    "idx": 10,
+    "limit": -1,
+    "selectInfo": [
+      {
+        "consume": {
+          "count": 10,
+          "id": 4,
+          "type": 4
+        },
+        "hp": 100,
+        "limit": -1,
+        "mp": 100,
+        "type": 1
+      }
+    ]
+  },
+  "11": {
+    "FixedPosi": {
+      "x": 20,
+      "y": 15
+    },
+    "RecoverRatio": {
+      "hp": 100,
+      "mp": 100
+    },
+    "VipRevive": 5,
+    "autoType": 5,
+    "description": 3,
+    "expire": 10,
+    "idx": 11,
+    "limit": -1,
+    "selectInfo": [
+      {
+        "consume": {
+          "count": 10,
+          "id": 4,
+          "type": 4
+        },
+        "hp": 100,
+        "limit": -1,
+        "mp": 100,
+        "type": 1
+      }
+    ]
+  },
+  "12": {
+    "FixedPosi": {
+      "x": 11,
+      "y": 20
+    },
+    "RecoverRatio": {
+      "hp": 100,
+      "mp": 100
+    },
+    "VipRevive": 5,
+    "autoType": 5,
+    "description": 3,
+    "expire": 10,
+    "idx": 12,
+    "limit": -1,
+    "selectInfo": [
+      {
+        "consume": {
+          "count": 10,
+          "id": 4,
+          "type": 4
+        },
+        "hp": 100,
+        "limit": -1,
+        "mp": 100,
+        "type": 1
+      }
+    ]
+  },
+  "13": {
+    "FixedPosi": {
+      "x": 20,
+      "y": 15
+    },
+    "RecoverRatio": {
+      "hp": 100,
+      "mp": 100
+    },
+    "VipRevive": 5,
+    "autoType": 5,
+    "description": 3,
+    "expire": 10,
+    "idx": 13,
+    "limit": -1,
+    "selectInfo": [
+      {
+        "consume": {
+          "count": 10,
+          "id": 4,
+          "type": 4
+        },
+        "hp": 100,
+        "limit": -1,
+        "mp": 100,
+        "type": 1
+      }
+    ]
+  },
+  "14": {
+    "RecoverRatio": {
+      "hp": 100,
+      "mp": 100
+    },
+    "VipRevive": 2,
+    "autoType": 4,
+    "description": 2,
+    "expire": 3,
+    "idx": 14,
+    "limit": -1,
+    "selectInfo": []
+  },
+  "15": {
+    "RecoverRatio": {
+      "hp": 100,
+      "mp": 100
+    },
+    "VipRevive": 6,
+    "autoType": 3,
+    "description": 3,
+    "expire": 12,
+    "idx": 15,
+    "limit": -1,
+    "selectInfo": []
+  },
+  "16": {
+    "FixedPosi": {
+      "x": 16,
+      "y": 9
+    },
+    "RecoverRatio": {
+      "hp": 100,
+      "mp": 100
+    },
+    "VipRevive": 6,
+    "autoType": 6,
+    "camprevive": {
+      "nEnterRangeA": [
+        166,
+        62,
+        41,
+        4,
+        3
+      ],
+      "nEnterRangeB": [
+        166,
+        16,
+        9,
+        4,
+        3
+      ]
+    },
+    "description": 3,
+    "expire": 12,
+    "idx": 16,
+    "limit": -1,
+    "selectInfo": []
+  },
+  "17": {
+    "FixedPosi": {
+      "x": 17,
+      "y": 11
+    },
+    "RecoverRatio": {
+      "hp": 100,
+      "mp": 100
+    },
+    "VipRevive": 6,
+    "autoType": 5,
+    "description": 3,
+    "expire": 12,
+    "idx": 17,
+    "limit": -1,
+    "selectInfo": []
+  },
+  "18": {
+    "RecoverRatio": {
+      "hp": 100,
+      "mp": 100
+    },
+    "VipRevive": 6,
+    "autoType": 3,
+    "description": 3,
+    "expire": 12,
+    "idx": 18,
+    "limit": -1,
+    "selectInfo": []
+  },
+  "19": {
+    "RecoverRatio": {
+      "hp": 100,
+      "mp": 100
+    },
+    "VipRevive": 6,
+    "autoType": 3,
+    "description": 3,
+    "expire": 12,
+    "idx": 19,
+    "limit": -1,
+    "selectInfo": []
+  }
+}

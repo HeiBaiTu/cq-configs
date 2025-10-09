@@ -1,0 +1,31 @@
+{
+  "36": {
+    "Id": 36,
+    "Ntipstext_1": "|C:0xeee104&T:活动：跨服膜拜|",
+    "Ntipstext_2": "活动时间：|C:0x2eb52d&T:每日|",
+    "Ntipstext_3": "膜拜六大英雄（跨服排名第一的男女三职业战法道玩家），获得秘籍和多倍经验奖励\n\n",
+    "isCheckTime": 0,
+    "name": "跨服膜拜",
+    "openParam": {
+      "openDay": 1
+    },
+    "openView": "app.CrossServerWorshipWin",
+    "rewardBtn": "前往膜拜",
+    "rewards": [
+      {
+        "count": 0,
+        "id": 13,
+        "type": 13
+      },
+      {
+        "count": 0,
+        "id": 265,
+        "type": 0
+      }
+    ],
+    "showParam": {
+      "openDay": 1
+    },
+    "uiType": 1
+  }
+}

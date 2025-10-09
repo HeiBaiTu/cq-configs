@@ -1,0 +1,134 @@
+{
+  "1": {
+    "description": [
+      {
+        "index": 1,
+        "itemDesc": "|C:0xffffff&T:称号C会员贵宾\n物防0-1\n魔御0-1|",
+        "ldsDesc": "会员达到黄金",
+        "title": "|C:0xffffff&T:会员专属称号|",
+        "titleImg": "ch_show_0066"
+      },
+      {
+        "index": 2,
+        "itemDesc": "|C:0xffffff&T:包含道具：\n初阶秘籍*3\n四象青龙丹*3\n绑定金币*10000|",
+        "ldsDesc": "会员达到黄金",
+        "title": "|C:0xffffff&T:会员专属礼包|"
+      }
+    ],
+    "giftReward": [
+      {
+        "count": 3,
+        "id": 261,
+        "type": 0
+      },
+      {
+        "count": 3,
+        "id": 853,
+        "type": 0
+      },
+      {
+        "count": 10000,
+        "id": 2,
+        "type": 2
+      }
+    ],
+    "giftShowReward": [
+      {
+        "count": 1,
+        "id": 1288,
+        "type": 0
+      }
+    ],
+    "id": 1,
+    "memberLevel": 1,
+    "titleReward": [
+      {
+        "count": 1,
+        "id": 1282,
+        "type": 0
+      }
+    ],
+    "type": 1
+  },
+  "2": {
+    "description": [
+      {
+        "index": 1,
+        "itemDesc": "|C:0xffffff&T:称号C钻石会员\n物防1-1\n魔御1-1|",
+        "ldsDesc": "会员达到钻石",
+        "title": "|C:0xffffff&T:会员专属称号|",
+        "titleImg": "ch_show_0067"
+      },
+      {
+        "index": 2,
+        "itemDesc": "|C:0xffffff&T:包含道具：\n初阶秘籍*5\n四象青龙丹*5\n绑定金币*10000|",
+        "ldsDesc": "会员达到钻石",
+        "title": "|C:0xffffff&T:会员专属礼包|"
+      }
+    ],
+    "giftReward": [
+      {
+        "count": 5,
+        "id": 261,
+        "type": 0
+      },
+      {
+        "count": 5,
+        "id": 854,
+        "type": 0
+      },
+      {
+        "count": 10000,
+        "id": 2,
+        "type": 2
+      }
+    ],
+    "giftShowReward": [
+      {
+        "count": 1,
+        "id": 1289,
+        "type": 0
+      }
+    ],
+    "id": 2,
+    "memberLevel": 3,
+    "titleReward": [
+      {
+        "count": 1,
+        "id": 1283,
+        "type": 0
+      }
+    ],
+    "type": 1
+  },
+  "3": {
+    "description": [],
+    "giftReward": [
+      {
+        "count": 1,
+        "id": 269,
+        "type": 0
+      },
+      {
+        "count": 3,
+        "id": 247,
+        "type": 0
+      },
+      {
+        "count": 5,
+        "id": 7,
+        "type": 7
+      },
+      {
+        "count": 10000,
+        "id": 2,
+        "type": 2
+      }
+    ],
+    "giftShowReward": [],
+    "id": 3,
+    "memberLevel": 1,
+    "titleReward": [],
+    "type": 2
+  }
+}

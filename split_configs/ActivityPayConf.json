@@ -1,0 +1,5326 @@
+{
+  "1": {
+    "1": {
+      "Id": 1,
+      "actId": 10106,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "七日登录",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "2": {
+      "Id": 2,
+      "actId": 10040,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "3": {
+      "Id": 3,
+      "actId": 10041,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "4": {
+      "Id": 4,
+      "actId": 10042,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "5": {
+      "Id": 5,
+      "actId": 10043,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "6": {
+      "Id": 6,
+      "actId": 10044,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "7": {
+      "Id": 7,
+      "actId": 10045,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "8": {
+      "Id": 8,
+      "actId": 10046,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "9": {
+      "Id": 9,
+      "actId": 10110,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "10": {
+      "Id": 10,
+      "actId": 10111,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "11": {
+      "Id": 11,
+      "actId": 10112,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "12": {
+      "Id": 12,
+      "actId": 10113,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "13": {
+      "Id": 13,
+      "actId": 10114,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "14": {
+      "Id": 14,
+      "actId": 10115,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "15": {
+      "Id": 15,
+      "actId": 10116,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "16": {
+      "Id": 16,
+      "actId": 10176,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "17": {
+      "Id": 17,
+      "actId": 10177,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "18": {
+      "Id": 18,
+      "actId": 10178,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "19": {
+      "Id": 19,
+      "actId": 10179,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "20": {
+      "Id": 20,
+      "actId": 10180,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "21": {
+      "Id": 21,
+      "actId": 10181,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "22": {
+      "Id": 22,
+      "actId": 10182,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "23": {
+      "Id": 23,
+      "actId": 10076,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "连充好礼",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "24": {
+      "Id": 24,
+      "actId": 10117,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每周连充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "25": {
+      "Id": 25,
+      "actId": 10118,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每周连充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "26": {
+      "Id": 26,
+      "actId": 10119,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每周连充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "27": {
+      "Id": 27,
+      "actId": 10078,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "开服礼包",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "28": {
+      "Id": 28,
+      "actId": 10080,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "开服礼包",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "29": {
+      "Id": 29,
+      "actId": 10079,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "绝版礼包",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "30": {
+      "Id": 30,
+      "actId": 10081,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "开服礼包",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "31": {
+      "Id": 31,
+      "actId": 10083,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "开服礼包",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "32": {
+      "Id": 32,
+      "actId": 10084,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "开服礼包",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "33": {
+      "Id": 33,
+      "actId": 10085,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "34": {
+      "Id": 34,
+      "actId": 10086,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "35": {
+      "Id": 35,
+      "actId": 10087,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "36": {
+      "Id": 36,
+      "actId": 10088,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "37": {
+      "Id": 37,
+      "actId": 10089,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "38": {
+      "Id": 38,
+      "actId": 10090,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "39": {
+      "Id": 39,
+      "actId": 10091,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "40": {
+      "Id": 40,
+      "actId": 10092,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "41": {
+      "Id": 41,
+      "actId": 10093,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "42": {
+      "Id": 42,
+      "actId": 10094,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "43": {
+      "Id": 43,
+      "actId": 10095,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "44": {
+      "Id": 44,
+      "actId": 10096,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "45": {
+      "Id": 45,
+      "actId": 10097,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "46": {
+      "Id": 46,
+      "actId": 10098,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "47": {
+      "Id": 47,
+      "actId": 10099,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "48": {
+      "Id": 48,
+      "actId": 10100,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "49": {
+      "Id": 49,
+      "actId": 10101,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "50": {
+      "Id": 50,
+      "actId": 10102,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "51": {
+      "Id": 51,
+      "actId": 10103,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "52": {
+      "Id": 52,
+      "actId": 10104,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "53": {
+      "Id": 53,
+      "actId": 10105,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "54": {
+      "Id": 54,
+      "actId": 10107,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "备战首沙",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "55": {
+      "Id": 55,
+      "actId": 10108,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "备战沙城",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "56": {
+      "Id": 56,
+      "actId": 10109,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "绝版时装",
+      "openlimit": {
+        "level": 35
+      },
+      "redpoint": 2,
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "57": {
+      "Id": 57,
+      "actId": 10082,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "限时直购",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "58": {
+      "Id": 58,
+      "actId": 10126,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "59": {
+      "Id": 59,
+      "actId": 10127,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "60": {
+      "Id": 60,
+      "actId": 10128,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "61": {
+      "Id": 61,
+      "actId": 10129,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "62": {
+      "Id": 62,
+      "actId": 10130,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "63": {
+      "Id": 63,
+      "actId": 10131,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "64": {
+      "Id": 64,
+      "actId": 10132,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "65": {
+      "Id": 65,
+      "actId": 10133,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "66": {
+      "Id": 66,
+      "actId": 10134,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "67": {
+      "Id": 67,
+      "actId": 10135,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "68": {
+      "Id": 68,
+      "actId": 10136,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "69": {
+      "Id": 69,
+      "actId": 10137,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "70": {
+      "Id": 70,
+      "actId": 10138,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "71": {
+      "Id": 71,
+      "actId": 10139,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "72": {
+      "Id": 72,
+      "actId": 10140,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "73": {
+      "Id": 73,
+      "actId": 10141,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "74": {
+      "Id": 74,
+      "actId": 10142,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "75": {
+      "Id": 75,
+      "actId": 10143,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "76": {
+      "Id": 76,
+      "actId": 10144,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "77": {
+      "Id": 77,
+      "actId": 10145,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "78": {
+      "Id": 78,
+      "actId": 10146,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "79": {
+      "Id": 79,
+      "actId": 10155,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "80": {
+      "Id": 80,
+      "actId": 10156,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "81": {
+      "Id": 81,
+      "actId": 10157,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "82": {
+      "Id": 82,
+      "actId": 10158,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "83": {
+      "Id": 83,
+      "actId": 10159,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "84": {
+      "Id": 84,
+      "actId": 10160,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "85": {
+      "Id": 85,
+      "actId": 10161,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "86": {
+      "Id": 86,
+      "actId": 10162,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "87": {
+      "Id": 87,
+      "actId": 10163,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "88": {
+      "Id": 88,
+      "actId": 10164,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "89": {
+      "Id": 89,
+      "actId": 10165,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "90": {
+      "Id": 90,
+      "actId": 10166,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "91": {
+      "Id": 91,
+      "actId": 10167,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "92": {
+      "Id": 92,
+      "actId": 10168,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "93": {
+      "Id": 93,
+      "actId": 10169,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "94": {
+      "Id": 94,
+      "actId": 10170,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "95": {
+      "Id": 95,
+      "actId": 10171,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "96": {
+      "Id": 96,
+      "actId": 10172,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "97": {
+      "Id": 97,
+      "actId": 10173,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "98": {
+      "Id": 98,
+      "actId": 10174,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "99": {
+      "Id": 99,
+      "actId": 10175,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "100": {
+      "Id": 100,
+      "actId": 10192,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "101": {
+      "Id": 101,
+      "actId": 10193,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "102": {
+      "Id": 102,
+      "actId": 10194,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "103": {
+      "Id": 103,
+      "actId": 10195,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "104": {
+      "Id": 104,
+      "actId": 10196,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "105": {
+      "Id": 105,
+      "actId": 10197,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "106": {
+      "Id": 106,
+      "actId": 10198,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "107": {
+      "Id": 107,
+      "actId": 10199,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "108": {
+      "Id": 108,
+      "actId": 10200,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "109": {
+      "Id": 109,
+      "actId": 10201,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "110": {
+      "Id": 110,
+      "actId": 10202,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "111": {
+      "Id": 111,
+      "actId": 10203,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "112": {
+      "Id": 112,
+      "actId": 10204,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "113": {
+      "Id": 113,
+      "actId": 10205,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "114": {
+      "Id": 114,
+      "actId": 10206,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "115": {
+      "Id": 115,
+      "actId": 10207,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "116": {
+      "Id": 116,
+      "actId": 10208,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "117": {
+      "Id": 117,
+      "actId": 10209,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "118": {
+      "Id": 118,
+      "actId": 10210,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "119": {
+      "Id": 119,
+      "actId": 10211,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "120": {
+      "Id": 120,
+      "actId": 10212,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityPreferentialView"
+    },
+    "150": {
+      "Id": 150,
+      "actId": 10006,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "开服投资",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.InvestmentView"
+    },
+    "193": {
+      "Id": 193,
+      "actId": 10275,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日充值",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "194": {
+      "Id": 194,
+      "actId": 10276,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日充值",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "195": {
+      "Id": 195,
+      "actId": 10277,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日充值",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "196": {
+      "Id": 196,
+      "actId": 10278,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日充值",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "197": {
+      "Id": 197,
+      "actId": 10279,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日充值",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "198": {
+      "Id": 198,
+      "actId": 10280,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日充值",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "199": {
+      "Id": 199,
+      "actId": 10281,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日充值",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "200": {
+      "Id": 200,
+      "actId": 10282,
+      "name": "沙战到底",
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "201": {
+      "Id": 201,
+      "actId": 10283,
+      "name": "沙战到底",
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "202": {
+      "Id": 202,
+      "actId": 10287,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日返利",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "203": {
+      "Id": 203,
+      "actId": 10288,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日返利",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "204": {
+      "Id": 204,
+      "actId": 10289,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日返利",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "205": {
+      "Id": 205,
+      "actId": 10290,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日返利",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "206": {
+      "Id": 206,
+      "actId": 10291,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日返利",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "207": {
+      "Id": 207,
+      "actId": 10292,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日返利",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "208": {
+      "Id": 208,
+      "actId": 10293,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日返利",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "209": {
+      "Id": 209,
+      "actId": 10294,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日返利",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "210": {
+      "Id": 210,
+      "actId": 10295,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日返利",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "211": {
+      "Id": 211,
+      "actId": 10296,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日返利",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "212": {
+      "Id": 212,
+      "actId": 10297,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日返利",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "213": {
+      "Id": 213,
+      "actId": 10298,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日返利",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "214": {
+      "Id": 214,
+      "actId": 10299,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日返利",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "215": {
+      "Id": 215,
+      "actId": 10300,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日返利",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "216": {
+      "Id": 216,
+      "actId": 10301,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日返利",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "217": {
+      "Id": 217,
+      "actId": 10302,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日返利",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "218": {
+      "Id": 218,
+      "actId": 10303,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日返利",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "219": {
+      "Id": 219,
+      "actId": 10304,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日返利",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "220": {
+      "Id": 220,
+      "actId": 10305,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日返利",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "221": {
+      "Id": 221,
+      "actId": 10306,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日返利",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "222": {
+      "Id": 222,
+      "actId": 10307,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日返利",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "223": {
+      "Id": 223,
+      "actId": 10308,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日返利",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "224": {
+      "Id": 224,
+      "actId": 10309,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日返利",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "225": {
+      "Id": 225,
+      "actId": 10310,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日返利",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "226": {
+      "Id": 226,
+      "actId": 10311,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "沙战到底",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "227": {
+      "Id": 227,
+      "actId": 10312,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "庆典累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "228": {
+      "Id": 228,
+      "actId": 10313,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日返利",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "229": {
+      "Id": 229,
+      "actId": 10314,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日返利",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "230": {
+      "Id": 230,
+      "actId": 10315,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日返利",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "231": {
+      "Id": 231,
+      "actId": 10316,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日返利",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "232": {
+      "Id": 232,
+      "actId": 10317,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日返利",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "233": {
+      "Id": 233,
+      "actId": 10318,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日返利",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "234": {
+      "Id": 234,
+      "actId": 10319,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日返利",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "235": {
+      "Id": 235,
+      "actId": 10320,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日好礼",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "236": {
+      "Id": 236,
+      "actId": 10321,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日好礼",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "237": {
+      "Id": 237,
+      "actId": 10322,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日好礼",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "238": {
+      "Id": 238,
+      "actId": 10323,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日好礼",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "239": {
+      "Id": 239,
+      "actId": 10324,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日好礼",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "240": {
+      "Id": 240,
+      "actId": 10325,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "周末好礼",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "241": {
+      "Id": 241,
+      "actId": 10327,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "开服转生",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "242": {
+      "Id": 242,
+      "actId": 10328,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "开服充值",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "243": {
+      "Id": 243,
+      "actId": 10329,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累值",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "244": {
+      "Id": 244,
+      "actId": 10330,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累值",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "245": {
+      "Id": 245,
+      "actId": 10331,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累值",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "246": {
+      "Id": 246,
+      "actId": 10332,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累值",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "247": {
+      "Id": 247,
+      "actId": 10333,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累值",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "248": {
+      "Id": 248,
+      "actId": 10334,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累值",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "249": {
+      "Id": 249,
+      "actId": 10335,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累值",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "250": {
+      "Id": 250,
+      "actId": 10336,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累值",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "251": {
+      "Id": 251,
+      "actId": 10337,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累值",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "252": {
+      "Id": 252,
+      "actId": 10338,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累值",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "253": {
+      "Id": 253,
+      "actId": 10339,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累值",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "254": {
+      "Id": 254,
+      "actId": 10340,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累值",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "255": {
+      "Id": 255,
+      "actId": 10341,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累值",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "256": {
+      "Id": 256,
+      "actId": 10342,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "每日累值",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.OpenServerSportsView"
+    },
+    "275": {
+      "Id": 275,
+      "actId": 10361,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "单笔充值",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ActivityAdvertView"
+    },
+    "321": {
+      "Id": 321,
+      "actId": 10409,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "消费排行榜",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 1,
+      "view": "app.ConsumeRankView"
+    }
+  },
+  "2": {
+    "121": {
+      "Id": 121,
+      "actId": 10120,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "BOSS狂欢",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.OpenServerSportsView"
+    },
+    "122": {
+      "Id": 122,
+      "actId": 10121,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "妖兽猎人",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.OpenServerSportsView"
+    },
+    "123": {
+      "Id": 123,
+      "actId": 10122,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "福利回收",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.ActivityExchangeView"
+    },
+    "124": {
+      "Id": 124,
+      "actId": 10123,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "集字好礼",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.ActivityExchangeView"
+    },
+    "125": {
+      "Id": 125,
+      "actId": 10124,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "限时消耗",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.OpenServerSportsView"
+    },
+    "126": {
+      "Id": 126,
+      "actId": 10125,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "节日特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "redpoint": 2,
+      "type": 2,
+      "view": "app.ActivityPreferentialView"
+    },
+    "127": {
+      "Id": 127,
+      "actId": 10183,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "BOSS狂欢",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.OpenServerSportsView"
+    },
+    "128": {
+      "Id": 128,
+      "actId": 10184,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "妖兽猎人",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.OpenServerSportsView"
+    },
+    "129": {
+      "Id": 129,
+      "actId": 10185,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "限时消耗",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.OpenServerSportsView"
+    },
+    "130": {
+      "Id": 130,
+      "actId": 10186,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "登陆好礼",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.OpenServerSportsView"
+    },
+    "131": {
+      "Id": 131,
+      "actId": 10189,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "节日特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.ActivityPreferentialView"
+    },
+    "132": {
+      "Id": 132,
+      "actId": 10187,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "福利回收",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.ActivityExchangeView"
+    },
+    "133": {
+      "Id": 133,
+      "actId": 10188,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "集字好礼",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.ActivityExchangeView"
+    },
+    "134": {
+      "Id": 134,
+      "actId": 10217,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "BOSS狂欢",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.OpenServerSportsView"
+    },
+    "135": {
+      "Id": 135,
+      "actId": 10218,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "妖兽猎人",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.OpenServerSportsView"
+    },
+    "136": {
+      "Id": 136,
+      "actId": 10219,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "限时消耗",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.OpenServerSportsView"
+    },
+    "137": {
+      "Id": 137,
+      "actId": 10220,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "登陆好礼",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.OpenServerSportsView"
+    },
+    "138": {
+      "Id": 138,
+      "actId": 10221,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "连充好礼",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.OpenServerSportsView"
+    },
+    "139": {
+      "Id": 139,
+      "actId": 10222,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "福利回收",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.ActivityExchangeView"
+    },
+    "140": {
+      "Id": 140,
+      "actId": 10223,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "集字好礼",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.ActivityExchangeView"
+    },
+    "141": {
+      "Id": 141,
+      "actId": 10224,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "节日特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.ActivityPreferentialView"
+    },
+    "163": {
+      "Id": 163,
+      "actId": 10244,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "BOSS狂欢",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.OpenServerSportsView"
+    },
+    "164": {
+      "Id": 164,
+      "actId": 10245,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "妖兽猎人",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.OpenServerSportsView"
+    },
+    "165": {
+      "Id": 165,
+      "actId": 10246,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "登陆好礼",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.OpenServerSportsView"
+    },
+    "166": {
+      "Id": 166,
+      "actId": 10247,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "限时消耗",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.OpenServerSportsView"
+    },
+    "167": {
+      "Id": 167,
+      "actId": 10248,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "连充好礼",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.OpenServerSportsView"
+    },
+    "168": {
+      "Id": 168,
+      "actId": 10249,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "盛夏礼包",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.ActivityPreferentialView"
+    },
+    "169": {
+      "Id": 169,
+      "actId": 10250,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "福利回收",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.ActivityExchangeView"
+    },
+    "170": {
+      "Id": 170,
+      "actId": 10251,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "集字好礼",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.ActivityExchangeView"
+    },
+    "175": {
+      "Id": 175,
+      "actId": 10256,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "登陆好礼",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.OpenServerSportsView"
+    },
+    "176": {
+      "Id": 176,
+      "actId": 10257,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "BOSS猎人",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.OpenServerSportsView"
+    },
+    "177": {
+      "Id": 177,
+      "actId": 10258,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "周末累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.OpenServerSportsView"
+    },
+    "178": {
+      "Id": 178,
+      "actId": 10259,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "福利兑换",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.ActivityExchangeView"
+    },
+    "179": {
+      "Id": 179,
+      "actId": 10260,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "登陆好礼",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.OpenServerSportsView"
+    },
+    "180": {
+      "Id": 180,
+      "actId": 10261,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "怪物猎人",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.OpenServerSportsView"
+    },
+    "181": {
+      "Id": 181,
+      "actId": 10262,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "周末累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.OpenServerSportsView"
+    },
+    "182": {
+      "Id": 182,
+      "actId": 10263,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "福利兑换",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.ActivityExchangeView"
+    },
+    "183": {
+      "Id": 183,
+      "actId": 10264,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "福利兑换",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.ActivityExchangeView"
+    },
+    "184": {
+      "Id": 184,
+      "actId": 10265,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "福利兑换",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.ActivityExchangeView"
+    },
+    "185": {
+      "Id": 185,
+      "actId": 10266,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "福利兑换",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.ActivityExchangeView"
+    },
+    "186": {
+      "Id": 186,
+      "actId": 10284,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "福利兑换",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.ActivityExchangeView"
+    },
+    "187": {
+      "Id": 187,
+      "actId": 10285,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "福利兑换",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.ActivityExchangeView"
+    },
+    "188": {
+      "Id": 188,
+      "actId": 10286,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "福利兑换",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.ActivityExchangeView"
+    },
+    "257": {
+      "Id": 257,
+      "actId": 10343,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "福利兑换",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.ActivityExchangeView"
+    },
+    "258": {
+      "Id": 258,
+      "actId": 10344,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "福利兑换",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.ActivityExchangeView"
+    },
+    "259": {
+      "Id": 259,
+      "actId": 10345,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "福利兑换",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.ActivityExchangeView"
+    },
+    "260": {
+      "Id": 260,
+      "actId": 10346,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "周末连充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.OpenServerSportsView"
+    },
+    "261": {
+      "Id": 261,
+      "actId": 10347,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "周末连充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.OpenServerSportsView"
+    },
+    "262": {
+      "Id": 262,
+      "actId": 10348,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "周末连充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.OpenServerSportsView"
+    },
+    "276": {
+      "Id": 276,
+      "actId": 10362,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "福利兑换",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.ActivityExchangeView"
+    },
+    "277": {
+      "Id": 277,
+      "actId": 10363,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "福利兑换",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.ActivityExchangeView"
+    },
+    "278": {
+      "Id": 278,
+      "actId": 10364,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "福利兑换",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.ActivityExchangeView"
+    },
+    "279": {
+      "Id": 279,
+      "actId": 10367,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "福利兑换",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.ActivityExchangeView"
+    },
+    "280": {
+      "Id": 280,
+      "actId": 10368,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "福利兑换",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.ActivityExchangeView"
+    },
+    "281": {
+      "Id": 281,
+      "actId": 10369,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "福利兑换",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.ActivityExchangeView"
+    },
+    "326": {
+      "Id": 326,
+      "actId": 10414,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "福利兑换",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.ActivityExchangeView"
+    },
+    "327": {
+      "Id": 327,
+      "actId": 10415,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "福利兑换",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.ActivityExchangeView"
+    },
+    "328": {
+      "Id": 328,
+      "actId": 10416,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "福利兑换",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 2,
+      "view": "app.ActivityExchangeView"
+    }
+  },
+  "3": {
+    "142": {
+      "Id": 142,
+      "actId": 10154,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "BOSS来袭",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 3,
+      "view": "app.ActivityAdvertView"
+    },
+    "143": {
+      "Id": 143,
+      "actId": 10153,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "合服回收",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 3,
+      "view": "app.ActivityExchangeView"
+    },
+    "144": {
+      "Id": 144,
+      "actId": 10150,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "登录好礼",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 3,
+      "view": "app.OpenServerSportsView"
+    },
+    "145": {
+      "Id": 145,
+      "actId": 10216,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "连充好礼",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 3,
+      "view": "app.OpenServerSportsView"
+    },
+    "146": {
+      "Id": 146,
+      "actId": 10152,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "合服特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 3,
+      "view": "app.ActivityPreferentialView"
+    },
+    "147": {
+      "Id": 147,
+      "actId": 10151,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "限时消耗",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 3,
+      "view": "app.OpenServerSportsView"
+    },
+    "157": {
+      "Id": 157,
+      "actId": 10240,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "BOSS来袭",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 3,
+      "view": "app.ActivityAdvertView"
+    },
+    "158": {
+      "Id": 158,
+      "actId": 10235,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "合服回收",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 3,
+      "view": "app.ActivityExchangeView"
+    },
+    "159": {
+      "Id": 159,
+      "actId": 10236,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "登录好礼",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 3,
+      "view": "app.OpenServerSportsView"
+    },
+    "160": {
+      "Id": 160,
+      "actId": 10237,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "合服特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 3,
+      "view": "app.ActivityPreferentialView"
+    },
+    "161": {
+      "Id": 161,
+      "actId": 10238,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "限时消耗",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 3,
+      "view": "app.OpenServerSportsView"
+    },
+    "162": {
+      "Id": 162,
+      "actId": 10239,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "连充好礼",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 3,
+      "view": "app.OpenServerSportsView"
+    },
+    "186": {
+      "Id": 186,
+      "actId": 10267,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "登录好礼",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 3,
+      "view": "app.OpenServerSportsView"
+    },
+    "187": {
+      "Id": 187,
+      "actId": 10268,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "限时消耗",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 3,
+      "view": "app.OpenServerSportsView"
+    },
+    "188": {
+      "Id": 188,
+      "actId": 10269,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "连充好礼",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 3,
+      "view": "app.OpenServerSportsView"
+    },
+    "189": {
+      "Id": 189,
+      "actId": 10270,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "合服特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 3,
+      "view": "app.ActivityPreferentialView"
+    },
+    "190": {
+      "Id": 190,
+      "actId": 10271,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "合服回收",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 3,
+      "view": "app.ActivityExchangeView"
+    },
+    "191": {
+      "Id": 191,
+      "actId": 10272,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "BOSS来袭",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 3,
+      "view": "app.ActivityAdvertView"
+    }
+  },
+  "4": {
+    "148": {
+      "Id": 148,
+      "actId": 10191,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "周年累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "149": {
+      "Id": 149,
+      "actId": 10190,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "周年累登",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "151": {
+      "Id": 151,
+      "actId": 10229,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "暑假累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "152": {
+      "Id": 152,
+      "actId": 10230,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "暑假登录",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "153": {
+      "Id": 153,
+      "actId": 10231,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "暑假累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "154": {
+      "Id": 154,
+      "actId": 10232,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "暑假登录",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "155": {
+      "Id": 155,
+      "actId": 10233,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "妖兽猎人",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "156": {
+      "Id": 156,
+      "actId": 10234,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "福利回收",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.ActivityExchangeView"
+    },
+    "263": {
+      "Id": 263,
+      "actId": 10356,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "节日BOSS",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.ActivityAdvertView"
+    },
+    "264": {
+      "Id": 264,
+      "actId": 10358,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "BOSS狂欢",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "265": {
+      "Id": 265,
+      "actId": 10359,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "登录好礼",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "266": {
+      "Id": 266,
+      "actId": 10349,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "妖兽猎人",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "267": {
+      "Id": 267,
+      "actId": 10365,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "银两特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.ActivityPreferentialView"
+    },
+    "268": {
+      "Id": 268,
+      "actId": 10353,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "集字好礼",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.ActivityExchangeView"
+    },
+    "269": {
+      "Id": 269,
+      "actId": 10354,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "节日特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.ActivityPreferentialView"
+    },
+    "270": {
+      "Id": 270,
+      "actId": 10350,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "限时消耗",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "271": {
+      "Id": 271,
+      "actId": 10351,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "重阳连充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "272": {
+      "Id": 272,
+      "actId": 10360,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "重阳累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "273": {
+      "Id": 273,
+      "actId": 10352,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "福利回收",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.ActivityExchangeView"
+    },
+    "274": {
+      "Id": 274,
+      "actId": 10355,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "节日真充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "282": {
+      "Id": 282,
+      "actId": 10370,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "BOSS狂欢",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "283": {
+      "Id": 283,
+      "actId": 10371,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "登录好礼",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "284": {
+      "Id": 284,
+      "actId": 10372,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "妖兽猎人",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "285": {
+      "Id": 285,
+      "actId": 10373,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "福利兑换",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.ActivityExchangeView"
+    },
+    "286": {
+      "Id": 286,
+      "actId": 10374,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "万圣特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.ActivityPreferentialView"
+    },
+    "287": {
+      "Id": 287,
+      "actId": 10375,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "限时消耗",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "288": {
+      "Id": 288,
+      "actId": 10376,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "万圣累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "298": {
+      "Id": 298,
+      "actId": 10386,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "BOSS狂欢",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "299": {
+      "Id": 299,
+      "actId": 10387,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "登录好礼",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "300": {
+      "Id": 300,
+      "actId": 10388,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "妖兽猎人",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "301": {
+      "Id": 301,
+      "actId": 10389,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "11一元购",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.ActivityPreferentialView"
+    },
+    "302": {
+      "Id": 302,
+      "actId": 10390,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "特惠礼包",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.ActivityPreferentialView"
+    },
+    "303": {
+      "Id": 303,
+      "actId": 10391,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "限时消耗",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "304": {
+      "Id": 304,
+      "actId": 10392,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "双11累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "305": {
+      "Id": 305,
+      "actId": 10393,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "双11连充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "306": {
+      "Id": 306,
+      "actId": 10394,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 35
+      },
+      "name": "BOSS狂欢",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "307": {
+      "Id": 307,
+      "actId": 10395,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "妖兽猎人",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "308": {
+      "Id": 308,
+      "actId": 10396,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "11一元购",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.ActivityPreferentialView"
+    },
+    "309": {
+      "Id": 309,
+      "actId": 10397,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "特惠礼包",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.ActivityPreferentialView"
+    },
+    "310": {
+      "Id": 310,
+      "actId": 10398,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "限时消耗",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "311": {
+      "Id": 311,
+      "actId": 10399,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "双11累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "312": {
+      "Id": 312,
+      "actId": 10400,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "BOSS狂欢",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "313": {
+      "Id": 313,
+      "actId": 10401,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "登录好礼",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "314": {
+      "Id": 314,
+      "actId": 10402,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "妖兽猎人",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "315": {
+      "Id": 315,
+      "actId": 10403,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "感恩回馈",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.ActivityPreferentialView"
+    },
+    "316": {
+      "Id": 316,
+      "actId": 10404,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "特惠礼包",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.ActivityPreferentialView"
+    },
+    "317": {
+      "Id": 317,
+      "actId": 10405,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "限时消耗",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "318": {
+      "Id": 318,
+      "actId": 10406,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "感恩节累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    },
+    "319": {
+      "Id": 319,
+      "actId": 10407,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "感恩节连充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 4,
+      "view": "app.OpenServerSportsView"
+    }
+  },
+  "5": {
+    "289": {
+      "Id": 289,
+      "actId": 10378,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "节日BOSS",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 5,
+      "view": "app.ActivityAdvertView"
+    },
+    "290": {
+      "Id": 290,
+      "actId": 10379,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "BOSS狂欢",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 5,
+      "view": "app.OpenServerSportsView"
+    },
+    "291": {
+      "Id": 291,
+      "actId": 10380,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "登录好礼",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 5,
+      "view": "app.OpenServerSportsView"
+    },
+    "292": {
+      "Id": 292,
+      "actId": 10381,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "妖兽猎人",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 5,
+      "view": "app.OpenServerSportsView"
+    },
+    "293": {
+      "Id": 293,
+      "actId": 10382,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "福利兑换",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 5,
+      "view": "app.ActivityExchangeView"
+    },
+    "294": {
+      "Id": 294,
+      "actId": 10383,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "节日特惠",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 5,
+      "view": "app.ActivityPreferentialView"
+    },
+    "295": {
+      "Id": 295,
+      "actId": 10384,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "限时消耗",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 5,
+      "view": "app.OpenServerSportsView"
+    },
+    "296": {
+      "Id": 296,
+      "actId": 10385,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "节日累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 5,
+      "view": "app.OpenServerSportsView"
+    },
+    "297": {
+      "Id": 297,
+      "actId": 10377,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "节日连充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 5,
+      "view": "app.OpenServerSportsView"
+    },
+    "322": {
+      "Id": 322,
+      "actId": 10410,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "BOSS狂欢",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 5,
+      "view": "app.OpenServerSportsView"
+    },
+    "323": {
+      "Id": 323,
+      "actId": 10411,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "特惠礼包",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 5,
+      "view": "app.ActivityPreferentialView"
+    },
+    "324": {
+      "Id": 324,
+      "actId": 10412,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "限时消耗",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 5,
+      "view": "app.OpenServerSportsView"
+    },
+    "325": {
+      "Id": 325,
+      "actId": 10413,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "超值单充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 5,
+      "view": "app.OpenServerSportsView"
+    },
+    "329": {
+      "Id": 329,
+      "actId": 10417,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "福利兑换",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 5,
+      "view": "app.ActivityExchangeView"
+    },
+    "330": {
+      "Id": 330,
+      "actId": 10418,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "特惠礼包",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 5,
+      "view": "app.ActivityPreferentialView"
+    },
+    "331": {
+      "Id": 331,
+      "actId": 10419,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "单日消耗",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 5,
+      "view": "app.OpenServerSportsView"
+    },
+    "332": {
+      "Id": 332,
+      "actId": 10420,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "单日累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 5,
+      "view": "app.OpenServerSportsView"
+    }
+  },
+  "6": {
+    "171": {
+      "Id": 171,
+      "actId": 10252,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "登陆好礼",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 6,
+      "view": "app.OpenServerSportsView"
+    },
+    "172": {
+      "Id": 172,
+      "actId": 10253,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "妖兽猎人",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 6,
+      "view": "app.OpenServerSportsView"
+    },
+    "173": {
+      "Id": 173,
+      "actId": 10254,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "周末累充",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 6,
+      "view": "app.OpenServerSportsView"
+    },
+    "174": {
+      "Id": 174,
+      "actId": 10255,
+      "disposableredpoint1": {
+        "zsLevel": 1
+      },
+      "disposableredpoint2": {
+        "level": 999
+      },
+      "name": "福利兑换",
+      "openlimit": {
+        "level": 35
+      },
+      "type": 6,
+      "view": "app.ActivityExchangeView"
+    }
+  }
+}

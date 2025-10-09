@@ -1,0 +1,4 @@
+--人物离队事件，参数一个 当前人物当前等级 
+defaultHandlerLeaveTeam = function ( pActor )
+
+end

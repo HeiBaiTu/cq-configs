@@ -1,0 +1,1282 @@
+{
+  "10012": {
+    "1": {
+      "1": {
+        "actid": 10012,
+        "index": 1,
+        "job": 1,
+        "leftpicture1": "10004",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 20,
+        "text": "|C:0x28ee01&T:20级|送|C:0xFFFFFF&T:沃玛武器|\n再升|C:0xff7700&T:%s级|"
+      },
+      "2": {
+        "actid": 10012,
+        "index": 2,
+        "job": 1,
+        "leftpicture1": "12024",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 30,
+        "text": "|C:0x28ee01&T:30级|送|C:0xFFFFFF&T:沃玛戒指|\n再升|C:0xff7700&T:%s级|"
+      },
+      "3": {
+        "actid": 10012,
+        "index": 3,
+        "job": 1,
+        "leftpicture1": "skill_1_png",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 35,
+        "text": "|C:0x28ee01&T:35级|学新技能\n再升|C:0xff7700&T:%s级|"
+      },
+      "4": {
+        "actid": 10012,
+        "index": 4,
+        "job": 1,
+        "leftpicture1": "skill_1_png",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 37,
+        "text": "|C:0x28ee01&T:37级|提升烈火Lv2\n再升|C:0xff7700&T:%s级|"
+      },
+      "5": {
+        "actid": 10012,
+        "index": 5,
+        "job": 1,
+        "leftpicture1": "skill_1_png",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 40,
+        "text": "|C:0x28ee01&T:40级|提升烈火Lv3\n再升|C:0xff7700&T:%s级|"
+      },
+      "6": {
+        "actid": 10012,
+        "index": 6,
+        "job": 1,
+        "leftpicture1": "12095",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 45,
+        "text": "|C:0x28ee01&T:45级|送|C:0x0066FF&T:魔龙腰带|\n再升|C:0xff7700&T:%s级|"
+      },
+      "7": {
+        "actid": 10012,
+        "index": 7,
+        "job": 1,
+        "leftpicture1": "skill_2_png",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 47,
+        "text": "|C:0x28ee01&T:47级|学终极技能\n再升|C:0xff7700&T:%s级|"
+      },
+      "8": {
+        "actid": 10012,
+        "index": 8,
+        "job": 1,
+        "leftpicture1": "12009",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 51,
+        "text": "|C:0x28ee01&T:51级|送|C:0x0066FF&T:一转材料|\n再升|C:0xff7700&T:%s级|"
+      },
+      "9": {
+        "actid": 10012,
+        "index": 9,
+        "job": 1,
+        "leftpicture1": "13384",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 55,
+        "text": "|C:0x28ee01&T:55级|送二转材料\n再升|C:0xff7700&T:%s级|"
+      },
+      "10": {
+        "actid": 10012,
+        "index": 10,
+        "job": 1,
+        "leftpicture1": "13274",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 57,
+        "text": "|C:0x28ee01&T:57级|送暴击碎片\n再升|C:0xff7701&T:%s级|暴击提升"
+      },
+      "11": {
+        "actid": 10012,
+        "index": 11,
+        "job": 1,
+        "leftpicture1": "skill_2_png",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 60,
+        "text": "|C:0x28ee01&T:60级|送大量秘籍\n再升|C:0xff7702&T:%s级|技能提升"
+      },
+      "12": {
+        "actid": 10012,
+        "index": 12,
+        "job": 1,
+        "leftpicture1": "13003",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 65,
+        "text": "|C:0x28ee01&T:65级|送祝福油\n再升|C:0xff7703&T:%s级|幸运提升"
+      },
+      "13": {
+        "actid": 10012,
+        "index": 13,
+        "job": 1,
+        "leftpicture1": "skill_2_png",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 70,
+        "text": "|C:0x28ee01&T:70级|送大量秘籍\n再升|C:0xff7704&T:%s级|技能提升"
+      }
+    },
+    "2": {
+      "1": {
+        "actid": 10012,
+        "index": 1,
+        "job": 2,
+        "leftpicture1": "10015",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 20,
+        "text": "|C:0x28ee01&T:20级|送|C:0xFFFFFF&T:沃玛武器|\n再升|C:0xff7700&T:%s级|"
+      },
+      "2": {
+        "actid": 10012,
+        "index": 2,
+        "job": 2,
+        "leftpicture1": "12025",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 30,
+        "text": "|C:0x28ee01&T:30级|送|C:0xFFFFFF&T:沃玛戒指|\n再升|C:0xff7700&T:%s级|"
+      },
+      "3": {
+        "actid": 10012,
+        "index": 3,
+        "job": 2,
+        "leftpicture1": "skill_3_png",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 35,
+        "text": "|C:0x28ee01&T:35级|学新技能\n再升|C:0xff7700&T:%s级|"
+      },
+      "4": {
+        "actid": 10012,
+        "index": 4,
+        "job": 2,
+        "leftpicture1": "skill_3_png",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 37,
+        "text": "|C:0x28ee01&T:37级|提升冰咆哮Lv2\n再升|C:0xff7700&T:%s级|"
+      },
+      "5": {
+        "actid": 10012,
+        "index": 5,
+        "job": 2,
+        "leftpicture1": "skill_3_png",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 40,
+        "text": "|C:0x28ee01&T:40级|提升冰咆哮Lv3\n再升|C:0xff7700&T:%s级|"
+      },
+      "6": {
+        "actid": 10012,
+        "index": 6,
+        "job": 2,
+        "leftpicture1": "12097",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 45,
+        "text": "|C:0x28ee01&T:45级|送|C:0x0066FF&T:魔龙腰带|\n再升|C:0xff7700&T:%s级|"
+      },
+      "7": {
+        "actid": 10012,
+        "index": 7,
+        "job": 2,
+        "leftpicture1": "skill_4_png",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 47,
+        "text": "|C:0x28ee01&T:47级|学终极技能\n再升|C:0xff7700&T:%s级|"
+      },
+      "8": {
+        "actid": 10012,
+        "index": 8,
+        "job": 2,
+        "leftpicture1": "12010",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 51,
+        "text": "|C:0x28ee01&T:51级|送|C:0x0066FF&T:一转材料|\n再升|C:0xff7700&T:%s级|"
+      },
+      "9": {
+        "actid": 10012,
+        "index": 9,
+        "job": 2,
+        "leftpicture1": "13384",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 55,
+        "text": "|C:0x28ee01&T:55级|送二转材料\n再升|C:0xff7700&T:%s级|"
+      },
+      "10": {
+        "actid": 10012,
+        "index": 10,
+        "job": 2,
+        "leftpicture1": "13274",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 57,
+        "text": "|C:0x28ee01&T:57级|送暴击碎片\n再升|C:0xff7701&T:%s级|暴击提升"
+      },
+      "11": {
+        "actid": 10012,
+        "index": 11,
+        "job": 2,
+        "leftpicture1": "skill_4_png",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 60,
+        "text": "|C:0x28ee01&T:60级|送大量秘籍\n再升|C:0xff7702&T:%s级|技能提升"
+      },
+      "12": {
+        "actid": 10012,
+        "index": 12,
+        "job": 2,
+        "leftpicture1": "13003",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 65,
+        "text": "|C:0x28ee01&T:65级|送祝福油\n再升|C:0xff7703&T:%s级|幸运提升"
+      },
+      "13": {
+        "actid": 10012,
+        "index": 13,
+        "job": 2,
+        "leftpicture1": "skill_4_png",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 70,
+        "text": "|C:0x28ee01&T:70级|送大量秘籍\n再升|C:0xff7704&T:%s级|技能提升"
+      }
+    },
+    "3": {
+      "1": {
+        "actid": 10012,
+        "index": 1,
+        "job": 3,
+        "leftpicture1": "10013",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 20,
+        "text": "|C:0x28ee01&T:20级|送|C:0xFFFFFF&T:沃玛武器|\n再升|C:0xff7700&T:%s级|"
+      },
+      "2": {
+        "actid": 10012,
+        "index": 2,
+        "job": 3,
+        "leftpicture1": "12026",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 30,
+        "text": "|C:0x28ee01&T:30级|送|C:0xFFFFFF&T:沃玛戒指|\n再升|C:0xff7700&T:%s级|"
+      },
+      "3": {
+        "actid": 10012,
+        "index": 3,
+        "job": 3,
+        "leftpicture1": "skill_5_png",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 35,
+        "text": "|C:0x28ee01&T:35级|学新技能\n再升|C:0xff7700&T:%s级|"
+      },
+      "4": {
+        "actid": 10012,
+        "index": 4,
+        "job": 3,
+        "leftpicture1": "skill_5_png",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 37,
+        "text": "|C:0x28ee01&T:37级|提升召唤神兽Lv2\n再升|C:0xff7700&T:%s级|"
+      },
+      "5": {
+        "actid": 10012,
+        "index": 5,
+        "job": 3,
+        "leftpicture1": "skill_5_png",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 40,
+        "text": "|C:0x28ee01&T:40级|提升召唤神兽Lv3\n再升|C:0xff7700&T:%s级|"
+      },
+      "6": {
+        "actid": 10012,
+        "index": 6,
+        "job": 3,
+        "leftpicture1": "12096",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 45,
+        "text": "|C:0x28ee01&T:45级|送|C:0x0066FF&T:魔龙腰带|\n再升|C:0xff7700&T:%s级|"
+      },
+      "7": {
+        "actid": 10012,
+        "index": 7,
+        "job": 3,
+        "leftpicture1": "skill_6_png",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 47,
+        "text": "|C:0x28ee01&T:47级|学终极技能\n再升|C:0xff7700&T:%s级|"
+      },
+      "8": {
+        "actid": 10012,
+        "index": 8,
+        "job": 3,
+        "leftpicture1": "12011",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 51,
+        "text": "|C:0x28ee01&T:51级|送|C:0x0066FF&T:一转材料|\n再升|C:0xff7700&T:%s级|"
+      },
+      "9": {
+        "actid": 10012,
+        "index": 9,
+        "job": 3,
+        "leftpicture1": "13384",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 55,
+        "text": "|C:0x28ee01&T:55级|送二转材料\n再升|C:0xff7700&T:%s级|"
+      },
+      "10": {
+        "actid": 10012,
+        "index": 10,
+        "job": 3,
+        "leftpicture1": "13274",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 57,
+        "text": "|C:0x28ee01&T:57级|送暴击碎片\n再升|C:0xff7701&T:%s级|暴击提升"
+      },
+      "11": {
+        "actid": 10012,
+        "index": 11,
+        "job": 3,
+        "leftpicture1": "skill_6_png",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 60,
+        "text": "|C:0x28ee01&T:60级|送大量秘籍\n再升|C:0xff7702&T:%s级|技能提升"
+      },
+      "12": {
+        "actid": 10012,
+        "index": 12,
+        "job": 3,
+        "leftpicture1": "13003",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 65,
+        "text": "|C:0x28ee01&T:65级|送祝福油\n再升|C:0xff7703&T:%s级|幸运提升"
+      },
+      "13": {
+        "actid": 10012,
+        "index": 13,
+        "job": 3,
+        "leftpicture1": "skill_6_png",
+        "leftpicture2": "",
+        "rightpicture1": "",
+        "rightpicture2": "",
+        "target": 70,
+        "text": "|C:0x28ee01&T:70级|送大量秘籍\n再升|C:0xff7704&T:%s级|技能提升"
+      }
+    }
+  },
+  "10020": {
+    "1": {
+      "1": {
+        "actid": 10020,
+        "index": 1,
+        "job": 1,
+        "leftpicture1": "dc_cdwenzi0",
+        "leftpicture2": "dc_cdmu3",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 3
+      },
+      "2": {
+        "actid": 10020,
+        "index": 2,
+        "job": 1,
+        "leftpicture1": "dc_cdwenzi1",
+        "leftpicture2": "dc_cdmu3",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 3
+      },
+      "3": {
+        "actid": 10020,
+        "index": 3,
+        "job": 1,
+        "leftpicture1": "dc_cdwenzi2",
+        "leftpicture2": "dc_cdmu3",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 3
+      },
+      "4": {
+        "actid": 10020,
+        "index": 4,
+        "job": 1,
+        "leftpicture1": "dc_cdwenzi2",
+        "leftpicture2": "dc_cdmu6",
+        "rightpicture1": "dc_jpwenzi1",
+        "rightpicture2": "dc_nrwenzi1",
+        "target": 6
+      },
+      "5": {
+        "actid": 10020,
+        "index": 5,
+        "job": 1,
+        "leftpicture1": "dc_cdwenzi3",
+        "leftpicture2": "dc_cdmu3",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 3
+      },
+      "6": {
+        "actid": 10020,
+        "index": 6,
+        "job": 1,
+        "leftpicture1": "dc_cdwenzi3",
+        "leftpicture2": "dc_cdmu6",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 6
+      },
+      "7": {
+        "actid": 10020,
+        "index": 7,
+        "job": 1,
+        "leftpicture1": "dc_cdwenzi4",
+        "leftpicture2": "dc_cdmu3",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 3
+      },
+      "8": {
+        "actid": 10020,
+        "index": 8,
+        "job": 1,
+        "leftpicture1": "dc_cdwenzi4",
+        "leftpicture2": "dc_cdmu6",
+        "rightpicture1": "dc_jpwenzi1",
+        "rightpicture2": "dc_nrwenzi2",
+        "target": 6
+      },
+      "9": {
+        "actid": 10020,
+        "index": 9,
+        "job": 1,
+        "leftpicture1": "dc_cdwenzi5",
+        "leftpicture2": "dc_cdmu3",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 3
+      },
+      "10": {
+        "actid": 10020,
+        "index": 10,
+        "job": 1,
+        "leftpicture1": "dc_cdwenzi5",
+        "leftpicture2": "dc_cdmu6",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 6
+      },
+      "11": {
+        "actid": 10020,
+        "index": 11,
+        "job": 1,
+        "leftpicture1": "dc_cdwenzi6",
+        "leftpicture2": "dc_cdmu4",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 4
+      },
+      "12": {
+        "actid": 10020,
+        "index": 12,
+        "job": 1,
+        "leftpicture1": "dc_cdwenzi6",
+        "leftpicture2": "dc_cdmu7",
+        "rightpicture1": "dc_jpwenzi1",
+        "rightpicture2": "dc_nrwenzi3",
+        "target": 7
+      },
+      "13": {
+        "actid": 10020,
+        "index": 13,
+        "job": 1,
+        "leftpicture1": "dc_cdwenzi7",
+        "leftpicture2": "dc_cdmu4",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 4
+      },
+      "14": {
+        "actid": 10020,
+        "index": 14,
+        "job": 1,
+        "leftpicture1": "dc_cdwenzi7",
+        "leftpicture2": "dc_cdmu7",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 7
+      },
+      "15": {
+        "actid": 10020,
+        "index": 15,
+        "job": 1,
+        "leftpicture1": "dc_cdwenzi8",
+        "leftpicture2": "dc_cdmu4",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 4
+      },
+      "16": {
+        "actid": 10020,
+        "index": 16,
+        "job": 1,
+        "leftpicture1": "dc_cdwenzi8",
+        "leftpicture2": "dc_cdmu7",
+        "rightpicture1": "dc_jpwenzi1",
+        "rightpicture2": "dc_nrwenzi4",
+        "target": 7
+      },
+      "17": {
+        "actid": 10020,
+        "index": 17,
+        "job": 1,
+        "leftpicture1": "dc_cdwenzi9",
+        "leftpicture2": "dc_cdmu4",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 4
+      },
+      "18": {
+        "actid": 10020,
+        "index": 18,
+        "job": 1,
+        "leftpicture1": "dc_cdwenzi9",
+        "leftpicture2": "dc_cdmu7",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 7
+      },
+      "19": {
+        "actid": 10020,
+        "index": 19,
+        "job": 1,
+        "leftpicture1": "dc_cdwenzi10",
+        "leftpicture2": "dc_cdmu4",
+        "rightpicture1": "dc_jpwenzi1",
+        "rightpicture2": "dc_nrwenzi5",
+        "target": 4
+      },
+      "20": {
+        "actid": 10020,
+        "index": 20,
+        "job": 1,
+        "leftpicture1": "dc_cdwenzi10",
+        "leftpicture2": "dc_cdmu7",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 7
+      },
+      "21": {
+        "actid": 10020,
+        "index": 21,
+        "job": 1,
+        "leftpicture1": "dc_cdwenzi11",
+        "leftpicture2": "dc_cdmu4",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 4
+      },
+      "22": {
+        "actid": 10020,
+        "index": 22,
+        "job": 1,
+        "leftpicture1": "dc_cdwenzi11",
+        "leftpicture2": "dc_cdmu7",
+        "rightpicture1": "dc_jpwenzi1",
+        "rightpicture2": "dc_nrwenzi6",
+        "target": 7
+      }
+    },
+    "2": {
+      "1": {
+        "actid": 10020,
+        "index": 1,
+        "job": 2,
+        "leftpicture1": "dc_cdwenzi0",
+        "leftpicture2": "dc_cdmu3",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 3
+      },
+      "2": {
+        "actid": 10020,
+        "index": 2,
+        "job": 2,
+        "leftpicture1": "dc_cdwenzi1",
+        "leftpicture2": "dc_cdmu3",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 3
+      },
+      "3": {
+        "actid": 10020,
+        "index": 3,
+        "job": 2,
+        "leftpicture1": "dc_cdwenzi2",
+        "leftpicture2": "dc_cdmu3",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 3
+      },
+      "4": {
+        "actid": 10020,
+        "index": 4,
+        "job": 2,
+        "leftpicture1": "dc_cdwenzi2",
+        "leftpicture2": "dc_cdmu6",
+        "rightpicture1": "dc_jpwenzi1",
+        "rightpicture2": "dc_nrwenzi1",
+        "target": 6
+      },
+      "5": {
+        "actid": 10020,
+        "index": 5,
+        "job": 2,
+        "leftpicture1": "dc_cdwenzi3",
+        "leftpicture2": "dc_cdmu3",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 3
+      },
+      "6": {
+        "actid": 10020,
+        "index": 6,
+        "job": 2,
+        "leftpicture1": "dc_cdwenzi3",
+        "leftpicture2": "dc_cdmu6",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 6
+      },
+      "7": {
+        "actid": 10020,
+        "index": 7,
+        "job": 2,
+        "leftpicture1": "dc_cdwenzi4",
+        "leftpicture2": "dc_cdmu3",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 3
+      },
+      "8": {
+        "actid": 10020,
+        "index": 8,
+        "job": 2,
+        "leftpicture1": "dc_cdwenzi4",
+        "leftpicture2": "dc_cdmu6",
+        "rightpicture1": "dc_jpwenzi1",
+        "rightpicture2": "dc_nrwenzi2",
+        "target": 6
+      },
+      "9": {
+        "actid": 10020,
+        "index": 9,
+        "job": 2,
+        "leftpicture1": "dc_cdwenzi5",
+        "leftpicture2": "dc_cdmu3",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 3
+      },
+      "10": {
+        "actid": 10020,
+        "index": 10,
+        "job": 2,
+        "leftpicture1": "dc_cdwenzi5",
+        "leftpicture2": "dc_cdmu6",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 6
+      },
+      "11": {
+        "actid": 10020,
+        "index": 11,
+        "job": 2,
+        "leftpicture1": "dc_cdwenzi6",
+        "leftpicture2": "dc_cdmu4",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 4
+      },
+      "12": {
+        "actid": 10020,
+        "index": 12,
+        "job": 2,
+        "leftpicture1": "dc_cdwenzi6",
+        "leftpicture2": "dc_cdmu7",
+        "rightpicture1": "dc_jpwenzi1",
+        "rightpicture2": "dc_nrwenzi3",
+        "target": 7
+      },
+      "13": {
+        "actid": 10020,
+        "index": 13,
+        "job": 2,
+        "leftpicture1": "dc_cdwenzi7",
+        "leftpicture2": "dc_cdmu4",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 4
+      },
+      "14": {
+        "actid": 10020,
+        "index": 14,
+        "job": 2,
+        "leftpicture1": "dc_cdwenzi7",
+        "leftpicture2": "dc_cdmu7",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 7
+      },
+      "15": {
+        "actid": 10020,
+        "index": 15,
+        "job": 2,
+        "leftpicture1": "dc_cdwenzi8",
+        "leftpicture2": "dc_cdmu4",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 4
+      },
+      "16": {
+        "actid": 10020,
+        "index": 16,
+        "job": 2,
+        "leftpicture1": "dc_cdwenzi8",
+        "leftpicture2": "dc_cdmu7",
+        "rightpicture1": "dc_jpwenzi1",
+        "rightpicture2": "dc_nrwenzi4",
+        "target": 7
+      },
+      "17": {
+        "actid": 10020,
+        "index": 17,
+        "job": 2,
+        "leftpicture1": "dc_cdwenzi9",
+        "leftpicture2": "dc_cdmu4",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 4
+      },
+      "18": {
+        "actid": 10020,
+        "index": 18,
+        "job": 2,
+        "leftpicture1": "dc_cdwenzi9",
+        "leftpicture2": "dc_cdmu7",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 7
+      },
+      "19": {
+        "actid": 10020,
+        "index": 19,
+        "job": 2,
+        "leftpicture1": "dc_cdwenzi10",
+        "leftpicture2": "dc_cdmu4",
+        "rightpicture1": "dc_jpwenzi1",
+        "rightpicture2": "dc_nrwenzi5",
+        "target": 4
+      },
+      "20": {
+        "actid": 10020,
+        "index": 20,
+        "job": 2,
+        "leftpicture1": "dc_cdwenzi10",
+        "leftpicture2": "dc_cdmu7",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 7
+      },
+      "21": {
+        "actid": 10020,
+        "index": 21,
+        "job": 2,
+        "leftpicture1": "dc_cdwenzi11",
+        "leftpicture2": "dc_cdmu4",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 4
+      },
+      "22": {
+        "actid": 10020,
+        "index": 22,
+        "job": 2,
+        "leftpicture1": "dc_cdwenzi11",
+        "leftpicture2": "dc_cdmu7",
+        "rightpicture1": "dc_jpwenzi1",
+        "rightpicture2": "dc_nrwenzi6",
+        "target": 7
+      }
+    },
+    "3": {
+      "1": {
+        "actid": 10020,
+        "index": 1,
+        "job": 3,
+        "leftpicture1": "dc_cdwenzi0",
+        "leftpicture2": "dc_cdmu3",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 3
+      },
+      "2": {
+        "actid": 10020,
+        "index": 2,
+        "job": 3,
+        "leftpicture1": "dc_cdwenzi1",
+        "leftpicture2": "dc_cdmu3",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 3
+      },
+      "3": {
+        "actid": 10020,
+        "index": 3,
+        "job": 3,
+        "leftpicture1": "dc_cdwenzi2",
+        "leftpicture2": "dc_cdmu3",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 3
+      },
+      "4": {
+        "actid": 10020,
+        "index": 4,
+        "job": 3,
+        "leftpicture1": "dc_cdwenzi2",
+        "leftpicture2": "dc_cdmu6",
+        "rightpicture1": "dc_jpwenzi1",
+        "rightpicture2": "dc_nrwenzi1",
+        "target": 6
+      },
+      "5": {
+        "actid": 10020,
+        "index": 5,
+        "job": 3,
+        "leftpicture1": "dc_cdwenzi3",
+        "leftpicture2": "dc_cdmu3",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 3
+      },
+      "6": {
+        "actid": 10020,
+        "index": 6,
+        "job": 3,
+        "leftpicture1": "dc_cdwenzi3",
+        "leftpicture2": "dc_cdmu6",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 6
+      },
+      "7": {
+        "actid": 10020,
+        "index": 7,
+        "job": 3,
+        "leftpicture1": "dc_cdwenzi4",
+        "leftpicture2": "dc_cdmu3",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 3
+      },
+      "8": {
+        "actid": 10020,
+        "index": 8,
+        "job": 3,
+        "leftpicture1": "dc_cdwenzi4",
+        "leftpicture2": "dc_cdmu6",
+        "rightpicture1": "dc_jpwenzi1",
+        "rightpicture2": "dc_nrwenzi2",
+        "target": 6
+      },
+      "9": {
+        "actid": 10020,
+        "index": 9,
+        "job": 3,
+        "leftpicture1": "dc_cdwenzi5",
+        "leftpicture2": "dc_cdmu3",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 3
+      },
+      "10": {
+        "actid": 10020,
+        "index": 10,
+        "job": 3,
+        "leftpicture1": "dc_cdwenzi5",
+        "leftpicture2": "dc_cdmu6",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 6
+      },
+      "11": {
+        "actid": 10020,
+        "index": 11,
+        "job": 3,
+        "leftpicture1": "dc_cdwenzi6",
+        "leftpicture2": "dc_cdmu4",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 4
+      },
+      "12": {
+        "actid": 10020,
+        "index": 12,
+        "job": 3,
+        "leftpicture1": "dc_cdwenzi6",
+        "leftpicture2": "dc_cdmu7",
+        "rightpicture1": "dc_jpwenzi1",
+        "rightpicture2": "dc_nrwenzi3",
+        "target": 7
+      },
+      "13": {
+        "actid": 10020,
+        "index": 13,
+        "job": 3,
+        "leftpicture1": "dc_cdwenzi7",
+        "leftpicture2": "dc_cdmu4",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 4
+      },
+      "14": {
+        "actid": 10020,
+        "index": 14,
+        "job": 3,
+        "leftpicture1": "dc_cdwenzi7",
+        "leftpicture2": "dc_cdmu7",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 7
+      },
+      "15": {
+        "actid": 10020,
+        "index": 15,
+        "job": 3,
+        "leftpicture1": "dc_cdwenzi8",
+        "leftpicture2": "dc_cdmu4",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 4
+      },
+      "16": {
+        "actid": 10020,
+        "index": 16,
+        "job": 3,
+        "leftpicture1": "dc_cdwenzi8",
+        "leftpicture2": "dc_cdmu7",
+        "rightpicture1": "dc_jpwenzi1",
+        "rightpicture2": "dc_nrwenzi4",
+        "target": 7
+      },
+      "17": {
+        "actid": 10020,
+        "index": 17,
+        "job": 3,
+        "leftpicture1": "dc_cdwenzi9",
+        "leftpicture2": "dc_cdmu4",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 4
+      },
+      "18": {
+        "actid": 10020,
+        "index": 18,
+        "job": 3,
+        "leftpicture1": "dc_cdwenzi9",
+        "leftpicture2": "dc_cdmu7",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 7
+      },
+      "19": {
+        "actid": 10020,
+        "index": 19,
+        "job": 3,
+        "leftpicture1": "dc_cdwenzi10",
+        "leftpicture2": "dc_cdmu4",
+        "rightpicture1": "dc_jpwenzi1",
+        "rightpicture2": "dc_nrwenzi5",
+        "target": 4
+      },
+      "20": {
+        "actid": 10020,
+        "index": 20,
+        "job": 3,
+        "leftpicture1": "dc_cdwenzi10",
+        "leftpicture2": "dc_cdmu7",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 7
+      },
+      "21": {
+        "actid": 10020,
+        "index": 21,
+        "job": 3,
+        "leftpicture1": "dc_cdwenzi11",
+        "leftpicture2": "dc_cdmu4",
+        "rightpicture1": "dc_jpwenzi0",
+        "rightpicture2": "dc_nrwenzi0",
+        "target": 4
+      },
+      "22": {
+        "actid": 10020,
+        "index": 22,
+        "job": 3,
+        "leftpicture1": "dc_cdwenzi11",
+        "leftpicture2": "dc_cdmu7",
+        "rightpicture1": "dc_jpwenzi1",
+        "rightpicture2": "dc_nrwenzi6",
+        "target": 7
+      }
+    }
+  },
+  "10077": {
+    "1": {
+      "1": {
+        "actid": 10077,
+        "index": 1,
+        "job": 1,
+        "leftpicture1": "13336",
+        "leftpicture2": "",
+        "rightpicture1": "dc_zs_jl1",
+        "rightpicture2": "",
+        "text": "达成|C:0x28ee01&T:1转|立即获得"
+      },
+      "2": {
+        "actid": 10077,
+        "index": 2,
+        "job": 1,
+        "leftpicture1": "13333",
+        "leftpicture2": "",
+        "rightpicture1": "dc_zs_jl5",
+        "rightpicture2": "",
+        "text": "达成|C:0x28ee01&T:2转|立即获得"
+      }
+    },
+    "2": {
+      "1": {
+        "actid": 10077,
+        "index": 1,
+        "job": 2,
+        "leftpicture1": "13337",
+        "leftpicture2": "",
+        "rightpicture1": "dc_zs_jl2",
+        "rightpicture2": "",
+        "text": "达成|C:0x28ee01&T:1转|立即获得"
+      },
+      "2": {
+        "actid": 10077,
+        "index": 2,
+        "job": 2,
+        "leftpicture1": "13334",
+        "leftpicture2": "",
+        "rightpicture1": "dc_zs_jl6",
+        "rightpicture2": "",
+        "text": "达成|C:0x28ee01&T:2转|立即获得"
+      }
+    },
+    "3": {
+      "1": {
+        "actid": 10077,
+        "index": 1,
+        "job": 3,
+        "leftpicture1": "13338",
+        "leftpicture2": "",
+        "rightpicture1": "dc_zs_jl3",
+        "rightpicture2": "",
+        "text": "达成|C:0x28ee01&T:1转|立即获得"
+      },
+      "2": {
+        "actid": 10077,
+        "index": 2,
+        "job": 3,
+        "leftpicture1": "13335",
+        "leftpicture2": "",
+        "rightpicture1": "dc_zs_jl4",
+        "rightpicture2": "",
+        "text": "达成|C:0x28ee01&T:2转|立即获得"
+      }
+    }
+  },
+  "10147": {
+    "1": {
+      "1": {
+        "actid": 10147,
+        "index": 1,
+        "job": 1,
+        "leftpicture1": "",
+        "leftpicture2": "",
+        "rightpicture1": "dc_jb_ch1",
+        "rightpicture2": "dc_chwenzi3",
+        "target": 20,
+        "text": "打怪还差|C:0x28ee01&T:%s|个完成目标\n赠送|C:0xff7700&T:一转材料|"
+      },
+      "2": {
+        "actid": 10147,
+        "index": 2,
+        "job": 1,
+        "leftpicture1": "",
+        "leftpicture2": "",
+        "rightpicture1": "dc_jb_ch1",
+        "rightpicture2": "dc_chwenzi3",
+        "target": 40,
+        "text": "打怪还差|C:0x28ee01&T:%s|个完成目标\n赠送|C:0xff7700&T:一转材料|"
+      },
+      "3": {
+        "actid": 10147,
+        "index": 3,
+        "job": 1,
+        "leftpicture1": "",
+        "leftpicture2": "",
+        "rightpicture1": "dc_jb_ch1",
+        "rightpicture2": "dc_nrwenzi7",
+        "target": 65,
+        "text": "打怪还差|C:0x28ee01&T:%s|个完成目标\n赠送|C:0xff7700&T:二转材料|"
+      }
+    },
+    "2": {
+      "1": {
+        "actid": 10147,
+        "index": 1,
+        "job": 2,
+        "leftpicture1": "",
+        "leftpicture2": "",
+        "rightpicture1": "dc_jb_ch1",
+        "rightpicture2": "dc_chwenzi3",
+        "target": 20,
+        "text": "打怪还差|C:0x28ee01&T:%s|个完成目标\n赠送|C:0xff7700&T:一转材料|"
+      },
+      "2": {
+        "actid": 10147,
+        "index": 2,
+        "job": 2,
+        "leftpicture1": "",
+        "leftpicture2": "",
+        "rightpicture1": "dc_jb_ch1",
+        "rightpicture2": "dc_chwenzi3",
+        "target": 40,
+        "text": "打怪还差|C:0x28ee01&T:%s|个完成目标\n赠送|C:0xff7700&T:一转材料|"
+      },
+      "3": {
+        "actid": 10147,
+        "index": 3,
+        "job": 2,
+        "leftpicture1": "",
+        "leftpicture2": "",
+        "rightpicture1": "dc_jb_ch1",
+        "rightpicture2": "dc_nrwenzi7",
+        "target": 65,
+        "text": "打怪还差|C:0x28ee01&T:%s|个完成目标\n赠送|C:0xff7700&T:二转材料|"
+      }
+    },
+    "3": {
+      "1": {
+        "actid": 10147,
+        "index": 1,
+        "job": 3,
+        "leftpicture1": "",
+        "leftpicture2": "",
+        "rightpicture1": "dc_jb_ch1",
+        "rightpicture2": "dc_chwenzi3",
+        "target": 20,
+        "text": "打怪还差|C:0x28ee01&T:%s|个完成目标\n赠送|C:0xff7700&T:一转材料|"
+      },
+      "2": {
+        "actid": 10147,
+        "index": 2,
+        "job": 3,
+        "leftpicture1": "",
+        "leftpicture2": "",
+        "rightpicture1": "dc_jb_ch1",
+        "rightpicture2": "dc_chwenzi3",
+        "target": 40,
+        "text": "打怪还差|C:0x28ee01&T:%s|个完成目标\n赠送|C:0xff7700&T:一转材料|"
+      },
+      "3": {
+        "actid": 10147,
+        "index": 3,
+        "job": 3,
+        "leftpicture1": "",
+        "leftpicture2": "",
+        "rightpicture1": "dc_jb_ch1",
+        "rightpicture2": "dc_nrwenzi7",
+        "target": 65,
+        "text": "打怪还差|C:0x28ee01&T:%s|个完成目标\n赠送|C:0xff7700&T:二转材料|"
+      }
+    }
+  }
+}

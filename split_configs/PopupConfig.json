@@ -1,0 +1,77 @@
+{
+  "1": {
+    "ConditionType": 2,
+    "PopupType": "app.ActivityTimePopWin2",
+    "btnfunc": {
+      "param1": "app.RoleView",
+      "param2": [
+        1,
+        0
+      ],
+      "type": 2
+    },
+    "buttondes": "前往查看",
+    "closeCD": 60,
+    "description": "战士47级【逐日剑法】\n法师47级【流星火雨】\n道士47级【噬血术】\nLv1可以直接学习，快去看看吧",
+    "id": 1,
+    "levellimit": 999,
+    "opelimit": [],
+    "rewards": [],
+    "title": "47级技能"
+  },
+  "2": {
+    "ConditionType": 2,
+    "PopupType": "app.ActivityTimePopWin2",
+    "btnfunc": {
+      "param1": "app.RecycleWin",
+      "type": 1
+    },
+    "buttondes": "前往回收",
+    "closeCD": 60,
+    "description": "不用的转生材料有时候可以回收成元宝/银两，快去看看吧",
+    "id": 2,
+    "levellimit": 999,
+    "opelimit": [],
+    "rewards": [],
+    "title": "元宝/银两回收"
+  },
+  "3": {
+    "ConditionType": 2,
+    "PopupType": "app.ActivityTimePopWin2",
+    "btnfunc": {
+      "param1": "app.ForgeWin",
+      "param2": [
+        1
+      ],
+      "type": 2
+    },
+    "buttondes": "前往升星",
+    "closeCD": 60,
+    "description": "装备可以通过洗炼、升星继续加强\n升星达到7星后还有特殊属性\n等你有好的装备，不要忘了提升",
+    "id": 3,
+    "levellimit": 999,
+    "opelimit": [],
+    "rewards": [],
+    "title": "装备提升"
+  },
+  "4": {
+    "ConditionType": 2,
+    "PopupType": "app.ActivityTimePopWin2",
+    "btnfunc": {
+      "param1": "app.RoleView",
+      "param2": [
+        1,
+        0
+      ],
+      "type": 2
+    },
+    "buttondes": "前往查看",
+    "closeCD": 60,
+    "description": "40级可以学核心技能Lv3\n战士3级【烈火剑法】\n法师3级【冰咆哮】\n道士3级【召唤神兽】\nLv3学习无需消耗，现在就去吧",
+    "id": 4,
+    "levellimit": 999,
+    "opelimit": [],
+    "rewards": [],
+    "title": "40级技能"
+  }
+}

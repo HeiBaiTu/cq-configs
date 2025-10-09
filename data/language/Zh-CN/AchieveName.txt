@@ -1,0 +1,43 @@
+﻿AchieveName=
+{
+
+--分组名称
+	topGroupName1001 = "除魔卫道",
+	topGroupName1002 = "击败敌酋",
+	topGroupName1003 = "强身健体",
+	topGroupName1004 = "天关闯关",
+	
+--语言包
+
+    groupName1 = "除魔[1]", desc1 = "增加魔神令$0$点上限", showName1 = "除\\\\魔\\\\[1]",
+    groupName2 = "除魔[2]", desc2 = "金砖使用次数增加$0$次", showName2 = "除\\\\魔\\\\[2]",
+    groupName3 = "除魔[3]", desc3 = "增加魔神令$0$点上限", showName3 = "除\\\\魔\\\\[3]",
+    groupName4 = "除魔[4]", desc4 = "增加每日回收装备$0$万经验上限", showName4 = "除\\\\魔\\\\[4]",
+    groupName5 = "除魔[5]", desc5 = "增加仓库$0$格位置", showName5 = "除\\\\魔\\\\[5]",
+    groupName6 = "除魔[6]", desc6 = "对怪物造成伤害增加百分之$0$", showName6 = "除\\\\魔\\\\[6]",
+    groupName20 = "敌酋[1]", desc20 = "杀怪获得经验增加百分之$0$", showName20 = "敌\\\\酋\\\\[1]",
+    groupName21 = "敌酋[2]", desc21 = "增加每日回收装备$0$万经验上限", showName21 = "敌\\\\酋\\\\[2]",
+    groupName22 = "敌酋[3]", desc22 = "增加仓库$0$格位置", showName22 = "敌\\\\酋\\\\[3]",
+    groupName23 = "敌酋[4]", desc23 = "增加每日回收装备$0$万经验上限", showName23 = "敌\\\\酋\\\\[4]",
+    groupName24 = "敌酋[5]", desc24 = "获得功勋值额外增加$0$", showName24 = "敌\\\\酋\\\\[5]",
+    groupName25 = "敌酋[6]", desc25 = "瞬回药物效果增加百分之$0$", showName25 = "敌\\\\酋\\\\[6]",
+    groupName40 = "攻击[1]", desc40 = "金砖使用次数增加$0$次", showName40 = "攻\\\\击\\\\[1]",
+    groupName41 = "攻击[2]", desc41 = "增加每日回收装备$0$万经验上限", showName41 = "攻\\\\击\\\\[2]",
+    groupName42 = "攻击[3]", desc42 = "瞬回药物效果增加百分之$0$", showName42 = "攻\\\\击\\\\[3]",
+    groupName43 = "攻击[4]", desc43 = "对怪物造成伤害增加百分之$0$", showName43 = "攻\\\\击\\\\[4]",
+    groupName44 = "攻击[5]", desc44 = "增加每日回收装备$0$万经验上限", showName44 = "攻\\\\击\\\\[5]",
+    groupName50 = "天关[1]", desc50 = "增加每日回收装备$0$万经验上限", showName50 = "天\\\\关\\\\[1]",
+    groupName51 = "天关[2]", desc51 = "杀怪获得经验增加百分之$0$", showName51 = "天\\\\关\\\\[2]",
+    groupName52 = "天关[3]", desc52 = "瞬回药物效果增加百分之$0$", showName52 = "天\\\\关\\\\[3]",
+    groupName53 = "天关[4]", desc53 = "金砖使用次数增加$0$次", showName53 = "天\\\\关\\\\[4]",
+    groupName54 = "天关[5]", desc54 = "增加每日回收装备$0$万经验上限", showName54 = "天\\\\关\\\\[5]",
+    groupName55 = "天关[6]", desc55 = "杀怪获得经验增加百分之$0$", showName55 = "天\\\\关\\\\[6]",
+    groupName56 = "天关[7]", desc56 = "瞬回药物效果增加百分之$0$", showName56 = "天\\\\关\\\\[7]",
+    groupName57 = "天关[8]", desc57 = "对怪物造成伤害增加百分之$0$", showName57 = "天\\\\关\\\\[8]",
+    groupName58 = "天关[9]", desc58 = "获得功勋值额外增加$0$", showName58 = "天\\\\关\\\\[9]",
+    groupName59 = "天关[10]", desc59 = "减少$0$来自其他玩家伤害", showName59 = "天\\\\关\\\\[10]",
+
+
+	name0000 = "",
+	desc0000 = "",
+}

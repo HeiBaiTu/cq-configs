@@ -1,0 +1,19 @@
+﻿--定义游戏中加载配置以及脚本的全局常量定义
+
+--游戏代号
+GameFlag = DDCQ
+
+--SPID（运营商ID）定义
+SPID = 4
+
+--语言定义
+LANGUAGE = zh-CN
+
+--游戏名称定义
+GAMENAME = 《XHWG2-ARPG1》
+
+YYKey = 81d0233b957941870e1187d5a4a751ed
+YYZiZuanKey = 81d0233b957941870e1187d5a4a751ed
+
+
+

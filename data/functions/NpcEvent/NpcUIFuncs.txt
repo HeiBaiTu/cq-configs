@@ -1,0 +1,146 @@
+--UI展示功能类NPC
+
+local NpcFuncType = 2
+NpcFuncs[NpcFuncType] = {}
+
+local EnUIType = {
+    RedName = 1, --洗红名
+}
+
+-- 主方法
+NpcFuncs[NpcFuncType] = function(pActor, nNpcHandle, nNpcId, nFuncId, packet)
+    local thisNpcConf = NpcConf[nNpcId]
+    local funcGroup = thisNpcConf.funcGroup
+    -- 检查是否合法的请求NPC
+    if funcGroup then
+        for i,id in ipairs(funcGroup) do
+            if id == nFuncId then
+                local thisFunc = NpcFunctionsConf[id]
+                if thisFunc and thisFunc.funcType and thisFunc.funcType==NpcFuncType then
+                    OnUIFunctions(pActor, thisFunc, packet)
+                end
+            end
+        end
+    end
+end
+
+-- 获取NpcUIFuncs（UI展示功能类NPC的玩家数据）
+function GetUIFuncData(pActor)
+    local var = Actor.getStaticVar(pActor)
+    if var then
+        if var.UIFunc == nil then
+            var.UIFunc = {}
+        end
+        return var.UIFunc
+    end
+    return nil
+end
+
+--UI功能
+function OnUIFunctions(pActor, thisFuncConf, packet)
+    
+    if thisFuncConf.param2 == EnUIType.RedName then
+        OnRedNameCmd(pActor,thisFuncConf,packet)--洗红名
+    end
+end
+
+--UI功能：清除红名PK值
+function OnRedNameCmd(pActor, thisFuncConf, packet)
+    local useType = DataPack.readByte(packet)
+    local conf = thisFuncConf.param3
+    if conf and conf[useType+1] then
+        conf = conf[useType+1]
+        local data = GetUIFuncData(pActor)
+
+        -- PK值为0不处理
+        local curPk = Actor.getIntProperty(pActor,PROP_ACTOR_PK_VALUE)
+        if curPk <= 0 then
+            Actor.sendTipmsg(pActor, "PK值已经为0", tstUI)
+            return
+        end
+        -- 消耗检测
+        local consumes = {}
+        if conf.consume then
+            table.insert( consumes, conf.consume )
+            if CommonFunc.Consumes.Check(pActor, consumes) ~= true then
+                Actor.sendTipmsg(pActor, "道具或金币元宝不足!", tstEcomeny)
+                return
+            end
+        end
+        -- 次数检测，并增加
+        if conf.limitday and conf.limitday > 0 then
+            if data then
+                if data.PKLimit == nil then
+                    data.PKLimit = {}
+                    data.PKLimit[useType] = 0
+                end
+                if data.PKLimit[useType] then
+                    if data.PKLimit[useType] >= conf.limitday then
+                        Actor.sendTipmsg(pActor, "已超过今日次数!", tstUI)
+                        return
+                    end
+                    data.PKLimit[useType] = data.PKLimit[useType] + 1
+                else
+                    data.PKLimit[useType] = 1
+                end
+            else
+                assert("获取个人脚本数据出错")
+            end
+        end
+        -- 消耗
+        if CommonFunc.Consumes.Remove(pActor, consumes, GameLog.Log_CleanRedName, "清除红名PK值") ~= true then
+            return
+        end
+        -- 减PK值
+        if curPk <= conf.pkval then
+            Actor.sendTipmsg(pActor, "已减少"..curPk.."点pk值", tstEcomeny)
+            curPk = 0
+        else
+            Actor.sendTipmsg(pActor, "已减少"..conf.pkval.."点pk值", tstEcomeny)
+            curPk = curPk - conf.pkval
+        end
+        Actor.setUIntProperty(pActor,PROP_ACTOR_PK_VALUE,curPk)
+
+        -- 发送今天已洗红名次数
+        local netPack = DataPack.allocPacket(pActor, enMiscSystemID, sSendPkValueWashCount)
+        if netPack then
+            local num = 0;
+            if data.PKLimit then num = data.PKLimit[0] or 0 end;
+            DataPack.writeChar(netPack, num or 0)
+            DataPack.flush(netPack)
+        end
+    end
+end
+
+function OnNPCUIFuncNewDay(pActor,args)
+    local data = GetUIFuncData(pActor);
+    if data and data.PKLimit then
+        data.PKLimit = nil -- 清空洗PK值次数计数
+    end
+
+    -- 发送今天已洗红名次数
+    local netPack = DataPack.allocPacket(pActor, enMiscSystemID, sSendPkValueWashCount)
+    if netPack then
+        DataPack.writeChar(netPack, 0)
+        DataPack.flush(netPack)
+    end
+end
+
+function OnNPCUIFuncLogin(pActor,args)
+    -- 发送今天已洗红名次数
+    local netPack = DataPack.allocPacket(pActor, enMiscSystemID, sSendPkValueWashCount)
+    if netPack then
+        local data = GetUIFuncData(pActor)
+        if data and data.PKLimit then
+            DataPack.writeChar(netPack, (data.PKLimit[0] or 0))
+            --print("["..Actor.getName(pActor).."]剩余洗红名次数为："..(data.PKLimit[0] or 0))
+        else 
+            DataPack.writeChar(netPack, 0)
+            --print("["..Actor.getName(pActor).."]剩余洗红名次数为：".. 0)
+        end
+        DataPack.flush(netPack)
+    end
+end
+
+ActorEventDispatcher.Reg(aeNewDayArrive,OnNPCUIFuncNewDay,"NpcUIFuncs.txt")
+ActorEventDispatcher.Reg(aeUserLogin,OnNPCUIFuncLogin,"NpcUIFuncs.txt")

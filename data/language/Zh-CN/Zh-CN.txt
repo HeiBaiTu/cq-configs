@@ -1,0 +1,49 @@
+﻿zh_CN = 
+{
+--#include "System.txt" once
+,
+--#include "EntityName.txt" once
+,
+--#include "Item.txt" once
+,
+--#include "NormalTalk.txt" once
+,
+--#include "NpcTitle.txt" once
+,
+--#include "Skill.txt" once
+,
+--#include "Store.txt" once
+,
+--#include "Buff.txt" once
+,
+--#include "SceneName.txt" once
+,
+--#include "Quest.txt" once
+,
+--#include "AchieveName.txt" once
+,
+--#include "newTitle.txt" once
+,
+--#include "Script.txt" once
+,
+--#include "MiscConfig.txt" once
+,
+--#include "Log.txt" once
+,
+--#include "Talk.txt" once
+,
+--#include "NoticeStr.txt" once
+,
+--#include "FubenLang.txt" once
+, 
+--#include "Activity.txt" once
+, 
+--#include "Movie.txt" once
+,
+--#include "Rank.txt" once
+,
+--#include "MonserSay.txt" once
+,
+--#include "Paopao.txt" once
+,
+}

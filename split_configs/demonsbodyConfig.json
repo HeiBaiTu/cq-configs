@@ -1,0 +1,1387 @@
+{
+  "1": {
+    "0": {
+      "attr": [
+        {
+          "type": 79,
+          "value": 0
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 0,
+      "name": "嗜血",
+      "pos": 1,
+      "probability": 4000,
+      "text": "0级"
+    },
+    "1": {
+      "attr": [
+        {
+          "type": 79,
+          "value": 100
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 1,
+      "name": "嗜血",
+      "pos": 1,
+      "probability": 10000,
+      "text": "1级"
+    },
+    "2": {
+      "attr": [
+        {
+          "type": 79,
+          "value": 200
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 2,
+      "name": "嗜血",
+      "pos": 1,
+      "probability": 4000,
+      "text": "2级"
+    },
+    "3": {
+      "attr": [
+        {
+          "type": 79,
+          "value": 300
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 3,
+      "name": "嗜血",
+      "pos": 1,
+      "probability": 4000,
+      "text": "3级"
+    },
+    "4": {
+      "attr": [
+        {
+          "type": 79,
+          "value": 400
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 4,
+      "name": "嗜血",
+      "pos": 1,
+      "probability": 4000,
+      "text": "4级"
+    },
+    "5": {
+      "attr": [
+        {
+          "type": 79,
+          "value": 500
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 5,
+      "name": "嗜血",
+      "pos": 1,
+      "probability": 4000,
+      "text": "5级"
+    },
+    "6": {
+      "attr": [
+        {
+          "type": 79,
+          "value": 600
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 6,
+      "name": "嗜血",
+      "pos": 1,
+      "probability": 4000,
+      "text": "6级"
+    },
+    "7": {
+      "attr": [
+        {
+          "type": 79,
+          "value": 700
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 7,
+      "name": "嗜血",
+      "pos": 1,
+      "probability": 4000,
+      "text": "7级"
+    },
+    "8": {
+      "attr": [
+        {
+          "type": 79,
+          "value": 800
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 8,
+      "name": "嗜血",
+      "pos": 1,
+      "probability": 4000,
+      "text": "8级"
+    },
+    "9": {
+      "attr": [
+        {
+          "type": 79,
+          "value": 900
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 9,
+      "name": "嗜血",
+      "pos": 1,
+      "probability": 4000,
+      "text": "9级"
+    },
+    "10": {
+      "attr": [
+        {
+          "type": 79,
+          "value": 1000
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 10,
+      "name": "嗜血",
+      "pos": 1,
+      "probability": 4000,
+      "text": "10级"
+    }
+  },
+  "2": {
+    "0": {
+      "attr": [
+        {
+          "type": 82,
+          "value": 0
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 0,
+      "name": "穿杨",
+      "pos": 2,
+      "probability": 4000,
+      "text": "0级"
+    },
+    "1": {
+      "attr": [
+        {
+          "type": 82,
+          "value": 200
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 1,
+      "name": "穿杨",
+      "pos": 2,
+      "probability": 10000,
+      "text": "1级"
+    },
+    "2": {
+      "attr": [
+        {
+          "type": 82,
+          "value": 400
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 2,
+      "name": "穿杨",
+      "pos": 2,
+      "probability": 4000,
+      "text": "2级"
+    },
+    "3": {
+      "attr": [
+        {
+          "type": 82,
+          "value": 600
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 3,
+      "name": "穿杨",
+      "pos": 2,
+      "probability": 4000,
+      "text": "3级"
+    },
+    "4": {
+      "attr": [
+        {
+          "type": 82,
+          "value": 800
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 4,
+      "name": "穿杨",
+      "pos": 2,
+      "probability": 4000,
+      "text": "4级"
+    },
+    "5": {
+      "attr": [
+        {
+          "type": 82,
+          "value": 1000
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 5,
+      "name": "穿杨",
+      "pos": 2,
+      "probability": 4000,
+      "text": "5级"
+    },
+    "6": {
+      "attr": [
+        {
+          "type": 82,
+          "value": 1200
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 6,
+      "name": "穿杨",
+      "pos": 2,
+      "probability": 4000,
+      "text": "6级"
+    },
+    "7": {
+      "attr": [
+        {
+          "type": 82,
+          "value": 1400
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 7,
+      "name": "穿杨",
+      "pos": 2,
+      "probability": 4000,
+      "text": "7级"
+    },
+    "8": {
+      "attr": [
+        {
+          "type": 82,
+          "value": 1600
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 8,
+      "name": "穿杨",
+      "pos": 2,
+      "probability": 4000,
+      "text": "8级"
+    },
+    "9": {
+      "attr": [
+        {
+          "type": 82,
+          "value": 1800
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 9,
+      "name": "穿杨",
+      "pos": 2,
+      "probability": 4000,
+      "text": "9级"
+    },
+    "10": {
+      "attr": [
+        {
+          "type": 82,
+          "value": 2000
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 10,
+      "name": "穿杨",
+      "pos": 2,
+      "probability": 4000,
+      "text": "10级"
+    }
+  },
+  "3": {
+    "0": {
+      "attr": [
+        {
+          "type": 75,
+          "value": 0
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 0,
+      "name": "怒斩",
+      "pos": 3,
+      "probability": 4000,
+      "text": "0级"
+    },
+    "1": {
+      "attr": [
+        {
+          "type": 75,
+          "value": 100
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 1,
+      "name": "怒斩",
+      "pos": 3,
+      "probability": 10000,
+      "text": "1级"
+    },
+    "2": {
+      "attr": [
+        {
+          "type": 75,
+          "value": 200
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 2,
+      "name": "怒斩",
+      "pos": 3,
+      "probability": 4000,
+      "text": "2级"
+    },
+    "3": {
+      "attr": [
+        {
+          "type": 75,
+          "value": 300
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 3,
+      "name": "怒斩",
+      "pos": 3,
+      "probability": 4000,
+      "text": "3级"
+    },
+    "4": {
+      "attr": [
+        {
+          "type": 75,
+          "value": 400
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 4,
+      "name": "怒斩",
+      "pos": 3,
+      "probability": 4000,
+      "text": "4级"
+    },
+    "5": {
+      "attr": [
+        {
+          "type": 75,
+          "value": 500
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 5,
+      "name": "怒斩",
+      "pos": 3,
+      "probability": 4000,
+      "text": "5级"
+    },
+    "6": {
+      "attr": [
+        {
+          "type": 75,
+          "value": 600
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 6,
+      "name": "怒斩",
+      "pos": 3,
+      "probability": 4000,
+      "text": "6级"
+    },
+    "7": {
+      "attr": [
+        {
+          "type": 75,
+          "value": 700
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 7,
+      "name": "怒斩",
+      "pos": 3,
+      "probability": 4000,
+      "text": "7级"
+    },
+    "8": {
+      "attr": [
+        {
+          "type": 75,
+          "value": 800
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 8,
+      "name": "怒斩",
+      "pos": 3,
+      "probability": 4000,
+      "text": "8级"
+    },
+    "9": {
+      "attr": [
+        {
+          "type": 75,
+          "value": 900
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 9,
+      "name": "怒斩",
+      "pos": 3,
+      "probability": 4000,
+      "text": "9级"
+    },
+    "10": {
+      "attr": [
+        {
+          "type": 75,
+          "value": 1000
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 10,
+      "name": "怒斩",
+      "pos": 3,
+      "probability": 4000,
+      "text": "10级"
+    }
+  },
+  "4": {
+    "0": {
+      "attr": [
+        {
+          "type": 136,
+          "value": 0
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 0,
+      "name": "激斗",
+      "pos": 4,
+      "probability": 4000,
+      "text": "0级"
+    },
+    "1": {
+      "attr": [
+        {
+          "type": 136,
+          "value": 200
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 1,
+      "name": "激斗",
+      "pos": 4,
+      "probability": 10000,
+      "text": "1级"
+    },
+    "2": {
+      "attr": [
+        {
+          "type": 136,
+          "value": 400
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 2,
+      "name": "激斗",
+      "pos": 4,
+      "probability": 4000,
+      "text": "2级"
+    },
+    "3": {
+      "attr": [
+        {
+          "type": 136,
+          "value": 600
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 3,
+      "name": "激斗",
+      "pos": 4,
+      "probability": 4000,
+      "text": "3级"
+    },
+    "4": {
+      "attr": [
+        {
+          "type": 136,
+          "value": 800
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 4,
+      "name": "激斗",
+      "pos": 4,
+      "probability": 4000,
+      "text": "4级"
+    },
+    "5": {
+      "attr": [
+        {
+          "type": 136,
+          "value": 1000
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 5,
+      "name": "激斗",
+      "pos": 4,
+      "probability": 4000,
+      "text": "5级"
+    },
+    "6": {
+      "attr": [
+        {
+          "type": 136,
+          "value": 1200
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 6,
+      "name": "激斗",
+      "pos": 4,
+      "probability": 4000,
+      "text": "6级"
+    },
+    "7": {
+      "attr": [
+        {
+          "type": 136,
+          "value": 1400
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 7,
+      "name": "激斗",
+      "pos": 4,
+      "probability": 4000,
+      "text": "7级"
+    },
+    "8": {
+      "attr": [
+        {
+          "type": 136,
+          "value": 1600
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 8,
+      "name": "激斗",
+      "pos": 4,
+      "probability": 4000,
+      "text": "8级"
+    },
+    "9": {
+      "attr": [
+        {
+          "type": 136,
+          "value": 1800
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 9,
+      "name": "激斗",
+      "pos": 4,
+      "probability": 4000,
+      "text": "9级"
+    },
+    "10": {
+      "attr": [
+        {
+          "type": 136,
+          "value": 2000
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 10,
+      "name": "激斗",
+      "pos": 4,
+      "probability": 4000,
+      "text": "10级"
+    }
+  },
+  "5": {
+    "0": {
+      "attr": [
+        {
+          "type": 6,
+          "value": 0
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 0,
+      "name": "强身",
+      "pos": 5,
+      "probability": 4000,
+      "text": "0级"
+    },
+    "1": {
+      "attr": [
+        {
+          "type": 6,
+          "value": 200
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 1,
+      "name": "强身",
+      "pos": 5,
+      "probability": 10000,
+      "text": "1级"
+    },
+    "2": {
+      "attr": [
+        {
+          "type": 6,
+          "value": 400
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 2,
+      "name": "强身",
+      "pos": 5,
+      "probability": 4000,
+      "text": "2级"
+    },
+    "3": {
+      "attr": [
+        {
+          "type": 6,
+          "value": 600
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 3,
+      "name": "强身",
+      "pos": 5,
+      "probability": 4000,
+      "text": "3级"
+    },
+    "4": {
+      "attr": [
+        {
+          "type": 6,
+          "value": 800
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 4,
+      "name": "强身",
+      "pos": 5,
+      "probability": 4000,
+      "text": "4级"
+    },
+    "5": {
+      "attr": [
+        {
+          "type": 6,
+          "value": 1000
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 5,
+      "name": "强身",
+      "pos": 5,
+      "probability": 4000,
+      "text": "5级"
+    },
+    "6": {
+      "attr": [
+        {
+          "type": 6,
+          "value": 1200
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 6,
+      "name": "强身",
+      "pos": 5,
+      "probability": 4000,
+      "text": "6级"
+    },
+    "7": {
+      "attr": [
+        {
+          "type": 6,
+          "value": 1400
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 7,
+      "name": "强身",
+      "pos": 5,
+      "probability": 4000,
+      "text": "7级"
+    },
+    "8": {
+      "attr": [
+        {
+          "type": 6,
+          "value": 1600
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 8,
+      "name": "强身",
+      "pos": 5,
+      "probability": 4000,
+      "text": "8级"
+    },
+    "9": {
+      "attr": [
+        {
+          "type": 6,
+          "value": 1800
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 9,
+      "name": "强身",
+      "pos": 5,
+      "probability": 4000,
+      "text": "9级"
+    },
+    "10": {
+      "attr": [
+        {
+          "type": 6,
+          "value": 2000
+        }
+      ],
+      "cost": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "level": 10,
+      "name": "强身",
+      "pos": 5,
+      "probability": 4000,
+      "text": "10级"
+    }
+  }
+}

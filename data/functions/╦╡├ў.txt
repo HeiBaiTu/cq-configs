@@ -1,0 +1,7 @@
+﻿ActorEvent  人物相关功能
+GlobalMiscExpand lua扩展用，例如：scripttime，lua全局方法
+ItemEvent 	物品脚本
+MonEvent  	怪物脚本
+NpcMiscFun 	npc脚本
+Systems lua中的系统定义
+Activity	活动脚本

@@ -1,0 +1,10 @@
+﻿function defaultHandlerEnterFuben(pActor, arg)
+	
+end
+
+function defaultHandlerExitFuben( pActor, fubenId )
+	local curFbId = Actor.getFubenId(pActor)
+	if curFbId ~= fubenId then
+		return
+	end
+end

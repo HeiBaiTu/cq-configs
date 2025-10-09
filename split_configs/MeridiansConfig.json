@@ -1,0 +1,3550 @@
+{
+  "0": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 0
+      },
+      {
+        "type": 141,
+        "value": 0
+      },
+      {
+        "type": 5,
+        "value": 0
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 0
+      }
+    ],
+    "circle": 5,
+    "level": 0,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "1": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 1
+      },
+      {
+        "type": 141,
+        "value": 0
+      },
+      {
+        "type": 5,
+        "value": 10
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 0
+      }
+    ],
+    "circle": 5,
+    "cost": [
+      {
+        "count": 2,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 1,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "2": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 2
+      },
+      {
+        "type": 141,
+        "value": 0
+      },
+      {
+        "type": 5,
+        "value": 20
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 0
+      }
+    ],
+    "circle": 5,
+    "cost": [
+      {
+        "count": 2,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 2,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "3": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 3
+      },
+      {
+        "type": 141,
+        "value": 0
+      },
+      {
+        "type": 5,
+        "value": 30
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 1
+      }
+    ],
+    "circle": 5,
+    "cost": [
+      {
+        "count": 3,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 3,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "4": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 4
+      },
+      {
+        "type": 141,
+        "value": 0
+      },
+      {
+        "type": 5,
+        "value": 40
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 1
+      }
+    ],
+    "circle": 5,
+    "cost": [
+      {
+        "count": 3,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 4,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "5": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 5
+      },
+      {
+        "type": 141,
+        "value": 300
+      },
+      {
+        "type": 5,
+        "value": 50
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 1
+      }
+    ],
+    "circle": 5,
+    "cost": [
+      {
+        "count": 4,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 5,
+    "levellimit": 1,
+    "serveropenday": 1,
+    "tips": "恭喜|C:0xf56f00&T:%s|用内功丹将内功提升至|C:0xfc21ed&T:5级|"
+  },
+  "6": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 6
+      },
+      {
+        "type": 141,
+        "value": 300
+      },
+      {
+        "type": 5,
+        "value": 60
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 1
+      }
+    ],
+    "circle": 6,
+    "cost": [
+      {
+        "count": 4,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 6,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "7": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 7
+      },
+      {
+        "type": 141,
+        "value": 300
+      },
+      {
+        "type": 5,
+        "value": 70
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 1
+      }
+    ],
+    "circle": 6,
+    "cost": [
+      {
+        "count": 5,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 7,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "8": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 8
+      },
+      {
+        "type": 141,
+        "value": 300
+      },
+      {
+        "type": 5,
+        "value": 80
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 2
+      }
+    ],
+    "circle": 6,
+    "cost": [
+      {
+        "count": 5,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 8,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "9": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 9
+      },
+      {
+        "type": 141,
+        "value": 300
+      },
+      {
+        "type": 5,
+        "value": 90
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 2
+      }
+    ],
+    "circle": 6,
+    "cost": [
+      {
+        "count": 6,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 9,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "10": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 10
+      },
+      {
+        "type": 141,
+        "value": 600
+      },
+      {
+        "type": 5,
+        "value": 100
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 2
+      }
+    ],
+    "circle": 6,
+    "cost": [
+      {
+        "count": 6,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 10,
+    "levellimit": 1,
+    "serveropenday": 1,
+    "tips": "恭喜|C:0xf56f00&T:%s|用内功丹将内功提升至|C:0xfc21ed&T:10级|"
+  },
+  "11": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 11
+      },
+      {
+        "type": 141,
+        "value": 600
+      },
+      {
+        "type": 5,
+        "value": 110
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 2
+      }
+    ],
+    "circle": 6,
+    "cost": [
+      {
+        "count": 7,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 11,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "12": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 12
+      },
+      {
+        "type": 141,
+        "value": 600
+      },
+      {
+        "type": 5,
+        "value": 120
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 2
+      }
+    ],
+    "circle": 6,
+    "cost": [
+      {
+        "count": 7,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 12,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "13": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 13
+      },
+      {
+        "type": 141,
+        "value": 600
+      },
+      {
+        "type": 5,
+        "value": 130
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 3
+      }
+    ],
+    "circle": 6,
+    "cost": [
+      {
+        "count": 8,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 13,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "14": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 14
+      },
+      {
+        "type": 141,
+        "value": 600
+      },
+      {
+        "type": 5,
+        "value": 140
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 3
+      }
+    ],
+    "circle": 6,
+    "cost": [
+      {
+        "count": 8,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 14,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "15": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 15
+      },
+      {
+        "type": 141,
+        "value": 900
+      },
+      {
+        "type": 5,
+        "value": 150
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 3
+      }
+    ],
+    "circle": 6,
+    "cost": [
+      {
+        "count": 8,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 15,
+    "levellimit": 1,
+    "serveropenday": 1,
+    "tips": "恭喜|C:0xf56f00&T:%s|用内功丹将内功提升至|C:0xfc21ed&T:15级|"
+  },
+  "16": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 16
+      },
+      {
+        "type": 141,
+        "value": 900
+      },
+      {
+        "type": 5,
+        "value": 160
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 3
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 10,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 16,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "17": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 17
+      },
+      {
+        "type": 141,
+        "value": 900
+      },
+      {
+        "type": 5,
+        "value": 170
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 3
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 10,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 17,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "18": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 18
+      },
+      {
+        "type": 141,
+        "value": 900
+      },
+      {
+        "type": 5,
+        "value": 180
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 4
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 10,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 18,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "19": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 19
+      },
+      {
+        "type": 141,
+        "value": 900
+      },
+      {
+        "type": 5,
+        "value": 190
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 4
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 10,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 19,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "20": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 20
+      },
+      {
+        "type": 141,
+        "value": 1200
+      },
+      {
+        "type": 5,
+        "value": 200
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 4
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 10,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 20,
+    "levellimit": 1,
+    "serveropenday": 1,
+    "tips": "恭喜|C:0xf56f00&T:%s|用内功丹将内功提升至|C:0xfc21ed&T:20级|"
+  },
+  "21": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 21
+      },
+      {
+        "type": 141,
+        "value": 1200
+      },
+      {
+        "type": 5,
+        "value": 210
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 4
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 10,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 21,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "22": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 22
+      },
+      {
+        "type": 141,
+        "value": 1200
+      },
+      {
+        "type": 5,
+        "value": 220
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 4
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 10,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 22,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "23": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 23
+      },
+      {
+        "type": 141,
+        "value": 1200
+      },
+      {
+        "type": 5,
+        "value": 230
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 5
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 10,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 23,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "24": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 24
+      },
+      {
+        "type": 141,
+        "value": 1200
+      },
+      {
+        "type": 5,
+        "value": 240
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 5
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 10,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 24,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "25": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 25
+      },
+      {
+        "type": 141,
+        "value": 1500
+      },
+      {
+        "type": 5,
+        "value": 250
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 5
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 10,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 25,
+    "levellimit": 1,
+    "serveropenday": 1,
+    "tips": "恭喜|C:0xf56f00&T:%s|用内功丹将内功提升至|C:0xfc21ed&T:25级|"
+  },
+  "26": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 26
+      },
+      {
+        "type": 141,
+        "value": 1500
+      },
+      {
+        "type": 5,
+        "value": 260
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 5
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 15,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 26,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "27": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 27
+      },
+      {
+        "type": 141,
+        "value": 1500
+      },
+      {
+        "type": 5,
+        "value": 270
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 5
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 15,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 27,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "28": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 28
+      },
+      {
+        "type": 141,
+        "value": 1500
+      },
+      {
+        "type": 5,
+        "value": 280
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 6
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 15,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 28,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "29": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 29
+      },
+      {
+        "type": 141,
+        "value": 1500
+      },
+      {
+        "type": 5,
+        "value": 290
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 6
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 15,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 29,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "30": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 30
+      },
+      {
+        "type": 141,
+        "value": 1800
+      },
+      {
+        "type": 5,
+        "value": 300
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 6
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 15,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 30,
+    "levellimit": 1,
+    "serveropenday": 1,
+    "tips": "恭喜|C:0xf56f00&T:%s|用内功丹将内功提升至|C:0xfc21ed&T:30级|"
+  },
+  "31": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 31
+      },
+      {
+        "type": 141,
+        "value": 1800
+      },
+      {
+        "type": 5,
+        "value": 310
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 6
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 20,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 31,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "32": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 32
+      },
+      {
+        "type": 141,
+        "value": 1800
+      },
+      {
+        "type": 5,
+        "value": 320
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 6
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 20,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 32,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "33": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 33
+      },
+      {
+        "type": 141,
+        "value": 1800
+      },
+      {
+        "type": 5,
+        "value": 330
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 7
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 20,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 33,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "34": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 34
+      },
+      {
+        "type": 141,
+        "value": 1800
+      },
+      {
+        "type": 5,
+        "value": 340
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 7
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 20,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 34,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "35": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 35
+      },
+      {
+        "type": 141,
+        "value": 2100
+      },
+      {
+        "type": 5,
+        "value": 350
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 7
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 20,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 35,
+    "levellimit": 1,
+    "serveropenday": 1,
+    "tips": "恭喜|C:0xf56f00&T:%s|用内功丹将内功提升至|C:0xfc21ed&T:35级|"
+  },
+  "36": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 36
+      },
+      {
+        "type": 141,
+        "value": 2100
+      },
+      {
+        "type": 5,
+        "value": 360
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 7
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 25,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 36,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "37": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 37
+      },
+      {
+        "type": 141,
+        "value": 2100
+      },
+      {
+        "type": 5,
+        "value": 370
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 7
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 25,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 37,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "38": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 38
+      },
+      {
+        "type": 141,
+        "value": 2100
+      },
+      {
+        "type": 5,
+        "value": 380
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 8
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 25,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 38,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "39": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 39
+      },
+      {
+        "type": 141,
+        "value": 2100
+      },
+      {
+        "type": 5,
+        "value": 390
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 8
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 25,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 39,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "40": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 40
+      },
+      {
+        "type": 141,
+        "value": 2400
+      },
+      {
+        "type": 5,
+        "value": 400
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 8
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 25,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 40,
+    "levellimit": 1,
+    "serveropenday": 1,
+    "tips": "恭喜|C:0xf56f00&T:%s|用内功丹将内功提升至|C:0xfc21ed&T:40级|"
+  },
+  "41": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 41
+      },
+      {
+        "type": 141,
+        "value": 2400
+      },
+      {
+        "type": 5,
+        "value": 410
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 8
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 25,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 41,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "42": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 42
+      },
+      {
+        "type": 141,
+        "value": 2400
+      },
+      {
+        "type": 5,
+        "value": 420
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 8
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 25,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 42,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "43": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 43
+      },
+      {
+        "type": 141,
+        "value": 2400
+      },
+      {
+        "type": 5,
+        "value": 430
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 9
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 25,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 43,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "44": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 44
+      },
+      {
+        "type": 141,
+        "value": 2400
+      },
+      {
+        "type": 5,
+        "value": 440
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 9
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 25,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 44,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "45": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 45
+      },
+      {
+        "type": 141,
+        "value": 2700
+      },
+      {
+        "type": 5,
+        "value": 450
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 9
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 25,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 45,
+    "levellimit": 1,
+    "serveropenday": 1,
+    "tips": "恭喜|C:0xf56f00&T:%s|用内功丹将内功提升至|C:0xfc21ed&T:45级|"
+  },
+  "46": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 46
+      },
+      {
+        "type": 141,
+        "value": 2700
+      },
+      {
+        "type": 5,
+        "value": 460
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 9
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 30,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 46,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "47": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 47
+      },
+      {
+        "type": 141,
+        "value": 2700
+      },
+      {
+        "type": 5,
+        "value": 470
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 9
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 30,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 47,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "48": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 48
+      },
+      {
+        "type": 141,
+        "value": 2700
+      },
+      {
+        "type": 5,
+        "value": 480
+      },
+      {
+        "type": 76,
+        "value": 1
+      },
+      {
+        "type": 77,
+        "value": 10
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 30,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 48,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "49": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 49
+      },
+      {
+        "type": 141,
+        "value": 2700
+      },
+      {
+        "type": 5,
+        "value": 490
+      },
+      {
+        "type": 76,
+        "value": 1
+      },
+      {
+        "type": 77,
+        "value": 10
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 30,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 49,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "50": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 50
+      },
+      {
+        "type": 141,
+        "value": 3000
+      },
+      {
+        "type": 5,
+        "value": 500
+      },
+      {
+        "type": 76,
+        "value": 1
+      },
+      {
+        "type": 77,
+        "value": 10
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 30,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 50,
+    "levellimit": 1,
+    "serveropenday": 1,
+    "tips": "恭喜|C:0xf56f00&T:%s|用内功丹将内功提升至|C:0xfc21ed&T:50级|"
+  },
+  "51": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 51
+      },
+      {
+        "type": 141,
+        "value": 3000
+      },
+      {
+        "type": 5,
+        "value": 510
+      },
+      {
+        "type": 76,
+        "value": 1
+      },
+      {
+        "type": 77,
+        "value": 10
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 40,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 51,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "52": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 52
+      },
+      {
+        "type": 141,
+        "value": 3000
+      },
+      {
+        "type": 5,
+        "value": 520
+      },
+      {
+        "type": 76,
+        "value": 1
+      },
+      {
+        "type": 77,
+        "value": 10
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 40,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 52,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "53": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 53
+      },
+      {
+        "type": 141,
+        "value": 3000
+      },
+      {
+        "type": 5,
+        "value": 530
+      },
+      {
+        "type": 76,
+        "value": 2
+      },
+      {
+        "type": 77,
+        "value": 11
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 40,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 53,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "54": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 54
+      },
+      {
+        "type": 141,
+        "value": 3000
+      },
+      {
+        "type": 5,
+        "value": 540
+      },
+      {
+        "type": 76,
+        "value": 2
+      },
+      {
+        "type": 77,
+        "value": 11
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 40,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 54,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "55": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 55
+      },
+      {
+        "type": 141,
+        "value": 3300
+      },
+      {
+        "type": 5,
+        "value": 550
+      },
+      {
+        "type": 76,
+        "value": 2
+      },
+      {
+        "type": 77,
+        "value": 11
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 40,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 55,
+    "levellimit": 1,
+    "serveropenday": 1,
+    "tips": "恭喜|C:0xf56f00&T:%s|用内功丹将内功提升至|C:0xfc21ed&T:55级|"
+  },
+  "56": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 56
+      },
+      {
+        "type": 141,
+        "value": 3300
+      },
+      {
+        "type": 5,
+        "value": 560
+      },
+      {
+        "type": 76,
+        "value": 2
+      },
+      {
+        "type": 77,
+        "value": 11
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 50,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 56,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "57": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 57
+      },
+      {
+        "type": 141,
+        "value": 3300
+      },
+      {
+        "type": 5,
+        "value": 570
+      },
+      {
+        "type": 76,
+        "value": 2
+      },
+      {
+        "type": 77,
+        "value": 11
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 50,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 57,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "58": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 58
+      },
+      {
+        "type": 141,
+        "value": 3300
+      },
+      {
+        "type": 5,
+        "value": 580
+      },
+      {
+        "type": 76,
+        "value": 3
+      },
+      {
+        "type": 77,
+        "value": 12
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 50,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 58,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "59": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 59
+      },
+      {
+        "type": 141,
+        "value": 3300
+      },
+      {
+        "type": 5,
+        "value": 590
+      },
+      {
+        "type": 76,
+        "value": 3
+      },
+      {
+        "type": 77,
+        "value": 12
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 50,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 59,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "60": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 60
+      },
+      {
+        "type": 141,
+        "value": 3600
+      },
+      {
+        "type": 5,
+        "value": 600
+      },
+      {
+        "type": 76,
+        "value": 3
+      },
+      {
+        "type": 77,
+        "value": 12
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 50,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 60,
+    "levellimit": 1,
+    "serveropenday": 1,
+    "tips": "恭喜|C:0xf56f00&T:%s|用内功丹将内功提升至|C:0xfc21ed&T:60级|"
+  },
+  "61": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 61
+      },
+      {
+        "type": 141,
+        "value": 3600
+      },
+      {
+        "type": 5,
+        "value": 610
+      },
+      {
+        "type": 76,
+        "value": 3
+      },
+      {
+        "type": 77,
+        "value": 12
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 70,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 61,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "62": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 62
+      },
+      {
+        "type": 141,
+        "value": 3600
+      },
+      {
+        "type": 5,
+        "value": 620
+      },
+      {
+        "type": 76,
+        "value": 3
+      },
+      {
+        "type": 77,
+        "value": 12
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 70,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 62,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "63": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 63
+      },
+      {
+        "type": 141,
+        "value": 3600
+      },
+      {
+        "type": 5,
+        "value": 630
+      },
+      {
+        "type": 76,
+        "value": 4
+      },
+      {
+        "type": 77,
+        "value": 13
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 70,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 63,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "64": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 64
+      },
+      {
+        "type": 141,
+        "value": 3600
+      },
+      {
+        "type": 5,
+        "value": 640
+      },
+      {
+        "type": 76,
+        "value": 4
+      },
+      {
+        "type": 77,
+        "value": 13
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 70,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 64,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "65": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 65
+      },
+      {
+        "type": 141,
+        "value": 3900
+      },
+      {
+        "type": 5,
+        "value": 650
+      },
+      {
+        "type": 76,
+        "value": 4
+      },
+      {
+        "type": 77,
+        "value": 13
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 70,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 65,
+    "levellimit": 1,
+    "serveropenday": 1,
+    "tips": "恭喜|C:0xf56f00&T:%s|用内功丹将内功提升至|C:0xfc21ed&T:65级|"
+  },
+  "66": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 66
+      },
+      {
+        "type": 141,
+        "value": 3900
+      },
+      {
+        "type": 5,
+        "value": 660
+      },
+      {
+        "type": 76,
+        "value": 4
+      },
+      {
+        "type": 77,
+        "value": 13
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 90,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 66,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "67": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 67
+      },
+      {
+        "type": 141,
+        "value": 3900
+      },
+      {
+        "type": 5,
+        "value": 670
+      },
+      {
+        "type": 76,
+        "value": 4
+      },
+      {
+        "type": 77,
+        "value": 13
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 90,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 67,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "68": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 68
+      },
+      {
+        "type": 141,
+        "value": 3900
+      },
+      {
+        "type": 5,
+        "value": 680
+      },
+      {
+        "type": 76,
+        "value": 5
+      },
+      {
+        "type": 77,
+        "value": 14
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 90,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 68,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "69": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 69
+      },
+      {
+        "type": 141,
+        "value": 3900
+      },
+      {
+        "type": 5,
+        "value": 690
+      },
+      {
+        "type": 76,
+        "value": 5
+      },
+      {
+        "type": 77,
+        "value": 14
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 90,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 69,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "70": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 70
+      },
+      {
+        "type": 141,
+        "value": 4200
+      },
+      {
+        "type": 5,
+        "value": 700
+      },
+      {
+        "type": 76,
+        "value": 5
+      },
+      {
+        "type": 77,
+        "value": 14
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 90,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 70,
+    "levellimit": 1,
+    "serveropenday": 1,
+    "tips": "恭喜|C:0xf56f00&T:%s|用内功丹将内功提升至|C:0xfc21ed&T:70级|"
+  },
+  "71": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 71
+      },
+      {
+        "type": 141,
+        "value": 4200
+      },
+      {
+        "type": 5,
+        "value": 710
+      },
+      {
+        "type": 76,
+        "value": 5
+      },
+      {
+        "type": 77,
+        "value": 14
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 110,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 71,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "72": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 72
+      },
+      {
+        "type": 141,
+        "value": 4200
+      },
+      {
+        "type": 5,
+        "value": 720
+      },
+      {
+        "type": 76,
+        "value": 5
+      },
+      {
+        "type": 77,
+        "value": 14
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 110,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 72,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "73": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 73
+      },
+      {
+        "type": 141,
+        "value": 4200
+      },
+      {
+        "type": 5,
+        "value": 730
+      },
+      {
+        "type": 76,
+        "value": 6
+      },
+      {
+        "type": 77,
+        "value": 15
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 110,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 73,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "74": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 74
+      },
+      {
+        "type": 141,
+        "value": 4200
+      },
+      {
+        "type": 5,
+        "value": 740
+      },
+      {
+        "type": 76,
+        "value": 6
+      },
+      {
+        "type": 77,
+        "value": 15
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 110,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 74,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "75": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 75
+      },
+      {
+        "type": 141,
+        "value": 4500
+      },
+      {
+        "type": 5,
+        "value": 750
+      },
+      {
+        "type": 76,
+        "value": 6
+      },
+      {
+        "type": 77,
+        "value": 15
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 110,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 75,
+    "levellimit": 1,
+    "serveropenday": 1,
+    "tips": "恭喜|C:0xf56f00&T:%s|用内功丹将内功提升至|C:0xfc21ed&T:75级|"
+  },
+  "76": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 76
+      },
+      {
+        "type": 141,
+        "value": 4500
+      },
+      {
+        "type": 5,
+        "value": 760
+      },
+      {
+        "type": 76,
+        "value": 6
+      },
+      {
+        "type": 77,
+        "value": 15
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 150,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 76,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "77": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 77
+      },
+      {
+        "type": 141,
+        "value": 4500
+      },
+      {
+        "type": 5,
+        "value": 770
+      },
+      {
+        "type": 76,
+        "value": 6
+      },
+      {
+        "type": 77,
+        "value": 15
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 150,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 77,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "78": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 78
+      },
+      {
+        "type": 141,
+        "value": 4500
+      },
+      {
+        "type": 5,
+        "value": 780
+      },
+      {
+        "type": 76,
+        "value": 7
+      },
+      {
+        "type": 77,
+        "value": 16
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 150,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 78,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "79": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 79
+      },
+      {
+        "type": 141,
+        "value": 4500
+      },
+      {
+        "type": 5,
+        "value": 790
+      },
+      {
+        "type": 76,
+        "value": 7
+      },
+      {
+        "type": 77,
+        "value": 16
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 150,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 79,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "80": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 80
+      },
+      {
+        "type": 141,
+        "value": 4800
+      },
+      {
+        "type": 5,
+        "value": 800
+      },
+      {
+        "type": 76,
+        "value": 7
+      },
+      {
+        "type": 77,
+        "value": 16
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 150,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 80,
+    "levellimit": 1,
+    "serveropenday": 1,
+    "tips": "恭喜|C:0xf56f00&T:%s|用内功丹将内功提升至|C:0xfc21ed&T:80级|"
+  },
+  "81": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 81
+      },
+      {
+        "type": 141,
+        "value": 4800
+      },
+      {
+        "type": 5,
+        "value": 810
+      },
+      {
+        "type": 76,
+        "value": 7
+      },
+      {
+        "type": 77,
+        "value": 16
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 180,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 81,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "82": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 82
+      },
+      {
+        "type": 141,
+        "value": 4800
+      },
+      {
+        "type": 5,
+        "value": 820
+      },
+      {
+        "type": 76,
+        "value": 7
+      },
+      {
+        "type": 77,
+        "value": 16
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 180,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 82,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "83": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 83
+      },
+      {
+        "type": 141,
+        "value": 4800
+      },
+      {
+        "type": 5,
+        "value": 830
+      },
+      {
+        "type": 76,
+        "value": 8
+      },
+      {
+        "type": 77,
+        "value": 17
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 180,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 83,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "84": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 84
+      },
+      {
+        "type": 141,
+        "value": 4800
+      },
+      {
+        "type": 5,
+        "value": 840
+      },
+      {
+        "type": 76,
+        "value": 8
+      },
+      {
+        "type": 77,
+        "value": 17
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 180,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 84,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "85": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 85
+      },
+      {
+        "type": 141,
+        "value": 5100
+      },
+      {
+        "type": 5,
+        "value": 850
+      },
+      {
+        "type": 76,
+        "value": 8
+      },
+      {
+        "type": 77,
+        "value": 17
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 180,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 85,
+    "levellimit": 1,
+    "serveropenday": 1,
+    "tips": "恭喜|C:0xf56f00&T:%s|用内功丹将内功提升至|C:0xfc21ed&T:85级|"
+  },
+  "86": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 86
+      },
+      {
+        "type": 141,
+        "value": 5100
+      },
+      {
+        "type": 5,
+        "value": 860
+      },
+      {
+        "type": 76,
+        "value": 8
+      },
+      {
+        "type": 77,
+        "value": 17
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 220,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 86,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "87": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 87
+      },
+      {
+        "type": 141,
+        "value": 5100
+      },
+      {
+        "type": 5,
+        "value": 870
+      },
+      {
+        "type": 76,
+        "value": 8
+      },
+      {
+        "type": 77,
+        "value": 17
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 220,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 87,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "88": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 88
+      },
+      {
+        "type": 141,
+        "value": 5100
+      },
+      {
+        "type": 5,
+        "value": 880
+      },
+      {
+        "type": 76,
+        "value": 9
+      },
+      {
+        "type": 77,
+        "value": 18
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 220,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 88,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "89": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 89
+      },
+      {
+        "type": 141,
+        "value": 5100
+      },
+      {
+        "type": 5,
+        "value": 890
+      },
+      {
+        "type": 76,
+        "value": 9
+      },
+      {
+        "type": 77,
+        "value": 18
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 220,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 89,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "90": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 90
+      },
+      {
+        "type": 141,
+        "value": 5400
+      },
+      {
+        "type": 5,
+        "value": 900
+      },
+      {
+        "type": 76,
+        "value": 9
+      },
+      {
+        "type": 77,
+        "value": 18
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 220,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 90,
+    "levellimit": 1,
+    "serveropenday": 1,
+    "tips": "恭喜|C:0xf56f00&T:%s|用内功丹将内功提升至|C:0xfc21ed&T:90级|"
+  },
+  "91": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 91
+      },
+      {
+        "type": 141,
+        "value": 5400
+      },
+      {
+        "type": 5,
+        "value": 910
+      },
+      {
+        "type": 76,
+        "value": 9
+      },
+      {
+        "type": 77,
+        "value": 18
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 260,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 91,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "92": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 92
+      },
+      {
+        "type": 141,
+        "value": 5400
+      },
+      {
+        "type": 5,
+        "value": 920
+      },
+      {
+        "type": 76,
+        "value": 9
+      },
+      {
+        "type": 77,
+        "value": 18
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 260,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 92,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "93": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 93
+      },
+      {
+        "type": 141,
+        "value": 5400
+      },
+      {
+        "type": 5,
+        "value": 930
+      },
+      {
+        "type": 76,
+        "value": 10
+      },
+      {
+        "type": 77,
+        "value": 19
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 260,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 93,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "94": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 94
+      },
+      {
+        "type": 141,
+        "value": 5400
+      },
+      {
+        "type": 5,
+        "value": 940
+      },
+      {
+        "type": 76,
+        "value": 10
+      },
+      {
+        "type": 77,
+        "value": 19
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 260,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 94,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "95": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 95
+      },
+      {
+        "type": 141,
+        "value": 5700
+      },
+      {
+        "type": 5,
+        "value": 950
+      },
+      {
+        "type": 76,
+        "value": 10
+      },
+      {
+        "type": 77,
+        "value": 19
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 260,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 95,
+    "levellimit": 1,
+    "serveropenday": 1,
+    "tips": "恭喜|C:0xf56f00&T:%s|用内功丹将内功提升至|C:0xfc21ed&T:95级|"
+  },
+  "96": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 96
+      },
+      {
+        "type": 141,
+        "value": 5700
+      },
+      {
+        "type": 5,
+        "value": 960
+      },
+      {
+        "type": 76,
+        "value": 10
+      },
+      {
+        "type": 77,
+        "value": 19
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 300,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 96,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "97": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 97
+      },
+      {
+        "type": 141,
+        "value": 5700
+      },
+      {
+        "type": 5,
+        "value": 970
+      },
+      {
+        "type": 76,
+        "value": 10
+      },
+      {
+        "type": 77,
+        "value": 19
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 300,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 97,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "98": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 98
+      },
+      {
+        "type": 141,
+        "value": 5700
+      },
+      {
+        "type": 5,
+        "value": 980
+      },
+      {
+        "type": 76,
+        "value": 11
+      },
+      {
+        "type": 77,
+        "value": 20
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 300,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 98,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "99": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 99
+      },
+      {
+        "type": 141,
+        "value": 5700
+      },
+      {
+        "type": 5,
+        "value": 990
+      },
+      {
+        "type": 76,
+        "value": 11
+      },
+      {
+        "type": 77,
+        "value": 20
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 300,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 99,
+    "levellimit": 1,
+    "serveropenday": 1
+  },
+  "100": {
+    "attrs": [
+      {
+        "type": 47,
+        "value": 100
+      },
+      {
+        "type": 141,
+        "value": 6000
+      },
+      {
+        "type": 5,
+        "value": 1000
+      },
+      {
+        "type": 76,
+        "value": 11
+      },
+      {
+        "type": 77,
+        "value": 20
+      }
+    ],
+    "circle": 7,
+    "cost": [
+      {
+        "count": 300,
+        "id": 1015,
+        "type": 0
+      }
+    ],
+    "level": 100,
+    "levellimit": 1,
+    "serveropenday": 1,
+    "tips": "恭喜|C:0xf56f00&T:%s|用内功丹将内功提升至|C:0xfc21ed&T:100级|"
+  }
+}

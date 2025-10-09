@@ -1,0 +1,2340 @@
+﻿Script=
+{
+	MoneyTypeName = 
+	{
+		[0] 	= "金币",--(ZGame的金币)
+		[1] 	= "银两",--(ZGame不使用)
+		[2] 	= "绑元",--ZGame的绑元
+		[3] 	= "元宝",--ZGame的元宝
+	}, 	
+
+	exit001 = "\\<#BL离开/@exit>",
+
+	money001 = "%s不足%d",
+
+	bag001	 = "背包空间不足",
+    --物品使用
+	UserItem001 = "您在此状态下无法使用该物品.",
+	UserItem002 = "红名不可使用.",	
+
+	--装备修理
+	equipRepair001 = "该装备不能修理",
+	equipRepair002 = "该装备不需要修理",
+	equipRepair003 = "你身上没有可修理的装备",
+	equipRepair004 = "维修成功,总共消耗%d%s",
+	
+	
+	relive0001 = "你身上没有复活石,是否购买复活石?",
+	relive0002 = "确定",
+	relive0003 = "取消",
+	relive0004 = "您的背包没有%s或者%d元宝,无法原地复活.",
+	relive0005 = "此区域为禁止原地复活区,无法使用原地复活!",
+	relive0006 = "您的等级不足%d级,无法原地复活!",
+	relive0007 = "复活保护",
+
+	questCommon1 = "接受任务",
+	questCommon2 = "领取%d倍",
+	questCommon3 = "完成任务",
+	questCommon4 = "放弃任务",
+	questCommon5 = "返回",
+	questCommon6 = "花费%d元宝或%d绑定元宝领取%d倍奖励",
+	questCommon7 = "你的任务已超过30个,不可以再接任务喽!",
+	questCommon8 = "该任务本轮接受任务为%d元宝",
+	questCommon9 = "该任务本日次数已消耗完,额外接该任务需要花费%d元宝,你确定要接本任务吗？",
+	questCommon10 = "确定",
+	questCommon11 = "取消",
+	questCommon12 = "你放弃了【%s】任务",
+	questCommon13 = "你已经接过该任务了", 
+	questCommon14 = "<(c0xFF00B0F0)任务名称:>",
+
+	
+	openserverAct001 = "不在开服活动时间内",
+	openserverAct002 = "开服盛典赚翻元宝的参与次数已用完",
+	openserverAct003 = "本天你的充值元宝数不足<(c0xFFFFFF00)%d>,无法赚元宝.请先充值并提取元宝",
+	openserverAct004 = "你的等级不足<(c0xFFFFFF00)%d>级不能参与本活动",
+	openserverAct005 = "你的元宝不足<(c0xFFFFFF00)%d>",
+	openserverAct006 = "赚翻啦!<(n%s)>消耗<(c0xFF21EDFF)%d元宝>赚回来<(c0xFF21EDFF)%d元宝>!&<马上赚元宝/@@showWin,GameOpenServerModule,0>$",
+	openserverAct007 = "开服盛典疯狂冲级奖励",
+	openserverAct008 = "等级到达<(c0xFFFFFF00)%d级>,获得如下奖励!",
+	openserverAct009 = "疯狂冲级!<(n%s)>到达<(c0xFF21EDFF)%d级>获得本级开服奖励!&<奖励详情/@@showWin,GameOpenServerModule,1>$",
+	openserverAct0010 = "开服盛典狩猎BOSS奖励",
+	openserverAct0011 = "狩猎积分到达<(c0xFFFFFF00)%d>,获得如下奖励!",
+	openserverAct0012 = "狩猎BOSS!<(n%s)>狩猎积分到达<(c0xFF21EDFF)%d>,获得本阶狩猎奖励!&<奖励详情/@@showWin,GameOpenServerModule,6>$",
+	openserverAct0013 = "开服盛典激战皇城奖励",
+	openserverAct0014 = "开服首战!王者尊享!\\ 恭喜<(c0xFFFFFF00)%s>拔得头筹取得开服首次攻城战的胜利,获得如下奖励!",
+	openserverAct0015 = "开服首战,王者尊享!恭喜<(c0xFF21EDFF)%s>拔得头筹取得开服首次攻城战的胜利,行会全体成员获得额外奖励!&<奖励详情/@@showWin,GameOpenServerModule,7>$",
+	openserverAct0016 = "经验升升升!<(c0xFF21EDFF)开服第1,2天全天打怪可获得双倍经验!>更多开服盛典活动邀你参加!&<开服盛典/@@showWin,GameOpenServerModule>$",
+	openserverAct0017 = "开服盛典启兵不停奖励",
+	openserverAct0018 = "装备格子全部启兵到达<(c0xFFFFFF00)%d级>，获得如下奖励！",
+	openserverAct0019 = "启兵不停!<(n%s)>启兵等级到达<(c0xFF21EDFF)%d>,获得本阶启兵奖励!&<奖励详情/@@showWin,GameOpenServerModule,3>$",
+	openserverAct0020 = "开服盛典华丽翅膀奖励",
+	openserverAct0021 = "恭喜你激活翅膀%s，获得如下奖励！",
+	openserverAct0022 = "华丽翅膀!<(n%s)>激活翅膀%s,获得本阶奖励!&<奖励详情/@@showWin,GameOpenServerModule,3>$",
+	openserverAct0023 = "每日充值有大礼！<(n%s)>已将累计充值%d元宝即可领的超值奖励收入囊中,勇士们还不赶快行动.&<我要领取/@@showWin,GameOSDailyChargeModule>$",
+	openserverAct0024 = "开服盛典座驾竞技奖励",
+	openserverAct0025 = "恭喜你把<(c0xFFFFFF00)%s>激活到<(c0xFFFFFF00)%d阶%d星>,获得如下奖励!",
+	openserverAct0026 = "座驾竞技!<(n%s)>将<(c0xFF21EDFF)%s激活到%d阶%d星>,获得本阶奖励!&<奖励详情/@@showWin,GameOpenServerModule,4>$",
+	openserverAct0027 = "开服盛典镶嵌龙珠奖励",
+	openserverAct0028 = "恭喜你全身镶嵌<(c0xFFFFFF00)%d颗%d级>龙珠,获得如下奖励！",
+	openserverAct0029 = "镶嵌龙珠!<(n%s)>将全身镶嵌到<(c0xFF21EDFF)%d颗%d级龙珠>,获得本阶奖励!&<奖励详情/@@showWin,GameOpenServerModule,2>$",
+	openserverAct0030 = "开服盛典炫酷兵魂奖励",
+	openserverAct0031 = "恭喜你的兵魂成功升级到<(c0xFFFFFF00)%s-%s>,获得如下奖励！",
+	openserverAct0032 = "炫酷兵魂!<(n%s)>的兵魂成功升级到<(c0xFF21EDFF)%s-%s>,获得本阶奖励!&<奖励详情/@@showWin,GameOpenServerModule,5>$",
+	openserverAct0033 = "奖励已抢光，领取失败",
+	openserverAct0034 = "<(n%s)>击败%s,获得了BOSS积分%d!&<前往挑战BOSS/@@showWin,GameBossModule,0>$",
+	openserverAct00341= "<(n%s)>击败%s,获得了BOSS积分%d!5分钟内对此BOSS进行挖宝有几率掉特戒！&<前往挑战BOSS/@@showWin,GameBossModule,0>$",
+	openserverAct0035 = "获得BOSS积分%d",
+	openserverAct0036 = "疯狂冲级激抢上古装备!<(n%s)>到达<(c0xFF21EDFF)%d级>,距离最高奖励<(c0xFF21EDFF)上古装备>更进一步啦!&<查看奖励/@@showWin,GameOpenServerModule,1>$",
+	openserverAct0037 = "座驾竞技激抢上古装备!<(n%s)>座驾到达<(c0xFF21EDFF)%d阶%d星>,距离最高奖励<(c0xFF21EDFF)上古装备>更进一步啦!&<查看奖励/@@showWin,GameOpenServerModule,4>$",
+	openserverAct0038 = "翅膀竞技激抢上古装备!<(n%s)>%s升级到<(c0xFF21EDFF)%d%%>,距离最高奖励<(c0xFF21EDFF)上古装备>更进一步啦!&<查看奖励/@@showWin,GameOpenServerModule,3>$",
+	openserverAct0039 = "龙珠竞技激抢上古装备!<(n%s)>镶嵌了<(c0xFF21EDFF)%d颗%d级>龙珠,距离最高奖励<(c0xFF21EDFF)上古装备>更进一步啦!&<查看奖励/@@showWin,GameOpenServerModule,2>$",
+	openserverAct0040 = "兵魂竞技激抢上古装备!<(n%s)><(c0xFF21EDFF)%s>升级到<(c0xFF21EDFF)%s>,距离最高奖励<(c0xFF21EDFF)上古装备>更进一步啦!&<查看奖励/@@showWin,GameOpenServerModule,5>$",
+	openserverAct0041 = "狩猎boss激抢上古装备!<(n%s)>获得BOSS积分<(c0xFF21EDFF)%s>,距离最高奖励<(c0xFF21EDFF)上古装备>更进一步啦!&<查看奖励/@@showWin,GameOpenServerModule,6>$",
+	openserverAct0042 = "Boss积分奖励",
+    openserverAct0043 = "恭喜你在Boss积分中排名%d，获得以下奖励；附件为对应的排名奖励",
+	--兵魂系统
+	soldierSoulName001 = "冰极光",
+	soldierSoulName002 = "琉璃雪",
+	soldierSoulName003 = "月苍炎",
+	soldierSoulName004 = "落星痕",
+	soldierSoulName005 = "玄罡雷",
+
+	soldierSoulStarName0011 = "冰语",
+	soldierSoulStarName0012 = "冰弦",
+	soldierSoulStarName0013 = "冰溪",
+	soldierSoulStarName0014 = "冰骨",
+	soldierSoulStarName0015 = "冰麝",
+	soldierSoulStarName0016 = "冰辉",
+	soldierSoulStarName0017 = "冰河",
+	soldierSoulStarName0018 = "冰极",
+	soldierSoulStarName0019 = "冰光",
+
+	soldierSoulStarName0021 = "雪霜",
+	soldierSoulStarName0022 = "雪烟",
+	soldierSoulStarName0023 = "雪心",
+	soldierSoulStarName0024 = "雪练",
+	soldierSoulStarName0025 = "雪虹",
+	soldierSoulStarName0026 = "雪漫",
+	soldierSoulStarName0027 = "雪霁",
+	soldierSoulStarName0028 = "雪琉",
+	soldierSoulStarName0029 = "雪璃",
+
+	soldierSoulStarName0031 = "月落",
+	soldierSoulStarName0032 = "月华",
+	soldierSoulStarName0033 = "月寒",
+	soldierSoulStarName0034 = "月清",
+	soldierSoulStarName0035 = "月凛",
+	soldierSoulStarName0036 = "月影",
+	soldierSoulStarName0037 = "月霁",
+	soldierSoulStarName0038 = "月苍",
+	soldierSoulStarName0039 = "月炎",
+
+	soldierSoulStarName0041 = "星语",
+	soldierSoulStarName0042 = "星澜",
+	soldierSoulStarName0043 = "星光",
+	soldierSoulStarName0044 = "星海",
+	soldierSoulStarName0045 = "星芒",
+	soldierSoulStarName0046 = "星空",
+	soldierSoulStarName0047 = "星宇",
+	soldierSoulStarName0048 = "星落",
+	soldierSoulStarName0049 = "星痕",
+
+	soldierSoulStarName0051 = "玄机",
+	soldierSoulStarName0052 = "玄金",
+	soldierSoulStarName0053 = "玄冥",
+	soldierSoulStarName0054 = "玄海",
+	soldierSoulStarName0055 = "玄黄",
+	soldierSoulStarName0056 = "玄空",
+	soldierSoulStarName0057 = "玄天",
+	soldierSoulStarName0058 = "玄雷",
+	soldierSoulStarName0059 = "玄罡",
+
+	soldierSoulmsg001 = "已经解锁过了",
+	soldierSoulmsg002 = "您的<(c0xFF00FF00)%s>不足<(c0xFFFFFF00)%d>,无法操作",
+	soldierSoulmsg003 = "解锁成功",
+	soldierSoulmsg004 = "<(c0xFFFF0000)需要完全激活【%s】兵魂>",
+	soldierSoulmsg005 = "激活成功",
+	soldierSoulmsg006 = "<(n%s)>成功激活<(c0xFF21EDFF)【%s】>!附身武器后更显绚丽了!&<打开兵魂抢先激活/@@showWin,GameArmSoulNewModule>$",
+	soldierSoulmsg007 = "已经达最高等级，不能升级",
+	soldierSoulmsg008 = "升级技能成功",
+	soldierSoulmsg009 = "当前只能附身%d个兵魂",
+	soldierSoulmsg010 = "兵魂附身成功",
+	soldierSoulmsg011 = "等级不足%d, 不能解锁",
+	soldierSoulmsg012 = "兵魂技能<(c0xFF21EDFF)【%s】>暂失效，需附身对应兵魂后重新生效",
+
+	DepotBag001 = "打开仓库",
+	DepotBag002 = "仓库密码",
+
+	--激战boss 
+	--以下的场景名字会修改，不用了。但不要删，可能是以前的数据先不动。
+	BossScene001 = "翼族明宫二层",
+	BossScene002 = "万虫窟二层",
+	BossScene003 = "镇妖墓三层",
+	BossScene004 = "祖玛三层",
+	BossScene005 = "蜘蛛洞三层",
+	BossScene006 = "积雷洞三层",
+	BossScene007 = "青丘谷三层",
+	BossScene008 = "熔岩之地三层",
+	BossScene009 = "BOSS之家一层",
+	BossScene010 = "BOSS之家二层",
+	BossScene011 = "BOSS之家三层",
+	BossScene012 = "BOSS之家四层",
+	BossScene013 = "玛雅神殿一层",
+	BossScene014 = "玛雅神殿二层",
+	BossScene015 = "玛雅神殿三层",
+	BossScene016 = "玛雅神殿四层",
+	BossScene017 = "玛雅神殿五层",
+	BossScene018 = "玛雅神殿六层",
+
+	--可能以后野外地图的就会自动飞到野外地图一层，预留每个野外地图上的npc配置
+	BossTelportNPCName001 = "传送员",
+	BossTelportNPCName002 = "m英雄遗迹:0:0:BOSS之家",
+	BossTelportNPCName003 = "m英雄遗迹:0:0:玛雅使者",
+	BossTelportNPCName004 = "",
+	BossTelportNPCName005 = "m英雄遗迹:120:93:物品回收员",
+
+	BossDesc001 = "<font color='#FFFF00' size='14'><b>莽荒兽王(95级)</b></font><BR>BOSS积分：806<BR>刷新时间：15分钟",
+	BossDesc002 = "<font color='#FFFF00' size='14'><b>阎凶邪龙(100级)</b></font><BR>BOSS积分：1190<BR>刷新时间：30分钟",
+	BossDesc003 = "<font color='#FFFF00' size='14'><b>星牙角王(105级)</b></font><BR>BOSS积分：1650<BR>刷新时间：30分钟",
+	BossDesc004 = "<font color='#FFFF00' size='14'><b>忌乱之主(110级)</b></font><BR>BOSS积分：2100<BR>刷新时间：45分钟",
+	BossDesc005 = "<font color='#FFFF00' size='14'><b>万妖之母(115级)</b></font><BR>BOSS积分：2640<BR>刷新时间：60分钟",
+	BossDesc006 = "<font color='#FFFF00' size='14'><b>天牛魔神(120级)</b></font><BR>BOSS积分：3500<BR>刷新时间：60分钟",
+	BossDesc007 = "<font color='#FFFF00' size='14'><b>青丘白浅(125级)</b></font><BR>BOSS积分：3937<BR>刷新时间：90分钟",
+	BossDesc008 = "<font color='#FFFF00' size='14'><b>始祸炎龙(130级)</b></font><BR>BOSS积分：4890<BR>刷新时间：120分钟",
+	BossDesc009 = "<font color='#FFFF00' size='14'><b>蝠翼蛇(80级)</b></font><BR>BOSS积分：350<BR>刷新时间：15分钟",
+	BossDesc010 = "<font color='#FFFF00' size='14'><b>腐毒魔人(90级)</b></font><BR>BOSS积分：630<BR>刷新时间：15分钟",
+	BossDesc011 = "<font color='#FFFF00' size='14'><b>寒冰魔人(115级)</b></font><BR>BOSS积分：2640<BR>刷新时间：60分钟",
+	BossDesc012 = "<font color='#FFFF00' size='14'><b>劫火魔人(115级)</b></font><BR>BOSS积分：2640<BR>刷新时间：60分钟",
+	BossDesc013 = "<font color='#FFFF00' size='14'><b>荒冥邪虫(120级)</b></font><BR>BOSS积分：3500<BR>刷新时间：60分钟",
+	BossDesc014 = "<font color='#FFFF00' size='14'><b>祭祀血魔(125级)</b></font><BR>BOSS积分：3937<BR>刷新时间：90分钟",
+	BossDesc015 = "<font color='#FFFF00' size='14'><b>远神雕像(130级)</b></font><BR>BOSS积分：4890<BR>刷新时间：120分钟",
+	BossDesc016 = "<font color='#FFFF00' size='14'><b>天魔守卫(140级)</b></font><BR>BOSS积分：6570<BR>刷新时间：150分钟",
+	BossDesc017 = "<font color='#FFFF00' size='14'><b>青丘父神(150级)</b></font><BR>BOSS积分：8830<BR>刷新时间：180分钟",
+	BossDesc018 = "<font color='#FFFF00' size='14'><b>赤炎金猊兽(160级)</b></font><BR>BOSS积分：11870<BR>刷新时间：240分钟",
+	BossDesc019 = "<font color='#FFFF00' size='14'><b>血眼毒蜥(90级)</b></font><BR>BOSS积分：630<BR>刷新时间：15分钟",
+	BossDesc020 = "<font color='#FFFF00' size='14'><b>翼族离镜(95级)</b></font><BR>BOSS积分：806<BR>刷新时间：30分钟",
+	BossDesc021 = "<font color='#FFFF00' size='14'><b>暗化猪王(100级)</b></font><BR>BOSS积分：1190<BR>刷新时间：30分钟",
+	BossDesc022 = "<font color='#FFFF00' size='14'><b>魔化司命(105级)</b></font><BR>BOSS积分：1650<BR>刷新时间：60分钟",
+	BossDesc023 = "<font color='#FFFF00' size='14'><b>翼族离怨(110级)</b></font><BR>BOSS积分：2100<BR>刷新时间：60分钟",
+	BossDesc024 = "<font color='#FFFF00' size='14'><b>翼族擎苍(125级)</b></font><BR>BOSS积分：3937<BR>刷新时间：90分钟",
+	BossDesc025 = "<font color='#FFFF00' size='14'><b>青丘凤九(130级)</b></font><BR>BOSS积分：4890<BR>刷新时间：120分钟",
+	BossDesc026 = "<font color='#FFFF00' size='14'><b>黑蛇夜华(140级)</b></font><BR>BOSS积分：6570<BR>刷新时间：150分钟",
+	--BossDesc027 = "<font color='#FFFF00' size='14'><b>猪妖王(105级)</b></font><BR>BOSS积分：2000<BR>刷新时间：30分钟",
+	--BossDesc028 = "<font color='#FFFF00' size='14'><b>邪魔王(110级)</b></font><BR>BOSS积分：2500<BR>刷新时间：45分钟",
+	--BossDesc029 = "<font color='#FFFF00' size='14'><b>血妖王(95级)</b></font><BR>BOSS积分：1000<BR>刷新时间：30分钟",
+	--BossDesc030 = "<font color='#FFFF00' size='14'><b>毒龙王(100级)</b></font><BR>BOSS积分：1500<BR>刷新时间：30分钟",
+	--BossDesc031 = "<font color='#FFFF00' size='14'><b>猪妖王(105级)</b></font><BR>BOSS积分：2000<BR>刷新时间：30分钟",
+	--BossDesc032 = "<font color='#FFFF00' size='14'><b>邪魔王(110级)</b></font><BR>BOSS积分：2500<BR>刷新时间：45分钟",
+
+
+	wildBossMsg001 = "<(c0xFFF11717)兽人王>又率领部下掠夺粮食,为非作歹.望有能之士前往击杀,为民除害!&<查看BOSS/@@showWin,GameBossModule,0>$",
+	wildBossMsg002 = "<(c0xFFF11717)血妖王>其心不死,重新集结手下意欲为害大陆.望有能之士前往击杀,粉碎野心!&<查看BOSS/@@showWin,GameBossModule,0>$",
+	wildBossMsg003 = "<(c0xFFF11717)毒龙王>通过万虫窟的裂口从异界来到了死亡棺材.望有能之士前往击杀,拯救大陆!&<查看BOSS/@@showWin,GameBossModule,0>$",
+	wildBossMsg004 = "<(c0xFFF11717)猪妖王>率领麾下一众猪妖企图占领石墓洞穴,夺取月娘之血.望有能之士前往击杀,保护石墓!&<查看BOSS/@@showWin,GameBossModule,0>$",
+	wildBossMsg005 = "<(c0xFFF11717)邪魔王>觊觎传说中的三圣原力聚众袭击三圣遗迹.望有能之士前往击杀,平息风暴!&<查看BOSS/@@showWin,GameBossModule,0>$",
+	wildBossMsg006 = "<(c0xFFF11717)月魔王>逃出远古封印之牢,重临大陆,意欲将大陆化为炼狱.望有能之士前往击杀,拯救大陆!&<查看BOSS/@@showWin,GameBossModule,0>$",
+	wildBossMsg007 = "<(c0xFFF11717)牛魔王>通过裂变的万虫窟从魔界来到了牛魔大殿,末日齿轮转动.望有能之士前往击杀,逆转齿轮!&<查看BOSS/@@showWin,GameBossModule,0>$",
+	wildBossMsg008 = "<(c0xFFF11717)狐妖王>通过裂变的万虫窟从魔界来到了狐狸祭坛,末日齿轮转动.望有能之士前往击杀,逆转齿轮!&<查看BOSS/@@showWin,GameBossModule,0>$",
+	wildBossMsg009 = "<(c0xFFF11717)伴生龙卫>通过裂变的万虫窟从魔界来到了火龙暗殿,末日齿轮转动.望有能之士前往击杀,逆转齿轮!&<查看BOSS/@@showWin,GameBossModule,0>$",
+
+
+	wildBossScene101 = "兽人-兽人洞二层",
+	wildBossScene102 = "血牢-血牢地宫",
+	wildBossScene103 = "万虫窟-死亡棺材",
+	wildBossScene104 = "石墓-石墓大厅",
+	wildBossScene105 = "三圣-三圣大厅",
+	wildBossScene106 = "月魔-月魔巢穴",
+	wildBossScene107 = "牛魔-牛魔大殿",
+	wildBossScene108 = "狐妖-狐妖祭坛",
+	wildBossScene109 = "火龙-火龙暗殿",
+
+	wildBoss001 	= "万虫窟裂变，群魔祸乱，野外BOSS再次降临大陆，望勇士们前往击杀！<查看BOSS/@@showWin,GameBossModule,1>",
+	worldBoss001 	= "<(c0xFFF11717)%s>已出现在<(c0xFF21EDFF)英雄遗迹（%d，%d）> <立即前往击杀/M英雄遗迹:90:247:>，若不赶快行动它将摧毁这片大地",
+	worldBoss002 	= "<(c0xFF21EDFF)%s>已将<(c0xFFF11717)%s>击杀于脚下，安宁重归英雄遗迹",
+	worldBoss003 	= "<(c0xFFF11717)%s>无人能挡，它在英雄遗迹上留下梦魇之种后悄然消失",
+
+	
+	--个人BOSS
+	PersonBossDesc001 = "万虫窟的领主，以各种毒蛇为食，剧毒无比，被称为黑蛇夜华之王。",
+	PersonBossDesc002 = "腐尸洞的洞主，以腐尸为食，全身散发着含有剧毒的沼气，力大无穷。",
+	PersonBossDesc003 = "藏身于雷神坛的恶神，窃取雷神的秘术，从而在大陆上兴风作浪，为祸一方。",
+	PersonBossDesc004 = "生存于荒冢中的毒物，以死人骨髓为食，被称为大陆第一毒物。",
+	PersonBossDesc005 = "斗兽场的第一猛兽，嗜血狂暴，异常凶猛。",
+	PersonBossDesc006 = "徘徊于废弃古庙的亡灵，对世间存在着非常深的怨念。",
+	PersonBossDesc007 = "传说中邪恶祭师被杀死后附身于青牛身上，通过千百年的修炼终于修成神通。",
+	PersonBossDesc008 = "远古时期的一国之君。后与恶魔订立契约，将他的国家变成了熔岩之地。",
+	
+	PersonBoss001 = "当前你已经在副本中，不能进入个人BOSS副本",
+	PersonBoss002 = "今日次数已满，请明日再来挑战",
+	PersonBoss003 = "免费挑战次数已满，你可通过增加次数再次挑战",
+	PersonBoss004 = "等级不足，不能挑战",
+	PersonBoss005 = "元宝不足，不能增加次数",	
+	PersonBoss006 = "今日可增加次数已满",
+	PersonBoss007 = "成功增加一次挑战次数",
+	PersonBoss008 = "该物品今日兑换次数已满",
+	PersonBoss009 = "积分不足，不能购买",
+	PersonBoss010 = "背包空间不足，不能购买",
+    PersonBoss011 = "挑战成功，请领取奖励(5秒不领取，系统自动发放)",
+	PersonBoss012 = "体力不足%d,不能进入副本",
+	PersonBoss013 = "红名不能进入副本",
+	PersonBoss014 = "当前场景不能进入个人副本",
+
+
+	PerBossDesc001 = "<font color='#FFFF00' size='14'><b>兽王之影(80级)</b></font><BR>BOSS积分：110",
+	PerBossDesc002 = "<font color='#FFFF00' size='14'><b>邪龙之影(90级)</b></font><BR>BOSS积分：200",
+	PerBossDesc003 = "<font color='#FFFF00' size='14'><b>角王之影(1转)</b></font><BR>BOSS积分：260",
+	PerBossDesc004 = "<font color='#FFFF00' size='14'><b>魔主之影(3转)</b></font><BR>BOSS积分：1500",
+	PerBossDesc005 = "<font color='#FFFF00' size='14'><b>妖母之影(5转)</b></font><BR>BOSS积分：3800",
+
+
+
+
+	--世界BOSS <(c0xFF21EDFF)>
+	worldBossDesc001 = "烈毒奇美拉",
+	worldBossDesc002 = "黑煞麒麟",
+	worldBossDesc003 = "巫妖",
+	worldBossDesc004 = "剧毒奇美拉",
+	worldBossDesc005 = "黑光麒麟",
+	worldBossDesc006 = "地狱领主",
+	worldBossDesc007 = "炼狱魔龙",
+
+	worldBossScene001 = "英雄遗迹",
+	worldBossScene002 = "英雄遗迹",
+	worldBossScene003 = "英雄遗迹",
+	worldBossScene004 = "英雄遗迹",
+	worldBossScene005 = "英雄遗迹",
+	worldBossScene006 = "英雄遗迹",
+
+	bossAttack001	= "第%d波BOSS来袭!<(c0xFF21EDFF)%s>空降英雄城掀起一场千秋大劫!<谁来阻止/M英雄城:75:104>",
+	bossAttack002	= "<font size='16'>距离下一波BOSS来袭还有%d分钟</font>",
+	bossAttack003	= "今日BOSS来袭怪物已全部刷出,各位勇士请抓紧时间击败怪物!",
+	
+	pk00011 = "您已达到%s级,新手保护失效",
+
+	--
+	comm001 = "背包空间不足,请预留%d个背包空格",
+	comm002 = "没有加入行会，不能进行操作",
+	comm003 = "<(c0xFF21EDFF) %s x %d >",
+	comm004 = "扣取%d元宝失败, 使用【%s】不成功",
+	comm005 = "你的远不不足",
+	comm006 = "大惊喜!<(n%s)>使用<(c0xFF21EDFF)%s>获得<(c0xFF21EDFF)%s×%d>",
+	comm007 = "使用物品获得道具",
+	comm008 = "不在使用时间内",
+	comm009 = "需要%d个物品才能使用",
+	comm010 = "背包空间不足",
+	comm011 = "您的元宝不足",
+	comm012 = "您的金币不足",
+	comm013 = "行会已经不存在，不能进行操作",
+	comm014 = "钻石贵族方可进入",
+	comm015 = "您的<(c0xFF00FF00)%s>不足<(c0xFFFFFF00)%d>,无法操作",
+	comm016 = "%d转",
+	comm017 = "及以上",
+	comm018 = "%s-%s",
+	comm019 = "%s%s",
+
+	back001 = "\\<#BL返回/@backMain>",
+	back002 = "<#BL返回/@backMain>",
+	exit001 = "\\<#BL离开/@exit>",
+	confirm = "确定",
+	cancel  = "取消",
+
+	--副本右侧面板提示
+	FubenPanel001 = "剩余时间:",
+	FubenPanel002 = "副本信息:",
+	FubenPanel003 = "%s (%d / %d)",
+	FubenPanel004 = "副本掉落:",
+
+
+	--副本操作
+	FuBen001 = "进入副本 %d",			--测试消息
+	FuBen002 = "等级不足，不能进入副本",
+	FuBen003 = "进入副本的等级不够",
+	FuBen004 = "你队伍中<(c0xFF00FF00)【%s】>等级未达到%d转%d级,无法进入副本!",
+	FuBen005 = "你队伍中<(c0xFF00FF00)【%s】>等级未达到%d级,无法进入副本!",
+	FuBen006 = "你队伍中<(c0xFF00FF00)【%s】>进入该副本次数不足,无法进入副本!",
+	FuBen007 = "%s不在附近,无法开启副本",
+	FuBen008 = "队伍人数不够,不能进入副本",
+	FuBen009 = "队伍人数超过最多人数,不能进入副本",
+	FuBen010 = "只有队长可以开启组队副本(你也可以退队后再来挑战)",
+	FuBen011 = "%d转",
+	FuBen012 = "你确定开启并进入<(c0xFF00FF00)【%s】（%s%d级）>吗？",
+	FuBen013 = "进入副本",
+	FuBen014 = "取消进入",
+	FuBen015 = "确定",
+	FuBen016 = "取消",
+	FuBen017 = "队伍副本建议组队挑战.单人挑战该副本可直接进入并创建队伍",
+	FuBen018 = "您的副本次数已用完,请查看系统推荐玩法",
+	FuBen019 = "今日副本数已用完,请明日再来挑战",
+	FuBen020 = "你已在副本中,不能再进入副本",
+	FuBen021 = "跨服不能进入副本",
+	FuBen022 = "该地图不能进入副本。",
+	FuBen023 = "队伍自动进入副本\\队长开启<(c0xFF00FF00)【%s】>副本,你是否前往该副本?",
+	FuBen024 = "%s不足%d个，不能进入副本",
+	FuBen025 = "扣除进入副本所需的道具",
+	FuBen026 = "队伍副本建议组队挑战，单人挑战该副本可直接进入并创建队伍",
+	FuBen027 = "你队伍中<(c0xFF00FF00)【%s】>等级未达到%d转%d级,无法进入副本!",
+	FuBen028 = "你队伍中<(c0xFF00FF00)【%s】>等级未达到%d级,无法进入副本!",
+	FuBen029 = "你队伍中<(c0xFF00FF00)【%s】>进入该副本次数不足,无法进入副本!",
+	FuBen030 = "你正在摆摊,不能进入副本",
+	FuBen031 = "<(n%s)>正在摆摊,不能进入副本",
+	FuBen032 = "副本通关奖励",
+	FuBen033 = "你刚刚接了【%s】任务",
+	FuBen034 = "只有队长可以发起招募",
+	FuBen035 = "操作太频繁,请%d秒后再操作",
+	FuBen036 = "<(c0xFF00FF00)【%s】（%d级）>开组,<(n%s)>邀请各位勇士一起闯关!<快速进队/j,%s>",
+	FuBen037 = "今天无法再购买该副本次数",
+	FuBen038 = "增加一次进入<(c0xFF00FF00)【%s】>副本次数需【%s】×%d,是否增加次数？",
+	FuBen039 = "只有队长可以发起集结",
+	FuBen040 = "队伍即将开启<(c0xFF00FF00)%s副本>,队长请你即刻前往<(c0xFF00FF00)%s>处",
+	FuBen041 = "队伍集结",
+	FuBen042 = "自动寻路",
+	FuBen043 = "免费传送",
+	FuBen044 = "你的队员都在附近,可直接进入副本",
+	FuBen045 = "成功向其他队员发送集结请求",
+	FuBen046 = "你进入【%s】尚未接【%s】任务,现在是否接受?",
+	FuBen047 = "接受【%s】/acceptQuest,%d",
+	FuBen048 = "谢了,关闭/closeAUi",
+	FuBen049 = "你刚刚接了【%s】任务",
+	FuBen050 = "增加次数",
+	FuBen051 = "副本详情",
+	FuBen052 = "VIP等级达到%d级才能进入该副本",
+	FuBen053 = "进入副本给与物品",
+	FuBen054 = "副本离开销毁物品",
+	FuBen055 = "只有队长可以召唤队友",
+	Fuben056 = "还有%d秒才可再次召唤队友",
+	Fuben057 = "队长正在召集队员集合，并准备开启%s副本，是否立即传送",
+	FuBen058 = "成功向其他队员发送召唤请求",
+	FuBen059 = "没有可以召唤的队员",
+	FuBen060 = "在副本中不能传送",
+	FuBen061 = "队伍已经解散，不能传送",
+	--装备升星
+	EquipStar001 = "可强化星数不足，请先购买",
+	EquipStar002 = "您的<(c0xFF00FF00)%s>不足<(c0xFFFFFF00)%d>,无法操作",
+	EquipStar003 = "该装备已成功强化至%d星",
+	EquipStar004 = "本次强化失败",
+	EquipStar005 = "<(n%s)>把装备<(c0xFF21EDFF)%s>升到<(c0xFFFFFF00)%d>星，实力大增！&<我要升星/@@showWin,GameFoundryModule,0>$",
+	EquipStar006 = "提升强化成功率的费用不足",
+	EquipStar007 = "没有损失的强化星级",
+	EquipStar008 = "要恢复的星级超过最大星级",
+	EquipStar009 = "您成功恢复了第%d个星级",
+	EquipStar010 = "目标装备已经强化过，请先转移目标装备的强化星级",
+	EquipStar011 = "原始装备的强化上限大于目标装备的强化星数上限",
+	EquipStar012 = "强化转移成功",
+	EquipStar013 = "目标装备存在损失的星级，请先恢复强化星级",
+	EquipStar014 = "源装备不存在强化星级",
+
+	EquipInscript001 = "不是装备，不能铭刻",
+	EquipInscript002 = "此装备的铭刻等级已满",
+	EquipInscript003 = "此物品无法增加铭刻经验",
+	EquipInscript004 = "请先放入铭刻经验丹",
+	EquipInscript005 = "请先放入进行铭刻的装备",
+	EquipInscript006 = "请先放入铭刻转移的源装备或铭刻保护石",
+	EquipInscript007 = "请先放入铭刻转移的目的装备",
+	EquipInscript008 = "目的装备不是装备类型，不能进行铭刻转移",
+	EquipInscript009 = "不是装备或铭刻保护石",
+	EquipInscript010 = "源装备没有铭刻过，不能转移",
+	EquipInscript011 = "没有对应的铭刻保护石，不能转移",
+	EquipInscript012 = "转移材料的等级超过主装备可承受铭刻等级上限，不能转移",
+	EquipInscript013 = "转移材料的经验超过主装备可承受铭刻经验上限，不能转移",
+	EquipInscript014 = "铭刻转移成功",
+
+	--装备合成
+	--EquipComposite001 = "<font color='#147ED7'>60级装备</font>",
+	EquipComposite002 = "<font color='#BC40F6'>80级装备</font>",
+	EquipComposite003 = "<font color='#BC40F6'>90级装备</font>",
+	EquipComposite004 = "<font color='#FF8F45'>1转装备</font>",
+	EquipComposite005 = "<font color='#FF8F45'>2转装备</font>",
+	--[[EquipComposite006 = "3转装备",
+	EquipComposite007 = "4转装备",
+	EquipComposite008 = "5转装备",
+	EquipComposite009 = "6转装备",]]
+
+	--EquipComposite011 = "<font color='#147ED7'>60级装备</font>",
+	EquipComposite012 = "<font color='#BC40F6'>80级装备</font>",
+	EquipComposite013 = "<font color='#BC40F6'>90级装备</font>",
+	EquipComposite014 = "<font color='#FF8F45'>1转装备</font>",
+	EquipComposite015 = "<font color='#FF8F45'>2转装备</font>",
+	--[[EquipComposite016 = "3转装备",
+	EquipComposite017 = "4转装备",
+	EquipComposite018 = "5转装备",
+	EquipComposite019 = "6转装备",]]
+
+	--EquipComposite021 = "<font color='#147ED7'>60级装备</font>",
+	EquipComposite022 = "<font color='#BC40F6'>80级装备</font>",
+	EquipComposite023 = "<font color='#BC40F6'>90级装备</font>",
+	EquipComposite024 = "<font color='#FF8F45'>1转装备</font>",
+	EquipComposite025 = "<font color='#FF8F45'>2转装备</font>",
+	--[[EquipComposite026 = "3转装备",
+	EquipComposite027 = "4转装备",
+	EquipComposite028 = "5转装备",
+	EquipComposite029 = "6转装备",]]
+
+	EquipComposite041 = "缺少合成装备",
+	EquipComposite042 = "此类装备无法合成",
+	EquipComposite043 = "开服时间未满%d天，此装备无法合成",
+
+	EquipIdentify001  = "没有更多的属性槽，不能解锁",
+	EquipIdentify002  = "鉴定属性数量错误，不能鉴定",
+	EquipIdentify003  = "锁定的鉴定属性数量错误，不能鉴定",
+	EquipIdentify004  = "源装备没有鉴定属性，无需转移",
+	EquipIdentify005  = "源装备鉴定属性数量错误，不能转移",
+	EquipIdentify006  = "目的装备与源装备是同一件装备，不能转移",
+	EquipIdentify007  = "不是同部位的装备，不能转移",
+	EquipIdentify008  = "不可鉴定装备，不可解锁属性槽",
+	EquipIdentify009  = "不可鉴定装备，不可进行鉴定",
+	EquipIdentify010  = "源装备不可鉴定，不可进行鉴定属性转移",
+	EquipIdentify011  = "目标装备不可鉴定，不可进行鉴定属性转移",
+
+	EquipLog001  = "装备强化费用",						--for log
+	EquipLog002  = "装备强化增加成功率",			    --for log
+	EquipLog003  = "恢复损失强化星级费用",				--for log
+	EquipLog004  = "装备强化星级转移费用",				--for log
+	EquipLog005  = "装备铭刻扣除经验道具",				--for log
+	EquipLog006  = "装备铭刻扣除费用",					--for log
+	EquipLog007  = "装备铭刻转移扣除费用",				--for log
+	EquipLog008  = "装备铭刻转移扣除道具",			    --for log
+	EquipLog009  = "装备合成扣除装备材料",			    --for log
+	EquipLog010  = "装备合成增加装备",					--for log
+
+	EquipLog011  = "装备鉴定属性槽解锁",			    --for log
+	EquipLog012  = "装备鉴定的消费",					--for log
+	EquipLog013  = "装备鉴定时的锁定属性",		        --for log
+	EquipLog014  = "装备鉴定属性转移消费",			    --for log
+
+	--技能书使用
+	UseSkillBook001 = "还没有学习上一级的技能",
+	UseSkillBook002 = "已经学会该技能",
+	UseSkillBook003 = "职业不符,不能使用",	
+	
+	--交易行一分类
+	Consignment01 = "攻击装备",
+	Consignment02 = "防御装备",
+	Consignment03 = "属性道具",
+	Consignment04 = "日常物品",
+	--交易行二分类
+	Consignment001 = "武器",
+	Consignment002 = "衣服",
+	Consignment003 = "头盔",
+	Consignment004 = "项链",
+	Consignment005 = "勋章",	--暂未使用
+	Consignment006 = "手镯",
+	Consignment007 = "戒指",
+	Consignment008 = "腰带",
+	Consignment009 = "鞋子",
+	Consignment010 = "宝石",
+	Consignment011 = "兵魂材料",
+	Consignment012 = "翅膀相关",
+	Consignment013 = "装备素材",
+	Consignment014 = "回复药品",
+	Consignment015 = "增益药品",
+	Consignment016 = "日常物品",
+	Consignment017 = "行会相关",
+	Consignment018 = "龙珠道具",
+	Consignment019 = "座驾相关",
+	Consignment020 = "其他物品",
+	Consignment021 = "技能秘籍",
+
+	--战绩系统
+	Exploit001		= "小试身手",
+	Exploit002		= "杀意波动",
+	Exploit003		= "嗜血狂暴",
+	Exploit004		= "疯狂杀戮",
+	Exploit005		= "杀神附体",
+	Exploit006		= "遇神杀神",
+	Exploit007		= "杀神无双",
+	Exploit008		= "超神杀戮",
+
+
+	--行会攻城战
+	GuildSiege001 = "<(c0xFFF11717)史上最激烈的攻城战>就要开始了!兄弟们上线了吗?",
+	GuildSiege002 = "<(c0xFFF11717)史上最激烈的攻城战>就要开始了!大家准备好装备没?",
+	GuildSiege003 = "<(c0xFFF11717)史上最激烈的攻城战>就要开始了!大家准备好药品没?",
+	GuildSiege004 = "<(c0xFFF11717)史上最激烈的攻城战>马上开始了!首领们准备好带队攻城了!",
+	GuildSiege005 = "战斗号角响起，沙尘漫天地，呐喊冲云霄，<(c0xFFF11717)攻城战>击鼓开始!",
+	GuildSiege006 = "",	--本条信息无用
+	GuildSiege007 = "<(c0xFF21EDFF)守城大将>在英雄城成功被击杀，附近玩家获得一个减伤的buff!",
+	GuildSiege008 = "<(c0xFF21EDFF)皇宫传送门>已激活，有占领皇宫资格的行会成员冲啊!争分夺秒抢占皇宫啊!",
+	GuildSiege009 = "所属:%s",
+	GuildSiege010 = "请留空一个空格放置玉玺",
+	GuildSiege011 = "<(c0xFF21EDFF)皇宫玉玺>被行会<(c0xFF21EDFF)%s>获取。守方兄弟好好守住，攻方兄弟会来袭汹汹啊!",
+	GuildSiege012 = "<(c0xFF21EDFF)皇宫玉玺>重新回到皇位，至高皇位谁敢取下？",
+	GuildSiege013 = "傲视群雄！<(c0xFF21EDFF)%s>的兄弟们齐心协力打退所有敌人！！获得今晚的攻城胜利！！",
+	GuildSiege014 = "可惜本次没有行会有绝对实力占领皇宫，期待下一次攻城再战",
+	GuildSiege015 = "攻城胜利的奖励已通过邮件发给<(c0xFF21EDFF)英雄城、英雄皇宫中奋斗的胜利行会成员>，请及时查收",
+	GuildSiege016 = "攻城战胜利奖励",
+	Guildsiege017 = "恭喜贵行会在本次攻城战获得胜利!请再接再厉在下一次攻城战更激情!",
+	Guildsiege018 = "背包格子不足,不能领取福利",
+	Guildsiege019 = "该官位奖励当天已被领取",
+	Guildsiege020 = "花%d元宝召唤%d名弓箭守卫（%d分钟）",
+	Guildsiege021 = "你的行会没有临时占领皇宫，无法召唤守卫",
+	Guildsiege022 = "守卫仍在，暂无法召唤",
+	Guildsiege023 = "召唤守卫成功，守卫将猛烈攻击来袭敌人",
+	Guildsiege024 = "您的元宝不足，无法召唤",
+	Guildsiege025 = "你当天已领取官位奖励",
+	Guildsiege026 = "膜拜城主(%d/%d)",
+	Guildsiege027 = "贴金(直接花费%d元宝)",
+	Guildsiege028 = "抹黑(直接花费%d元宝)",
+	Guildsiege029 = "英雄城没有被行会占领，无法操作",
+	Guildsiege030 = "今天膜拜次数已满，请明天再膜拜",
+	Guildsiege031 = "背包空间不足,请先清理背包",
+	Guildsiege032 = "您的元宝不足，无法贴金",
+	Guildsiege033 = "您的元宝不足，无法抹黑",
+	Guildsiege034 = "【【虚位以待】】",
+	Guildsiege035 = "<(c0xFF21EDFF)复活旗>已被行会<(c0xFF21EDFF)%s>占领。赶紧蹲守复活点，来他2个干一双!",
+	Guildsiege036 = "<(c0xFF21EDFF)复活旗>被击杀，变回无归属状态",
+	Guildsiege037 = "<(c0xFF21EDFF)皇宫传送门>已激活，有占领皇宫资格的行会成员冲啊!<(c0xFF21EDFF)争分夺秒抢占皇宫>!",
+	Guildsiege038 = "当前不在攻城期间，无需召唤守卫",
+	Guildsiege039 = "<(n%s)>对雕像贴金了，英雄城所有成员<(c0xFF00FF00)伤害加成>了！他们要横扫天下吗？&<威严贴金/M英雄遗迹:0:0:英雄城主>$",
+	Guildsiege040 = "<(n%s)>对雕像抹黑了，英雄城所有成员<(c0xFFFF0000)伤害降低>了！他们要给全服玩家狙击？&<恶意抹黑/M英雄遗迹:0:0:英雄城主>$",
+	Guildsiege041 = "出场景",--清除玉玺原因记录
+	Guildsiege042 = "被杀",--清除玉玺原因记录
+	Guildsiege043 = "结束",--清除玉玺原因记录
+	GuildSiege044 = "城主", --攻城职位名称
+	GuildSiege045 = "副城主",
+	GuildSiege046 = "长老",
+	GuildSiege047 = "长老",
+	GuildSiege048 = "长老",
+	Guildsiege049 = "皇宫被来势汹汹的<(c0xFF21EDFF)%s>临时占领！攻方兄弟不要急，击杀<(c0xFF21EDFF)守城大将拿减伤Buff>再组织进攻！！",
+	Guildsiege050 = "只有会长可发布攻城战指令",
+	Guildsiege051 = "您已在攻城区域中",
+	Guildsiege052 = "指令冷却中，请稍后再下设置指令",
+	Guildsiege053 = "非攻城战时间，不能发布攻城战指令",
+	Guildsiege054 = "行会资金不足，不能发布攻城战指令",
+	Guildsiege055 = "开服攻城元宝奖励",
+	Guildsiege056 = "伟大的城主！在您的英明带领下，<(c0xFF21EDFF)开服第三天攻城战>，您与您的行会成员一起成功拿下英雄城！\\系统给予<(c0xFFFFFF00)10000元宝>奖励！\\<发红包/@@showWin,GameRobRedPacketModule>犒劳您的勇士们吧！",
+
+	GuildsiegeCmd051 = "全体进攻，冲啊！",
+	GuildsiegeCmd052 = "全体集合，",
+	GuildsiegeCmd053 = "全体撤退！",
+	
+	--行会相关
+	Guild001 = "金币不足,不能捐献",
+	Guild002 = "今日捐献总金额超过超过最大可捐献上限",
+	Guild003 = "行会捐献金币",			--for log
+	Guild004 = "行会捐献道具不足",
+	Guild005 = "道具%s不足,无法投入",
+	Guild006 = "投入行会升级材料",		--for log
+	Guild007 = "你尚未加入行会,无法升级行会等级",
+	Guild008 = "行会资金不足,无法升级行会",
+	Guild009 = "行会升级材料不足,无法升级行会",
+	Guild010 = "行会等级达到上限,无法升级行会",
+	Guild011 = "行会升级冷却中,无法升级行会",
+	Guild012 = "今日捐献道具超过超过最大可捐献上限",
+	Guild013 = "您没有投入任何材料",
+	Guild014 = "您成功投入行会材料: ",
+	Guild015 = "行会神树等级达到上限,无法充能",
+	Guild016 = "神树精华不足,无法充能",
+	Guild017 = "行会神树充能",				--for log
+	Guild018 = "行会神树充能扣除道具",		--for log
+	Guild019 = "摘取行会神树果实",			--for log
+	Guild020 = "捐献金币数量为0,不能捐献",
+	Guild021 = "捐献道具数量为0,不能捐献",
+	Guild022 = "本次捐献无法获得收益,不能捐献",
+	Guild023 = "行会神树果实已经被摘取一空",
+	Guild024 = "行会贡献不足,无法摘取",
+	Guild025 = "神树果实每人每天可摘取%d颗",
+	Guild026 = "今日神树充能次数已满,无法充能",
+	Guild027 = "神树尚未成熟,无法摘取果实",
+	Guild028 = "神树结果期结束!行会神树恢复为幼苗!",
+	Guild029 = "今日捐献道具数量超过超过最大可捐献上限",
+	Guild030 = "%s摘取了一颗<(c0xFF21EDFF)%s>",
+	Guild031 = "神树到达开花期,当前是%s, 回馈行会资金%d",
+	Guild032 = "神树到达结果期,当前是%s, 回馈行会资金%d",
+	Guild033 = "本轮神树果实已被摘取完毕",
+	Guild034 = "本服行会结果期的神树已经回归到幼苗期,未结果的神树进程不变,请成员们继续充能",
+	Guild035 = "今日行会累积捐献资金不足,不能领取福利",
+	Guild036 = "您今天已经过领取行会福利",
+	Guild037 = "领取行会福利",		--for log
+	Guild038 = "行会材料数量已满无法投入",
+	Guild039 = "投入材料数量错误，无法投入",
+	Guild040 = "行会捐献令牌",			--for log
+
+	Guild041 = "幼苗期",
+	Guild042 = "成熟期",
+	Guild043 = "开花期",
+	Guild044 = "结果期",
+
+	--果实品质名称
+	Guild045 = "缺少营养",
+	Guild046 = "捉虫除草",
+	Guild047 = "缓慢成长",
+	Guild048 = "精神奕奕",
+	Guild049 = "圆润饱满",
+	Guild050 = "硕果累累",
+
+	Guild051 = "<(c0xFF21EDFF)%s>进行行会捐献,捐献了<(c0xFF21EDFF)金币 x %d>",
+	Guild052 = "<(c0xFF21EDFF)%s>进行行会捐献,捐献了<(c0xFF21EDFF)%s x %d>",
+	Guild053 = "<(c0xFF21EDFF)%s>投入行会材料: ",
+	Guild055 = "开启活动守护神树,需要消耗<(c0xFF21EDFF)行会资金%d>,是否确认开启？",
+	Guild056 = "<(c0xFF21EDFF)%s>进行行会捐献,捐献了<(c0xFF21EDFF)元宝 x %d，行会资金增加 %d>",
+
+	Guild057 = "捐献%d万金币成功，获得行会贡献<(c0xFF21EDFF)%d>",
+	Guild058 = "捐献%d百元宝成功，获得行会贡献<(c0xFF21EDFF)%d>",
+
+
+	GuildDialog01  = "开启守护神树活动",
+	GuildDialog02  = "进入守护神树活动",
+	GuildDialog03  = "进入树海平原",
+	GuildDialog04  = "副本详细说明",
+	GuildDialog05  = "返回",
+	GuildDialog06  = "加入行会",
+	GuildFubenDesc = "守护神树活动说明:\\1、活动仅限<(c0xFFF8B21E)有加入行会的玩家>参与.\\2、每天<(c0xFFF8B21E)19-22点>,行会首领、副首领、官员有权利开启本活动.\\3、活动维持<(c0xFFF8B21E)15分钟>,成员需要击败<(c0xFFF8B21E)10波>怪物守护神树.若神树血量为零,则守护失败.\\3、成功守护神树的行会成员将会获得<(c0xFFF8B21E)邮件奖励>.\\\\树海平原地图说明:\\1、地图<(c0xFFF8B21E)每天上午22:00-23:59>开启,并每<(c0xFFF8B21E)间隔1分钟>刷出新一波精英怪\\2、行会成员可以在本地图完成<(c0xFFF8B21E)行会任务>.",
+
+	--行会任务
+	GuildTask001 = "行会任务已经刷新，请各位成员再接再厉",
+	GuildTask002 = "请先完成行会任务",
+	GuildTask003 = "你已经领取过今天的奖励啦",
+	GuildTask004 = "行会贡献不足，不能领取行会任务奖励",
+	GuildTask005 = "领取行会任务奖励",		--for log
+	GuildTask006 = "22:00-23:59树海平原才开启",
+	--行会任务描述
+	GuildTaskDesc101 = "                                                                  <(c0xFFFFDAAD)请本行会全体成员前往><行会长老/M英雄遗迹:0:0:行会长老><(c0xFFFFDAAD)处进入><(c0xFF21EDFF)树海平原><(c0xFFFFDAAD)击败><(c0xFF21EDFF)树海稻草人><(c0xFF21EDFF)$value$><(c0xFFFFDAAD)只,完成任务后即可在本界面领取奖励!>",
+	GuildTaskDesc102 = "                                                                  <(c0xFFFFDAAD)请本行会全体成员前往><行会长老/M英雄遗迹:0:0:行会长老><(c0xFFFFDAAD)处进入><(c0xFF21EDFF)树海平原><(c0xFFFFDAAD)击败><(c0xFF21EDFF)树海兽人><(c0xFF21EDFF)$value$><(c0xFFFFDAAD)只,完成任务后即可在本界面领取奖励!>",
+	GuildTaskDesc103 = "                                                                  <(c0xFFFFDAAD)请本行会全体成员前往><行会长老/M英雄遗迹:0:0:行会长老><(c0xFFFFDAAD)处进入><(c0xFF21EDFF)树海平原><(c0xFFFFDAAD)击败><(c0xFF21EDFF)树海多角虫><(c0xFF21EDFF)$value$><(c0xFFFFDAAD)只,完成任务后即可在本界面领取奖励!>",
+	GuildTaskDesc104 = "                                                                  <(c0xFFFFDAAD)请本行会全体成员前往><行会长老/M英雄遗迹:0:0:行会长老><(c0xFFFFDAAD)处进入><(c0xFF21EDFF)树海平原><(c0xFFFFDAAD)击败><(c0xFF21EDFF)树海毒牙><(c0xFF21EDFF)$value$><(c0xFFFFDAAD)只,完成任务后即可在本界面领取奖励!>",
+
+	GuildTaskDesc201 = "                                                                  <(c0xFFFFDAAD)请本行会全体成员前往><行会长老/M英雄遗迹:0:0:行会长老><(c0xFFFFDAAD)处进入><(c0xFF21EDFF)树海平原><(c0xFFFFDAAD)击败><(c0xFF21EDFF)树海稻草人><(c0xFF21EDFF)$value$><(c0xFFFFDAAD)只,完成任务后即可在本界面领取奖励!>",
+	GuildTaskDesc202 = "                                                                  <(c0xFFFFDAAD)请本行会全体成员前往><行会长老/M英雄遗迹:0:0:行会长老><(c0xFFFFDAAD)处进入><(c0xFF21EDFF)树海平原><(c0xFFFFDAAD)击败><(c0xFF21EDFF)树海兽人><(c0xFF21EDFF)$value$><(c0xFFFFDAAD)只,完成任务后即可在本界面领取奖励!>",
+	GuildTaskDesc203 = "                                                                  <(c0xFFFFDAAD)请本行会全体成员前往><行会长老/M英雄遗迹:0:0:行会长老><(c0xFFFFDAAD)处进入><(c0xFF21EDFF)树海平原><(c0xFFFFDAAD)击败><(c0xFF21EDFF)树海多角虫><(c0xFF21EDFF)$value$><(c0xFFFFDAAD)只,完成任务后即可在本界面领取奖励!>",
+	GuildTaskDesc204 = "                                                                  <(c0xFFFFDAAD)请本行会全体成员前往><行会长老/M英雄遗迹:0:0:行会长老><(c0xFFFFDAAD)处进入><(c0xFF21EDFF)树海平原><(c0xFFFFDAAD)击败><(c0xFF21EDFF)树海毒牙><(c0xFF21EDFF)$value$><(c0xFFFFDAAD)只,完成任务后即可在本界面领取奖励!>",
+
+	GuildTaskDesc301 = "                                                                  <(c0xFFFFDAAD)请本行会全体成员前往><行会长老/M英雄遗迹:0:0:行会长老><(c0xFFFFDAAD)处进入><(c0xFF21EDFF)树海平原><(c0xFFFFDAAD)击败><(c0xFF21EDFF)树海稻草人><(c0xFF21EDFF)$value$><(c0xFFFFDAAD)只,完成任务后即可在本界面领取奖励!>",
+	GuildTaskDesc302 = "                                                                  <(c0xFFFFDAAD)请本行会全体成员前往><行会长老/M英雄遗迹:0:0:行会长老><(c0xFFFFDAAD)处进入><(c0xFF21EDFF)树海平原><(c0xFFFFDAAD)击败><(c0xFF21EDFF)树海兽人><(c0xFF21EDFF)$value$><(c0xFFFFDAAD)只,完成任务后即可在本界面领取奖励!>",
+	GuildTaskDesc303 = "                                                                  <(c0xFFFFDAAD)请本行会全体成员前往><行会长老/M英雄遗迹:0:0:行会长老><(c0xFFFFDAAD)处进入><(c0xFF21EDFF)树海平原><(c0xFFFFDAAD)击败><(c0xFF21EDFF)树海多角虫><(c0xFF21EDFF)$value$><(c0xFFFFDAAD)只,完成任务后即可在本界面领取奖励!>",
+	GuildTaskDesc304 = "                                                                  <(c0xFFFFDAAD)请本行会全体成员前往><行会长老/M英雄遗迹:0:0:行会长老><(c0xFFFFDAAD)处进入><(c0xFF21EDFF)树海平原><(c0xFFFFDAAD)击败><(c0xFF21EDFF)树海毒牙><(c0xFF21EDFF)$value$><(c0xFFFFDAAD)只,完成任务后即可在本界面领取奖励!>",
+
+	GuildTaskDesc401 = "                                                                  <(c0xFFFFDAAD)请本行会全体成员前往><行会长老/M英雄遗迹:0:0:行会长老><(c0xFFFFDAAD)处进入><(c0xFF21EDFF)树海平原><(c0xFFFFDAAD)击败><(c0xFF21EDFF)树海食人花><(c0xFF21EDFF)$value$><(c0xFFFFDAAD)只,完成任务后即可在本界面领取奖励!>",
+	GuildTaskDesc402 = "                                                                  <(c0xFFFFDAAD)请本行会全体成员前往><行会长老/M英雄遗迹:0:0:行会长老><(c0xFFFFDAAD)处进入><(c0xFF21EDFF)树海平原><(c0xFFFFDAAD)击败><(c0xFF21EDFF)树海魔虫><(c0xFF21EDFF)$value$><(c0xFFFFDAAD)只,完成任务后即可在本界面领取奖励!>",
+	GuildTaskDesc403 = "                                                                  <(c0xFFFFDAAD)请本行会全体成员前往><行会长老/M英雄遗迹:0:0:行会长老><(c0xFFFFDAAD)处进入><(c0xFF21EDFF)树海平原><(c0xFFFFDAAD)击败><(c0xFF21EDFF)树海蜥蜴><(c0xFF21EDFF)$value$><(c0xFFFFDAAD)只,完成任务后即可在本界面领取奖励!>",
+	
+	GuildTaskDesc501 = "                                                                  <(c0xFFFFDAAD)请本行会全体成员前往><行会长老/M英雄遗迹:0:0:行会长老><(c0xFFFFDAAD)处进入><(c0xFF21EDFF)树海平原><(c0xFFFFDAAD)击败><(c0xFF21EDFF)树海食人花><(c0xFF21EDFF)$value$><(c0xFFFFDAAD)只,完成任务后即可在本界面领取奖励!>",
+	GuildTaskDesc502 = "                                                                  <(c0xFFFFDAAD)请本行会全体成员前往><行会长老/M英雄遗迹:0:0:行会长老><(c0xFFFFDAAD)处进入><(c0xFF21EDFF)树海平原><(c0xFFFFDAAD)击败><(c0xFF21EDFF)树海魔虫><(c0xFF21EDFF)$value$><(c0xFFFFDAAD)只,完成任务后即可在本界面领取奖励!>",
+	GuildTaskDesc503 = "                                                                  <(c0xFFFFDAAD)请本行会全体成员前往><行会长老/M英雄遗迹:0:0:行会长老><(c0xFFFFDAAD)处进入><(c0xFF21EDFF)树海平原><(c0xFFFFDAAD)击败><(c0xFF21EDFF)树海蜥蜴><(c0xFF21EDFF)$value$><(c0xFFFFDAAD)只,完成任务后即可在本界面领取奖励!>",
+
+	GuildTaskDesc601 = "                                                                  <(c0xFFFFDAAD)请本行会全体成员前往><行会长老/M英雄遗迹:0:0:行会长老><(c0xFFFFDAAD)处进入><(c0xFF21EDFF)树海平原><(c0xFFFFDAAD)击败><(c0xFF21EDFF)树海食人花><(c0xFF21EDFF)$value$><(c0xFFFFDAAD)只,完成任务后即可在本界面领取奖励!>",
+	GuildTaskDesc602 = "                                                                  <(c0xFFFFDAAD)请本行会全体成员前往><行会长老/M英雄遗迹:0:0:行会长老><(c0xFFFFDAAD)处进入><(c0xFF21EDFF)树海平原><(c0xFFFFDAAD)击败><(c0xFF21EDFF)树海魔虫><(c0xFF21EDFF)$value$><(c0xFFFFDAAD)只,完成任务后即可在本界面领取奖励!>",
+	GuildTaskDesc603 = "                                                                  <(c0xFFFFDAAD)请本行会全体成员前往><行会长老/M英雄遗迹:0:0:行会长老><(c0xFFFFDAAD)处进入><(c0xFF21EDFF)树海平原><(c0xFFFFDAAD)击败><(c0xFF21EDFF)树海蜥蜴><(c0xFF21EDFF)$value$><(c0xFFFFDAAD)只,完成任务后即可在本界面领取奖励!>",
+	
+	GuildTaskDesc701 = "                                                                  <(c0xFFFFDAAD)请本行会全体成员前往><行会长老/M英雄遗迹:0:0:行会长老><(c0xFFFFDAAD)处进入><(c0xFF21EDFF)树海平原><(c0xFFFFDAAD)击败><(c0xFF21EDFF)树海玄虎><(c0xFF21EDFF)$value$><(c0xFFFFDAAD)只,完成任务后即可在本界面领取奖励!>",
+	GuildTaskDesc702 = "                                                                  <(c0xFFFFDAAD)请本行会全体成员前往><行会长老/M英雄遗迹:0:0:行会长老><(c0xFFFFDAAD)处进入><(c0xFF21EDFF)树海平原><(c0xFFFFDAAD)击败><(c0xFF21EDFF)树海战魂><(c0xFF21EDFF)$value$><(c0xFFFFDAAD)只,成任务后即可在本界面领取奖励!>",
+	GuildTaskDesc703 = "                                                                  <(c0xFFFFDAAD)请本行会全体成员前往><行会长老/M英雄遗迹:0:0:行会长老><(c0xFFFFDAAD)处进入><(c0xFF21EDFF)树海平原><(c0xFFFFDAAD)击败><(c0xFF21EDFF)树海魅灵><(c0xFF21EDFF)$value$><(c0xFFFFDAAD)只,成任务后即可在本界面领取奖励!>",
+	
+	GuildTaskDesc801 = "                                                                  <(c0xFFFFDAAD)请本行会全体成员前往><行会长老/M英雄遗迹:0:0:行会长老><(c0xFFFFDAAD)处进入><(c0xFF21EDFF)树海平原><(c0xFFFFDAAD)击败><(c0xFF21EDFF)树海玄虎><(c0xFF21EDFF)$value$><(c0xFFFFDAAD)只,完成任务后即可在本界面领取奖励!>",
+	GuildTaskDesc802 = "                                                                  <(c0xFFFFDAAD)请本行会全体成员前往><行会长老/M英雄遗迹:0:0:行会长老><(c0xFFFFDAAD)处进入><(c0xFF21EDFF)树海平原><(c0xFFFFDAAD)击败><(c0xFF21EDFF)树海战魂><(c0xFF21EDFF)$value$><(c0xFFFFDAAD)只,成任务后即可在本界面领取奖励!>",
+	GuildTaskDesc803 = "                                                                  <(c0xFFFFDAAD)请本行会全体成员前往><行会长老/M英雄遗迹:0:0:行会长老><(c0xFFFFDAAD)处进入><(c0xFF21EDFF)树海平原><(c0xFFFFDAAD)击败><(c0xFF21EDFF)树海魅灵><(c0xFF21EDFF)$value$><(c0xFFFFDAAD)只,成任务后即可在本界面领取奖励!>",
+	
+	GuildTaskDesc901 = "                                                                  <(c0xFFFFDAAD)请本行会全体成员前往><行会长老/M英雄遗迹:0:0:行会长老><(c0xFFFFDAAD)处进入><(c0xFF21EDFF)树海平原><(c0xFFFFDAAD)击败><(c0xFF21EDFF)树海魔锤><(c0xFF21EDFF)$value$><(c0xFFFFDAAD)只,完成任务后即可在本界面领取奖励!>",
+	GuildTaskDesc902 = "                                                                  <(c0xFFFFDAAD)请本行会全体成员前往><行会长老/M英雄遗迹:0:0:行会长老><(c0xFFFFDAAD)处进入><(c0xFF21EDFF)树海平原><(c0xFFFFDAAD)击败><(c0xFF21EDFF)树海近卫><(c0xFF21EDFF)$value$><(c0xFFFFDAAD)只,完成任务后即可在本界面领取奖励!>",
+
+	GuildTaskDesc1001 = "                                                                  <(c0xFFFFDAAD)请本行会全体成员前往><行会长老/M英雄遗迹:0:0:行会长老><(c0xFFFFDAAD)处进入><(c0xFF21EDFF)树海平原><(c0xFFFFDAAD)击败><(c0xFF21EDFF)树海魔锤><(c0xFF21EDFF)$value$><(c0xFFFFDAAD)只,完成任务后即可在本界面领取奖励!>",
+	GuildTaskDesc1002 = "                                                                  <(c0xFFFFDAAD)请本行会全体成员前往><行会长老/M英雄遗迹:0:0:行会长老><(c0xFFFFDAAD)处进入><(c0xFF21EDFF)树海平原><(c0xFFFFDAAD)击败><(c0xFF21EDFF)树海近卫><(c0xFF21EDFF)$value$><(c0xFFFFDAAD)只,完成任务后即可在本界面领取奖励!>",
+
+
+	--行会活动-守护神树
+	GuildTreeAct001	 = "<FONT COLOR='#FFEA00'>守护神树</FONT>",
+	GuildTreeAct002	 = "<(c0xFFFFEA00)活动时间:>\\<(c0xFFFFDAAD)每天><(c0xFF21EDFF)19:00——22:00>\\<(c0xFFFFEA00)活动详情:>\\<(c0xFFFFDAAD)1.在活动时间内,行会官员有权利开启本活动.\\2.活动开启后维持><(c0xFF21EDFF)15分钟><(c0xFFFFDAAD),行会成员可通过福利界面进入活动场景\\3.成员需要击败><(c0xFF21EDFF)10波><(c0xFFFFDAAD)怪物,保护神树.若神树血量为零,则守护失败.>",
+	GuildTreeAct003	 = "每天19点——22点才能开启活动",
+	GuildTreeAct004	 = "守护神树已经开启",
+	GuildTreeAct005	 = "守护神树已经开启,请本行会全体成员投入战斗!<我要参战/@@showWin,GameGuildHallModule,4>",
+	GuildTreeAct006	 = "守护神树尚未开启",
+	GuildTreeAct007	 = "需要帮主、副帮主或官员才能开启",
+	GuildTreeAct008	 = "<(c0xFF21EDFF)第%d>波怪出现!请全体行会成员迅速击败怪物守护神树!<我要参战/@@showWin,GameGuildHallModule,4>",
+	GuildTreeAct009	 = "守护神树活动今天已经进行完毕",
+	GuildTreeAct010	 = "<(c0xFFF11717)神树被怪物吞噬,守护失败!明天请大家继续努力!>",
+	GuildTreeAct011	 = "完胜!<(c0xFF21EDFF)%s >行会击败所有怪物,成功守护神树!全体参战人员获得丰厚奖励!",
+	GuildTreeAct012	 = "您已经在副本中,不能进入活动",
+	GuildTreeAct013	 = "行会资金不足,不能开启",
+	GuildTreeAct014  = "守护神树活动数据异常",
+	GuildTreeAct015  = "守护神树活动通关",		--for log
+
+	GuildTreeActMTitle 	= "行会-守护神树活动奖励",
+	GuildTreeActMCont	= "由于您的英勇作战,成功守护了行会神树,特此奖励!",
+	GuildTreeActPanel = "怪物波数：%d/%d",
+
+	GuildWar001	 = "<FONT COLOR='#FFEA00'>攻城战</FONT>",
+	GuildWar002	 = "<(c0xFFFFEA00)活动时间:>\\开服的<(c0xFF21EDFF)第三天>晚上20:00-21:00,然后<(c0xFF21EDFF)每周二、周四、周六>晚上20:00-21:00\\<(c0xFFFFEA00)活动详情:>\\<(c0xFFFFDAAD)1.在活动当天19:00,等级><(c0xFF21EDFF)大于2级><(c0xFFFFDAAD)的行会将获得占领皇宫资格,行会需要抢先临时占领皇宫><(c0xFF21EDFF)一直到21:00><(c0xFFFFDAAD),即可获得攻城战胜利.\\2.活动开启后,玩家可以通过占领场景目标><(c0xFF21EDFF)复活旗><(c0xFFFFDAAD)占领复活点.>\\3.开服第三天<(c0xFF21EDFF)攻城胜利的行会首领>将获得1件<(c0xFF21EDFF)魔神套装>",
+
+	
+	--装备合成（不使用）
+	EquipHecheng001  = "<FONT COLOR='#BC40F6'>80级熔铸装备</FONT>",
+	EquipHecheng002  = "<FONT COLOR='#BC40F6'>90级熔铸装备</FONT>",
+	EquipHecheng003  = "<FONT COLOR='#BC40F6'>100级熔铸装备</FONT>",
+	EquipHecheng004  = "100级装备",
+	EquipHecheng005  = "100级装备",
+	EquipHecheng006  = "您的<(c0xFF00FF00)%s>不足<(c0xFFFFFF00)%d>,无法操作",
+	EquipHecheng007  = "物品合成成功",
+	EquipHecheng008  = "背包空间不足,不能合成",
+	EquipHecheng009  = "经验神珠",
+	EquipHecheng010  = "翅膀材料",
+	EquipHecheng011  = "药物道具",
+	EquipHecheng012  = "攻击龙珠",
+	EquipHecheng013  = "物防龙珠",
+	EquipHecheng014  = "魔防龙珠",
+	EquipHecheng015  = "暴击龙珠",
+	EquipHecheng016  = "内劲龙珠",
+	EquipHecheng017  = "技能道具",
+	EquipHecheng018  = "经验魔盒",
+	EquipHecheng019  = "<FONT COLOR='#BC40F6'>110级熔铸装备</FONT>",
+	EquipHecheng020  = "<FONT COLOR='#BC40F6'>120级熔铸装备</FONT>",
+	EquipHecheng021  = "11转装备",
+	EquipHecheng022  = "熔铸精华",
+	EquipHecheng023  = "<FONT COLOR='#F11717'>100级上古装备</FONT>",
+	EquipHecheng024  = "<FONT COLOR='#F11717'>110级上古装备</FONT>",
+	EquipHecheng025  = "<FONT COLOR='#F11717'>120级上古装备</FONT>",
+	EquipHecheng026  = "<FONT COLOR='#F11717'>麻痹戒指</FONT>",
+	EquipHecheng027  = "<FONT COLOR='#F11717'>神力戒指</FONT>",
+	EquipHecheng028  = "<FONT COLOR='#F11717'>防御戒指</FONT>",
+	
+	mt00001 = "您的背包空间不足,请至少空余%d个背包空格!",
+	mt00002 = "您的<(c0xFF00FF00)%s>不足<(c0xFFFF0000)%d>,无法进行操作!",
+	mt00003 = "您的%s不足<(c0xFFFF0000)%d>个,无法进行操作!",
+	mt00004 = "确定",
+	mt00005 = "取消",	
+	mt00031 = "欢迎使用传送功能,在这里可以直接到达你想要去的地方!\\不过传送可不是免费的,传送到其他地方需要消耗一定的金币\\\\",
+	mt00032 = "等级需达到<(c0xFFF11717)%d级>后才能传送到此地图",
+	mt00051 = "立即购买",	
+	mt00052 = "关闭",
+	mt00053 = "(%d级)",
+	mt00054 = "(%d转)",
+	mt00055 = "等级需达到<(c0xFFF11717)%d转>后才能传送到此地图",
+	
+	equipPosStrong001 = "等级不足%d,不能提升",
+	equipPosStrong002 = "<(c0xFFFFFF00)部位提升不能高于当前可提升最高等级,><(c0xFF00FF00)提升人物转数可增加部位提升等级>",
+	equipPosStrong003 = "<(c0xFFFFFF00)部位等级已达最高级,无法提升>",
+	equipPosStrong004 = "您的<(c0xFF00FF00)%s>不足<(c0xFFFFFF00)%d>,无法提升",
+	equipPosStrong005 = "您的<(c0xFF00FF00)%s>不足<(c0xFFFFFF00)>,无法全部提升",
+	equipPosStrong006 = "<(c0xFFFFFF00)无可提升部位,请检查><(c0xFF00FF00)是否已达等级上限><(c0xFFFFFF00),未达上限则可><(c0xFF00FF00)提升转数增加等级>",
+	equipPosStrong007 = "<(n%s)>将启兵系统中的所有部位提升至%d级，战力飙升！&<启兵提升/@@showWin,GameFoundryModule,3>$",
+	
+	--战神转生
+
+	--转生副本
+	Circle001 = "当前波数: %d波",
+	Circle002 = "历史最高波数: %d波",
+	Circle003 = "今日重置: %s",
+	Circle004 = "可重置",
+	Circle005 = "无重置次数",
+	Circle006 = "进入副本(%d/%d)",
+	Circle007 = "副本扫荡",
+	Circle008 = "重置副本",
+	Circle009 = "副本详细说明",
+	Circle010 = "<(c0xFFE78424)转生副本说明：>\\<(c0xFFFFDAAD)1、在转生副本中消灭怪物就可以获得修为，修为将在退出副本时统一结算\\2、进入副本除了初始的怪物外，还可以通过按钮召唤额外的怪物\\3、转数越高，进入副本可获得越高的奖励，但召唤的消耗也更多>",
+	Circle011 = "进入转生副本需要角色等级达到%d级或以上,您不符合条件",
+	Circle012 = "今日副本次数已用完，请明天再来挑战",	
+	Circle013 = "当前你已经在副本中，不能进入转生副本",	
+	Circle014 = "已达到最高层数，你可以选择重置副本重新进入",
+	Circle015 = "已达到最高层数，你可以选择副本扫荡获取收益",
+	Circle016 = "开服第一天不可重置副本",
+	Circle017 = "你今日已经重置过副本，不可再重置",
+	Circle018 = "重置成功,当前波数为第1波",	
+	Circle019 = "转生使者",	
+	Circle020 = "<(c0xFF1AE51A)%d秒后>将刷出<(c0xFF00FF00)第%d波怪物>，请做好迎战准备!",
+	Circle021 = "<(c0xFF1AE51A)第%d波>怪物已刷出，<(c0xFF00FF00)5分钟内>全部消灭通关，超时通关失败!",
+	Circle022 = "当前波数已是历史最高波数，你可以通过重置副本重新开始扫荡",
+	Circle023 = "当前波数已是历史最高波数，明日可以重新开始扫荡",
+	Circle024 = "您的<(c0xFF00FF00)%s>不足<(c0xFFFFFF00)%d>,无法操作",
+	Circle025 = "扫荡成功",
+	Circle026 = "返回",
+	Circle027 = "当前波数为第1波，不可重置副本",	
+	Circle028 = "65级以后的玩家，在这里可以进行转生挑战!",	
+	Circle029 = "确认",		
+	Circle030 = "取消",	
+	Circle031 = "<(c0xFFFFDAAD)重置副本会将当前波数重置为第1波\\     每天只有一次重置机会！\\    是否确认重置转生副本？>",	
+	Circle032 = "<(c0xFF1AE51A)%d秒后>将刷出第%d波怪物，<(c0xFF1AE51A)5分钟内>全部消灭可通关并使<(c0xFF1AE51A)转数突破到%d转>！",
+	Circle033 = "<(c0xFF1AE51A)第%d波>怪物已刷出，<(c0xFF1AE51A)5分钟内>全部消灭可通关并使<(c0xFF1AE51A)转数突破到%d转>！",
+	Circle034 = "通关第%d波，可使转数突破到%d转",
+	Circle035 = "通关第%d波(当前波),可使转数突破达到%d转",
+	Circle036 = "快速购买修为",
+	Circle037 = "<(c0xFF00FF00)第%d波>怪物已出现，<(c0xFF00FF00)全部击败>后会刷出下波怪物",
+	Circle038 = "恭喜您消灭了副本内全部怪物！",
+	Circle039 = "<(c0xFF00FF00)      第%d波>",
+	Circle040 = "当前波数怪物全部消灭后刷出下一波，副本共有%d波，副本结束时将根据已通的波数给予奖励",
+	Circle041 = "上次通关的奖励未领取，请先领取奖励再挑战",
+	Circle042 = "<(c0xFFFFDAAD) 很遗憾，您本次转生副本没有通\\过任何一波挑战，没获得任何奖励\\\\  请您提升自己实力，再来尝试！>",
+	Circle043 = "<(c0xFFFFDAAD)   您本次副本共通过><(c0xFF00FF00)%d波><(c0xFFFFDAAD)挑战\\    获得如下奖励: ><(c0xFF00FF00)%d修为>\\\\<(c0xFFFFDAAD)温馨提示:花费><(c0xFF00FF00)%d元宝领取双倍奖励><(c0xFFFFDAAD)\\         性价比超高哦！>",
+	Circle044 = "单倍领取",
+	Circle045 = "双倍领取",
+	Circle046 = "领奖成功",
+	Circle047 = "领取上次奖励",
+	Circle048 = "<(c0xFFFFDAAD)无上次副本奖励数据>",
+	Circle049 = "<(c0xFFFFDAAD)您上次副本共通过><(c0xFF00FF00)%d波><(c0xFFFFDAAD)挑战\\获得如下奖励: ><(c0xFF00FF00)%d修为>",
+	Circle050 = "免费领取",
+	Circle051 = "双倍领取(%d元宝)",
+	Circle052 = "是否确定花费%d元宝领取双倍奖励%d修为？",
+	Circle053 = "<(c0xFFFFDAAD)  您已通过转生副本><(c0xFF00FF00)全部21波挑战>\\<(c0xFFFFDAAD)     获得如下奖励:> <(c0xFF00FF00)%d修为>\\\\<(c0xFFFFDAAD)温馨提示:花费><(c0xFF00FF00)%d元宝领取双倍奖励><(c0xFFFFDAAD)\\        性价比超高哦！>",
+	
+	CircleFB001 = "副本剩余怪物<(c0xFFfdd912)(%d/%d)>",
+	CircleFB002 = "副本内怪物已刷出,<(c0xFF00FF00)消灭可得修为>,点击按钮可召唤<(c0xFF00FF00)额外怪物>！",
+	CircleFB003 = "<(c0xFF00FF00)召唤怪物>已刷出，消灭后可获得<(c0xFF00FF00)%d修为>！",
+	CircleFB004 = "当前获得修为:<(c0xFFfdd912)%d>",
+	CircleFB005 = "<(c0xFFfdd912)恭喜您成功通过副本!>\\<(c0xFFFFDAAD)  击败怪物：><(c0xFF00FF00)%d>\\<(c0xFFFFDAAD)  获得修为：><(c0xFF00FF00)%d>",
+	CircleFB006 = "<(c0xFFFFDAAD)您本次副本还有><(c0xFFfdd912)额外召唤怪><(c0xFFFFDAAD)物获\\   得修为的机会><(c0xFFfdd912)还未使用><(c0xFFFFDAAD)！\\     是否仍要退出副本？>",
+	CircleFB007 = "暂不退出",
+	CircleFB008 = "退出",
+	CircleFB009 = "该操作你已使用过",
+	CircleFB010 = "转生副本",
+	CircleFB011 = "剩余时间",
+    CircleFB012 = "副本信息",
+	CircleFB013 = "<(c0xFFD1BC8D)副本说明:>在副本中<(c0xFFfdd912)消灭怪物>可获得修为，可以点击<(c0xFFfdd912)按钮召唤>额外的怪物，获得更多的修为哦！\\<(c0xFFfdd912)（修为将在副本结束时给予）>",
+	CircleFB014 = "<(c0xFFFFDAAD)  您在本次副本中><(c0xFFFFFF00)没有获得><(c0xFFFFDAAD)任何修为>\\\\<(c0xFFFFFF00)提示：><(c0xFFFFDAAD)副本中击败怪物就可以获得修为\\  且可以通过按钮召唤额外的怪物哦>",
+	
+	CircleDialog001 = "转生副本·%d波",
+	CircleDialog002 = "%d修为",
+	CircleDialog003 = "挑战转生副本·%d层需要角色等级达到%d转%d级或以上，您不符合条件",
+	CircleDialog004 = "<font color='#FFDAAD'>恭喜您通关</font><font color='#F8B21E'>转生副本·%d波</font><br><font color='#FFDAAD'>您已获得如下奖励:</font><font color='#F8B21E'>%d修为</font><br><br><font color='#FFDAAD'>是否开始下一波继续挑战？</font>",
+	CircleDialog005 = "<font color='#FFDAAD'>您在挑战</font><font color='#F8B21E'>转生副本·%d波</font><font color='#FFDAAD'>时由于<br>挑战超时，失败了<br><br>请您提升自己实力，再来尝试!</font>",
+	CircleDialog006 = "<font color='#FFDAAD'>恭喜您通过</font><font color='#F8B21E'>转生副本·%d波</font><font color='#FFDAAD'>挑战<br>您已获得如下奖励:</font><font color='#F8B21E'>%d修为</font>",
+	CircleDialog007 = "<font color='#FFDAAD'>    挑战</font><font color='#F8B21E'>转生副本·%d波</font><font color='#FFDAAD'>需要<br>等级等于大于</font><font color='#F8B21E'>%d级</font><font color='#FFDAAD'>,您不符合条件</font>",	
+	CircleDialog008 = "<font color='#FFDAAD'>本次扫荡将进行</font><font color='#F8B21E'>%d-%d波</font><font color='#FFDAAD'>挑战扫荡<br>将消耗:</font>%d金币<br><font color='#FFDAAD'>将获得:</font>%d修为<br><font color='#FFDAAD'>是否进行扫荡</font>",
+	CircleDialog009 = "您已经挑战成功最高波数",
+	
+	
+	CircleNew001 = "已达最高转数",
+	CircleNew002 = "等级不足，不能转生",
+	CircleNew003 = "需要%s %d个",
+	CircleNew004 = "恭喜你成功转生到<(c0xFF21EDFF)%d转>",	
+	CircleNew005 = "<(n%s)>成功转生到<(c0xFF21EDFF)%d转>",
+	CircleNew006 = "当日兑换次数已满",
+	CircleNew007 = "兑换需要修为%d",
+	CircleNew008 = "兑换获得%d经验",
+	
+	WingActivation01 = "还没吞噬满,不能激活",
+	WingActivation02 = "该翅膀已经激活",
+	WingActivation03 = "没有该翅膀",
+	WingActivation04 = "%s已经吞噬满了",
+	WingActivation05 = "激活成功",
+	
+	ir103 = "%s不够",
+	ir105 = "金币不够",
+	ir106 = "绑元不够",
+	ir107 = "元宝不够",
+	ir108 = "羽魂不够",
+	
+	zf045 = "你身上没有可维修的装备.",
+	zf044 = "您所穿戴的装备已全部修理完毕.",
+	
+	
+	RefreshTime001 = "全天",
+	RefreshSpace001 = "5分钟",
+	RefreshTime002 = "全天",
+	RefreshSpace002 = "5分钟",
+	RefreshScene001 = "英雄遗迹",
+	
+	RefreshTime003 = "全天",
+	RefreshSpace003 = "5分钟",
+	RefreshTime004 = "全天",
+	RefreshSpace004 = "5分钟",
+	RefreshScene002 = "万虫窟",
+	
+	RefreshTime005 = "全天",
+	RefreshSpace005 = "5分钟",
+	RefreshTime006 = "全天",
+	RefreshSpace006 = "5分钟",
+	RefreshScene003 = "石墓洞穴",
+	
+	RefreshTime007 = "全天",
+	RefreshSpace007 = "5分钟",
+	RefreshTime008 = "全天",
+	RefreshSpace008 = "5分钟",
+	RefreshScene004 = "三圣寺院",
+	
+	RefreshTime009 = "全天",
+	RefreshSpace009 = "5分钟",
+	RefreshTime010 = "全天",
+	RefreshSpace010 = "5分钟",
+	RefreshScene005 = "月魔洞",
+	
+	RefreshTime011 = "全天",
+	RefreshSpace011 = "5分钟",
+	RefreshTime012 = "全天",
+	RefreshSpace012 = "5分钟",
+	RefreshScene006 = "牛魔墓地",
+	
+	RefreshTime013 = "全天",
+	RefreshSpace013 = "5分钟",
+	RefreshTime014 = "全天",
+	RefreshSpace014 = "5分钟",
+	RefreshScene007 = "狐狸山谷",
+	
+	RefreshTime015 = "全天",
+	RefreshSpace015 = "5分钟",
+	RefreshTime016 = "全天",
+	RefreshSpace016 = "5分钟",
+	RefreshScene008 = "火龙熔岩",
+
+	--任务导航
+	QuestNaviTitle1Desc1 = "我要装备",
+	QuestNaviTitle2Desc1 = "我要升级",
+	QuestNaviTitle3Desc1 = "我要金币",
+	QuestNaviTitle4Desc1 = "我要材料",
+	QuestNaviTitle5Desc1 = "我要更强",
+	QuestNaviTitle6Desc1 = "<FONT COLOR='#21EDFF'>[翅膀]</FONT>",
+	QuestNaviTitle7Desc1 = "<FONT COLOR='#FFEA00'>[BOSS]</FONT>",
+	QuestNaviTitle8Desc1 = "<FONT COLOR='#B0E2FF'>[社交]</FONT>",
+	QuestNaviTitle9Desc1 = "<FONT COLOR='#FF00FF'>[装备]</FONT>",
+	QuestNaviTitle10Desc1 = "<FONT COLOR='#21EDFF'>[座驾]</FONT>",
+	
+	
+	
+	
+	QuestNaviHangHui1Desc1 = "<我要加入行会/@@showWin,GameGuildListModule,0>",
+	QuestNaviHangHui2Desc1 = "<我要加入行会/@@showWin,GameGuildListModule,0>",
+	
+
+	QuestNaviExp1Desc1 = "<闯天关/@@showWin,GameChuangTianGuanModule,0>",
+	QuestNaviExp2Desc1 = "<闯天关/@@showWin,GameChuangTianGuanModule,0>  <职业宗师/@@showWin,GameJobMasterModule,0>",
+	
+	QuestNaviDuMo1Desc1 = "<寻宝/@@showWin,GameTreasureModule,0>",
+	QuestNaviDuMo2Desc1 = "<寻宝/@@showWin,GameTreasureModule,0>  <激战BOSS/@@showWin,GameBossModule,0>",
+	QuestNaviDuMo3Desc1 = "<魔窟/M英雄遗迹:0:0:魔窟勇士>  <副本/@@showWin,GameTeamCopyModule,1>  <秘宝/@@showWin,GameTreasureModule,0>  <BOSS/@@showWin,GameBossModule,0>",
+	
+	QuestNaviEquip1Desc1 = "<强化/@@showWin,GameFoundryModule,0>",
+	QuestNaviEquip2Desc1 = "<强化/@@showWin,GameFoundryModule,0>  <合成/@@showWin,GameFoundryModule,4>",
+	QuestNaviEquip3Desc1 = "<强化/@@showWin,GameFoundryModule,0>  <合成/@@showWin,GameFoundryModule,4>  <鉴定/@@showWin,GameFoundryModule,5>",
+	QuestNaviEquip4Desc1 = "<强化/@@showWin,GameFoundryModule,0>  <鉴定/@@showWin,GameFoundryModule,5>  <铭刻/@@showWin,GameFoundryModule,2>",
+
+	QuestNaviSoul1Desc1 = "<金砖/@@showWin,GameShopModule,1>",
+	QuestNaviSoul2Desc1 = "<悬赏/M英雄遗迹:0:0:悬赏榜>  <金砖/@@showWin,GameShopModule,1>",
+	QuestNaviSoul3Desc1 = "<悬赏/M英雄遗迹:0:0:悬赏榜>  <金砖/@@showWin,GameShopModule,1>",
+	
+
+	QuestNaviWing1Desc1 = "<提升翅膀/@@showWin,GamePropertyRoleModule,1>",
+	QuestNaviWing2Desc1 = "<提升翅膀/@@showWin,GamePropertyRoleModule,1>和<获取材料/M英雄遗迹:255:334:悬赏榜>",
+	
+	QuestBoss1Desc1 = "<野外BOSS/@@showWin,GameBossModule,0>和<世界BOSS/@@showWin,GameBossModule,1>",
+	QuestBoss2Desc1 = "<野外BOSS/@@showWin,GameBossModule,0>和<世界BOSS/@@showWin,GameBossModule,1>",
+	
+	QuestJinBi1Desc1 = "<回收/M英雄遗迹:0:0:物品回收员>",
+	QuestJinBi2Desc1 = "<功勋/@@showWin,GameExploitModule,0>  <回收/M英雄遗迹:0:0:物品回收员>  <挂机/M英雄遗迹:0:0:传送员>",
+	QuestJinBi3Desc1 = "<副本/@@showWin,GameTeamCopyModule,0>  <翅膀/@@showWin,GamePropertyRoleModule,1>  <升星/@@showWin,GameFoundryModule,0>",
+	QuestJinBi4Desc1 = "<内劲/M英雄遗迹:0:0:试炼大师>  <功勋/@@showWin,GameExploitModule,0>  <升星/@@showWin,GameFoundryModule,0>  <转生/@@showWin,GamePropertyRoleModule,1>",
+	QuestJinBi5Desc1 = "<爬塔/M英雄遗迹:0:0:幻境守卫>  <龙珠/@@showWin,GamePropertyRoleModule,4>  <转生/@@showWin,GamePropertyRoleModule,1>  <座驾/@@showWin,GameCarModule,0>",
+	QuestJinBi6Desc1 = "<爬塔/M英雄遗迹:0:0:幻境守卫>  <转生/@@showWin,GamePropertyRoleModule,1>  <龙珠/@@showWin,GamePropertyRoleModule,4>  <兵魂/@@showWin,GameArmSoulNewModule,0>",
+	QuestJinBi7Desc1 = "<内劲/M英雄遗迹:0:0:试炼大师>  <副本/@@showWin,GameTeamCopyModule,1>  <兵魂/@@showWin,GameArmSoulNewModule,0>  <启兵/@@showWin,GameFoundryModule,3>",
+	
+	QuestNaviZuoQi1Desc1 = "<提升座驾/@@showWin,GameMountModule,0>和<购买材料/@@showWin,GameShopModule,4>",
+	QuestNaviZuoQi2Desc1 = "<提升座驾/@@showWin,GameMountModule,0>、<购买材料/@@showWin,GameShopModule,4>和<团队爬塔/M英雄遗迹:0:0:幻境守卫>",
+
+	--强者之路
+	--我要装备
+	Navi1Title01 = "激战BOSS",
+	Navi1Desc01 = "<查看/@@showWin,GameBossModule,0>",
+
+	Navi1Title02 = "闯天关",
+	Navi1Desc02 = "<查看/@@showWin,GameChuangTianGuanModule,0>",
+
+	Navi1Title03 = "神炉系统",
+	Navi1Desc03 = "<查看/@@showWin,GameGodFurnaceModule,0>",
+
+	Navi1Title04 = "寻宝",
+	Navi1Desc04 = "<查看/@@showWin,GameTreasureModule,0>",
+
+	Navi1Title05 = "升阶翅膀",
+	Navi1Desc05 = "<查看/@@showWin,GamePropertyRoleModule,1>",
+
+	Navi1Title06 = "合成装备",
+	Navi1Desc06 = "<查看/@@showWin,GameFoundryModule,4>",
+
+
+
+	--我要升级
+	Navi2Title01 = "降妖除魔",
+	Navi2Desc01 = "<前往/M英雄遗迹:0:0:渡魔使者>",
+
+	Navi2Title02 = "经验副本",
+	Navi2Desc02 = "<前往/M英雄遗迹:0:0:经验副本>",
+
+	Navi2Title03 = "回收装备",
+	Navi2Desc03 = "<前往/M英雄遗迹:0:0:物品回收员>",
+
+	Navi2Title04 = "寻宝",
+	Navi2Desc04 = "<查看/@@showWin,GameTreasureModule,0>",
+
+	Navi2Title05 = "功勋任务",
+	Navi2Desc05 = "<查看/@@showWin,GameExploitModule,0>",
+
+	Navi2Title06 = "野外挂机",
+	Navi2Desc06 = "<前往/M英雄遗迹:0:0:传送员>",
+
+	Navi2Title07 = "打捆经验",
+	Navi2Desc07 = "<前往/M英雄遗迹:0:0:打捆商人>",
+
+
+
+
+	--我要金币
+	-- Navi3Title01 = "摇钱树",
+	-- Navi3Desc01 = "<查看/@@showWin,GameMoneyTreeModule,0>",  --屏蔽强者之路中的摇钱树途径
+
+	Navi3Title02 = "功勋任务",
+	Navi3Desc02 = "<查看/@@showWin,GameExploitModule,0>",
+
+	Navi3Title03 = "寻宝",
+	Navi3Desc03 = "<查看/@@showWin,GameTreasureModule,0>",
+
+	Navi3Title04 = "超值购",
+	Navi3Desc04 = "<查看/@@showWin,GameOneMoneyBuyModule,0>",
+
+	Navi3Title05 = "打捆金币",
+	Navi3Desc05 = "<前往/M英雄遗迹:0:0:打捆商人>",
+
+
+	--我要材料
+	Navi4Title01 = "材料副本",
+	Navi4Desc01 = "<前往/M英雄遗迹:0:0:材料副本>",
+
+	Navi4Title02 = "闯天关",
+	Navi4Desc02 = "<查看/@@showWin,GameChuangTianGuanModule,0>",
+
+	Navi4Title03 = "圣兽幽谷",
+	Navi4Desc03 = "<前往/M英雄遗迹:0:0:圣兽使者>",
+
+	Navi4Title04 = "职业宗师",
+	Navi4Desc04 = "<查看/@@showWin,GameJobMasterModule,0>",
+
+	Navi4Title05 = "个人试炼",
+	Navi4Desc05 = "<前往/M英雄遗迹:0:0:试炼关主>",
+
+	Navi4Title06 = "宝藏传说",
+	Navi4Desc06 = "<查看/@@showWin,GameActivityModule,0>",
+
+	Navi4Title07 = "夜战龙城",
+	Navi4Desc07 = "<前往/M英雄遗迹:0:0:龙城暗部队长>",
+
+	Navi4Title08 = "魔灵秘宝",
+	Navi4Desc08 = "<前往/M英雄遗迹:0:0:摸金校尉>",
+
+
+
+	--我要更强
+	Navi5Title01 = "锻造系统",
+	Navi5Desc01 = "<查看/@@showWin,GameFoundryModule,0>",
+
+	Navi5Title02 = "升阶翅膀",
+	Navi5Desc02 = "<查看/@@showWin,GamePropertyRoleModule,1>",
+
+	Navi5Title03 = "座驾提升",
+	Navi5Desc03 = "<查看/@@showWin,GameCarModule,0>",
+
+	Navi5Title04 = "技能提升",
+	Navi5Desc04 = "<查看/@@showWin,GameSkillModule,0>",
+
+	Navi5Title05 = "神炉升级",
+	Navi5Desc05 = "<查看/@@showWin,GameGodFurnaceModule,0>",
+
+	Navi5Title06 = "转生",
+	Navi5Desc06 = "<查看/@@showWin,GamePropertyRoleModule,2>",
+
+	Navi5Title07 = "职业宗师",
+	Navi5Desc07 = "<查看/@@showWin,GameJobMasterModule,0>",
+
+
+	--任务栏快捷强者之路
+	Quest1Title = "我要装备",
+	Quest1Desc01 = "<合成/@@showWin,GameFoundryModule,4>",
+	Quest1Desc02 = "<寻宝/@@showWin,GameTreasureModule,0>",
+	Quest1Desc03 = "<BOSS/@@showWin,GameBossModule,0>",
+	
+	
+	Quest2Title = "我要升级",
+	Quest2Desc01 = "<回收/M英雄遗迹:0:0:物品回收员>",
+	Quest2Desc02 = "<除魔/M英雄遗迹:0:0:渡魔使者>",
+	Quest2Desc03 = "<副本/M英雄遗迹:0:0:经验副本>",
+	
+	Quest3Title = "我要挑战",
+	Quest3Desc01 = "<天关/@@showWin,GameChuangTianGuanModule,0>",
+	Quest3Desc02 = "<宗师/@@showWin,GameJobMasterModule,0>",
+	Quest3Desc03 = "<个人试炼/M英雄遗迹:0:0:试炼关主>",
+	
+	--团队副本
+	TeamFuben001 = "创建或加入队伍等级不足",
+	TeamFuben002 = "你已经在队伍中，不能操作",
+	TeamFuben003 = "你在副本中，不能操作",
+	TeamFuben004 = "体力不足%d,不能操作",
+	TeamFuben005 = "队伍已解散，不能加入",
+	TeamFuben006 = "队伍已进入副本，不能加入",
+	TeamFuben007 = "队伍已满员，不能加入",
+	TeamFuben008 = "<(n%s)>创建了队伍<(c0xFF21EDFF)“%s”>，邀请各路英雄加入!<加入队伍/@@joinTeamFuben,%d,%d>",
+	TeamFuben009 = "创建副本队伍%d秒后才能创建新的队伍",
+	TeamFuben010 = "系统招募冷却时间未到",
+	TeamFuben011 = "您的<(c0xFF00FF00)%s>不足<(c0xFFFFFF00)%d>,无法操作",	
+	TeamFuben012 = "好友等级不足,不能加入队伍",
+	TeamFuben013 = "好友体力不足%d,不能加入队伍",
+	TeamFuben014 = "好友在副本中，不能加入队伍",
+	TeamFuben015 = "成功加入队伍",
+	TeamFuben016 = "被该队伍请离%d分钟后,才能再次加入",
+	TeamFuben017 = "好友被请离了队伍,%d分钟内不能入队",
+	TeamFuben018 = "距离上次邀请好友间隔不足%d秒",
+	TeamFuben019 = "好友已经加入副本队伍,不能邀请",
+	TeamFuben020 = "已向好友发出邀请，请等待回应",
+	TeamFuben021 = "创建团队副本队伍成功!",
+	TeamFuben022 = "<(n%s)>发布招募，邀请各路英雄加入队伍<(c0xFF21EDFF)“%s”>!<加入队伍/@@joinTeamFuben,%d,%d>",	
+	TeamFuben023 = "发布成功，花费%d%s",	
+	TeamFuben024 = "创建队伍成功，已离开之前所在队伍",
+	TeamFuben025 = "加入队伍成功，已离开之前所在队伍",
+	TeamFuben026 = "体力已满，使用道具失败",
+	TeamFuben027 = "你在副本队伍中,不能进入其他副本与活动!",
+	TeamFuben028 = "双方不是互为好友，无法邀请",
+	TeamFuben029 = "<(n%s)>在团队副本<(c0xFF21EDFF)“%s”> 中得到了:%s!",	
+	TeamFuben030 = "红名不能进入团队副本队伍",
+	TeamFuben031 = "好友是红名，不能加入队伍",
+	TeamFuben032 = "当前场景不能创建或加入团队副本",
+	--团队副本界面描述
+	TeamFubenDesc001 = "云夷山谷",
+	TeamFubenDesc002 = "进入等级:78级",
+	TeamFubenDesc003 = "推荐战力:54000",	
+	TeamFubenDesc004 = "推荐人数:1人",
+	TeamFubenDesc005 = "羽魂、装备",
+	TeamFubenDesc006 = "血刑地牢",
+	TeamFubenDesc007 = "进入等级:82级",
+	TeamFubenDesc008 = "推荐战力:63000",	
+	TeamFubenDesc009 = "推荐人数:3人",
+	TeamFubenDesc010 = "羽魂、装备",
+	TeamFubenDesc011 = "猪王洞穴",
+	TeamFubenDesc012 = "进入等级:90级",
+	TeamFubenDesc013 = "推荐战力:84000",	
+	TeamFubenDesc014 = "推荐人数:4人",
+	TeamFubenDesc015 = "羽魂、装备",
+	TeamFubenDesc016 = "熔荒遗城",
+	TeamFubenDesc017 = "进入等级:100级",
+	TeamFubenDesc018 = "推荐战力:141000",	
+	TeamFubenDesc019 = "推荐人数:5人",
+	TeamFubenDesc020 = "羽魂、装备",
+	TeamFubenDesc021 = "寒山地洞",
+	TeamFubenDesc022 = "进入等级:110级",
+	TeamFubenDesc023 = "推荐战力:195000",	
+	TeamFubenDesc024 = "推荐人数:5人",
+	TeamFubenDesc025 = "羽魂、装备",
+	
+	--团队副本右侧面板提示
+	TeamFubenPanel001 = "剩余时间:",
+	TeamFubenPanel002 = "副本信息:",
+	TeamFubenPanel003 = "%s (%d / %d)",
+	TeamFubenPanel004 = "通关奖励:",
+	TeamFubenPanel005 = "<寻路/M%s:%d:%d>",
+	--团队副本邮件
+	TeamFubenMail001 = "团队副本通关成功奖励",
+	TeamFubenMail002 = "恭喜在本次团队副本中获得胜利!请再接再厉!",
+	--团队副本NPC
+	TeamFubenNPC001  = "每日领取体力",
+	TeamFubenNPC002  = "等级不足，不能领取",
+	TeamFubenNPC003  = "已达最高上限，不能领取",
+	TeamFubenNPC004  = "今日已领取过，请明日再来",	
+	TeamFubenNPC005  = "领取成功",	
+	--膜拜君主
+	WorshipMonarch001 = "金币不足,无法鼓舞",
+	WorshipMonarch002 = "元宝不足,无法鼓舞",
+	WorshipMonarch003 = "很遗憾,鼓舞失败",
+	WorshipMonarch004 = "鼓舞成功!提升至<(c0xFF21EDFF)%d％>经验加成",
+	WorshipMonarch005 = "已经达到金币鼓舞上限",
+	WorshipMonarch006 = "已经达到元宝鼓舞上限",
+	WorshipMonarch007 = "<(c0xFF21EDFF)膜拜君主>开启，请大家速速前往英雄遗迹的<君主雕像区/M英雄遗迹:0:0:英雄城主>参与",
+	WorshipMonarch008 = "<(c0xFF21EDFF)膜拜君主>结束，请明天同一时间继续参与",
+	WorshipMonarch009 = "不在膜拜时间内,无法鼓舞",
+	WorshipMonarch010 = "膜拜鼓舞扣除金币",		--for log
+	WorshipMonarch011 = "膜拜鼓舞扣除元宝",		--for log
+	WorshipMonarch012 = "<(n%s)>使用<(c0xFF21EDFF)元宝鼓舞>直接提升膜拜经验加成！！膜拜经验蹭蹭蹭往上增！！",
+
+	--功能道具脚本
+	itemFunctionTips000001 = "你身上没穿装备,不能使用祝福油",
+	itemFunctionTips000002 = "武器幸运没有发生变化,当前幸运值为:<(c0xFFFFD900)%d>",
+	itemFunctionTips000003 = "武器被祝福了,<(c0xFF00FF00)幸运增加>,当前幸运值为:<(c0xFF00FF00)%d>",
+	itemFunctionTips000004 = "武器被祝福了,<(c0xFF00FF00)幸运增加>,当前诅咒值为:<(c0xFF00FF00)%d>",
+	itemFunctionTips000005 = "武器被诅咒了,<(c0xFFD9161B)幸运减少>,当前幸运值为:<(c0xFFD9161B)%d>",
+	itemFunctionTips000006 = "武器被诅咒了,<(c0xFFD9161B)幸运减少>,当前诅咒值为:<(c0xFFD9161B)%d>",
+	itemFunctionTips000007 = "当前幸运值为<(c0xFFFFD900)%d>,已达武器幸运上限",
+
+	--荒灵保卫战（现定时世界BOSS活动）
+    ProtectTuCityNpc001 = "进入世界BOSS活动",
+	ProtectTuCityNpc002 = "活动不在开放时间内或已结束",
+	ProtectTuCityNpc003 = "等级不足%d级，不能参加",
+	ProtectTuCityTitle1 = "世界BOSS",
+	ProtectTuCityTitle2 = "世界BOSS",
+	ProtectTuCityTitle3 = "世界BOSS",
+
+	ProtectTuCityDesc1 = "累计<(c0xFFFF0000)100000>伤害即可上榜并获参与奖\\排名每3秒刷新且<(c0xFFFF0000)只统计对BOSS的伤害>\\活动结束未击杀BOSS，则不发放任何奖励",
+	ProtectTuCityDesc2 = "累计<(c0xFFFF0000)100000>伤害即可上榜并获参与奖\\排名每3秒刷新且<(c0xFFFF0000)只统计对BOSS的伤害>\\活动结束未击杀BOSS，则不发放任何奖励",
+	ProtectTuCityDesc3 = "累计<(c0xFFFF0000)100000>伤害即可上榜并获参与奖\\排名每3秒刷新且<(c0xFFFF0000)只统计对BOSS的伤害>\\活动结束未击杀BOSS，则不发放任何奖励",
+
+	ProtectTuCity001   = "各路英雄请注意，世界BOSS活动将在5分钟后开启！&<查看详情/@@showWin,GameActivityModule,0>$",
+	ProtectTuCity002   = "世界BOSS已在活动场景内出现，英雄们请立即前往防守！&<立即前往/M英雄遗迹:0:0:世界BOSS>$",
+	ProtectTuCity003   = "世界BOSS伤害排名奖励",
+	ProtectTuCity004   = "无畏的勇士，恭喜您在世界BOSS活动中累积对BOSS造成%d伤害，位列第%d名，为了表彰您所作出的杰出贡献，特此奖励，请查收",
+	ProtectTuCity005   = "世界BOSS活动最后一击奖励",
+	ProtectTuCity006   = "英勇的战士，感谢您在世界BOSS活动中给予BOSS最后一击，无愧是最英勇的战士，特此奖励，请查收",
+	ProtectTuCity007   = "世界BOSS活动参与奖励",
+	ProtectTuCity008   = "感谢您在世界BOSS活动中英勇地参与战斗，抵抗BOSS做出了突出贡献，特此奖励，请查收",
+
+	ProtectTuCity009   = "世界BOSS活动结束，很遗憾未能击败BOSS。",
+	ProtectTuCity010   = "世界BOSS已被击败，<(c0xFFFF0000)%s>幸运的获得了最后一击奖励，所有获奖玩家可在邮箱查收活动奖励。",
+	
+	ProtectTuCity011   = "世界BOSS活动开始",
+	ProtectTuCity012   = "世界BOSS活动结束",
+
+	--赏金任务
+	RewardQuest001	   = "您的等级不足，不能进行赏金任务操作",
+	RewardQuest002	   = "您的货币不足，不能重置赏金任务",
+	RewardQuest003	   = "重置赏金任务次数已达上限",
+	RewardQuest004	   = "重置赏金任务扣除元宝",		--for log
+	RewardQuest005	   = "不是赏金任务",
+	RewardQuest006	   = "不在赏金面板附近，不能重置赏金任务",
+	RewardQuest007	   = "不在赏金面板附近，不能接取赏金任务",
+	RewardQuest008	   = "不在赏金面板附近，不能立即完成赏金任务",
+	RewardQuest009	   = "不在赏金面板附近，不能提交赏金任务",
+	RewardQuest010	   = "该赏金任务不是待接取状态",
+	RewardQuest011	   = "该赏金任务尚未完成，不能提交",
+	RewardQuest012	   = "该赏金任务尚未接取，不能完成",
+	RewardQuest013	   = "该赏金任务不在进行中，不能放弃",
+	RewardQuest014	   = "您已经接取了赏金任务",
+	RewardQuest015	   = "重置赏金任务扣除道具",		--for log
+	RewardQuest016	   = "重置赏金任务成功",
+	RewardQuest017	   = "等级不足，不能操作赏金任务",
+	RewardQuest018	   = "等级不足，不能接取赏金任务",
+	RewardQuest019	   = "元宝不足，",
+	RewardQuest020	   = "立即完成赏金任务扣除",		--for log
+	RewardQuest021	   = "该赏金任务今日无法接取",
+	
+	--宝藏传说
+	BaoZang001         = "小道消息！携带宝藏的<(c0xFF00FF00)%s>正在<(c0xFF00FFFF)%s(%d,%d)>附近晃荡！&<点击前往/M%s:%d:%d:>$",
+	BaoZang002         = "携带宝藏的盗贼都被各位大侠击败了！今日宝藏传说活动提前结束！",
+	BaoZang003         = "宝藏传说活动已经结束，无法传送",
+
+	--经验魔盒
+	ExpBox001 = "今天使用经验魔盒已达上限,成为<(c0xFFFFFF00)黄钻贵族>使用次数<(c0xFFFFFF00)+5次>",
+	ExpBox002 = "请等待经验魔盒充满经验再使用",
+	ExpBox003 = "获得经验<(c0xFFFF00)%d点>,今日经验魔盒还可使用<(c0xFFFF00)%d次>,成为<(c0xFFFFFF00)黄钻贵族>使用次数<(c0xFFFFFF00)+5次>",
+
+	--开服充值
+	OpenServerDailyCharge001 = "未达到领取奖励的条件",
+	OpenServerDailyCharge002 = "已经领取过奖励",
+	OpenServerDailyCharge003 = "背包空间不足,不能领取奖励",
+	OpenServerDailyCharge004 = "每日充值奖励",
+	OpenServerDailyCharge005 = "亲爱的玩家：\\    您昨日有价值<(c0xFF00FF00)%d>元宝的每日充值礼包忘记领取了，现发到您的邮箱，请查收。",
+
+	--修为道具
+	CircleSoul001 = "今天使用修为道具已达上限,成为<(c0xFF21EDFF)蓝钻贵族>使用次数<(c0xFF21EDFF)+150次>",
+	CircleSoul002 = "获得修为<(c0xFFFF00)%d点>,今日修为道具还可以使用<(c0xFFFF00)%d次>,成为<(c0xFF21EDFF)蓝钻贵族>使用次数<(c0xFF21EDFF)+150次>",
+	
+	ExpMapMenu001  =  "精英经验殿(53—58级可进)",
+	ExpMap001 =  "等级条件不满足，无法进入",
+	ExpMap002 =  "您已达%d级，请不要忘记完成<(c0xFF21EDFF)渡魔任务>",
+	
+	--经验勾玉
+	ExpJade001 = "今天使用经验勾玉已达上限,成为<(c0xFF21EDFF)蓝钻贵族>使用次数<(c0xFF21EDFF)+250次>",
+	ExpJade002 = "获得经验<(c0xFFFF00)%d点>,今日经验勾玉还可以使用<(c0xFFFF00)%d次>,成为<(c0xFF21EDFF)蓝钻贵族>使用次数<(c0xFF21EDFF)+250次>",
+	
+
+	--游戏补偿
+	compensate001 = "暖心福利(60级以上可领)",
+	compensate002 = "贴心福利(60级以上可领)",
+	compensate003 = "补偿福利(60级以上可领)",
+	compensate004 = "重大补偿(60级以上可领)",	
+
+	compensate051 = "抱歉,现在不是领取福利时间",
+	compensate052 = "抱歉,等级到达%d才可领取",
+	compensate053 = "抱歉,您已领取过该次福利",
+	compensate054 = "您背包空间不足%d，不能领取",
+	compensate055 = "您角色创建日期不符，不可领取",
+	compensate056 = "恭喜领取成功",
+	compensate057 = "领取每日福利",
+	compensate058 = "龙麟英雄遗迹每日福利",			--for log
+	compensate059 = "系统补偿",
+
+	--雪原争夺
+	supplyBattle001 = "雪原争夺开启，请各位勇士奋勇立功",
+	supplyBattle002 = "雪原争夺关闭，各位勇士下次再接再厉",
+	supplyBattle003 = "活动已经开始超过5分钟，不能参加活动",
+	supplyBattle004 = "等级不足，不能参与雪原争夺战",
+	supplyBattle005 = "进入雪原争夺战",
+	supplyBattle006 = "活动不在开放时间内或已结束",
+	supplyBattle007 = "上交补给",
+	supplyBattle008 = "您不是本方阵营成员，请本方阵营军需官处上交补给",
+	supplyBattle009 = "您没有获得粮食，无法上交",
+
+	supplyBattle010 = "雪原争夺",
+	supplyBattle011 = "战神",
+	supplyBattle012 = "魔神",
+	supplyBattle013 = "<(c0xFF21EDFF)战神方资源：>%d",
+	supplyBattle014 = "<(c0xFF21EDFF)魔神方资源：>%d",
+	supplyBattle015 = "剩余时间:",
+	supplyBattle016 = "活动信息:",
+	supplyBattle017 = "资源信息",
+	supplyBattle018 = "采集粮车回本方上缴获得<(c0xFF21EDFF)资源及贡献>,任意阵营<(c0xFFFFFF00)满8000资源>即可获胜,活动结束时<(c0xFF00FF00)个人贡献越高>奖励越好",
+
+	supplyBattle019 = "<散落的粮车/M雪原争夺:101:32:><(c0xFF1AE51A)：><(c0xFFFFFF00)已刷新>",
+	supplyBattle020 = "<散落的粮车/M雪原争夺:101:32:><(c0xFF1AE51A)：><(c0xFFFFFF00)运送中(%s)>",
+	supplyBattle021 = "您不在雪原争夺获得中，无法上交",
+	supplyBattle022 = "雪原争夺战获胜奖励",
+	supplyBattle023 = "恭喜您所在阵营获得雪原争夺战的胜利，为表彰您做出的重大贡献，特此奖励",
+	supplyBattle024 = "雪原争夺战失利鼓励",
+	supplyBattle025 = "很遗憾您的阵营在雪原争夺战中失利，为表彰您的努力战斗，以资鼓励，请再接再厉",
+	
+	supplyBattle026 = "雪原争夺活动结束，本日获胜方为<(c0xFF1AE51A)%s>",
+	supplyBattle027 = "雪原争夺活动结束，本日活动无阵营获胜",
+	supplyBattle028 = "粮食补给已被<(c0xFF1AE51A)%s>一方采集，该补给将于<(c0xFF1AE51A)4分钟后消失>，请速上交到本方阵营军需官！",
+	supplyBattle029 = "新的<(c0xFF1AE51A)粮车已刷新>，勇士们速去护送！",
+	supplyBattle030 = "不在活动时间内，不能上缴粮食",
+
+	supplyBattle031 = "雪原争夺开启",
+	supplyBattle032 = "雪原争夺时间到",
+	supplyBattle033 = "雪原争夺分出胜负",
+	supplyBattle034 = "您不属于争夺战双方阵营，无法上交",
+	supplyBattle035 = "你不在本方阵营军需官附近，无法上交",
+	supplyBattle036 = "您不属于争夺战双方阵营，无法采集",
+	supplyBattle037 = "不在争夺战活动时间内，无法采集",
+	supplyBattle038 = "不在争夺战活动场景中，无法采集",
+	supplyBattle039 = "已经死亡，无法采集",
+	supplyBattle040 = "已经是团队副本组队状态，无法进入",
+
+	supplyBattle041 = "<(c0xFF21EDFF)个人贡献分：>%d",
+	supplyBattle042 = "任意阵营<(c0xFFFFFF00)累积8000资源>即可获胜,活动结束时<(c0xFF00FF00)个人贡献越高奖励越丰厚>",
+	supplyBattle043 = "活动奖励",
+
+	--极速押运
+	--NPC 菜单栏
+	--Escort001 = "已押运次数:<(c0xFFFFFF00)%d/%d>",
+	--Escort002 = "增加押运次数(需%d个%s)",
+	--Escort003 = "",
+	--Escort004 = "",
+	--Escort005 = "",
+	--Escort006 = "",
+	--Escort007=  "活动详情说明",
+	--[[Escort008 = "极速押运活动说明：\\1、每天<(c0xFF21EDFF)16:45-17:15>满足<(c0xFF21EDFF)70级>的玩家有<(c0xFF21EDFF)3次>机会,可以在荒灵城的北郊站长处参加本活动。\\2、在<(c0xFF21EDFF)10分钟>限时内,玩家<(c0xFF21EDFF)安全>将镖车护送到英雄遗迹的南郊站长并<(c0xFF21EDFF)提交>即可获得活动奖励。\\3、押运旅途有非安全区,请保护好自己。镖车若远离玩家,活动追踪会有提示可以寻路回镖车身边。\\4、押运一旦<(c0xFF21EDFF)失败将会不返还押运资金,亦不能获得活动奖励,但不会扣除押运次数需要重新押运。>\\5、玩家可以攻击镖车劫镖,劫镖可以获得劫镖盒子,每人每天可使用劫镖盒子<(c0xFF21EDFF)3次>。\\6、若镖车受损,则押运只能获得基础奖励，<(c0xFF21EDFF)镖车无受损到达终点即可获得百分比经验奖励加成!>",]]--
+	Escort009=  "提交物资",
+	Escort010=  "护送物资",
+	Escort011=  "本次护送倒计时:",
+	Escort012=  "<(c0xFFFFDAAD)剩余次数：><(c0xFF00FF00)%d次>",
+	Escort013=  "护送奖励:",
+    --Escort014=  "将镖车按时提交到目的地可获得奖励",
+    --Escort015=  "英雄遗迹",
+    --Escort016=  "英雄遗迹",	
+    --Escort017=  "(需%d金币)",
+    --Escort018=  "(需%d元宝)",
+    --Escort019=  "(需%d个%s)",
+    --Escort020=  "镖车正在押运中",
+    --Escort021=  "<(c0xFFFFFF00)警告:镖车远离>  <寻路/M%s:%d:%d>",
+	Escort022=  "m桃花林:0:0:商队师爷",
+	--Escort023=  "<(c0xFFFFFF00)警告：镖车被攻击>  <寻路/M%s:%d:%d>",
+	Escort023=  "护送信息：",
+	Escort024=  "<(c0xFFFFDAAD)护送对象：><(c0xFF00FF00)%s>",
+	
+	
+	--镖车名称
+	EscortName001 = "木柴",
+	EscortName002 = "海鱼",
+	EscortName003 = "粮食",	
+	EscortName004 = "铁矿",	
+	
+	EscortDesc001 = "安全将物资押运到桃花林的商队师爷提交即可获得活动奖励!",
+	EscortDesc002 = "安全将物资押运到桃花林的商队师爷提交即可获得活动奖励!",
+	EscortDesc003 = "安全将物资押运到桃花林的商队师爷提交即可获得活动奖励!",
+	EscortDesc004 = "安全将物资押运到桃花林的商队师爷提交即可获得活动奖励!",
+	
+	
+	--EscortTips001 = "活动尚未开始或已结束",
+	--EscortTips002 = "镖车已经刷出,请将其安全护送到终点!",
+	EscortTips003 = "你身上没有物资,请前往物资队长处领取!",
+	EscortTips004 = "提交物资成功,获得活动奖励!",
+	EscortTips005 = "本日的护送次数已到上限",
+	EscortTips006 = "护送状态不能进入副本",
+	--EscortTips007 = "你的背包没有押镖令不能增加次数",
+	EscortTips008 = "等级不足，不能参与护送物资",
+	EscortTips009 = "护送前请脱离组队",
+	EscortTips010 = "已在护送中,请先放弃本次护送",
+	--EscortTips011 = "本日押运次数已达上限",
+	EscortTips012 = "主动放弃本轮护送",
+	EscortTips013 = "您的物资因<(c0xFFFF0000)护送时间超时>而消失,是否重新领\\取物资进行护送？",
+	EscortTips014 = "您的物资因<(c0xFFFFFF00)角色死亡>而消失,是否重新领取物\\资进行护送？",
+	--EscortTips015 = "附近没有您的镖车,无法提交",
+	EscortTips016 = "是否确定<(c0xFFFFFF00)扣除%d个%s>并增加<(c0xFFFFFF00)1次>护送次数?",
+	EscortTips017 = "恭喜,您已成功增加1次护送次数",
+	EscortTips018 = "本日增加次数已满,无法再增加",
+	--EscortTips019 = "你还有<(c0xFFFFFF00)%d次>押运次数,是否回到起点继续押运?",
+	--EscortTips020 = "继续押运",	
+	EscortTips021 = "免费次数已经用完，你可以通过增加次数继续护送",
+	EscortTips022 = "已加入团队副本,不能参与活动请先退出",
+	EscortTips023 = "正在护送,不能使用",
+	EscortTips024 = "当前还有<(c0xFFFFFF00)%d次>护送物资次数， 是否回到起点继续\\护送?",
+	--EscortTips025 = "你还有<(c0xFFFFFF00)%d次>次押运次数，是否回到起点继续押运?",
+	--EscortTips026 = "其中<(c0xFF1AE51A)%d>点为额外押运加成经验",
+	EscortTips027 = "护送次数已达上限，看看还有什么玩。",
+    --EscortTips028 = "",
+	EscortTips029 = "精彩活动",
+	EscortTips030 = "今天使用道具已达上限",
+	EscortTips031 = "今日还可以使用护送物资<(c0xFFFFFF00)%d次>",
+	EscortTips032 = "<(c0xFFFFFF00)提示:>\\<(c0xFF00FF00)目前正在双倍时段内!>",
+	EscortTips033 = "物资已经最大，不能刷新或召唤",
+	EscortTips034 = "刷新或召唤失败，所需物品不足",
+	EscortTips035 = "重新护送",
+	EscortTips036 = "暂不护送",
+	EscortTips037 = "再次护送",
+	EscortTips038 = "<(c0xFFFFFF00)提示:>\\<(c0xFFFF0000)目前不在双倍时段内!>",
+	EscortTips039 = "刷新失败",
+	EscortTips040 = "护送物资中，无法进行该操作",
+	
+	EscortMsg001 = "快到飞起!<(n%s)>成功将<(c0xFF21EDFF)%s>护送到终点,获得大量经验和金币!",
+	EscortMsg002 = "<(n%s)>正在护送物资:<(c0xFF21EDFF)%s>!从新手村出发啦!",
+	EscortMailTitle = "护送物资成功奖励",
+	EscortMailContent = "恭喜你本次护送成功,获得如下奖励!",
+
+
+	RedPacket001 = "行会等级1级才能发行会红包",
+	RedPacket002 = "你还没有加入行会<(c0xFFFF0000)不能发行会红包>，请先加入行会",
+	RedPacket003 = "元宝数量不足，不能发送红包",
+	RedPacket004 = "已经过了红包有效期,抢红包失败",
+	RedPacket005 = "红包已抢光！",
+	RedPacket006 = "这个红包已抢过",
+	RedPacket007 = "恭喜你抢到红包!",
+	RedPacket008 = "好手气!<(n%s)>从全服红包中抢得<(c0xFF21EDFF)%d元宝>!",
+	RedPacket009 = "好手气!<(n%s)>从行会红包中抢得<(c0xFF21EDFF)%d元宝>!",
+	RedPacket010 = "还不快抢红包！<(n%s)>给本服玩家发<(c0xFF21EDFF)%d元宝>红包啦,手慢就要被抢光了!",
+	RedPacket011 = "好羡慕!<(c0xFF21EDFF)%s>的<(c0xFF21EDFF)%s><(n%s)>给其行会成员发<(c0xFF21EDFF)%d元宝>红包啦!",
+	RedPacket012 = "<(c0xFF21EDFF)%s>的<(c0xFF21EDFF)%s><(n%s)>给行会成员发<(c0xFF21EDFF)%d>红包,快来抢呀!",
+	RedPacket013 = "发红包返还",
+	RedPacket014 = "零点返还未领取完的红包余额，请及时领取!",
+	RedPacket015 = "发红包失败，请保证每人至少1元宝",
+	RedPacket016 = "元宝总金额最少<(c0xFFFF0000)需要100元宝>，请重新输入",	--原来这句话提示的是 红包数量 或者 元宝金额异常的
+	RedPacket017 = "不在红包所在行会，抢红包失败",
+
+	--累计充值
+	totalCharge001 = "你已经领取过该奖励",
+	totalCharge002 = "没达到充值元宝数，不能领取",
+	totalCharge003 = "背包空间不足，不能领取奖励",
+	totalCharge004 = "<(n%s)>在活动期间累充达到%d元宝领取了丰厚的累计充值奖励。&<我要领取/@@showWin,GameTotalChargeModule>$",
+	totalCharge005 = "累计充值奖励",
+	totalCharge006 = "亲爱的玩家：\\您有累计充值礼包忘记领取了，现发到您的邮箱请查收。",
+	totalCharge007 = "1阶累充礼包",
+	totalCharge008 = "2阶累充礼包",
+	totalCharge009 = "3阶累充礼包",
+	--首充大礼
+	firstCharge001 = "您已经领取过首充奖励",
+	firstCharge002 = "您还没完成首充,不能领奖",
+	firstCharge003 = "背包空间不足%d个格子，不能领取奖励",
+	firstCharge004 = "恭喜<(n%s)>领取<(c0xFF21EDFF)价值8888元宝>的首充大礼包,&<超值首充我也要领取/@@showWin,GameFirstChargeModule>$",
+
+	newtitle0001 = "已经有头衔了.",
+	newtitle0002 = "恭喜您激活头衔%s成功",
+	
+	--诛魔
+	ZhuMo001 = "投入诛魔令需要达到<(c0xFFFF0000)%d级>",
+	ZhuMo002 = "在<(c0xFF21EDFF)全民诛魔活动期间(14:45-15:45)>不允许投入诛魔令",
+	ZhuMo003 = "诛魔积分<(c0xFFFF0000)已达最大值>,无法再投入",
+	ZhuMo004 = "您投入诛魔令将超出诛魔积分<(c0xFFFF0000)%d>,请调整后再投入",
+	ZhuMo005 = "投入诛魔令成功,获得<(c0xFF00FF00)%d经验>",
+	ZhuMo006 = "全民诛魔!本轮诛魔积分为:<(c0xFF21EDFF)%d>,击杀三座镇魔柱后将召唤<(c0xFFFF0000)%s>.各位英雄准备好!",
+    ZhuMo007 = "<(c0xFF21EDFF)英雄遗迹三座镇魔柱已出现>,请英雄们一并击杀.&<圣灵镇魔柱/M英雄遗迹:125:246:>、<天灵镇魔柱/M英雄遗迹:125:246:>、<荒灵镇魔柱/M英雄遗迹:125:246:>$",
+	ZhuMo008 = "<(c0xFFFF0000)%s>已被各英雄打破,封印空间逐渐撕裂,&<查看详细/@@showWin,GameBossModule,2>$",
+	ZhuMo009 = "封印空间打开,<(c0xFFFF0000)%s>已降临英雄遗迹大地,英雄们上啊!干翻BOSS!&<前往击杀/M英雄遗迹:125:246:>$",
+	ZhuMo010 = "本轮<(c0xFFFF0000)诛魔BOSS>已被英雄们击杀于脚下,封印大门重新关上!本轮诛魔活动结束!",
+	ZhuMo011 = "<(c0xFFFF0000)三座镇魔柱>最终没有被消灭,本轮诛魔活动结束!",
+	ZhuMo012 = "本轮<(c0xFFFF0000)诛魔BOSS>实力太强,英雄们铩羽而归!本轮诛魔活动结束!",
+	
+	
+	
+	--并行VIP（钻石贵族）
+	vipConc001 = "<(c0xFFFFEA00)皇冠贵族>",
+	vipConc002 = "<(c0xFF21EDFF)蓝钻贵族>",
+	vipConc003 = "<(c0xFFFF00FF)紫钻贵族>",
+
+	vipConc006 = "贵族专属的<font color='#21EDFF'>安全挂机</font>地图<br>一键完成<font color='#21EDFF'>渡魔任务</font>并<font color='#21EDFF'>3倍领奖</font><br><font color='#21EDFF'>BOSS提醒</font>次数增加<font color='#21EDFF'>2次</font>",
+	vipConc007 = "<font color='#21EDFF'>经验勾玉</font>使用次数<font color='#21EDFF'>+250</font><br><font color='#21EDFF'>修为道具</font>使用次数<font color='#21EDFF'>+150</font><br><font color='#21EDFF'>行会仓库</font>投入件数<font color='#21EDFF'>+2</font><br><font color='#21EDFF'>暗夜魔窟、暗夜祭坛</font>免费进入<br>贵族专属地图：<font color='#21EDFF'>暗夜幻境、贵族挂机</font>",
+	vipConc008 = "<font color='#21EDFF'>自动回收装备</font>（在锻造-回收窗口设置）<br><font color='#21EDFF'>运镖活动</font>参与次数<font color='#21EDFF'>+3</font><br><font color='#21EDFF'>行会仓库</font>投入件数<font color='#21EDFF'>+2</font><br><font color='#21EDFF'>暗夜魔窟、暗夜祭坛</font>免费进入<br>贵族专属地图：<font color='#21EDFF'>暗夜幻境、贵族挂机</font>",
+
+	vipConc011 = "您已经是【%s】,请走续费流程",
+	vipConc012 = "您不是【%s】,请走购买流程",
+	vipConc013 = "购买或续费皇冠贵族",				    --for log
+	vipConc014 = "您当天已经领取【%s】礼包",
+	vipConc015 = "您不是【%s】,不能领取该礼包",
+	vipConc016 = "您的【%s】<(c0xFFF11717)过期了>,<重新成为贵族/@@showWin,GameNobleVIPModule>",
+	vipConc017 = "领取贵族礼包",						--for log
+	vipConc018 = "背包空间不足,请整理后再领取",
+
+	vipConc019 = "精明消费!<(n%s)>快人一步成为%s,享受贵族专属特权!&<成为贵族/@@showWin,GameNobleVIPModule>$",				--玩家名，贵族名
+	vipConc020 = "精明消费!<(n%s)>在贵族期间打折优惠续费%s,贵族专享不能停!&<成为贵族/@@showWin,GameNobleVIPModule>$",				--玩家名，贵族名
+
+	vipConc021 = "不是贵族类型,不能使用",
+	vipConc022 = "您还不是<(c0xFF21EDFF)贵族玩家>，请成为<(c0xFF21EDFF)贵族玩家>再进入",
+	vipConc023 = "元宝购买贵族",		--for log
+	vipConc024 = "元宝续费贵族",		--for log
+	vipConc025 = "道具购买贵族",		--for log
+	vipConc026 = "道具续费贵族",		--for log
+	vipConc027 = "贵族到期",			--for log
+	
+	--vip系统
+	vip001 = "未达到对应vip等级,不能领取",
+	vip002 = "已经领取过这个礼包，不能重复领取",
+	vipAutoSign001 = "自动签到奖励", 
+	vipAutoSign002 = "自动签到奖励如下", 
+	--登陆器奖励
+	Launcher001 = "已领取过登陆器奖励",
+	Launcher002 = "背包空间不足，不能领取",
+	Launcher003 = "领取登陆器奖励成功",
+
+	--七日豪礼
+	seventGift001 = "没有登录第%d天的豪礼",
+	seventGift002 = "没有您职业的豪礼",
+	seventGift003 = "您已经领取了登录第%d天的豪礼",
+	seventGift004 = "今天还不能领取第%d天的豪礼",
+	seventGift005 = "%d级才可领取本奖励",
+	seventGift006 = "领取七日豪礼",			--for log
+
+	--座驾系统
+	ride001	= "座驾提升成功",
+	ride002	= "座驾提升失败",
+	ride003	= "座驾已经提升达到<(c0xFFFFFF00)最大阶星>",
+	ride004	= "道具不足，座驾提升失败",
+	ride005	= "元宝不足，座驾提升失败",
+	ride006	= "座驾提升扣除道具",		
+	ride007	= "座驾提升扣除元宝",		
+	ride008	= "果然是老司机！<(n%s)>将座驾提升至<(c0xFF21EDFF)%d阶>, &<我要提升/@@showWin,GameCarModule>$",
+	ride009	= "金币不足，座驾提升失败",
+	ride010	= "座驾提升扣除金币",		
+	ride011 = "官职未达到<(c0xFFFF0000)%s>，您的座驾暂无法提升",
+	ride012 = "座驾获得经验:%d",
+	ride013 = "已经是永久座驾了",
+	ride014 = "没有可以使用的道具",
+	ride015 = "<(n%s)>成功激活<(c0xFF21EDFF)%s>。彰显个性，厉害了我的哥！&<哥要激活/@@showWin,GameCarModule,2>$",
+	ride016 = "<(n%s)>果断续费<(c0xFF21EDFF)%s>。壕的世界你不懂！&<壕来续费/@@showWin,GameCarModule,2>$",
+	ride017 = "您的座驾需<(c0xFF21EDFF)突破>才可继续提升",
+	ride018 = "<(n%s)>使用珍稀的%s，直接提升座驾<(c0xFF21EDFF)%d星>，实力与拉风座驾不容小觑！",
+	ride019 = "<(n%s)>使用珍稀的%s，提升座驾<(c0xFF00FF00)%d经验>，以后要提早使用啊！",
+	ride020 = "没有达到可激活的条件",
+	ride021 = "%d级可激活，努力升级吧",
+	ride022 = "第%d天解锁，明天记得登录哦",
+	ride023 = "VIP%d可激活,充值提升vip等级吧",
+	ride024 = "%d元宝可激活,当前元宝不足",
+	ride025 = "拥有%s可激活，当前物品不足",
+
+	rideName01 = "狂战之魂",
+	rideDesc01 = "<(c0xFFF3D550)狂战之魂>\\热血不息，战斗不止，兄弟们一起来战斗\\\\<(c0xFF00FF00)20级即可永久拥有>",
+	rideName02 = "红莲业火",
+	rideDesc02 = "一阶座驾，官职为<(c0xFF00FF00)默默无闻>可提升",
+	rideName03 = "谜之飞毯",
+	rideDesc03 = "<(c0xFFF3D550)谜之飞毯>\\据传原是神灯的擦灯布，久而久之拥有了神性\\\\<(c0xFF00FF00)连续登录2天或VIP1即可拥有，过期后需要重新激活>",
+	rideName04 = "菩提莲花",
+	rideDesc04 = "<(c0xFFF3D550)菩提莲花>\\纯洁不染，代表着至高无上的尊荣与祥和\\\\<(c0xFF00FF00)连续登录3天或VIP2即可拥有，过期后需要重新激活>",
+	rideName05 = "大圣斗云",
+	rideDesc05 = "<(c0xFFF3D550)大圣斗云>\\据说坐着它可以一下八千里，逍遥天下四海为家\\\\<(c0xFF00FF00)连续登录7天或VIP3即可拥有，过期后需要重新激活>",
+	rideName06 = "青泠云龙",
+	rideDesc06 = "五阶座驾，骑乘可以增加一定属性",
+	rideName07 = "劫火金乌",
+	rideDesc07 = "六阶座驾，骑乘可以增加一定属性",
+	rideName08 = "天阑绝影",
+	rideDesc08 = "七阶座驾，骑乘可以增加一定属性",
+	rideName09 = "苍炎冥兽",
+	rideDesc09 = "八阶座驾，骑乘可以增加一定属性",
+--时效座驾从101开始
+	rideName101 = "黄金盘龙刃",
+	rideDesc101 = "<(c0xFFF3D550)黄金盘龙刃>\\身份象征，拥有它的人每个都是传奇\\\\<(c0xFF00FF00)每日充值即可拥有，过期后需要重新激活>",
+	rideName102 = "斗圣金箍棒",
+	rideDesc102 = "<(c0xFFF3D550)斗圣金箍棒>\\据传该棒一万三千五百斤，开天辟地无所惧\\\\<(c0xFF00FF00)圣兽幽谷BOSS与任务获得，过期后需要重新激活>",
+	rideName103 = "火焰芭蕉扇",
+	rideDesc103 = "<(c0xFFF3D550)火焰芭蕉扇>\\至阳至刚的宝扇，蕴含的火焰毁天灭地，极具破坏力\\\\<(c0xFF00FF00)消耗元宝即可拥有，过期后需要重新激活>",
+
+	activeText101 = "<(c0xFF00FF00)黄金盘龙刃>激活",
+	activeText102 = "<(c0xFF00FF00)斗圣金箍棒>激活",
+	activeText103 = "<(c0xFF00FF00)火焰芭蕉扇>激活",
+	activeText104 = "<(c0xFF00FF00)大圣斗云>激活",
+	activeText105 = "<(c0xFF00FF00)菩提莲花>激活",
+	activeText106 = "<(c0xFF00FF00)谜之飞毯>激活",
+	activeText107 = "<(c0xFF00FF00)狂战之魂>激活",
+	activeText108 = "<(c0xFF00FF00)红莲业火>激活",
+	
+	firstActiveText101 = "<(c0xFF00FF00)每日充值>赠送",
+	firstActiveText102 = "<(c0xFF00FF00)圣兽幽谷>Boss或任务获得",
+	firstActiveText103 = "花费<(c0xFF00FF00)8888元宝>领取",
+	firstActiveText104 = "<(c0xFF00FF00)第7天>登录或<(c0xFF00FF00)VIP3>领取",
+	firstActiveText105 = "<(c0xFF00FF00)第3天>登录或<(c0xFF00FF00)VIP2>领取",
+	firstActiveText106 = "<(c0xFF00FF00)第2天>登录或<(c0xFF00FF00)VIP1>领取",
+	firstActiveText107 = "<(c0xFF00FF00)20级>领取",
+	firstActiveText108 = "激活条件8",
+
+	--开服礼包
+	OpenServerGift001 = "恭喜<(n%s)>抢购到<(c0xFF21EDFF)%s>!超值礼包买到你就赚到啦!&<马上抢购/@@showWin,GameOpenServerPackModule>$",
+	OpenServerGift002 = "开服大礼包活动时间已过",
+	OpenServerGift003 = "购买超值礼包成功",
+	OpenServerGift004 = "该超值礼包你已经购买过",
+	
+	OpenSystemPack001 = "购买礼包成功",
+	OpenSystemPack002 = "该礼包已经购买过",
+	--售卖箱子
+	SellBox001 = "物品已过期，无法开启",
+	SellBox002 = "物品配置不存在，无法开启",
+	SellBox003 = "开启箱子成功，获得礼物",
+	SellBox004 = "超级划算!<(n%s)>仅花费了<(c0xFF21EDFF)%d元宝>获得原价<(c0xFF21EDFF)%d元宝>的%s里所有道具!",
+	
+	--爬塔tip
+	PaTa001 = "<(c0xFFFFEA00)本周最佳挑战记录:>",
+	PaTa002 = "<(c0xFFFFEA00)本周记录保持者:>",
+	PaTa003 = "<(c0xFFFFEA00)我的排名:>",
+	PaTa004 = "<(c0xFFFFEA00)我的挑战记录:>",
+	PaTa005 = "进入个人试炼场(%d/%d)",
+	PaTa006 = "查看排名",
+	PaTa007 = "规则说明",
+	PaTa008 = "1、满足<(c0xFF21EDFF)90级>的玩家每天可<(c0xFF21EDFF)参与2次>副本.\\2、副本持续<(c0xFF21EDFF)15分钟>.\\3、进入副本场景后即可进行挑战，玩家需尽可能快地击败试炼场的BOSS.\\4、副本中玩家击杀每一战的BOSS均可获得一定的<(c0xFFFFFF00)经验>和<(c0xFFFFFF00)试炼宝箱>.\\5、击杀<(c0xFF21EDFF)10个以上>的BOSS可参与试炼排行榜，击杀越多且总用时越短，可获得更高的排名.\\6、排名<(c0xFF21EDFF)前100位>的玩家在每周日<(c0xFF21EDFF)23点50分>可获得排名奖励，请注意查看邮件.\\7、排行榜将在奖励发放后重置，新的一周请继续努力.\\",
+	PaTa009 = "副本正在结算中，请在周一0点后再来",
+	PaTa010 = "<(c0xFFFFEA00)第%d战:><(c0xFF21EDFF)%s>(%d/1)",
+	PaTa011 = "个人试炼第%d战开启！请尽快击败<(c0xFF21EDFF)%s>！",
+	PaTa012 = "牛逼哄哄！<(n%s)>通过了个人试炼第%d战的历练！&<我要挑战/M英雄遗迹:0:0:试炼关主>$",
+	PaTa013 = "<(n%s)>战力惊人！恭喜他成为了本周个人试炼场挑战记录的保持者！&<我要挑战/M英雄遗迹:0:0:试炼关主>$",
+	PaTa014 = "%d分",
+	PaTa015 = "%d秒",
+	PaTa016 = "%d战(%s)",
+	PaTa017 = "个人试炼场排名奖励",
+	PaTa018 = "恭喜你在上周挑战个人试炼场排行中名列第%d，请查收排名奖励",
+	PaTa019 = "进入虚空幻境(%d/%d)",
+	PaTa020 = "1、<(c0xFF21EDFF)满足3转90级>的玩家每天可组队<(c0xFF21EDFF)参与1次>副本.\\2、副本持续<(c0xFF21EDFF)30分钟>.\\3、副本中玩家击杀每一战的BOSS均可获得一定的奖励，奖励主要为<(c0xFFFFFF00)装备>、<(c0xFFFFFF00)经验>和<(c0xFFFFFF00)炎魂玉>.\\4、本服每周击杀BOSS最多且用时最短的队伍，可在<(c0xFF21EDFF)周日23:50分>获得最佳挑战记录的奖励!\\ \\<(c0xFFFFEA00)奖励说明:>\\<(c0xFF21EDFF)上古神石>x5、<(c0xFF21EDFF)龙珠核心>x2、<(c0xFF21EDFF)大型金砖>x1 ",
+	PaTa021 = "召唤队友",
+	PaTa022 = "未上榜",
+	PaTa023 = "只有队长可以进行操作",
+	PaTa024 = "创建队伍后才可以进入",
+	PaTa025 = "%s不在附近,请召集队友后再进入副本",
+	PaTa026 = "已击杀全部怪物，请退出副本!",
+	PaTa027 = "等级不足%d,不能召唤队友",
+	PaTa028 = "进入下一层",
+	PaTa029 = "退出副本",
+	PaTa030 = "本层BOSS未被击杀，无法进入下一层",
+	PaTa031 = "同心协力！<(n%s)>带领的队伍通过了第%d层的历练！&<我要挑战/M英雄遗迹:0:0:幻境守卫>$",
+	PaTa032 = "同心协力！<(n%s)>的队伍突破重重历练，成为了本周最佳记录保持者！&<我要挑战/M英雄遗迹:0:0:幻境守卫>$",
+	PaTa033 = "%s<(c0xFF21EDFF)(队长)>",
+	PaTa034 = "虚空幻境排名奖励",
+	PaTa035 = "恭喜你的队伍成为本周挑战虚空幻境的最佳记录保持者，请查收奖励",
+	PaTa036 = "<(c0xFFFFEA00)第%d层:><(c0xFF21EDFF)%s>(%d/1)",
+	PaTa037 = "进入第%d层！击杀<(c0xFF21EDFF)%s>后可在幻境使者处进入下一层！",
+	PaTa038 = "%d层(%s)",
+	PaTa039 = "<(特效)下一层/M%s:%d:%d:%s>",
+	PaTa040 = "团队爬塔副本通关成功奖励",
+	PaTa041 = "队伍通关%d层，获得以下奖励",
+	PaTa042 = "个人试炼击杀BOSS奖励",
+	PaTa043 = "您的背包已满，请查收击杀第%d层的试炼BOSS所获的道具奖励",
+	PaTa044 = "个人试炼",--面板信息
+	PaTa045 = "副本信息",--面板信息
+	PaTa046 = "通关奖励",--面板信息
+	PaTa047 = "剩余时间",--面板信息
+
+ 	--经验炼制
+	ExpRefine001 = "角色当前上限为<(c0xFFFFEA00)%d级>，本次炼制<(c0xFFFFEA00)无法超过该上限等级>，建议转生后再炼制！",
+	ExpRefine002 = "消耗<(c0xFFFFEA00)%d元宝>可获得<(c0xFF1AE51A)%d经验>将角色提升至<(c0xFFFFEA00)%d级>\\                 是否炼制经验？",
+	ExpRefine003 = "炼制成功",
+	ExpRefine004 = "消耗<(c0xFFFFEA00)%d元宝>可获得<(c0xFF1AE51A)%d经验>\\         是否炼制经验？",
+	ExpRefine005 =  "<(n%s)>通过<(c0xFF1AE51A)经验炼制>轻松获得<(c0xFF1AE51A)%d经验>，等级飞速提升",
+	ExpRefine006 = "等级不足%d级,不能炼制",
+    ExpRefine007 = "经验炼制次数已满",
+	
+	--活跃度
+	ActivityDegDesc001 = "<今日签到/@@showWin,GameWelfareModule,1>",
+	ActivityDegDesc002 = "<渡魔任务/M英雄遗迹:0:0:渡魔使者>",
+	ActivityDegDesc003 = "<赏金任务/M英雄遗迹:0:0:悬赏榜>",
+	ActivityDegDesc004 = "<个人副本/@@showWin,GameTeamCopyModule,0>",
+	ActivityDegDesc005 = "<团队副本/@@showWin,GameTeamCopyModule,1>",
+	ActivityDegDesc006 = "<极速押运/M英雄遗迹:0:0:北郊站长>",
+	ActivityDegDesc007 = "<树海平原/M英雄遗迹:0:0:行会长老>",
+	ActivityDegDesc008 = "<膜拜君主/M英雄遗迹:266:349:墨冥>",
+	ActivityDegDesc009 = "<火域混战/M英雄遗迹:0:0:火域使者>",
+	ActivityDegDesc010 = "<雪原争夺/M英雄遗迹:0:0:雪原粮官>",
+	ActivityDegDesc011 = "<转生副本/M英雄遗迹:0:0:转生使者>",
+	ActivityDegDesc012 = "<魔灵秘宝/M英雄遗迹:0:0:摸金校尉>",
+	ActivityDegDesc013 = "<守护神树/M英雄遗迹:0:0:行会长老>",
+	ActivityDegDesc014 = "<兑换战绩/@@showWin,GamePropertyRoleModule,3>",
+	ActivityDegDesc015 = "<商城购买/@@showWin,GameShopModule,0>",
+	ActivityDegDesc016 = "<钻石礼包/@@showWin,GameNobleVIPModule,0>",
+	ActivityDegDesc017 = "<使用修为/@@showWin,GameShopModule,4>",
+	ActivityDegDesc018 = "<击杀BOSS/@@showWin,GameBossModule,0>",
+	ActivityDegDesc019 = "<装备升星/@@showWin,GameFoundryModule,0>",
+	ActivityDegDesc020 = "<龙珠熔炼/@@showWin,GameFoundryModule,4>",
+	ActivityDegDesc021 = "<装备回收/@@showWin,GameFoundryModule,2>",
+	ActivityDegDesc022 = "<道具合成/@@showWin,GameFoundryModule,1>",
+	ActivityDegDesc023 = "<行会捐献/@@showWin,GameGuildHallModule,1>",
+	ActivityDegDesc024 = "<经验塔防/M英雄遗迹:0:0:塔防大师>",
+	ActivityDegDesc025 = "<个人试炼场/M英雄遗迹:0:0:试炼大师>",
+	ActivityDegDesc026 = "<团队爬塔/M英雄遗迹:0:0:幻境守卫>",
+	ActivityDegDesc027 = "<副本挑战/@@showWin,GameMaterialCopyModule,0>",
+	
+	Activitytips001 = "在<(c0xFFFFFF00)福利大厅>签到，可领取丰富奖励",
+	Activitytips002 = "在英雄遗迹<(c0xFFFFFF00)渡魔使者>接取任务，完成可获得海量经验",
+	Activitytips003 = "在英雄遗迹<(c0xFFFFFF00)悬赏榜>接取任务，完成可获得海量金币",
+	Activitytips004 = "完成<(c0xFFFFFF00)个人副本>可获得珍稀装备与珍稀材料",
+	Activitytips005 = "完成<(c0xFFFFFF00)团队副本>可获得珍稀装备",
+	Activitytips006 = "极速押运在每日<(c0xFFFFFF00)16:45>开启",
+	Activitytips007 = "树海平原在每日<(c0xFFFFFF00)22:00>开启（行会活动）",
+	Activitytips008 = "膜拜君主在每日<(c0xFFFFFF00)12:00、18:00>开启,鼓舞一次获得活跃",
+	Activitytips009 = "火域混战在每日<(c0xFFFFFF00)13:45>开启",
+	Activitytips010 = "雪原争夺在每日<(c0xFFFFFF00)15:45>开启",
+	Activitytips011 = "在英雄遗迹<(c0xFFFFFF00)转生使者>处进入转生副本，完成可获得英灵",
+	Activitytips012 = "魔灵秘宝在每日<(c0xFFFFFF00)21:30>开启",
+	Activitytips013 = "守护神树在每日<(c0xFFFFFF00)19:00>开启（行会活动）",
+	Activitytips014 = "<(c0xFFFFFF00)兑换战绩>可以获得经验",
+	Activitytips015 = "商城可以购买许多<(c0xFFFFFF00)珍稀道具>",
+	Activitytips016 = "成为<(c0xFFFFFF00)钻石贵族>每日可领取珍贵礼包",
+	Activitytips017 = "使用<(c0xFFFFFF00)修为灵气>，获得活跃",
+	Activitytips018 = "<(c0xFFFFFF00)击杀BOSS>可获得珍稀装备（野外BOSS、世界BOSS和全民诛魔）",
+	Activitytips019 = "<(c0xFFFFFF00)装备升星>可以快速提高战力",
+	Activitytips020 = "<(c0xFFFFFF00)熔炼龙珠>可以获得升级龙珠的材料",
+	Activitytips021 = "<(c0xFFFFFF00)装备回收>可获得大量经验",
+	Activitytips022 = "<(c0xFFFFFF00)道具合成>可以合到珍贵道具与装备",
+	Activitytips023 = "行会捐献可以获得<(c0xFFFFFF00)行会贡献>",
+	Activitytips024 = "进入<(c0xFFFFFF00)经验塔防>消灭怪物，可以获得海量经验",
+	Activitytips025 = "在个人试炼场消灭怪物取得排名，可获得<(c0xFFFFFF00)内劲经验>",
+	Activitytips026 = "在虚空幻境消灭怪物取得排名，可获得<(c0xFFFFFF00)珍稀道具>",
+	Activitytips027 = "完成相应副本挑战可以获得<(c0xFFFFFF00)装备、金币和材料>",
+
+
+
+	ActivityDeg001 = "您的活跃度没有达到%d,不能领取",
+	ActivityDeg002 = "今日已经领取过该奖励",
+	ActivityDeg003 = "领取活跃度奖励",		--for log
+
+	--经验塔防	
+	ExpCell001 = "<(c0xFFFFFF00)活动等级:><(c0xFF00FF00)%d级>",
+	ExpCell002 = "剩余参与次数: <(c0xFFFFEA00)%d/%d>",
+	ExpCell003 = "进入经验塔防",	
+	ExpCell004 = "领取经验奖励",	
+	ExpCell005 = "活动详询说明",
+	ExpCell006 = "经验塔防副本规则说明:\\1.每天满足<(c0xFFFFEA00)78级>的玩家均有<(c0xFFFFEA00)2次机会>参与本活动.\\2.玩家进入副本后,系统自动给予玩家部分英灵使用权次数,玩家可自行站位放置.\\3.<(c0xFFFFEA00)30分钟>内,英灵击败的怪物越多,玩家获得的经验越多!\\4.副本最多可放置<(c0xFFFFEA00)16个英灵>,通过购买英灵进行实力补充,将能获得更多的经验!\\5.副本结束时,玩家可以消耗元宝选择多倍经验领取,经验收益更丰厚!",
+	ExpCell007 = "今日副本参与次数已达上限",
+	ExpCell008 = "没有经验可领取,赶紧进入经验塔防",
+	ExpCell009 = "请先领取经验再进入经验塔防",
+	ExpCell010 = "等级不足<(c0xFFFFEA00)%d级>不能参与本副本",
+	ExpCell012 = "没有经验可领取,赶紧进入经验塔防",
+	ExpCell013 = "购买成功",
+	ExpCell014 = "已启动刷怪,请勿重复操作",	
+	ExpCell015 = "刷怪成功,怪物即将来袭",
+	ExpCell016 = "密室入口",
+	ExpCell018 = "召唤英灵: <(c0xFFFFEA00)%d/%d个>",
+	ExpCell019 = "当前刷怪: <(c0xFFFFEA00)第%d/%d波>",
+    ExpCell022 = "收益超丰厚!<(n%s)>多倍领取经验塔防经验,经验暴涨!&<查看详情/@@showWin,GameActivityModule,2>$",
+	ExpCell023 = "恭喜你获得到<(c0xFFFFEA00)%d>经验！\\点击领奖即可获得经验,多倍领奖经验更加丰厚!\\剩余参与次数：<(c0xFFFFEA00)%d/%d>",
+	ExpCell024 = "单倍领奖",
+	ExpCell025 = "%d倍领奖（花费%d%s）",
+    ExpCell026 = "%d倍领奖（花费%d%s)",	
+	ExpCell027 = "刷怪尚未结束,现在退出副本<(c0xFFFFEA00)只能获得当前经验>,是否确定退出?\\<(c0xFFFFEA00)提前离开损失惨重,完成副本将获得大量经验!>",
+	ExpCell028 = "<(c0xFFFFEA00)第%d波>怪物已刷出，距离下一波怪物刷出还有<(c0xFFFFEA00)%d秒>!",
+	ExpCell029 = "怪物已刷出,请注意结算后领取经验奖励!",
+	ExpCell030 = "是否确定<(c0xFFFFEA00)消耗%d%s>领取多倍经验？\\<(c0xFFFFEA00)多倍领奖收益更丰厚!>",
+	ExpCell032 = "刷怪状态:<(c0xFFFFEA00)未开始刷怪>",
+	ExpCell033 = "刷怪状态:<(c0xFFFFEA00)正在刷怪>",
+	ExpCell034 = "刷怪状态:<(c0xFFFFEA00)刷怪完毕>",
+	
+	ExpCellNew001 = "当前召唤令购买数量达到上限",
+	ExpCellNew002 = "该召唤师<(c0xFFFF0000)剩余数量为0>,请<(c0xFF21EDFF)购买后再放置>",
+	ExpCellNew003 = "没有可领取的经验",
+	ExpCellNew004 = "需要VIP等级%d级以上才可领取",
+	ExpCellNew005 = "领取经验成功",
+	ExpCellNew006 = "当前位置已存在召唤师,请更换位置",
+	ExpCellNew007 = "今日免费多倍已领取，本次是否花费<(c0xFFFFEA00)%d元宝>领取多倍奖励",
+	ExpCellNew008 = "场景内召唤师数量已达上限",
+	ExpCellNew009 = "是否花费<(c0xFFFF0000)%d>元宝一键召唤？",
+	ExpCellNew010 = "确定",
+	ExpCellNew011 = "取消",
+	
+	
+	ExpItem001 = "角色当前上限为<(c0xFFFFEA00)%d级>，本次使用<(c0xFFFFEA00)无法超过该上限等级>，建议转生后再使用",
+
+	--强化副本
+	StrongFBName01	= "金币副本(普通)",
+	StrongFBDesc01	= "通关副本可获得大量金币",
+	StrongFBName02	= "升星副本(初级)",
+	StrongFBDesc02	= "通关副本可获得一定的土玄晶",
+	StrongFBName03	= "升星副本(中级)",
+	StrongFBDesc03	= "通关副本可获得一定的木玄晶",
+	StrongFBName04	= "翅膀副本(普通)",
+	StrongFBDesc04	= "通关副本可获得一定的羽魂碎片",
+	StrongFBName05	= "龙珠副本(普通)",
+	StrongFBDesc05	= "通关副本可获得一定的龙珠结晶",
+	StrongFBName06	= "座驾副本(普通)",
+	StrongFBDesc06	= "通关副本可获得一定的座驾提升丹",
+	StrongFBName07	= "技能副本(普通)",
+	StrongFBDesc07	= "通关副本可获得一定的秘籍残片",
+	StrongFBName08	= "装备副本(1转)",
+	StrongFBDesc08	= "通关副本可获得一定的1转装备精华",
+	StrongFBName09	= "装备副本(3转)",
+	StrongFBDesc09	= "通关副本可获得一定的3转装备精华",
+	StrongFBName10	= "装备副本(5转)",
+	StrongFBDesc10	= "通关副本可获得一定的5转装备精华",
+	StrongFBName11	= "装备副本(6转)",
+	StrongFBDesc11	= "通关副本可获得一定的6转装备精华",
+
+	
+	ChallengeFB001	= "等级不足，无法进入挑战副本",
+	ChallengeFB002	= "%s的通关评价未达到%d星，无法进入",
+	ChallengeFB003	= "%s的奖励尚未领取，请先领取再继续挑战副本",
+	ChallengeFB004	= "没有可以领取的通关奖励",
+	ChallengeFB005	= "背包空间不足，不能领取通关奖励",
+	ChallengeFB006	= "领取挑战副本通关奖励",		--for log
+	ChallengeFB007	= "今日领奖次数已满，请明日再接再厉",
+	ChallengeFB008	= "领取挑战副本双倍通关奖励消耗元宝",
+
+	ChallengeFBPanel = "%s(%d/%d)",
+	
+	SKillBook001 ="配置不存在",
+	SKillBook002 ="技能%s已激活",
+	SKillBook003 ="恭喜你，技能%s成功激活",
+
+	SkillExp001  = "增加技能熟练度扣除",    --for log
+	SkillExp002  = "技能熟练度已满",
+	SkillExp003  = "技能熟练度增加%d",
+	
+	questMaill0001 = "提升技能小建议",
+	questMaill0002 = "<(c0xFF00FF00)    技能提升>是游戏中经常会被忽视的点，然而如果您努力提升您的技能等级，会发现自己在战斗中往往能<(c0xFF00FF00)发挥更强的实力>!",
+	questMaill0003 = "装备升星小建议",
+	questMaill0004 = "<(c0xFF00FF00)    装备升星>是你变强的<(c0xFF00FF00)最快捷的途径>，建议您在升星时将所有部位装备依次提升到同样的星级，这样可以更快速度激活你的<(c0xFF00FF00)升星衍生属性>哦！",
+	questMaill0005 = "熔铸装备小建议",
+	questMaill0006 = "    装备是您一切<(c0xFF00FF00)实力的基础>，没有更强的装备实力就无从谈起，寻找<(c0xFF00FF00)和您等级匹配的熔铸套装>是您的首要追求！\\    合成熔铸装备所需<(c0xFF00FF00)材料>可以通过野外BOSS、暗夜地图BOSS、团队副本和商城购买获得，也可以通过龙麟秘宝获得<(c0xFF00FF00)成品装备>!\\    现在送您一个<(c0xFF00FF00)熔铸礼包>，轻松获得<(c0xFF00FF00)80级熔铸装备和材料>，实力飙升！",
+	questMaill0007 = "龙珠提升小建议",
+	questMaill0008 = "    龙珠是您全面提升<(c0xFF00FF00)各项属性>的不二选择，升级您的龙珠还可以获得<(c0xFF00FF00)龙珠衍生属性和炫酷外形特效>哦！",
+    questMaill0009 = "座驾提升小建议",
+	questMaill0010 = "    座驾既有<(c0xFF00FF00)华丽酷炫的外观>，又能一定程度地提升您的实力，当属游戏中重中之重的追求！\\    现在送您一个<(c0xFF00FF00)座驾礼包>，让你能在游戏中快马加鞭，快速提升座驾星阶，获得更强的属性。",
+    questMaill0011 = "翅膀提升小建议",
+	questMaill0012 = "    <(c0xFF00FF00)炫酷的翅膀>不只会让你成为人群中的焦点，其附带超高的<(c0xFF00FF00)防御>可是会极大的增加你<(c0xFF00FF00)生存能力>，让您正面扛到底更有底气！",
+    questMaill0013 = "兵魂提升小建议",
+	questMaill0014 = "    <(c0xFF00FF00)兵魂>是游戏中的<(c0xFF00FF00)高级玩法>，提升兵魂可提升你的战斗属性，完全点亮兵魂后可获得：\\    1、附身武器的<(c0xFF00FF00)超炫外观>\\    2、获得特殊的<(c0xFF00FF00)兵魂技能>",
+    questMaill0015 = "启兵提升小建议",
+	questMaill0016 = "    启兵可以按<(c0xFF00FF00)百分比>提升您身上所穿<(c0xFF00FF00)装备的基础属性>，且全部部位<(c0xFF00FF00)每升4级>还有额外的<(c0xFF00FF00)衍生属性>获得，进一步提升实力哦！",    
+	
+	MoneyTree001 = "摇钱树需要%d转%d级才能参与",
+	MoneyTree002 = "今日可摇一摇次数已达上限",
+	MoneyTree003 = "财源滚滚来!<(n%s)>在摇钱树中摇一摇获得了<(c0xFF21EDFF)%d金币>!&<马上摇一摇/@@showWin,GameMoneyTreeModule,0>$",
+	MoneyTree004 = "<font color='#FFFF00' size='25'>财源滚滚来!你从摇钱树上摇得</font><font color='#21EDFF' size='25'>%d金币</font>",
+	MoneyTree005 = "恭喜<(n%s)>出门遇财神，在摇钱树上摇金币时触发<(c0xFF21EDFF)%d倍>暴击，获得了<(c0xFF21EDFF)%d金币>!&<马上摇一摇/@@showWin,GameMoneyTreeModule,0>$",
+
+	--不可重置的累积充值
+	AllChargeGift01 = "累积充值礼包1",
+	AllChargeGift02 = "累积充值礼包2",
+	AllChargeGift03 = "累积充值礼包3",
+	AllChargeGift04 = "累积充值礼包4",
+	AllChargeGift05 = "累积充值礼包5",
+	AllChargeGift06 = "累积充值礼包6",
+	AllChargeGift07 = "累积充值礼包7",
+	AllChargeGift08 = "累积充值礼包8",
+	AllChargeGift09 = "累积充值礼包9",
+	AllChargeGift10 = "累积充值礼包10",
+	AllChargeGift11 = "累积充值礼包11",
+	AllChargeGift12 = "累积充值礼包12",
+
+	AllCharge001 = "没有该累计充值礼包",
+	AllCharge002 = "已经领取了该累计充值礼包",
+	AllCharge003 = "充值金额尚未达到%d元宝，暂不能领取该累计充值礼包",
+	AllCharge004 = "获得累计充值礼包",			--for log
+	AllCharge005 = "领取累计充值礼包",			--for log
+	AllCharge006 = "免费豪礼充值送,累计充值大回馈! %s成功领取%s!",
+
+	--幻武、玄甲装备
+	ExtraEquip001 = "幻武、玄甲不能被回收",
+
+	--邮件事件
+	MailEventTitle0011 = "熔铸装备小建议",
+	MailEventTitle0012 = "    装备是您一切<(c0xFF00FF00)实力的基础>，没有更强的装备实力就无从谈起，寻找<(c0xFF00FF00)和您等级匹配的熔铸套装>是您的首要追求！\\    合成熔铸装备所需<(c0xFF00FF00)材料>可以通过野外BOSS、暗夜地图BOSS、团队副本和商城购买获得，也可以通过龙麟秘宝获得<(c0xFF00FF00)成品装备>!\\    现在送您一个<(c0xFF00FF00)熔铸礼包>，轻松获得<(c0xFF00FF00)80级熔铸装备和材料>，实力飙升！",
+
+	MailEventTitle0021 = "座驾提升小建议",
+	MailEventTitle0022 = "    座驾既有<(c0xFF00FF00)华丽酷炫的外观>，又能一定程度地提升您的实力，当属游戏中重中之重的追求！\\    现在送您一个<(c0xFF00FF00)座驾礼包>，让你能在游戏中快马加鞭，快速提升座驾星阶，获得更强的属性。",
+
+	MailEventTitle0031 = "行会相关的小建议",
+	MailEventTitle0032 = "    加入行会，与兄弟们一起<(c0xFF00FF00)抢BOSS、夺圣城>，体验兴奋感觉。每天还能参加<(c0xFF00FF00)守护神树和树海平原>，奖励多多，经验多多，不要犹豫，立刻加入行会，一起激情！\\    现在送您一个<(c0xFF00FF00)行会宝箱>，加入行会后就可以打开获得奖励哦！",
+
+	--神炉系统
+	GodStove001 = "血魄",
+	GodStove002 = "神盾",
+	GodStove003 = "龙印",
+	GodStove004 = "暴珠",
+	GodStoveTip001 = "已达到最大等级，不能升级",
+	GodStoveTip002 = "需求人物<(c0xFFFF0000)%d级>",
+	GodStoveTip003 = "没达到开启等级",
+	
+	--战神系统
+	HeroName001 = "破军战神",
+	Hero001 = "战神已达最高阶，无法再升阶",
+	Hero002 = "战神成功升级到<(c0xFF00FF00)%d阶>",
+	Hero003 = "战神进阶失败，获得祝福值",
+	Hero004 = "升级该技能需要战神达到<(c0xFFFF0000)%d阶>",
+	Hero005 = "战神技能成功升级",
+	Hero006 = "恭喜你获得新战神",
+	Hero007 = "战神已成功学习新技能",
+	Hero008 = "恭喜！<(n%s)>的战神成功提升到<(c0xFF00FF00)%d阶>！",
+	Hero009 = "战神已达到当前等级上限，请升阶后再使用",
+	Hero010 = "战神进阶次数:%d",
+	Hero011 = "获得战神祝福值:%d",
+	Hero012 = "获得了%u战神经验",
+	Hero013 = "获得了%u战神经验，战神升了%d级。",
+
+	HeroStage001 = "<(c0xFFFFFF00)二阶战神可提升至40级>\\",
+	HeroStage002 = "<(c0xFFFFFF00)三阶战神可提升至60级>\\",
+	HeroStage003 = "<(c0xFFFFFF00)四阶战神可提升至80级>\\<(c0xFFFFFF00)四阶战神可激活技能><(c0xFF00FF00)燃烧利刃>",
+	HeroStage004 = "<(c0xFFFFFF00)五阶战神可提升至100级>\\",
+	HeroStage005 = "<(c0xFFFFFF00)六阶战神可提升至120级>\\<(c0xFFFFFF00)六阶战神可激活技能><(c0xFF00FF00)利刃强化>",
+	HeroStage006 = "<(c0xFFFFFF00)七阶战神可提升至140级>\\",
+	HeroStage007 = "<(c0xFFFFFF00)八阶战神可提升至160级>\\<(c0xFFFFFF00)八阶战神可激活技能><(c0xFF00FF00)血脉强化>",
+	HeroStage008 = "<(c0xFFFFFF00)九阶战神可提升至180级>\\",
+	HeroStage009 = "<(c0xFFFFFF00)十阶战神可提升至200级>\\<(c0xFFFFFF00)十阶战神可激活技能><(c0xFF00FF00)并肩之谊>",
+	HeroStage010 = "<(c0xFFFFFF00)当前已达到最高阶级>",
+	
+	HeroItem001 = "没有战神经验丹，不能操作",
+	HeroItem002 = "没有出战的战神，不能操作",
+	HeroItem003 = "你使用了<(c0xFF21EDFF)%d个%s>,战神<(c0xFF00FF00)获得%u经验>",
+    HeroItem004 = "没有战神体力丹，不能操作",
+    HeroItem005 = "使用后将超出战神体力上限，不能使用",	
+	HeroItem006 = "战神增加体力%d",
+	HeroItem007 = "没有战神，不能操作",
+	HeroItem008 = "今天使用战神体力丹已达上限",
+	HeroItem009 = "今日战神经验丹还可使用<(c0xFFFF00)%d次>",
+	--BOSS
+	BossScene001  = "英雄遗迹",
+	Boss001 = "衰减说明1",
+	Boss002 = "衰减说明2",
+	Boss003 = "衰减说明3",
+    Boss004 = "当前Boss积分不足，不能兑换",
+    Boss005 = "兑换成功，获得%d寻宝积分",	
+    Boss006 = "你已在副本中，不能进入",	
+	Boss007 = "等级不足，不能进入",
+	Boss008 = "根据BOSS归属,<(n%s)>获得了<(c0xFF21EDFF)%d>点BOSS积分!",
+	Boss009 = "自动去掉上个BOSS提醒，<(c0xFF21EDFF)贵族用户>可增加<(c0xFF21EDFF)BOSS提醒数量>",
+    Boss010 = "领取单倍奖励成功",
+    Boss011 = "领取双倍奖励成功",
+	Boss012 = "%s (%d / %d)",
+	Boss013 = "【<(c0xFFFF0000)%s>】在【<(c0xFF21EDFF)%s>】复活了!击败可获得BOSS积分及大量极品装备! &<立即前往/@@showWin,GameBossModule,0>$",
+	Boss014 = "挑战该个人BOSS次数已满，请明日再来",
+	Boss015 = "你的等级<(c0xFFFF0000)超过BOSS等级35级以上>,无法获得BOSS积分",
+	Boss016 = "极速押运成功奖励",
+	Boss017 = "个人Boss通关奖励",
+	Boss018 = "恭喜你通关个人BOSS,获得如下奖励!",
+    Boss019 = "进入玛雅神殿第%d层等级不足", 
+	Boss020 = "Boss尚未刷新，请稍后进入",
+	Boss021 = "等级不满%d级，请继续升级",
+	Boss022 = "<%s/M%s:%d:%d:%s>",
+	
+	RestoreHpMp001 = "满血回复(消耗%d金币)",
+    RestoreHpMp002 = "满血回复(消耗%d绑定元宝)",
+    RestoreHpMp003 = "你当前的血量已满，不需要回复",
+    RestoreHpMp004 = "恭喜你，你的血和蓝已经回满",
+	
+	RecoverEquip001 = "角色的经验已经达到当前等级上限，经验超出部分将被系统忽略。",
+	RecoverEquip002 = "战神的经验已经达到当前等级上限，经验超出部分将被系统忽略。",
+	RecoverEquip003 = "今日兑换经验已满，请明日再来",
+	RecoverEquip004 = "装备回收",
+	
+	--任务提示
+	questSendTipmsg01 = "击杀BOSS能够获得BOSS积分",
+
+	--职业宗师
+	CombatRank001 = "职业宗师<(c0xFF00FF00)第%d名>的<(c0xFF00FFFF)%s>被挑战者<(c0xFF00FFFF)%s>击败了,颜面扫地!",
+	CombatRank002 = "未达到排名要求,无法兑换",
+	CombatRank003 = "职业宗师排名奖励",
+	CombatRank004 = "恭喜你在本日<(c0xFF00FF00)职业宗师>结算时<(c0xFF00FF00)排名[%d]>,获得以下奖励。",
+	CombatRankName001 = "绝顶高手",
+	CombatRankName002 = "一流高手",
+	CombatRankName003 = "二流高手",
+	CombatRankName004 = "三流高手",
+	CombatRankName005 = "擂台新星",
+
+	--材料副本
+	MaterialFBName001 = "翅膀副本",
+	MaterialFBName002 = "神盾副本",
+	MaterialFBName003 = "龙印副本",
+	MaterialFBName004 = "暴珠副本",
+
+	MaterialFuBenPanelContentTitle = "完成条件",
+	MaterialFuBenPanelAwardTitle   = "副本奖励",
+	MaterialFuBenPanelTimeTitle    = "剩余时间:",
+	MaterialFuBenPanel01 = "击杀怪物(%d/%d)",
+
+	MaterialFuBenMailTitle = "材料副本通关奖励",
+	MaterialFuBenMailCont  = "您成功通过材料副本-%s,特此奖励",
+
+	MaterialFuBen001  = "当前状态不能进入材料副本",
+	MaterialFuBen002  = "魔神令不足，不能进入副本",
+	MaterialFuBen003  = "进入材料副本扣除消耗",				--for log
+	MaterialFuBen004  = "领取材料副本奖励消耗",			    --for log
+	MaterialFuBen005  = "元宝不足，不能领取奖励",
+	MaterialFuBen006  = "领取材料副本奖励",					--for log
+	MaterialFuBen007  = "超过该材料副本每日进入次数",
+	MaterialFuBen008  = "扫荡材料副本扣除消耗",				--for log
+	MaterialFuBen009  = "元宝不足，不能扫荡",
+	MaterialFuBen010  = "扫荡材料副本奖励",					--for log
+	MaterialFuBen011  = "等级不足，不能进行材料副本",
+	MaterialFuBen012  = "怪物尚未击杀完毕，不能领取副本奖励",
+	MaterialFuBen013  = "不在材料副本中，不能领取副本奖励",
+	MaterialFuBen014  = "已经领取本次材料副本通过奖励，不能再次领取",
+	MaterialFuBen015  = "超过该材料副本的每日扫荡次数",
+	MaterialFuBen016  = "背包空间不足，不能扫荡",
+	MaterialFuBen017  = "等级不足，不能进入材料副本",
+	MaterialFuBen018  = "等级不足，不能领奖材料副本",
+	MaterialFuBen019  = "等级不足，不能扫荡材料副本",
+	MaterialFuBen020  = "您的VIP等级没有达到%d级，不能扫荡该材料副本",
+	
+	YYPurpleDiamond001=  "本次副本挑战倒计时:",
+    YYPurpleDiamond002=  "副本目标:",
+    YYPurpleDiamond003=  "boss掉落:",
+    YYPurpleDiamond004=  "您的yy紫钻已经过期",
+
+    --boss令
+	UseBossToken001 = "必须在<(c0xFF21EDFF)大漠古城>才能召唤boss",
+	UseBossToken002 = "召唤BOSS！<(n%s)>在<(c0xFF21EDFF)大漠古城>召唤了【<(c0xFFFF0000)%s>】!<立即前往击杀/M大漠古城:%d:%d>",
+	UseBossToken003 = "很遗憾挑战失败，召唤的BOSS消失了",
+	UseBossToken004 = "安全区<(c0xFFFF0000)不能召唤boss>",
+	
+	BossComeOnTitle001  = "<font color='#FF9224' size='16'>BOSS来袭</font>",
+	BossComeOnTitle002  = "<font color='#FF9224' size='16'>金银满地</font>",
+	BossComeOnTitle003  = "BOSS来袭",
+	BossComeOnTitle004  = "金银满地",	
+	
+	BossComeOn001 = "BOSS来袭!【<(c0xFFFF0000)%s>】空降英雄城掀起一场血雨腥风!<谁来阻止/M英雄城:75:104>!",
+	BossComeOn101 = "金银满地!【<(c0xFFFF0000)%s>】已潜入英雄城正在四处闲逛!<谁来阻止/M英雄城:75:104>!",
+	BossComeOn002 = "距离下一波怪物刷出还有:",
+	BossComeOn003 = "<font color='#F0F8FF' size='12'>今日本场活动的所有怪物已经刷完<BR>    请尽快打败怪物拾取奖励</font>",
+	BossComeOn004 = "<font color='#21EDFF' size='14'>当前怪物波数:%d/%d</font><BR>",
+	BossComeOn005 = "<font color='#FF0000' size='14'>未刷出</font>",
+	BossComeOn006 = "<font color='#00BB00' size='14'>已刷出</font>",
+	BossComeOn007 = "<font color='#F9F900' size='14'>已击败</font>",
+	BossComeOn008 = "<font color='#FF9224' size='14'>%s</font>:%s",
+	
+	BossComeOnNotice001 = "<(c0xFF21EDFF)%s活动>还有5分钟开始啦!请各位勇士做好准备!&<查看详情/@@showWin,GameActivityModule,0>$",
+	BossComeOnNotice002 = "<(c0xFF21EDFF)%s活动>开始!请各位勇士前往参与活动!&<查看详情/@@showWin,GameActivityModule,0>$", 
+	BossComeOnNotice003 = "本日<(c0xFF21EDFF)%s活动>已经结束!",
+	
+	Guildsiege101 = "领取城主特权",
+	Guildsiege102 = "穿上/脱下龙套",
+	Guildsiege103 = "领取城主buff",
+	Guildsiege104 = "领取没人津贴",
+	Guildsiege105 = "返回",
+	Guildsiege106 = "不是城主",
+	Guildsiege107 = "穿上龙套",
+	Guildsiege108 = "脱下龙套",
+	Guildsiege109 = "获得城主buff",
+	Guildsiege110 = "已经拥有城主buff",
+
+
+	--开服主题活动
+	OpenServeThemeName01	  = "涅槃转生",
+	OpenServeThemeDesc01 	  = "<b><font size='14'>在开服<font color='#21EDFF'>第一天</font>晚上23:00分活动结束时，<font color='#21EDFF'>转数最高</font>的玩家获得神装(<font color='#FF0000'>需5转以上</font>)</font></b>",
+	OpenServeThemeBroadMsg1   = "<(c0xFF21EDFF)【涅槃转生】>主题活动现已开启，<(c0xFF21EDFF)5转以上>的玩家将有机会获得神装奖励。&<查看开服神装/@@showWin,GameOpenServerModule,2>$",
+	OpenServeThemeAwardMsg1   = "恭喜<(n%s)>成为开服首日<(c0xFF21EDFF)【涅槃转生】>主题活动获奖者，获得珍稀神装:【%s】",
+	OpenServeThemeAfterMsg10  = "<(c0xFFFF0000)很遗憾开服首日【涅槃转生】没有获奖者，本服珍稀神装与之失之交臂，可惜可惜！！！>",
+	OpenServeThemeAfterMsg11  = "开服首日<(c0xFF21EDFF)【涅槃转生】>主题活动到此结束,恭喜<(n%s)>成为最终获奖者!",
+	OpenServeThemeMailTitle1  = "开服第一天主题活动奖励",
+	OpenServeThemeMailCont1   = "恭喜您获得开服第一天主题活动【涅槃转生】奖励！",
+	OpenServeThemeCircleMsg1  = "<(n%s)>达到<(c0xFF21EDFF)【%d转】>接近首日主题活动胜利！建议该玩家保持绝对领先优势！神装就垂手可得了！",	--战士
+	OpenServeThemeCircleMsg2  = "<(n%s)>达到<(c0xFF21EDFF)【%d转】>接近首日主题活动胜利！建议该玩家保持绝对领先优势！神装就垂手可得了！",	--法师
+	OpenServeThemeCircleMsg3  = "<(n%s)>达到<(c0xFF21EDFF)【%d转】>接近首日主题活动胜利！建议该玩家保持绝对领先优势！神装就垂手可得了！",	--巫师
+
+	OpenServeThemeName02 	  = "尊贵VIP",
+	OpenServeThemeDesc02 	  = "<b><font size='14'>在开服<font color='#21EDFF'>第二天</font>晚上23:00活动结束时，<font color='#21EDFF'>VIP等级最高</font>的玩家获得神装(<font color='#FF0000'>需VIP6以上</font>)</font></b>",
+	OpenServeThemeBroadMsg2   = "<(c0xFF21EDFF)【尊贵VIP】>主题活动现已开启，<(c0xFF21EDFF)VIP6及以上>的玩家将有机会获得神装奖励。&<查看开服神装/@@showWin,GameOpenServerModule,2>$",
+	OpenServeThemeAwardMsg2   = "恭喜<(n%s)>成为开服第二天<(c0xFF21EDFF)【尊贵VIP】>主题活动获奖者，获得珍稀神装:【%s】",
+	OpenServeThemeAfterMsg20  = "<(c0xFFFF0000)很遗憾开服第二天【尊贵VIP】没有获奖者，本服珍稀神装与之失之交臂，可惜可惜！！！>",
+	OpenServeThemeAfterMsg21  = "开服第二天<(c0xFF21EDFF)【尊贵VIP】>主题活动到此结束,恭喜<(n%s)>成为最终获奖者! ",
+	OpenServeThemeMailTitle2  = "开服第二天主题活动奖励",
+	OpenServeThemeMailCont2   = "恭喜您获得开服第二天主题活动【尊贵VIP】奖励！",
+
+	OpenServeThemeName03	  = "英雄霸主",
+	OpenServeThemeDesc03 	  = "<b><font size='14'>在开服<font color='#21EDFF'>第三天</font>晚上21:00活动结束时，<font color='#21EDFF'>占领英雄城的行会首领</font>获得神装</font></b>",
+	OpenServeThemeBroadMsg3   = "<(c0xFF21EDFF)【英雄霸主】>主题活动现已开启，<(c0xFF21EDFF)占领英雄城>的行会首领将获得神装奖励。&<查看开服神装/@@showWin,GameOpenServerModule,2>$",
+	OpenServeThemeAwardMsg3   = "恭喜【%s】的首领<(n%s)>成为开服第三天<(c0xFF21EDFF)【英雄霸主】>主题活动获奖者，获得珍稀神装:【%s】",
+	OpenServeThemeAfterMsg30  = "<(c0xFFFF0000)很遗憾开服第三天【英雄霸主】没有获奖者，本服珍稀神装与之失之交臂，可惜可惜！！！> ",
+	OpenServeThemeAfterMsg31  = "开服第三天<(c0xFF21EDFF)【英雄霸主】>主题活动到此结束,恭喜【%s】的首领<(n%s)>成为最终获奖者! ",
+	OpenServeThemeMailTitle3  = "开服第三天主题活动奖励",
+	OpenServeThemeMailCont3   = "恭喜您获得开服第三天主题活动【英雄霸主】奖励！",
+
+
+	OpenServeThemeName04 	  = "消费排行",
+	OpenServeThemeDesc04 	  = "<b><font size='14'>开服<font color='#21EDFF'>第四天</font>晚上23:00活动结束时，<font color='#21EDFF'>累积消费最高</font>的玩家获得神装(<font color='#FF0000'>需累积达120万元宝</font>)</font></b>",
+	OpenServeThemeBroadMsg4   = "<(c0xFF21EDFF)【消费排行】>主题活动现已开启，<(c0xFF21EDFF)累积消费达1200000元宝>的玩家将有机会获得神装奖励。&<查看开服神装/@@showWin,GameOpenServerModule,2>$",
+	OpenServeThemeAwardMsg4   = "恭喜<(n%s)>成为开服第四天<(c0xFF21EDFF)【消费排行】>主题活动获奖者，获得珍稀神装:【%s】",
+	OpenServeThemeAfterMsg40  = "<(c0xFFFF0000)很遗憾开服第四天【消费排行】没有获奖者，本服珍稀神装与之失之交臂，可惜可惜！！！> ",
+	OpenServeThemeAfterMsg41  = "开服第四天<(c0xFF21EDFF)【消费排行】>主题活动到此结束,恭喜<(n%s)>成为最终获奖者! ",
+	OpenServeThemeMailTitle4  = "开服第四天主题活动奖励",
+	OpenServeThemeMailCont4   = "恭喜您获得开服第四天主题活动【消费排行】奖励！",
+
+
+	OpenServeThemeName05 	  = "个人试炼",
+	OpenServeThemeDesc05 	  = "<b><font size='14'>在开服<font color='#21EDFF'>第五天</font>晚上23:00活动结束时，<font color='#21EDFF'>个人试炼第一名</font>的玩家获得神装(<font color='#FF0000'>需达16层以上</font>)</font></b>",
+	OpenServeThemeBroadMsg5   = "<(c0xFF21EDFF)【个人试炼】>主题活动现已开启，<(c0xFF21EDFF)个人试炼第一名>的玩家将有机会获得神装奖励。&<查看开服神装/@@showWin,GameOpenServerModule,2>$",
+	OpenServeThemeAwardMsg5   = "恭喜<(n%s)>成为开服第五天<(c0xFF21EDFF)【个人试炼】>主题活动获奖者，获得珍稀神装:【%s】",
+	OpenServeThemeAfterMsg50  = "<(c0xFFFF0000)很遗憾开服第五天【个人试炼】没有获奖者，本服珍稀神装与之失之交臂，可惜可惜！！！> ",
+	OpenServeThemeAfterMsg51  = "开服第五天<(c0xFF21EDFF)【个人试炼】>主题活动到此结束,恭喜<(n%s)>成为最终获奖者!  ",
+	OpenServeThemeMailTitle5  = "开服第五天主题活动奖励",
+	OpenServeThemeMailCont5   = "恭喜您获得开服第五天主题活动【个人试炼】奖励！",
+
+	OpenServeThemeName06 	  = "羽化翅膀",
+	OpenServeThemeDesc06 	  = "<b><font size='14'>在开服<font color='#21EDFF'>第六天</font>晚上23:00活动结束时，<font color='#21EDFF'>翅膀最高阶</font>的玩家获得神装(<font color='#FF0000'>需达6阶以上</font>)</font></b>",
+	OpenServeThemeBroadMsg6   = "<(c0xFF21EDFF)【羽化翅膀】>主题活动现已开启，<(c0xFF21EDFF)6阶以上翅膀>的玩家将有机会获得神装奖励。&<查看开服神装/@@showWin,GameOpenServerModule,2>$",
+	OpenServeThemeAwardMsg6   = "恭喜<(n%s)>成为开服第六天<(c0xFF21EDFF)【羽化翅膀】>主题活动获奖者，获得珍稀神装:【%s】",
+	OpenServeThemeAfterMsg60  = "<(c0xFFFF0000)很遗憾开服第六天【羽化翅膀】没有获奖者，本服珍稀神装与之失之交臂，可惜可惜！！！> ",
+	OpenServeThemeAfterMsg61  = "开服第六天<(c0xFF21EDFF)【羽化翅膀】>主题活动到此结束,恭喜<(n%s)>成为最终获奖者! ",
+	OpenServeThemeMailTitle6  = "开服第六天主题活动奖励",
+	OpenServeThemeMailCont6   = "恭喜您获得开服第六天主题活动【羽化翅膀】奖励！",
+
+	OpenServeThemeName07 	  = "最大攻击",
+	OpenServeThemeDesc07 	  = "<b><font size='14'>在开服<font color='#21EDFF'>第七天</font>晚上23:00活动结束时，<font color='#21EDFF'>最大攻击最高</font>的玩家获得神装(<font color='#FF0000'>需达10000以上</font>)</font></b>",
+	OpenServeThemeBroadMsg7   = "<(c0xFF21EDFF)【最大攻击】>主题活动现已开启，<(c0xFF21EDFF)最大攻击达8000>的玩家将有机会获得神装奖励。&<查看开服神装/@@showWin,GameOpenServerModule,2>$",
+	OpenServeThemeAwardMsg7   = "恭喜<(n%s)>成为开服第七天<(c0xFF21EDFF)【最大攻击】>主题活动获奖者，获得珍稀神装:【%s】",
+	OpenServeThemeAfterMsg70  = "<(c0xFFFF0000)很遗憾开服第七天【最大攻击】没有获奖者，本服珍稀神装与之失之交臂，可惜可惜！！！> ",
+	OpenServeThemeAfterMsg71  = "开服第七天<(c0xFF21EDFF)【最大攻击】>主题活动到此结束,恭喜<(n%s)>成为最终获奖者!  ",
+	OpenServeThemeMailTitle7  = "开服第七天主题活动奖励",
+	OpenServeThemeMailCont7   = "恭喜您获得开服第七天主题活动【最大攻击】奖励！",
+
+	OpenServeThemeLog001	  = "发送开服主题活动奖励",  		--for log
+
+	--每日充值
+	DailyCharge001 = "本日充值达到%d元宝才能领取本档次充值奖励",
+	DailyCharge002 = "已经领取了本档次充值奖励",
+	DailyCharge003 = "领取每日充值奖励",				--for log
+	DailyCharge004 = "每日充值奖励补发和重置",			--for log
+	DailyCharge005 = "恭喜<(n%s)>领取价值<(c0xFF21EDFF)%d元宝>的每日充值大礼，&<超值每日礼包我也要领取/@@showWin,GameDailyChargeModule>$",
+
+	DailyChargeMailTitle = "每日充值奖励",
+	DailyChargeMailCont  = "您没有领取今日充值%d元宝的奖励，特此补发，请查收",
+
+	UseRedNameMedical001 = "没有PK值，不需要使用红名药水",
+	UseRedNameMedical002 = "PK值降低%d",
+
+	ItemUseCount001 = "物品今日使用次数已达上限",
+
+	--锁妖塔
+	LockBoss001 = "进入第%d层(%s) 消耗魔神令%d",
+	LockBoss002 = "【<(c0xFFFF0000)%s>】在【<(c0xFF21EDFF)%s>】复活了！赶紧前往击杀抢夺高级转生装备！&<立即前往/M英雄遗迹:0:0:锁妖塔>$",
+	LockBoss003 = "团队副本组队状态，无法进入",
+	LockBoss004 = "进入锁妖塔场景费用", 		--for log
+
+	TestLevelMailYb001 = "发元宝-删档测试",
+	TestLevelMailYb002 = "    感谢您参与《魔神》本次删档测试！发送元宝体验的等级分别为<(c0xFF21EDFF)45级、75级、80级、82级、85级、90级、1至5转>。\\    如您在游戏中发现任何bug，以及对游戏的建议，请通过<(c0xFF21EDFF)“你提我改”>提出您的宝贵意见，<(c0xFF00FF00)我们将认真审读您的反馈，一些有趣的建议还可以实现到游戏中哦>！\\    祝您游戏愉快！\\                    《魔神》研发团队",
+    TestMailVip001 = "送VIP5-删档测试",
+	TestMailVip002 = "    感谢您参与《魔神》本次删档测试！当您角色等级满<(c0xFF21EDFF)90级>，系统将提升您的VIP等级至<(c0xFF21EDFF)VIP5>！让您更好体验游戏！\\    如您在游戏中发现任何bug，以及对游戏的建议，请通过<(c0xFF21EDFF)“你提我改”>提出您的宝贵意见，<(c0xFF00FF00)我们将认真审读您的反馈，一些有趣的建议还可以实现到游戏中哦>！\\    祝您游戏愉快！\\                    《魔神》研发团队",
+	--[[
+	LockBoss011 = "进入锁妖塔第1层(1转-2转) 消耗魔神令 20 ",
+	LockBoss012 = "进入锁妖塔第2层(3转-4转) 消耗魔神令 30 ",
+	LockBoss013 = "进入锁妖塔第3层(5转-8转) 消耗魔神令 40 ",
+	LockBoss014 = "进入锁妖塔第4层(7转-8转) 消耗魔神令 50 ",
+	LockBoss015 = "进入锁妖塔第5层(9转-10转) 消耗魔神令 60 ",
+	LockBoss016 = "进入锁妖塔第6层(11转-12转) 消耗魔神令 70 ",
+	LockBoss017 = "进入锁妖塔第7层(13转及以上) 消耗魔神令 80 ",
+	]]
+	
+	ShengShou001 = "进入圣兽幽谷",
+	ShengShou002 = "进入圣兽幽谷等级需要%d级以上并加入行会。",
+	ShengShou003 = "圣兽挑战只能由<(c0xFF21EDFF)行会人员>参与，请加入行会。",
+	ShengShou004 = "圣兽幽谷挑战尚未开启。",
+    ShengShou005 = "活动入口已关，请在下次活动开启时参与。",
+	ShengShou006 = "圣兽幽谷封印柱已刷出，请<行会结队前往挑战圣兽/M英雄遗迹:0:0:圣兽使者>！抢夺高阶装备与稀有物品！",
+	ShengShou007 = "封印柱已被破坏，<(c0xFFFF0000)%s>从封印中苏醒，击败其抢夺高阶装备吧！",
+	ShengShou008 = "本次圣兽幽谷结束，可惜封印柱仍在未能召唤出圣兽！",
+	ShengShou009 = "本次圣兽幽谷结束，可惜圣兽实力太强大，勇士们眼睁睁看它消失在幽谷中！",
+	ShengShou010 = "本次圣兽幽谷结束，本轮圣兽成功被击败，期待明天同一时间继续挑战圣兽幽谷！",	
+	ShengShou011 = "行会人多力量大，直捣幽谷三层击败圣兽，众勇士瓜分了所有稀有掉落！",
+	ShengShou012 = "本活动默认<(c0xFF3563FE)行会模式>。\\沿路的小怪击败后仍会刷出，请不要逗留。\\请抓紧时间冲到第三层<(c0xFFFF0000)击败封印柱召唤圣兽>。",
+	ShengShou013 = "本活动默认<(c0xFF3563FE)行会模式>。\\沿路的小怪击败后仍会刷出，请不要逗留。\\请抓紧时间冲到第三层<(c0xFFFF0000)击败封印柱召唤圣兽>。",
+	ShengShou014 = "本层<(c0xFFFF0000)无法回到上一层>。\\击败四座封印柱后，会<(c0xFF21EDFF)随机出现四圣兽的其中一只>。\\击败四圣兽获得<(c0xFF21EDFF)高阶装备及稀有材料。>",
+	ShengShou015 = "剩余时间:",	
+	
+    --装备打捆
+	PackItemTitle001 = "1000W经验丹",
+	PackItemTitle002 = "1500W经验丹",
+	PackItemTitle003 = "2000W经验丹",
+	PackItemTitle004 = "金砖(中)",	
+	PackItemTitle005 = "金砖(大)",
+	PackItemTitle006 = "真·魔神装备",
+	PackItemTitle007 = "真·魔神幻盔",
+	PackItemTitle008 = "真·魔神幻链",
+	PackItemTitle009 = "真·魔神幻镯",
+	PackItemTitle010 = "真·魔神幻指",
+	PackItemTitle011 = "真·魔神幻带",
+	PackItemTitle012 = "真·魔神幻靴",
+	PackItemTitle013 = "真·魔神幻甲(男)",
+	PackItemTitle014 = "真·魔神幻甲(女)",
+	PackItemTitle015 = "部位精华",
+	PackItem001 = "打捆成功",
+	PackItem002 = "合成成功",
+	PackItem003=  "需要身上有%s装备才能合成",
+
+	--每日竞技
+	DayMatchTitle001 = "职业宗师",
+	DayMatchTitle002 = "勇闯天关",
+	DayMatchTitle003 = "强化大师",
+	DayMatchTitle004 = "神炉炼制",
+	DayMatchTitle005 = "冲击技能",
+	DayMatchTitle006 = "进阶翅膀",
+	DayMatchTitle007 = "战力比拼",
+	
+	DayMatch001 = "尚未达标，不能领奖",
+	DayMatch002 = "已领取过该达标奖励",
+	DayMatch003 = "达标奖励已被领取完",
+	DayMatch004 = "领取达标奖励成功",
+	DayMatch005 = "恭喜<(n%s)>经过不懈努力，获得%s中排名%d。",
+	DayMatch006 = "%s排名%d奖励",
+	DayMatch007 = "恭喜你在%s中排名%d，获得以下奖励；",
+	DayMatch008 = "你已经购买过该礼包",
+	DayMatch009 = "购买礼包成功",
+    
+	Intercede = "操作太频繁，请稍后再操作",
+	
+	ComboServer001 = "领取成功",
+	ComboServer002 = "尚未达成,不能领取",
+	ComboServer003 = "该奖励已经领取过",
+	ComboServer004 = "合服攻城-首领奖励",
+	ComboServer005 = "恭喜获得合服攻城首领奖励:",
+	ComboServer006 = "合服攻城-成员奖励",
+	ComboServer007 = "恭喜获得合服攻城成员奖励:",
+	ComboServer008 = "寻宝狂欢50次额外奖励",
+	ComboServer009 = "恭喜获得寻宝狂欢50次额外奖励:",
+	ComboServer010 = "满额豪礼额外奖励",
+	ComboServer011 = "恭喜获得满额豪礼额外奖励:",
+	ComboServer012 = "满额豪礼奖励",
+	ComboServer013 = "恭喜获得满额豪礼奖励:",	
+	ComboServer014 = "购买成功",
+	ComboServer015 = "该物品已购买过",
+	ComboServer016 = "连续累充奖励",
+	ComboServer017 = "恭喜获得连续累充奖励:",
+	ComboServer018 = "合服BOSS【<(c0xFFFF0000)%s>】悄悄的出现在攻城区，英雄们请速前往击杀!<立即前往/M%s:%d:%d>",
+	
+	OpenServerBoss001 = "未达标,不能领奖",
+	OpenServerBoss002 = "已领奖，不能重复领取",
+	OpenServerBoss003 = "恭喜你，领奖成功",
+	
+	OpenServerBossNpc001 =  "m英雄遗迹:104:92:未知暗殿",
+	OpenServerBossNpc002 =  "m英雄遗迹:102:90:BOSS之家",
+	OpenServerBossNpc003 =  "m英雄遗迹:108:96:玛雅使者",
+	OpenServerBossNpc004 =  "m英雄遗迹:101:84:圣兽使者",
+	
+	EnterSceneNotice001 = "<(n%s)>进入了<(c0xFF00CBFE)%s>,BOSS多刷新快，是前期必来的宝地！",    --未知暗殿
+	EnterSceneNotice002 = "<(n%s)>进入了<(c0xFF00CBFE)%s>,BOSS多爆率高，层数越高，掉落装备越极品",	--玛雅神殿每层
+	EnterSceneNotice003 = "<(n%s)>进入了<(c0xFF00CBFE)%s>,层数越高，掉落装备越极品，锁妖塔可以从英雄遗迹NPC锁妖塔进入！",	--锁妖塔
+	
+	
+	BiGuan001 = "激情闭关奖励",
+	BiGuan002 = "恭喜你在参加本日激情闭关活动中获得以下奖励。",
+	BiGuan003 = "当前抢占泡点：<(c0xFF00DB00)%d倍奖励>",
+	BiGuan004 = "当前获得经验：<(c0xFF00DB00)%u>",
+	BiGuan005 = "<(c0xFF00DB00)1倍>经验泡点：全地图",
+	BiGuan006 = "<(c0xFF2CA0F1)2倍>经验泡点：%d个",
+	BiGuan008 = "<(c0xFFCE1AF5)3倍>经验泡点：%d个",
+	BiGuan009 = "<(c0xFFFF0000)5倍>经验泡点：%d个",
+	BiGuan010 = "活动不在开放时间内或已结束",
+	BiGuan011 = "当前获得血魄：<(c0xFF00DB00)%u>",
+	BiGuan012 = "请先脱离队伍再进入",
+	
+	FubenRole001 =  "新手副本",
+	FubenRole002 =  "击杀BOSS获得大量奖励。",
+	FubenRole003 = "剩余时间:",	
+	FubenRole004 = "任务%s的奖励",
+	FubenRole005 = "因背包空间不足，任务奖励发送邮件给你。",
+	
+	FubenRoleNpc001  =  "m兽人洞:143:54:诺冉",
+	FubenRoleNpc002  =  "m桃花林:99:34:王朝史官",
+	FubenRoleNpc003  =  "m翼族明宫一层:54:84:铁头",
+	FubenRoleNpc004  =  "m镇妖墓一层:36:34:日循",
+
+	--限时礼包
+	GiftTips1= "<(c0xFF00DB00)8件80级装备，直接完成装备达人任务>",  --80级装备礼包
+	GiftTips2= "<(c0xFF00DB00)打开获得修为丹，转生直达2转>",	--高手礼包
+	GiftTips3= "<(c0xFF00DB00)至少可得12000万经验，挂机升级飞起来>",	--升级特惠礼包
+	GiftTips4= "<(c0xFF00DB00)180个魔神令加战神体力药水，天关任意闯>",	--魔神令特惠礼包
+	GiftTips5= "<(c0xFF00DB00)暴珠直达15级，暴击力直加2792>",	--暴珠特惠礼包
+	GiftTips6= "<(c0xFF00DB00)龙印直达20级，攻击直加1074>",	--龙印特惠礼包
+	GiftTips7= "<(c0xFF00DB00)打开获得技能书，助你技能直达6级>",	--技能特惠礼包
+	GiftTips8= "<(c0xFF00DB00)获得战神技能书，助你战神技能直达4级>",	--战神礼盒
+	GiftTips9= "<(c0xFF00DB00)打开获得修为丹，助你转生直达5转>",	--5转礼盒
+	GiftTips10= "<(c0xFF00DB00)3转武器加强10金币，攻击直加1502>",	--霸服礼盒
+	GiftTips11= "<(c0xFF00DB00)打开获得修为丹，转生直达3转>",	--至尊礼盒
+
+
+	
+}
+

@@ -1,0 +1,232 @@
+{
+  "1": {
+    "circle": 0,
+    "day": 0,
+    "hierarchy": 1,
+    "id": 1,
+    "level": 0,
+    "openCircle": 0,
+    "openDay": 0,
+    "openLevel": 0
+  },
+  "2": {
+    "circle": 0,
+    "day": 0,
+    "hierarchy": 2,
+    "id": 2,
+    "level": 0,
+    "openCircle": 0,
+    "openDay": 0,
+    "openLevel": 0
+  },
+  "3": {
+    "circle": 0,
+    "day": 0,
+    "hierarchy": 2,
+    "id": 3,
+    "level": 0,
+    "name": "|C:0xf56f00&T:神装系统30级开放|",
+    "openCircle": 0,
+    "openDay": 1,
+    "openLevel": 0
+  },
+  "4": {
+    "circle": 0,
+    "day": 0,
+    "hierarchy": 2,
+    "id": 4,
+    "level": 0,
+    "name": "|C:0xf56f00&T:时装系统25级开放|",
+    "openCircle": 0,
+    "openDay": 0,
+    "openLevel": 0
+  },
+  "5": {
+    "circle": 0,
+    "day": 0,
+    "hierarchy": 1,
+    "id": 5,
+    "level": 0,
+    "openCircle": 0,
+    "openDay": 0,
+    "openLevel": 0
+  },
+  "6": {
+    "circle": 0,
+    "day": 0,
+    "hierarchy": 2,
+    "id": 6,
+    "level": 0,
+    "openCircle": 0,
+    "openDay": 0,
+    "openLevel": 0
+  },
+  "7": {
+    "circle": 0,
+    "day": 0,
+    "hierarchy": 2,
+    "id": 7,
+    "level": 0,
+    "openCircle": 0,
+    "openDay": 0,
+    "openLevel": 0
+  },
+  "8": {
+    "circle": 5,
+    "day": 2,
+    "hierarchy": 2,
+    "id": 8,
+    "level": 1,
+    "name": "|C:0xf56f00&T:内功系统5转开放|",
+    "openCircle": 5,
+    "openDay": 2,
+    "openLevel": 1
+  },
+  "9": {
+    "circle": 0,
+    "day": 0,
+    "hierarchy": 1,
+    "id": 9,
+    "level": 1,
+    "name": "|C:0xf56f00&T:转生系统60级开放|",
+    "openCircle": 0,
+    "openDay": 0,
+    "openLevel": 1
+  },
+  "10": {
+    "circle": 0,
+    "day": 0,
+    "hierarchy": 2,
+    "id": 10,
+    "level": 0,
+    "openCircle": 0,
+    "openDay": 0,
+    "openLevel": 0
+  },
+  "11": {
+    "circle": 0,
+    "day": 0,
+    "hierarchy": 1,
+    "id": 11,
+    "level": 0,
+    "openCircle": 0,
+    "openDay": 0,
+    "openLevel": 0
+  },
+  "12": {
+    "circle": 0,
+    "day": 0,
+    "hierarchy": 2,
+    "id": 12,
+    "level": 0,
+    "openCircle": 0,
+    "openDay": 0,
+    "openLevel": 0
+  },
+  "13": {
+    "circle": 0,
+    "day": 0,
+    "hierarchy": 2,
+    "id": 13,
+    "level": 0,
+    "name": "|C:0xf56f00&T:四象系统开服第4天开启|",
+    "openCircle": 0,
+    "openDay": 0,
+    "openLevel": 0
+  },
+  "14": {
+    "circle": 0,
+    "day": 0,
+    "hierarchy": 2,
+    "id": 14,
+    "level": 32,
+    "name": "|C:0xf56f00&T:特戒系统开服第2天开启|",
+    "openCircle": 0,
+    "openDay": 0,
+    "openLevel": 0
+  },
+  "15": {
+    "circle": 0,
+    "day": 999,
+    "hierarchy": 1,
+    "id": 15,
+    "level": 999,
+    "openCircle": 0,
+    "openDay": 0,
+    "openLevel": 999
+  },
+  "16": {
+    "circle": 0,
+    "day": 999,
+    "hierarchy": 2,
+    "id": 16,
+    "level": 999,
+    "openCircle": 0,
+    "openDay": 0,
+    "openLevel": 999
+  },
+  "17": {
+    "circle": 0,
+    "day": 0,
+    "hierarchy": 2,
+    "id": 17,
+    "level": 0,
+    "openCircle": 0,
+    "openDay": 0,
+    "openLevel": 0
+  },
+  "18": {
+    "circle": 0,
+    "day": 0,
+    "hierarchy": 2,
+    "id": 18,
+    "level": 0,
+    "name": "|C:0xf56f00&T:神魔系统四转开放|",
+    "openCircle": 4,
+    "openDay": 0,
+    "openLevel": 0
+  },
+  "19": {
+    "circle": 3,
+    "day": 0,
+    "hierarchy": 1,
+    "id": 19,
+    "level": 0,
+    "openCircle": 3,
+    "openDay": 0,
+    "openLevel": 0
+  },
+  "20": {
+    "circle": 3,
+    "day": 0,
+    "hierarchy": 2,
+    "id": 20,
+    "level": 0,
+    "name": "|C:0xf56f00&T:兵魂系统3转后开启|",
+    "openCircle": 3,
+    "openDay": 0,
+    "openLevel": 0
+  },
+  "21": {
+    "circle": 3,
+    "day": 0,
+    "hierarchy": 2,
+    "id": 21,
+    "level": 0,
+    "name": "|C:0xf56f00&T:圣宠系统3转后开启|",
+    "openCircle": 3,
+    "openDay": 0,
+    "openLevel": 0
+  },
+  "22": {
+    "circle": 3,
+    "day": 15,
+    "hierarchy": 2,
+    "id": 22,
+    "level": 1,
+    "name": "|C:0xf56f00&T:字诀系统3转后开启|",
+    "openCircle": 3,
+    "openDay": 15,
+    "openLevel": 1
+  }
+}

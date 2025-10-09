@@ -1,0 +1,101 @@
+{
+  "10274": {
+    "1": {
+      "1": {
+        "Count": 1,
+        "Description": "fc_t6",
+        "GiftTable": [
+          {
+            "count": 1,
+            "id": 40,
+            "type": 0
+          },
+          {
+            "count": 3,
+            "id": 1242,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 902,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 912,
+            "type": 0
+          }
+        ],
+        "Id": 10274,
+        "days": 1,
+        "isCheckTime": 1,
+        "jobs": 1,
+        "name": "首充"
+      }
+    },
+    "2": {
+      "1": {
+        "Count": 1,
+        "GiftTable": [
+          {
+            "count": 1,
+            "id": 40,
+            "type": 0
+          },
+          {
+            "count": 3,
+            "id": 1242,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 902,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 912,
+            "type": 0
+          }
+        ],
+        "Id": 10274,
+        "days": 1,
+        "isCheckTime": 1,
+        "jobs": 2,
+        "name": "首充"
+      }
+    },
+    "3": {
+      "1": {
+        "Count": 1,
+        "GiftTable": [
+          {
+            "count": 1,
+            "id": 40,
+            "type": 0
+          },
+          {
+            "count": 3,
+            "id": 1242,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 902,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 912,
+            "type": 0
+          }
+        ],
+        "Id": 10274,
+        "days": 1,
+        "isCheckTime": 1,
+        "jobs": 3,
+        "name": "首充"
+      }
+    }
+  }
+}

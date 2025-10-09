@@ -1,0 +1,104 @@
+{
+  "1": {
+    "id": 1,
+    "level": 50,
+    "reward": [
+      {
+        "count": 5000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 1,
+        "id": 421,
+        "type": 0
+      }
+    ],
+    "tips": "|C:0xf56f00&T:领取成功|"
+  },
+  "2": {
+    "id": 2,
+    "level": 60,
+    "reward": [
+      {
+        "count": 10000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 2,
+        "id": 421,
+        "type": 0
+      }
+    ],
+    "tips": "|C:0xf56f00&T:领取成功|"
+  },
+  "3": {
+    "id": 3,
+    "level": 70,
+    "reward": [
+      {
+        "count": 15000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 3,
+        "id": 421,
+        "type": 0
+      }
+    ],
+    "tips": "|C:0xf56f00&T:领取成功|"
+  },
+  "4": {
+    "id": 4,
+    "level": 80,
+    "reward": [
+      {
+        "count": 20000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 5,
+        "id": 853,
+        "type": 0
+      }
+    ],
+    "tips": "|C:0xf56f00&T:领取成功|"
+  },
+  "5": {
+    "id": 5,
+    "level": 90,
+    "reward": [
+      {
+        "count": 25000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 5,
+        "id": 854,
+        "type": 0
+      }
+    ],
+    "tips": "|C:0xf56f00&T:领取成功|"
+  },
+  "6": {
+    "id": 6,
+    "level": 100,
+    "reward": [
+      {
+        "count": 30000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 1,
+        "id": 365,
+        "type": 0
+      }
+    ],
+    "tips": "|C:0xf56f00&T:领取成功|"
+  }
+}

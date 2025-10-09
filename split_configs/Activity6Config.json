@@ -1,0 +1,370 @@
+{
+  "9": {
+    "Id": 9,
+    "Ntipstext_1": "|C:0xeee104&T:活动：散财鹿|",
+    "Ntipstext_2": "活动时间：|C:0x2eb52d&T:每日13:00-13:30|",
+    "Ntipstext_3": "找到和击败神秘的散财鹿，你就是玛法大陆最优秀和最富有的猎人\n散财鹿可能出现在以下坐标：（每5分钟刷新10只）\n|C:0xf56f00&T:比奇|C:0x2eb52d&T:(112,79),(141,216),(405,150), (314,266)|\n|C:0xf56f00&T:盟重||C:0x2eb52d&T:(103,97),(106,233),(362,62),(300,255),(500,238)|",
+    "bg": "Act_hdbg2_scl",
+    "describe": "找到和击败神秘的散财鹿，你就是玛法大陆最优秀和最富有的猎人\n|C:0x2eb52d&T:每日13:00-13:30|",
+    "description": "散财鹿可能出现在以下坐标：（每5分钟刷新10只）\n\n|C:0xf56f00&T:比奇|C:0x2eb52d&T:(112,79),(141,216),(405,150),\n        (314,266)|\n|C:0xf56f00&T:盟重||C:0x2eb52d&T:(103,97),(106,233),(362,62),\n       (300,255),(500,238)|\n|C:0xf56f00&T:沃玛森林||C:0x2eb52d&T:(176,96),(261,166)|",
+    "isCheckTime": 0,
+    "name": "散财鹿",
+    "openParam": {
+      "level": 1,
+      "openDay": 1
+    },
+    "openView": "app.ActivityCommonView",
+    "rewards": [
+      {
+        "count": 1,
+        "id": 250,
+        "type": 0
+      },
+      {
+        "count": 1,
+        "id": 249,
+        "type": 0
+      },
+      {
+        "count": 1,
+        "id": 0,
+        "type": 1
+      }
+    ],
+    "ruleID": 43,
+    "showParam": {
+      "level": 1,
+      "openDay": 1
+    },
+    "titleIcon": "Act_biaoti_scl",
+    "uiType": 2
+  },
+  "21": {
+    "Id": 21,
+    "bg": "Act_hdbg2_scl",
+    "describe": "Lang.Activity.h00008",
+    "description": "Lang.Activity.ad00003",
+    "isCheckTime": 0,
+    "name": "BOSS狂刷",
+    "openParam": {
+      "level": 1,
+      "openDay": 1
+    },
+    "openView": "app.ActivityCommonView",
+    "rewards": [
+      {
+        "count": 1,
+        "id": 250,
+        "type": 0
+      },
+      {
+        "count": 1,
+        "id": 249,
+        "type": 0
+      },
+      {
+        "count": 1,
+        "id": 0,
+        "type": 1
+      }
+    ],
+    "ruleID": 43,
+    "showParam": {
+      "level": 1,
+      "openDay": 1
+    },
+    "titleIcon": "Act_biaoti_scl",
+    "uiType": 2
+  },
+  "37": {
+    "Id": 37,
+    "bg": "Act_hdbg2_scl",
+    "describe": "Lang.Activity.h00008",
+    "description": "Lang.Activity.ad00003",
+    "isCheckTime": 0,
+    "name": "BOSS狂刷",
+    "openParam": {
+      "level": 1,
+      "openDay": 1
+    },
+    "openView": "app.ActivityCommonView",
+    "rewards": [
+      {
+        "count": 1,
+        "id": 250,
+        "type": 0
+      },
+      {
+        "count": 1,
+        "id": 249,
+        "type": 0
+      },
+      {
+        "count": 1,
+        "id": 0,
+        "type": 1
+      }
+    ],
+    "ruleID": 43,
+    "showParam": {
+      "level": 1,
+      "openDay": 1
+    },
+    "titleIcon": "Act_biaoti_scl",
+    "uiType": 2
+  },
+  "40": {
+    "Id": 40,
+    "bg": "Act_hdbg2_scl",
+    "describe": "Lang.Activity.h00008",
+    "description": "Lang.Activity.ad00003",
+    "isCheckTime": 0,
+    "name": "BOSS狂刷",
+    "openParam": {
+      "level": 1,
+      "openDay": 1
+    },
+    "openView": "app.ActivityCommonView",
+    "rewards": [
+      {
+        "count": 1,
+        "id": 250,
+        "type": 0
+      },
+      {
+        "count": 1,
+        "id": 249,
+        "type": 0
+      },
+      {
+        "count": 1,
+        "id": 0,
+        "type": 1
+      }
+    ],
+    "ruleID": 43,
+    "showParam": {
+      "level": 1,
+      "openDay": 1
+    },
+    "titleIcon": "Act_biaoti_scl",
+    "uiType": 2
+  },
+  "42": {
+    "Id": 42,
+    "bg": "Act_hdbg2_scl",
+    "describe": "Lang.Activity.h00008",
+    "description": "Lang.Activity.ad00003",
+    "isCheckTime": 0,
+    "name": "BOSS狂刷",
+    "openParam": {
+      "level": 1,
+      "openDay": 1
+    },
+    "openView": "app.ActivityCommonView",
+    "rewards": [
+      {
+        "count": 1,
+        "id": 250,
+        "type": 0
+      },
+      {
+        "count": 1,
+        "id": 249,
+        "type": 0
+      },
+      {
+        "count": 1,
+        "id": 0,
+        "type": 1
+      }
+    ],
+    "ruleID": 43,
+    "showParam": {
+      "level": 1,
+      "openDay": 1
+    },
+    "titleIcon": "Act_biaoti_scl",
+    "uiType": 2
+  },
+  "45": {
+    "Id": 45,
+    "bg": "Act_hdbg2_scl",
+    "describe": "Lang.Activity.h00008",
+    "description": "Lang.Activity.ad00003",
+    "isCheckTime": 0,
+    "name": "BOSS狂刷",
+    "openParam": {
+      "level": 1,
+      "openDay": 1
+    },
+    "openView": "app.ActivityCommonView",
+    "rewards": [
+      {
+        "count": 1,
+        "id": 250,
+        "type": 0
+      },
+      {
+        "count": 1,
+        "id": 249,
+        "type": 0
+      },
+      {
+        "count": 1,
+        "id": 0,
+        "type": 1
+      }
+    ],
+    "ruleID": 43,
+    "showParam": {
+      "level": 1,
+      "openDay": 1
+    },
+    "titleIcon": "Act_biaoti_scl",
+    "uiType": 2
+  },
+  "70": {
+    "Id": 70,
+    "Ntipstext_1": "|C:0xeee104&T:活动：苍月大灾变|",
+    "Ntipstext_2": "活动时间：|C:0x2eb52d&T:每日18:00-19:00|",
+    "Ntipstext_3": "蔚蓝无尽的海洋中有一座神秘的岛屿——|C:0x28ee01&T:苍月岛|。苍月岛风景优美，气候宜人，传说岛上隐藏着巨大的宝藏。然而每隔一段时间，魔族就会来侵扰，打破苍月岛的安宁。不乏想去探险获取宝藏的勇士们，但大多都有去无回。",
+    "Ntipstext_4": "变异BOSS可能出现在苍月岛|C:0xf56f00&T:安全区周围|，每30分钟刷新\n|C:0xff7700&T:该地图被击败会掉落装备、道具|",
+    "bg": "Act_hdbg2_scl",
+    "describe": "蔚蓝无尽的海洋中有一座神秘的岛屿——|C:0x28ee01&T:苍月岛|。苍月岛风景优美，气候宜人，传说岛上隐藏着巨大的宝藏。然而每隔一段时间，魔族就会来侵扰，打破苍月岛的安宁。无数勇士开始了这场冒险之旅，去你未曾探索过的世界~\n|C:0x2eb52d&T:每日18:00-19:00|",
+    "description": "变异BOSS可能出现在苍月岛安全区周围",
+    "isCheckTime": 0,
+    "name": "苍月大灾变",
+    "npcId": 226,
+    "openParam": {
+      "level": 1,
+      "openDay": 4
+    },
+    "openView": "app.ActivityCommonView",
+    "rewardBtn": "进入",
+    "rewards": [
+      {
+        "count": 0,
+        "id": 957,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 955,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1015,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1002,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 975,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 421,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 954,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 480,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 853,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 854,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 855,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 856,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1114,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 398,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 396,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 841,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 840,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 990,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 991,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 989,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 261,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 269,
+        "type": 0
+      }
+    ],
+    "ruleID": 112,
+    "showParam": {
+      "level": 1,
+      "openDay": 1
+    },
+    "titleIcon": "Act_biaoti_sjboss",
+    "uiType": 2
+  }
+}

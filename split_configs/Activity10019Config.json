@@ -1,0 +1,7970 @@
+{
+  "10012": {
+    "1": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 302,
+          "type": 0
+        }
+      ],
+      "Id": 10012,
+      "level": 1,
+      "name": "等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 1,
+      "value": 45
+    },
+    "2": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 994,
+          "type": 0
+        }
+      ],
+      "Id": 10012,
+      "level": 2,
+      "name": "等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 1,
+      "value": 55
+    },
+    "3": {
+      "GiftTable": [
+        {
+          "count": 5,
+          "id": 261,
+          "type": 0
+        }
+      ],
+      "Id": 10012,
+      "level": 3,
+      "name": "等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 1,
+      "value": 65
+    },
+    "4": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 995,
+          "type": 0
+        }
+      ],
+      "Id": 10012,
+      "level": 4,
+      "name": "等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 1,
+      "value": 75
+    },
+    "5": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 996,
+          "type": 0
+        }
+      ],
+      "Id": 10012,
+      "level": 5,
+      "name": "等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 1,
+      "value": 85
+    },
+    "6": {
+      "GiftTable": [
+        {
+          "count": 5,
+          "id": 269,
+          "type": 0
+        }
+      ],
+      "Id": 10012,
+      "level": 6,
+      "name": "等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 1,
+      "value": 95
+    },
+    "7": {
+      "GiftTable": [
+        {
+          "count": 30000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "Id": 10012,
+      "level": 7,
+      "name": "等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 1,
+      "value": 105
+    },
+    "8": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 997,
+          "type": 0
+        }
+      ],
+      "Id": 10012,
+      "level": 8,
+      "name": "等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 1,
+      "value": 115
+    },
+    "9": {
+      "GiftTable": [
+        {
+          "count": 3,
+          "id": 302,
+          "type": 0
+        }
+      ],
+      "Id": 10012,
+      "level": 9,
+      "name": "等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 1,
+      "value": 125
+    },
+    "10": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 366,
+          "type": 0
+        }
+      ],
+      "Id": 10012,
+      "level": 10,
+      "name": "等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 1,
+      "value": 135
+    }
+  },
+  "10016": {
+    "1": {
+      "GiftTable": [
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "Id": 10016,
+      "level": 1,
+      "name": "暴击特戒等级",
+      "showType": 1,
+      "subtype": 3,
+      "type": 19,
+      "value": 6
+    },
+    "2": {
+      "GiftTable": [
+        {
+          "count": 20000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "Id": 10016,
+      "level": 2,
+      "name": "暴击特戒等级",
+      "showType": 1,
+      "subtype": 3,
+      "type": 19,
+      "value": 15
+    },
+    "3": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 366,
+          "type": 0
+        }
+      ],
+      "Id": 10016,
+      "level": 3,
+      "name": "暴击特戒等级",
+      "showType": 1,
+      "subtype": 3,
+      "type": 19,
+      "value": 25
+    },
+    "4": {
+      "GiftTable": [
+        {
+          "count": 50000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "Id": 10016,
+      "level": 4,
+      "name": "暴击特戒等级",
+      "showType": 1,
+      "subtype": 3,
+      "type": 19,
+      "value": 35
+    },
+    "5": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 367,
+          "type": 0
+        }
+      ],
+      "Id": 10016,
+      "level": 5,
+      "name": "暴击特戒等级",
+      "showType": 1,
+      "subtype": 3,
+      "type": 19,
+      "value": 45
+    },
+    "6": {
+      "GiftTable": [
+        {
+          "count": 80000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "Id": 10016,
+      "level": 6,
+      "name": "暴击特戒等级",
+      "showType": 1,
+      "subtype": 3,
+      "type": 19,
+      "value": 55
+    },
+    "7": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 368,
+          "type": 0
+        }
+      ],
+      "Id": 10016,
+      "level": 7,
+      "name": "暴击特戒等级",
+      "showType": 1,
+      "subtype": 3,
+      "type": 19,
+      "value": 65
+    },
+    "8": {
+      "GiftTable": [
+        {
+          "count": 3,
+          "id": 1000,
+          "type": 0
+        }
+      ],
+      "Id": 10016,
+      "level": 8,
+      "name": "暴击特戒等级",
+      "showType": 1,
+      "subtype": 3,
+      "type": 19,
+      "value": 75
+    }
+  },
+  "10020": {
+    "1": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        }
+      ],
+      "Id": 10020,
+      "level": 1,
+      "name": "矿洞装备",
+      "showType": 1,
+      "subtype": 3,
+      "type": 14,
+      "value": 3
+    },
+    "2": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        }
+      ],
+      "Id": 10020,
+      "level": 2,
+      "name": "沃玛装备",
+      "showType": 1,
+      "subtype": 101,
+      "type": 14,
+      "value": 3
+    },
+    "3": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        }
+      ],
+      "Id": 10020,
+      "level": 3,
+      "name": "祖玛装备",
+      "showType": 1,
+      "subtype": 102,
+      "type": 14,
+      "value": 3
+    },
+    "4": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 1052,
+          "type": 0
+        }
+      ],
+      "Id": 10020,
+      "level": 4,
+      "name": "祖玛装备",
+      "showType": 1,
+      "subtype": 102,
+      "type": 14,
+      "value": 6
+    },
+    "5": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        }
+      ],
+      "Id": 10020,
+      "level": 5,
+      "name": "炎之祖玛",
+      "showType": 1,
+      "subtype": 103,
+      "type": 14,
+      "value": 3
+    },
+    "6": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        }
+      ],
+      "Id": 10020,
+      "level": 6,
+      "name": "炎之祖玛",
+      "showType": 1,
+      "subtype": 103,
+      "type": 14,
+      "value": 6
+    },
+    "7": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        }
+      ],
+      "Id": 10020,
+      "level": 7,
+      "name": "赤月装备",
+      "showType": 1,
+      "subtype": 104,
+      "type": 14,
+      "value": 3
+    },
+    "8": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 1053,
+          "type": 0
+        }
+      ],
+      "Id": 10020,
+      "level": 8,
+      "name": "赤月装备",
+      "showType": 1,
+      "subtype": 104,
+      "type": 14,
+      "value": 6
+    },
+    "9": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        }
+      ],
+      "Id": 10020,
+      "level": 9,
+      "name": "炎之赤月",
+      "showType": 1,
+      "subtype": 105,
+      "type": 14,
+      "value": 3
+    },
+    "10": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        }
+      ],
+      "Id": 10020,
+      "level": 10,
+      "name": "炎之赤月",
+      "showType": 1,
+      "subtype": 105,
+      "type": 14,
+      "value": 6
+    },
+    "11": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        }
+      ],
+      "Id": 10020,
+      "level": 11,
+      "name": "魔龙装备",
+      "showType": 1,
+      "subtype": 106,
+      "type": 14,
+      "value": 4
+    },
+    "12": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 1054,
+          "type": 0
+        }
+      ],
+      "Id": 10020,
+      "level": 12,
+      "name": "魔龙装备",
+      "showType": 1,
+      "subtype": 106,
+      "type": 14,
+      "value": 7
+    },
+    "13": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        }
+      ],
+      "Id": 10020,
+      "level": 13,
+      "name": "炎之魔龙",
+      "showType": 1,
+      "subtype": 107,
+      "type": 14,
+      "value": 4
+    },
+    "14": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        }
+      ],
+      "Id": 10020,
+      "level": 14,
+      "name": "炎之魔龙",
+      "showType": 1,
+      "subtype": 107,
+      "type": 14,
+      "value": 7
+    },
+    "15": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        }
+      ],
+      "Id": 10020,
+      "level": 15,
+      "name": "强化魔龙",
+      "showType": 1,
+      "subtype": 108,
+      "type": 14,
+      "value": 4
+    },
+    "16": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 1055,
+          "type": 0
+        }
+      ],
+      "Id": 10020,
+      "level": 16,
+      "name": "强化魔龙",
+      "showType": 1,
+      "subtype": 108,
+      "type": 14,
+      "value": 7
+    },
+    "17": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        }
+      ],
+      "Id": 10020,
+      "level": 17,
+      "name": "炎之强魔",
+      "showType": 1,
+      "subtype": 109,
+      "type": 14,
+      "value": 4
+    },
+    "18": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        }
+      ],
+      "Id": 10020,
+      "level": 18,
+      "name": "炎之强魔",
+      "showType": 1,
+      "subtype": 109,
+      "type": 14,
+      "value": 7
+    },
+    "19": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 1056,
+          "type": 0
+        }
+      ],
+      "Id": 10020,
+      "level": 19,
+      "name": "战神装备",
+      "showType": 1,
+      "subtype": 110,
+      "type": 14,
+      "value": 4
+    },
+    "20": {
+      "GiftTable": [
+        {
+          "count": 5,
+          "id": 261,
+          "type": 0
+        }
+      ],
+      "Id": 10020,
+      "level": 20,
+      "name": "战神装备",
+      "showType": 1,
+      "subtype": 110,
+      "type": 14,
+      "value": 7
+    },
+    "21": {
+      "GiftTable": [
+        {
+          "count": 5,
+          "id": 261,
+          "type": 0
+        }
+      ],
+      "Id": 10020,
+      "level": 21,
+      "name": "炎之战神",
+      "showType": 1,
+      "subtype": 111,
+      "type": 14,
+      "value": 4
+    },
+    "22": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 1057,
+          "type": 0
+        }
+      ],
+      "Id": 10020,
+      "level": 22,
+      "name": "炎之战神",
+      "showType": 1,
+      "subtype": 111,
+      "type": 14,
+      "value": 7
+    }
+  },
+  "10076": {
+    "1": {
+      "GiftTable": [
+        {
+          "count": 200000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 50,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 2,
+          "id": 300,
+          "type": 0
+        },
+        {
+          "count": 90,
+          "id": 247,
+          "type": 0
+        }
+      ],
+      "Id": 10076,
+      "level": 1,
+      "name": "累计充值天数",
+      "scheduletips": "已充值天数",
+      "showType": 1,
+      "subtype": 4,
+      "type": 28,
+      "value": 1
+    },
+    "2": {
+      "GiftTable": [
+        {
+          "count": 200000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 1,
+          "id": 938,
+          "type": 0
+        },
+        {
+          "count": 90,
+          "id": 247,
+          "type": 0
+        }
+      ],
+      "Id": 10076,
+      "level": 2,
+      "name": "累计充值天数",
+      "scheduletips": "已充值天数",
+      "showType": 1,
+      "subtype": 4,
+      "type": 28,
+      "value": 2
+    },
+    "3": {
+      "GiftTable": [
+        {
+          "count": 300000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 5,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 3,
+          "id": 300,
+          "type": 0
+        },
+        {
+          "count": 90,
+          "id": 247,
+          "type": 0
+        }
+      ],
+      "Id": 10076,
+      "level": 3,
+      "name": "累计充值天数",
+      "scheduletips": "已充值天数",
+      "showType": 1,
+      "subtype": 4,
+      "type": 28,
+      "value": 3
+    },
+    "4": {
+      "GiftTable": [
+        {
+          "count": 300000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1,
+          "id": 368,
+          "type": 0
+        },
+        {
+          "count": 1,
+          "id": 1018,
+          "type": 0
+        },
+        {
+          "count": 90,
+          "id": 247,
+          "type": 0
+        }
+      ],
+      "Id": 10076,
+      "level": 4,
+      "name": "累计充值天数",
+      "scheduletips": "已充值天数",
+      "showType": 1,
+      "subtype": 4,
+      "type": 28,
+      "value": 4
+    },
+    "5": {
+      "GiftTable": [
+        {
+          "count": 400000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 5,
+          "id": 300,
+          "type": 0
+        },
+        {
+          "count": 10,
+          "id": 269,
+          "type": 0
+        }
+      ],
+      "Id": 10076,
+      "level": 5,
+      "name": "累计充值天数",
+      "scheduletips": "已充值天数",
+      "showType": 1,
+      "subtype": 4,
+      "type": 28,
+      "value": 5
+    },
+    "6": {
+      "GiftTable": [
+        {
+          "count": 400000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 40,
+          "id": 853,
+          "type": 0
+        },
+        {
+          "count": 40,
+          "id": 854,
+          "type": 0
+        },
+        {
+          "count": 4,
+          "id": 997,
+          "type": 0
+        }
+      ],
+      "Id": 10076,
+      "level": 6,
+      "name": "累计充值天数",
+      "scheduletips": "已充值天数",
+      "showType": 1,
+      "subtype": 4,
+      "type": 28,
+      "value": 6
+    },
+    "7": {
+      "GiftTable": [
+        {
+          "count": 1000000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 15,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 1,
+          "id": 896,
+          "type": 0
+        },
+        {
+          "count": 10,
+          "id": 480,
+          "type": 0
+        }
+      ],
+      "Id": 10076,
+      "level": 7,
+      "name": "累计充值天数",
+      "scheduletips": "已充值天数",
+      "showType": 1,
+      "subtype": 4,
+      "type": 28,
+      "value": 7
+    },
+    "8": {
+      "GiftTable": [
+        {
+          "count": 500000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1,
+          "id": 369,
+          "type": 0
+        },
+        {
+          "count": 5,
+          "id": 300,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 247,
+          "type": 0
+        }
+      ],
+      "Id": 10076,
+      "level": 8,
+      "name": "累计充值天数",
+      "scheduletips": "已充值天数",
+      "showType": 1,
+      "subtype": 4,
+      "type": 28,
+      "value": 8
+    },
+    "9": {
+      "GiftTable": [
+        {
+          "count": 500000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 5,
+          "id": 997,
+          "type": 0
+        },
+        {
+          "count": 5,
+          "id": 300,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 247,
+          "type": 0
+        }
+      ],
+      "Id": 10076,
+      "level": 9,
+      "name": "累计充值天数",
+      "scheduletips": "已充值天数",
+      "showType": 1,
+      "subtype": 4,
+      "type": 28,
+      "value": 9
+    },
+    "10": {
+      "GiftTable": [
+        {
+          "count": 500000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1,
+          "id": 41,
+          "type": 0
+        },
+        {
+          "count": 5,
+          "id": 300,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 247,
+          "type": 0
+        }
+      ],
+      "Id": 10076,
+      "level": 10,
+      "name": "累计充值天数",
+      "scheduletips": "已充值天数",
+      "showType": 1,
+      "subtype": 4,
+      "type": 28,
+      "value": 10
+    },
+    "11": {
+      "GiftTable": [
+        {
+          "count": 500000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 500,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 5,
+          "id": 300,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 247,
+          "type": 0
+        }
+      ],
+      "Id": 10076,
+      "level": 11,
+      "name": "累计充值天数",
+      "scheduletips": "已充值天数",
+      "showType": 1,
+      "subtype": 4,
+      "type": 28,
+      "value": 11
+    },
+    "12": {
+      "GiftTable": [
+        {
+          "count": 500000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 15,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 5,
+          "id": 300,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 247,
+          "type": 0
+        }
+      ],
+      "Id": 10076,
+      "level": 12,
+      "name": "累计充值天数",
+      "scheduletips": "已充值天数",
+      "showType": 1,
+      "subtype": 4,
+      "type": 28,
+      "value": 12
+    },
+    "13": {
+      "GiftTable": [
+        {
+          "count": 500000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1,
+          "id": 906,
+          "type": 0
+        },
+        {
+          "count": 5,
+          "id": 300,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 247,
+          "type": 0
+        }
+      ],
+      "Id": 10076,
+      "level": 13,
+      "name": "累计充值天数",
+      "scheduletips": "已充值天数",
+      "showType": 1,
+      "subtype": 4,
+      "type": 28,
+      "value": 13
+    },
+    "14": {
+      "GiftTable": [
+        {
+          "count": 500000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 1,
+          "id": 916,
+          "type": 0
+        },
+        {
+          "count": 5,
+          "id": 300,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 247,
+          "type": 0
+        }
+      ],
+      "Id": 10076,
+      "level": 14,
+      "name": "累计充值天数",
+      "scheduletips": "已充值天数",
+      "showType": 1,
+      "subtype": 4,
+      "type": 28,
+      "value": 14
+    },
+    "15": {
+      "GiftTable": [
+        {
+          "count": 500000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10,
+          "id": 998,
+          "type": 0
+        },
+        {
+          "count": 5,
+          "id": 300,
+          "type": 0
+        },
+        {
+          "count": 100,
+          "id": 247,
+          "type": 0
+        }
+      ],
+      "Id": 10076,
+      "level": 15,
+      "name": "累计充值天数",
+      "scheduletips": "已充值天数",
+      "showType": 1,
+      "subtype": 4,
+      "type": 28,
+      "value": 15
+    }
+  },
+  "10077": {
+    "1": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 994,
+          "type": 0
+        }
+      ],
+      "Id": 10077,
+      "level": 1,
+      "name": "转生等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 2,
+      "value": 1
+    },
+    "2": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 995,
+          "type": 0
+        }
+      ],
+      "Id": 10077,
+      "level": 2,
+      "name": "转生等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 2,
+      "value": 2
+    },
+    "3": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 996,
+          "type": 0
+        }
+      ],
+      "Id": 10077,
+      "level": 3,
+      "name": "转生等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 2,
+      "value": 3
+    },
+    "4": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 997,
+          "type": 0
+        }
+      ],
+      "Id": 10077,
+      "level": 4,
+      "name": "转生等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 2,
+      "value": 4
+    },
+    "5": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 998,
+          "type": 0
+        }
+      ],
+      "Id": 10077,
+      "level": 5,
+      "name": "转生等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 2,
+      "value": 5
+    },
+    "6": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 999,
+          "type": 0
+        }
+      ],
+      "Id": 10077,
+      "level": 6,
+      "name": "转生等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 2,
+      "value": 6
+    },
+    "7": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 490,
+          "type": 0
+        }
+      ],
+      "Id": 10077,
+      "level": 7,
+      "name": "转生等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 2,
+      "value": 7
+    }
+  },
+  "10147": {
+    "1": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 1044,
+          "type": 0
+        }
+      ],
+      "Id": 10147,
+      "level": 1,
+      "name": "消灭怪物",
+      "scheduletips": "已击败怪物:",
+      "showType": 1,
+      "subtype": 1,
+      "type": 7,
+      "value": 300
+    },
+    "2": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 350,
+          "type": 0
+        }
+      ],
+      "Id": 10147,
+      "level": 2,
+      "name": "消灭怪物",
+      "scheduletips": "已击败怪物:",
+      "showType": 1,
+      "subtype": 1,
+      "type": 7,
+      "value": 600
+    },
+    "3": {
+      "GiftTable": [
+        {
+          "count": 3,
+          "id": 269,
+          "type": 0
+        }
+      ],
+      "Id": 10147,
+      "level": 3,
+      "name": "消灭怪物",
+      "scheduletips": "已击败怪物:",
+      "showType": 1,
+      "subtype": 1,
+      "type": 7,
+      "value": 2000
+    },
+    "4": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 1045,
+          "type": 0
+        }
+      ],
+      "Id": 10147,
+      "level": 4,
+      "name": "消灭怪物",
+      "scheduletips": "已击败怪物:",
+      "showType": 1,
+      "subtype": 1,
+      "type": 7,
+      "value": 4000
+    },
+    "5": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 995,
+          "type": 0
+        }
+      ],
+      "Id": 10147,
+      "level": 5,
+      "name": "消灭怪物",
+      "scheduletips": "已击败怪物:",
+      "showType": 1,
+      "subtype": 1,
+      "type": 7,
+      "value": 8000
+    },
+    "6": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 1046,
+          "type": 0
+        }
+      ],
+      "Id": 10147,
+      "level": 6,
+      "name": "消灭怪物",
+      "scheduletips": "已击败怪物:",
+      "showType": 1,
+      "subtype": 1,
+      "type": 7,
+      "value": 15000
+    },
+    "7": {
+      "GiftTable": [
+        {
+          "count": 18,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10147,
+      "level": 7,
+      "name": "消灭怪物",
+      "scheduletips": "已击败怪物:",
+      "showType": 1,
+      "subtype": 1,
+      "type": 7,
+      "value": 25000
+    },
+    "8": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 1034,
+          "type": 0
+        }
+      ],
+      "Id": 10147,
+      "level": 8,
+      "name": "消灭怪物",
+      "scheduletips": "已击败怪物:",
+      "showType": 1,
+      "subtype": 1,
+      "type": 7,
+      "value": 36000
+    }
+  },
+  "10148": {
+    "1": {
+      "GiftTable": [
+        {
+          "count": 555,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 1,
+      "name": "\n击败40级领主\n[领]陵中统领",
+      "subtype": 208,
+      "type": 22,
+      "value": 1
+    },
+    "2": {
+      "GiftTable": [
+        {
+          "count": 555,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 2,
+      "name": "\n击败45级领主\n[领]太阳岛主",
+      "subtype": 214,
+      "type": 22,
+      "value": 1
+    },
+    "3": {
+      "GiftTable": [
+        {
+          "count": 666,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 3,
+      "name": "\n击败1转领主\n[领]围场领主",
+      "subtype": 220,
+      "type": 22,
+      "value": 1
+    },
+    "4": {
+      "GiftTable": [
+        {
+          "count": 777,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 4,
+      "name": "\n击败2转领主\n[领]山岭巨人",
+      "subtype": 226,
+      "type": 22,
+      "value": 1
+    },
+    "5": {
+      "GiftTable": [
+        {
+          "count": 888,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 5,
+      "name": "\n击败3转领主\n[领]化身恶魔",
+      "subtype": 232,
+      "type": 22,
+      "value": 1
+    },
+    "6": {
+      "GiftTable": [
+        {
+          "count": 999,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 6,
+      "name": "\n击败4转领主\n[领]游猎巨魔",
+      "subtype": 239,
+      "type": 22,
+      "value": 1
+    },
+    "7": {
+      "GiftTable": [
+        {
+          "count": 999,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 7,
+      "name": "\n击败4转领主\n[荒凉]堕落神将",
+      "subtype": 306,
+      "type": 22,
+      "value": 1
+    },
+    "8": {
+      "GiftTable": [
+        {
+          "count": 999,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 8,
+      "name": "\n击败4转领主\n[东关]镇关特使",
+      "subtype": 321,
+      "type": 22,
+      "value": 1
+    },
+    "9": {
+      "GiftTable": [
+        {
+          "count": 999,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 9,
+      "name": "\n击败4转领主\n[西关]镇关教主",
+      "subtype": 325,
+      "type": 22,
+      "value": 1
+    },
+    "10": {
+      "GiftTable": [
+        {
+          "count": 999,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 10,
+      "name": "\n击败4转领主\n[领]堕落盗王",
+      "subtype": 272,
+      "type": 22,
+      "value": 1
+    },
+    "11": {
+      "GiftTable": [
+        {
+          "count": 1999,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 11,
+      "name": "\n击败5转领主\n[石城]陨石灵皇",
+      "subtype": 246,
+      "type": 22,
+      "value": 1
+    },
+    "12": {
+      "GiftTable": [
+        {
+          "count": 1999,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 12,
+      "name": "\n击败5转领主\n[领]怒火霸主",
+      "subtype": 284,
+      "type": 22,
+      "value": 1
+    },
+    "13": {
+      "GiftTable": [
+        {
+          "count": 1999,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 13,
+      "name": "\n击败5转领主\n[冰封]天将",
+      "subtype": 313,
+      "type": 22,
+      "value": 1
+    },
+    "14": {
+      "GiftTable": [
+        {
+          "count": 1999,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 14,
+      "name": "\n击败5转领主\n[雪域]魔王",
+      "subtype": 317,
+      "type": 22,
+      "value": 1
+    },
+    "15": {
+      "GiftTable": [
+        {
+          "count": 1999,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 15,
+      "name": "\n击败6转领主\n[鬼宅]鬼王",
+      "subtype": 253,
+      "type": 22,
+      "value": 1
+    },
+    "16": {
+      "GiftTable": [
+        {
+          "count": 1999,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 16,
+      "name": "\n击败6转领主\n[陵墓]镇陵巨魔",
+      "subtype": 309,
+      "type": 22,
+      "value": 1
+    },
+    "17": {
+      "GiftTable": [
+        {
+          "count": 1999,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 17,
+      "name": "\n击败7转领主\n[太行]占山寨主",
+      "subtype": 260,
+      "type": 22,
+      "value": 1
+    },
+    "18": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 18,
+      "name": "\n击败经典BOSS\n沃玛教主",
+      "subtype": 92,
+      "type": 22,
+      "value": 1
+    },
+    "19": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 19,
+      "name": "\n击败经典BOSS\n祖玛教主",
+      "subtype": 93,
+      "type": 22,
+      "value": 1
+    },
+    "20": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 20,
+      "name": "\n击败经典BOSS\n石墓尸王",
+      "subtype": 144,
+      "type": 22,
+      "value": 1
+    },
+    "21": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 21,
+      "name": "\n击败经典BOSS\n虹魔教主",
+      "subtype": 101,
+      "type": 22,
+      "value": 1
+    },
+    "22": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 22,
+      "name": "\n击败经典BOSS\n黄泉教主",
+      "subtype": 99,
+      "type": 22,
+      "value": 1
+    },
+    "23": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 23,
+      "name": "\n击败经典BOSS\n千年树妖",
+      "subtype": 98,
+      "type": 22,
+      "value": 1
+    },
+    "24": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 24,
+      "name": "\n击败经典BOSS\n牛魔王",
+      "subtype": 102,
+      "type": 22,
+      "value": 1
+    },
+    "25": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 25,
+      "name": "\n击败经典BOSS\n触龙神",
+      "subtype": 97,
+      "type": 22,
+      "value": 1
+    },
+    "26": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 26,
+      "name": "\n击败经典BOSS\n绿魔蜘蛛",
+      "subtype": 107,
+      "type": 22,
+      "value": 1
+    },
+    "27": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 27,
+      "name": "\n击败经典BOSS\n赤月恶魔",
+      "subtype": 96,
+      "type": 22,
+      "value": 1
+    },
+    "28": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 28,
+      "name": "\n击败经典BOSS\n魔龙特使",
+      "subtype": 145,
+      "type": 22,
+      "value": 1
+    },
+    "29": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 29,
+      "name": "\n击败重装BOSS\n暗之双头血魔",
+      "subtype": 146,
+      "type": 22,
+      "value": 1
+    },
+    "30": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 30,
+      "name": "\n击败重装BOSS\n暗之骷髅精灵",
+      "subtype": 148,
+      "type": 22,
+      "value": 1
+    },
+    "31": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 31,
+      "name": "\n击败重装BOSS\n暗之黄泉教主",
+      "subtype": 150,
+      "type": 22,
+      "value": 1
+    },
+    "32": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 32,
+      "name": "\n击败重装BOSS\n暗之虹魔教主",
+      "subtype": 151,
+      "type": 22,
+      "value": 1
+    },
+    "33": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 33,
+      "name": "\n击败重装BOSS\n暗之双头金刚",
+      "subtype": 149,
+      "type": 22,
+      "value": 1
+    },
+    "34": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 34,
+      "name": "\n击败重装BOSS\n暗之沃玛教主",
+      "subtype": 147,
+      "type": 22,
+      "value": 1
+    },
+    "35": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 35,
+      "name": "\n击败妖兽\n[妖兽]烈焰狮王",
+      "subtype": 350,
+      "type": 22,
+      "value": 1
+    },
+    "36": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 36,
+      "name": "\n击败妖兽\n[妖兽]冥王",
+      "subtype": 351,
+      "type": 22,
+      "value": 1
+    },
+    "37": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 37,
+      "name": "\n击败妖兽\n[妖兽]牛族皇者",
+      "subtype": 352,
+      "type": 22,
+      "value": 1
+    },
+    "38": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 38,
+      "name": "\n击败妖兽\n[妖兽]地狱魔龙",
+      "subtype": 353,
+      "type": 22,
+      "value": 1
+    },
+    "39": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 39,
+      "name": "\n击败神话BOSS\n[神话]东华帝君",
+      "subtype": 355,
+      "type": 22,
+      "value": 1
+    },
+    "40": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 40,
+      "name": "\n击败神话BOSS\n[神话]斗战胜佛",
+      "subtype": 356,
+      "type": 22,
+      "value": 1
+    },
+    "41": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 41,
+      "name": "\n击败神话BOSS\n[神话]共工",
+      "subtype": 357,
+      "type": 22,
+      "value": 1
+    },
+    "42": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 42,
+      "name": "\n击败神话BOSS\n[神话]镇元子",
+      "subtype": 358,
+      "type": 22,
+      "value": 1
+    },
+    "43": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 43,
+      "name": "\n击败神话BOSS\n[神话]刑天",
+      "subtype": 359,
+      "type": 22,
+      "value": 1
+    },
+    "44": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 44,
+      "name": "\n击败神话BOSS\n[神话]孟婆",
+      "subtype": 360,
+      "type": 22,
+      "value": 1
+    },
+    "45": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 45,
+      "name": "\n击败神话BOSS\n[神话]六道后土",
+      "subtype": 361,
+      "type": 22,
+      "value": 1
+    },
+    "46": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 46,
+      "name": "\n击败神话BOSS\n[神话]娲皇化身",
+      "subtype": 362,
+      "type": 22,
+      "value": 1
+    },
+    "47": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 47,
+      "name": "\n击败神话BOSS\n[神话]后羿",
+      "subtype": 363,
+      "type": 22,
+      "value": 1
+    },
+    "48": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 48,
+      "name": "\n击败神话BOSS\n[神话]夸父",
+      "subtype": 364,
+      "type": 22,
+      "value": 1
+    },
+    "49": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 49,
+      "name": "\n击败神话BOSS\n[神话]东皇太一",
+      "subtype": 365,
+      "type": 22,
+      "value": 1
+    },
+    "50": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 50,
+      "name": "\n击败神话BOSS\n[神话]帝俊",
+      "subtype": 366,
+      "type": 22,
+      "value": 1
+    },
+    "51": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 51,
+      "name": "\n击败神话BOSS\n[神话]祝融",
+      "subtype": 367,
+      "type": 22,
+      "value": 1
+    },
+    "52": {
+      "GiftTable": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10148,
+      "level": 52,
+      "name": "\n击败神话BOSS\n[神话]蚩尤",
+      "subtype": 368,
+      "type": 22,
+      "value": 1
+    }
+  },
+  "10149": {
+    "1": {
+      "GiftTable": [
+        {
+          "count": 222,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 1,
+      "name": "\n炎之赤月级\n圣战头盔[炎]",
+      "subtype": 583,
+      "type": 29,
+      "value": 1
+    },
+    "2": {
+      "GiftTable": [
+        {
+          "count": 222,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 2,
+      "name": "\n炎之赤月级\n法神头盔[炎]",
+      "subtype": 584,
+      "type": 29,
+      "value": 1
+    },
+    "3": {
+      "GiftTable": [
+        {
+          "count": 222,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 3,
+      "name": "\n炎之赤月级\n天尊头盔[炎]",
+      "subtype": 585,
+      "type": 29,
+      "value": 1
+    },
+    "4": {
+      "GiftTable": [
+        {
+          "count": 222,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 4,
+      "name": "\n炎之赤月级\n钢铁腰带[炎]",
+      "subtype": 586,
+      "type": 29,
+      "value": 1
+    },
+    "5": {
+      "GiftTable": [
+        {
+          "count": 222,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 5,
+      "name": "\n炎之赤月级\n避魂靴[炎]",
+      "subtype": 587,
+      "type": 29,
+      "value": 1
+    },
+    "6": {
+      "GiftTable": [
+        {
+          "count": 222,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 6,
+      "name": "\n炎之赤月级\n天魔神甲[炎]",
+      "subtype": 588,
+      "type": 29,
+      "value": 1
+    },
+    "7": {
+      "GiftTable": [
+        {
+          "count": 222,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 7,
+      "name": "\n炎之赤月级\n魔法长袍[炎]",
+      "subtype": 589,
+      "type": 29,
+      "value": 1
+    },
+    "8": {
+      "GiftTable": [
+        {
+          "count": 222,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 8,
+      "name": "\n炎之赤月级\n天尊道袍[炎]",
+      "subtype": 590,
+      "type": 29,
+      "value": 1
+    },
+    "9": {
+      "GiftTable": [
+        {
+          "count": 222,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 9,
+      "name": "\n炎之赤月级\n裁决之杖[炎]",
+      "subtype": 591,
+      "type": 29,
+      "value": 1
+    },
+    "10": {
+      "GiftTable": [
+        {
+          "count": 222,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 10,
+      "name": "\n炎之赤月级\n骨玉权杖[炎]",
+      "subtype": 592,
+      "type": 29,
+      "value": 1
+    },
+    "11": {
+      "GiftTable": [
+        {
+          "count": 222,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 11,
+      "name": "\n炎之赤月级\n龙纹剑[炎]",
+      "subtype": 593,
+      "type": 29,
+      "value": 1
+    },
+    "12": {
+      "GiftTable": [
+        {
+          "count": 222,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 12,
+      "name": "\n炎之赤月级\n圣战项链[炎]",
+      "subtype": 594,
+      "type": 29,
+      "value": 1
+    },
+    "13": {
+      "GiftTable": [
+        {
+          "count": 222,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 13,
+      "name": "\n炎之赤月级\n法神项链[炎]",
+      "subtype": 595,
+      "type": 29,
+      "value": 1
+    },
+    "14": {
+      "GiftTable": [
+        {
+          "count": 222,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 14,
+      "name": "\n炎之赤月级\n天尊项链[炎]",
+      "subtype": 596,
+      "type": 29,
+      "value": 1
+    },
+    "15": {
+      "GiftTable": [
+        {
+          "count": 222,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 15,
+      "name": "\n炎之赤月级\n圣战手镯[炎]",
+      "subtype": 597,
+      "type": 29,
+      "value": 1
+    },
+    "16": {
+      "GiftTable": [
+        {
+          "count": 222,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 16,
+      "name": "\n炎之赤月级\n法神手镯[炎]",
+      "subtype": 598,
+      "type": 29,
+      "value": 1
+    },
+    "17": {
+      "GiftTable": [
+        {
+          "count": 222,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 17,
+      "name": "\n炎之赤月级\n天尊手镯[炎]",
+      "subtype": 599,
+      "type": 29,
+      "value": 1
+    },
+    "18": {
+      "GiftTable": [
+        {
+          "count": 222,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 18,
+      "name": "\n炎之赤月级\n圣战戒指[炎]",
+      "subtype": 600,
+      "type": 29,
+      "value": 1
+    },
+    "19": {
+      "GiftTable": [
+        {
+          "count": 222,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 19,
+      "name": "\n炎之赤月级\n法神戒指[炎]",
+      "subtype": 601,
+      "type": 29,
+      "value": 1
+    },
+    "20": {
+      "GiftTable": [
+        {
+          "count": 222,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 20,
+      "name": "\n炎之赤月级\n天尊戒指[炎]",
+      "subtype": 602,
+      "type": 29,
+      "value": 1
+    },
+    "21": {
+      "GiftTable": [
+        {
+          "count": 333,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 21,
+      "name": "\n魔龙级\n雷霆头盔",
+      "subtype": 603,
+      "type": 29,
+      "value": 1
+    },
+    "22": {
+      "GiftTable": [
+        {
+          "count": 333,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 22,
+      "name": "\n魔龙级\n烈焰头盔",
+      "subtype": 604,
+      "type": 29,
+      "value": 1
+    },
+    "23": {
+      "GiftTable": [
+        {
+          "count": 333,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 23,
+      "name": "\n魔龙级\n光芒头盔",
+      "subtype": 605,
+      "type": 29,
+      "value": 1
+    },
+    "24": {
+      "GiftTable": [
+        {
+          "count": 333,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 24,
+      "name": "\n魔龙级\n雷霆腰带",
+      "subtype": 606,
+      "type": 29,
+      "value": 1
+    },
+    "25": {
+      "GiftTable": [
+        {
+          "count": 333,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 25,
+      "name": "\n魔龙级\n烈焰腰带",
+      "subtype": 607,
+      "type": 29,
+      "value": 1
+    },
+    "26": {
+      "GiftTable": [
+        {
+          "count": 333,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 26,
+      "name": "\n魔龙级\n光芒腰带",
+      "subtype": 608,
+      "type": 29,
+      "value": 1
+    },
+    "27": {
+      "GiftTable": [
+        {
+          "count": 333,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 27,
+      "name": "\n魔龙级\n雷霆战靴",
+      "subtype": 609,
+      "type": 29,
+      "value": 1
+    },
+    "28": {
+      "GiftTable": [
+        {
+          "count": 333,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 28,
+      "name": "\n魔龙级\n烈焰魔靴",
+      "subtype": 610,
+      "type": 29,
+      "value": 1
+    },
+    "29": {
+      "GiftTable": [
+        {
+          "count": 333,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 29,
+      "name": "\n魔龙级\n光芒道靴",
+      "subtype": 611,
+      "type": 29,
+      "value": 1
+    },
+    "30": {
+      "GiftTable": [
+        {
+          "count": 333,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 30,
+      "name": "\n魔龙级\n魔龙圣衣",
+      "subtype": 612,
+      "type": 29,
+      "value": 1
+    },
+    "31": {
+      "GiftTable": [
+        {
+          "count": 333,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 31,
+      "name": "\n魔龙级\n怒斩",
+      "subtype": 613,
+      "type": 29,
+      "value": 1
+    },
+    "32": {
+      "GiftTable": [
+        {
+          "count": 333,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 32,
+      "name": "\n魔龙级\n龙牙",
+      "subtype": 614,
+      "type": 29,
+      "value": 1
+    },
+    "33": {
+      "GiftTable": [
+        {
+          "count": 333,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 33,
+      "name": "\n魔龙级\n逍遥扇",
+      "subtype": 615,
+      "type": 29,
+      "value": 1
+    },
+    "34": {
+      "GiftTable": [
+        {
+          "count": 333,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 34,
+      "name": "\n魔龙级\n雷霆项链",
+      "subtype": 616,
+      "type": 29,
+      "value": 1
+    },
+    "35": {
+      "GiftTable": [
+        {
+          "count": 333,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 35,
+      "name": "\n魔龙级\n烈焰项链",
+      "subtype": 617,
+      "type": 29,
+      "value": 1
+    },
+    "36": {
+      "GiftTable": [
+        {
+          "count": 333,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 36,
+      "name": "\n魔龙级\n光芒项链",
+      "subtype": 618,
+      "type": 29,
+      "value": 1
+    },
+    "37": {
+      "GiftTable": [
+        {
+          "count": 333,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 37,
+      "name": "\n魔龙级\n雷霆护腕",
+      "subtype": 619,
+      "type": 29,
+      "value": 1
+    },
+    "38": {
+      "GiftTable": [
+        {
+          "count": 333,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 38,
+      "name": "\n魔龙级\n烈焰护腕",
+      "subtype": 620,
+      "type": 29,
+      "value": 1
+    },
+    "39": {
+      "GiftTable": [
+        {
+          "count": 333,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 39,
+      "name": "\n魔龙级\n光芒护腕",
+      "subtype": 621,
+      "type": 29,
+      "value": 1
+    },
+    "40": {
+      "GiftTable": [
+        {
+          "count": 333,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 40,
+      "name": "\n魔龙级\n雷霆战戒",
+      "subtype": 622,
+      "type": 29,
+      "value": 1
+    },
+    "41": {
+      "GiftTable": [
+        {
+          "count": 333,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 41,
+      "name": "\n魔龙级\n烈焰魔戒",
+      "subtype": 623,
+      "type": 29,
+      "value": 1
+    },
+    "42": {
+      "GiftTable": [
+        {
+          "count": 333,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 42,
+      "name": "\n魔龙级\n光芒道戒",
+      "subtype": 624,
+      "type": 29,
+      "value": 1
+    },
+    "43": {
+      "GiftTable": [
+        {
+          "count": 888,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 43,
+      "name": "\n炎之魔龙级\n雷霆头盔[炎]",
+      "subtype": 625,
+      "type": 29,
+      "value": 1
+    },
+    "44": {
+      "GiftTable": [
+        {
+          "count": 888,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 44,
+      "name": "\n炎之魔龙级\n烈焰头盔[炎]",
+      "subtype": 626,
+      "type": 29,
+      "value": 1
+    },
+    "45": {
+      "GiftTable": [
+        {
+          "count": 888,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 45,
+      "name": "\n炎之魔龙级\n光芒头盔[炎]",
+      "subtype": 627,
+      "type": 29,
+      "value": 1
+    },
+    "46": {
+      "GiftTable": [
+        {
+          "count": 888,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 46,
+      "name": "\n炎之魔龙级\n雷霆腰带[炎]",
+      "subtype": 628,
+      "type": 29,
+      "value": 1
+    },
+    "47": {
+      "GiftTable": [
+        {
+          "count": 888,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 47,
+      "name": "\n炎之魔龙级\n烈焰腰带[炎]",
+      "subtype": 629,
+      "type": 29,
+      "value": 1
+    },
+    "48": {
+      "GiftTable": [
+        {
+          "count": 888,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 48,
+      "name": "\n炎之魔龙级\n光芒腰带[炎]",
+      "subtype": 630,
+      "type": 29,
+      "value": 1
+    },
+    "49": {
+      "GiftTable": [
+        {
+          "count": 888,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 49,
+      "name": "\n炎之魔龙级\n雷霆战靴[炎]",
+      "subtype": 631,
+      "type": 29,
+      "value": 1
+    },
+    "50": {
+      "GiftTable": [
+        {
+          "count": 888,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 50,
+      "name": "\n炎之魔龙级\n烈焰魔靴[炎]",
+      "subtype": 632,
+      "type": 29,
+      "value": 1
+    },
+    "51": {
+      "GiftTable": [
+        {
+          "count": 888,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 51,
+      "name": "\n炎之魔龙级\n光芒道靴[炎]",
+      "subtype": 633,
+      "type": 29,
+      "value": 1
+    },
+    "52": {
+      "GiftTable": [
+        {
+          "count": 888,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 52,
+      "name": "\n炎之魔龙级\n魔龙圣衣[炎]",
+      "subtype": 634,
+      "type": 29,
+      "value": 1
+    },
+    "53": {
+      "GiftTable": [
+        {
+          "count": 888,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 53,
+      "name": "\n炎之魔龙级\n怒斩[炎]",
+      "subtype": 635,
+      "type": 29,
+      "value": 1
+    },
+    "54": {
+      "GiftTable": [
+        {
+          "count": 888,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 54,
+      "name": "\n炎之魔龙级\n龙牙[炎]",
+      "subtype": 636,
+      "type": 29,
+      "value": 1
+    },
+    "55": {
+      "GiftTable": [
+        {
+          "count": 888,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 55,
+      "name": "\n炎之魔龙级\n逍遥扇[炎]",
+      "subtype": 637,
+      "type": 29,
+      "value": 1
+    },
+    "56": {
+      "GiftTable": [
+        {
+          "count": 888,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 56,
+      "name": "\n炎之魔龙级\n雷霆项链[炎]",
+      "subtype": 638,
+      "type": 29,
+      "value": 1
+    },
+    "57": {
+      "GiftTable": [
+        {
+          "count": 888,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 57,
+      "name": "\n炎之魔龙级\n烈焰项链[炎]",
+      "subtype": 639,
+      "type": 29,
+      "value": 1
+    },
+    "58": {
+      "GiftTable": [
+        {
+          "count": 888,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 58,
+      "name": "\n炎之魔龙级\n光芒项链[炎]",
+      "subtype": 640,
+      "type": 29,
+      "value": 1
+    },
+    "59": {
+      "GiftTable": [
+        {
+          "count": 888,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 59,
+      "name": "\n炎之魔龙级\n雷霆护腕[炎]",
+      "subtype": 641,
+      "type": 29,
+      "value": 1
+    },
+    "60": {
+      "GiftTable": [
+        {
+          "count": 888,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 60,
+      "name": "\n炎之魔龙级\n烈焰护腕[炎]",
+      "subtype": 642,
+      "type": 29,
+      "value": 1
+    },
+    "61": {
+      "GiftTable": [
+        {
+          "count": 888,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 61,
+      "name": "\n炎之魔龙级\n光芒护腕[炎]",
+      "subtype": 643,
+      "type": 29,
+      "value": 1
+    },
+    "62": {
+      "GiftTable": [
+        {
+          "count": 888,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 62,
+      "name": "\n炎之魔龙级\n雷霆战戒[炎]",
+      "subtype": 644,
+      "type": 29,
+      "value": 1
+    },
+    "63": {
+      "GiftTable": [
+        {
+          "count": 888,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 63,
+      "name": "\n炎之魔龙级\n烈焰魔戒[炎]",
+      "subtype": 645,
+      "type": 29,
+      "value": 1
+    },
+    "64": {
+      "GiftTable": [
+        {
+          "count": 888,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 64,
+      "name": "\n炎之魔龙级\n光芒道戒[炎]",
+      "subtype": 646,
+      "type": 29,
+      "value": 1
+    },
+    "65": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 65,
+      "name": "\n强化魔龙级\n强化雷霆头盔",
+      "subtype": 647,
+      "type": 29,
+      "value": 1
+    },
+    "66": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 66,
+      "name": "\n强化魔龙级\n强化烈焰头盔",
+      "subtype": 648,
+      "type": 29,
+      "value": 1
+    },
+    "67": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 67,
+      "name": "\n强化魔龙级\n强化光芒头盔",
+      "subtype": 649,
+      "type": 29,
+      "value": 1
+    },
+    "68": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 68,
+      "name": "\n强化魔龙级\n强化雷霆腰带",
+      "subtype": 650,
+      "type": 29,
+      "value": 1
+    },
+    "69": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 69,
+      "name": "\n强化魔龙级\n强化烈焰腰带",
+      "subtype": 651,
+      "type": 29,
+      "value": 1
+    },
+    "70": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 70,
+      "name": "\n强化魔龙级\n强化光芒腰带",
+      "subtype": 652,
+      "type": 29,
+      "value": 1
+    },
+    "71": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 71,
+      "name": "\n强化魔龙级\n强化雷霆战靴",
+      "subtype": 653,
+      "type": 29,
+      "value": 1
+    },
+    "72": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 72,
+      "name": "\n强化魔龙级\n强化烈焰魔靴",
+      "subtype": 654,
+      "type": 29,
+      "value": 1
+    },
+    "73": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 73,
+      "name": "\n强化魔龙级\n强化光芒道靴",
+      "subtype": 655,
+      "type": 29,
+      "value": 1
+    },
+    "74": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 74,
+      "name": "\n强化魔龙级\n雷霆战甲",
+      "subtype": 656,
+      "type": 29,
+      "value": 1
+    },
+    "75": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 75,
+      "name": "\n强化魔龙级\n烈焰魔衣",
+      "subtype": 657,
+      "type": 29,
+      "value": 1
+    },
+    "76": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 76,
+      "name": "\n强化魔龙级\n光芒道袍",
+      "subtype": 658,
+      "type": 29,
+      "value": 1
+    },
+    "77": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 77,
+      "name": "\n强化魔龙级\n命运之刃",
+      "subtype": 659,
+      "type": 29,
+      "value": 1
+    },
+    "78": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 78,
+      "name": "\n强化魔龙级\n强化雷霆项链",
+      "subtype": 660,
+      "type": 29,
+      "value": 1
+    },
+    "79": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 79,
+      "name": "\n强化魔龙级\n强化烈焰项链",
+      "subtype": 661,
+      "type": 29,
+      "value": 1
+    },
+    "80": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 80,
+      "name": "\n强化魔龙级\n强化光芒项链",
+      "subtype": 662,
+      "type": 29,
+      "value": 1
+    },
+    "81": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 81,
+      "name": "\n强化魔龙级\n强化雷霆护腕",
+      "subtype": 663,
+      "type": 29,
+      "value": 1
+    },
+    "82": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 82,
+      "name": "\n强化魔龙级\n强化烈焰护腕",
+      "subtype": 664,
+      "type": 29,
+      "value": 1
+    },
+    "83": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 83,
+      "name": "\n强化魔龙级\n强化光芒护腕",
+      "subtype": 665,
+      "type": 29,
+      "value": 1
+    },
+    "84": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 84,
+      "name": "\n强化魔龙级\n强化雷霆战戒",
+      "subtype": 666,
+      "type": 29,
+      "value": 1
+    },
+    "85": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 85,
+      "name": "\n强化魔龙级\n强化烈焰魔戒",
+      "subtype": 667,
+      "type": 29,
+      "value": 1
+    },
+    "86": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 86,
+      "name": "\n强化魔龙级\n强化光芒道戒",
+      "subtype": 668,
+      "type": 29,
+      "value": 1
+    },
+    "87": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 87,
+      "name": "\n炎之强化魔龙级\n强化雷霆头盔[炎]",
+      "subtype": 669,
+      "type": 29,
+      "value": 1
+    },
+    "88": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 88,
+      "name": "\n炎之强化魔龙级\n强化烈焰头盔[炎]",
+      "subtype": 670,
+      "type": 29,
+      "value": 1
+    },
+    "89": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 89,
+      "name": "\n炎之强化魔龙级\n强化光芒头盔[炎]",
+      "subtype": 671,
+      "type": 29,
+      "value": 1
+    },
+    "90": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 90,
+      "name": "\n炎之强化魔龙级\n强化雷霆腰带[炎]",
+      "subtype": 672,
+      "type": 29,
+      "value": 1
+    },
+    "91": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 91,
+      "name": "\n炎之强化魔龙级\n强化烈焰腰带[炎]",
+      "subtype": 673,
+      "type": 29,
+      "value": 1
+    },
+    "92": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 92,
+      "name": "\n炎之强化魔龙级\n强化光芒腰带[炎]",
+      "subtype": 674,
+      "type": 29,
+      "value": 1
+    },
+    "93": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 93,
+      "name": "\n炎之强化魔龙级\n强化雷霆战靴[炎]",
+      "subtype": 675,
+      "type": 29,
+      "value": 1
+    },
+    "94": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 94,
+      "name": "\n炎之强化魔龙级\n强化烈焰魔靴[炎]",
+      "subtype": 676,
+      "type": 29,
+      "value": 1
+    },
+    "95": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 95,
+      "name": "\n炎之强化魔龙级\n强化光芒道靴[炎]",
+      "subtype": 677,
+      "type": 29,
+      "value": 1
+    },
+    "96": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 3,
+          "type": 3
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 96,
+      "name": "\n炎之强化魔龙级\n雷霆战甲[炎]",
+      "subtype": 678,
+      "type": 29,
+      "value": 1
+    },
+    "97": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 3,
+          "type": 3
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 97,
+      "name": "\n炎之强化魔龙级\n烈焰魔衣[炎]",
+      "subtype": 679,
+      "type": 29,
+      "value": 1
+    },
+    "98": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 3,
+          "type": 3
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 98,
+      "name": "\n炎之强化魔龙级\n光芒道袍[炎]",
+      "subtype": 680,
+      "type": 29,
+      "value": 1
+    },
+    "99": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 3,
+          "type": 3
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 99,
+      "name": "\n炎之强化魔龙级\n命运之刃[炎]",
+      "subtype": 681,
+      "type": 29,
+      "value": 1
+    },
+    "100": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 100,
+      "name": "\n炎之强化魔龙级\n强化雷霆项链[炎]",
+      "subtype": 682,
+      "type": 29,
+      "value": 1
+    },
+    "101": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 101,
+      "name": "\n炎之强化魔龙级\n强化烈焰项链[炎]",
+      "subtype": 683,
+      "type": 29,
+      "value": 1
+    },
+    "102": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 102,
+      "name": "\n炎之强化魔龙级\n强化光芒项链[炎]",
+      "subtype": 684,
+      "type": 29,
+      "value": 1
+    },
+    "103": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 103,
+      "name": "\n炎之强化魔龙级\n强化雷霆护腕[炎]",
+      "subtype": 685,
+      "type": 29,
+      "value": 1
+    },
+    "104": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 104,
+      "name": "\n炎之强化魔龙级\n强化烈焰护腕[炎]",
+      "subtype": 686,
+      "type": 29,
+      "value": 1
+    },
+    "105": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 105,
+      "name": "\n炎之强化魔龙级\n强化光芒护腕[炎]",
+      "subtype": 687,
+      "type": 29,
+      "value": 1
+    },
+    "106": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 106,
+      "name": "\n炎之强化魔龙级\n强化雷霆战戒[炎]",
+      "subtype": 688,
+      "type": 29,
+      "value": 1
+    },
+    "107": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 107,
+      "name": "\n炎之强化魔龙级\n强化烈焰魔戒[炎]",
+      "subtype": 689,
+      "type": 29,
+      "value": 1
+    },
+    "108": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 108,
+      "name": "\n炎之强化魔龙级\n强化光芒道戒[炎]",
+      "subtype": 690,
+      "type": 29,
+      "value": 1
+    },
+    "109": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 109,
+      "name": "\n战神级\n战神头盔",
+      "subtype": 691,
+      "type": 29,
+      "value": 1
+    },
+    "110": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 110,
+      "name": "\n战神级\n圣魔头盔",
+      "subtype": 692,
+      "type": 29,
+      "value": 1
+    },
+    "111": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 111,
+      "name": "\n战神级\n真魂头盔",
+      "subtype": 693,
+      "type": 29,
+      "value": 1
+    },
+    "112": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 112,
+      "name": "\n战神级\n战神腰带",
+      "subtype": 694,
+      "type": 29,
+      "value": 1
+    },
+    "113": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 113,
+      "name": "\n战神级\n圣魔腰带",
+      "subtype": 695,
+      "type": 29,
+      "value": 1
+    },
+    "114": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 114,
+      "name": "\n战神级\n真魂腰带",
+      "subtype": 696,
+      "type": 29,
+      "value": 1
+    },
+    "115": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 115,
+      "name": "\n战神级\n战神靴",
+      "subtype": 697,
+      "type": 29,
+      "value": 1
+    },
+    "116": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 116,
+      "name": "\n战神级\n圣魔靴",
+      "subtype": 698,
+      "type": 29,
+      "value": 1
+    },
+    "117": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 117,
+      "name": "\n战神级\n真魂靴",
+      "subtype": 699,
+      "type": 29,
+      "value": 1
+    },
+    "118": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 3,
+          "type": 3
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 118,
+      "name": "\n战神级\n虎威神甲",
+      "subtype": 700,
+      "type": 29,
+      "value": 1
+    },
+    "119": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 3,
+          "type": 3
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 119,
+      "name": "\n战神级\n屠龙",
+      "subtype": 701,
+      "type": 29,
+      "value": 1
+    },
+    "120": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 3,
+          "type": 3
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 120,
+      "name": "\n战神级\n嗜魂法杖",
+      "subtype": 702,
+      "type": 29,
+      "value": 1
+    },
+    "121": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 3,
+          "type": 3
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 121,
+      "name": "\n战神级\n倚天剑",
+      "subtype": 703,
+      "type": 29,
+      "value": 1
+    },
+    "122": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 122,
+      "name": "\n战神级\n战神项链",
+      "subtype": 704,
+      "type": 29,
+      "value": 1
+    },
+    "123": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 123,
+      "name": "\n战神级\n圣魔项链",
+      "subtype": 705,
+      "type": 29,
+      "value": 1
+    },
+    "124": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 124,
+      "name": "\n战神级\n真魂项链",
+      "subtype": 706,
+      "type": 29,
+      "value": 1
+    },
+    "125": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 125,
+      "name": "\n战神级\n战神手镯",
+      "subtype": 707,
+      "type": 29,
+      "value": 1
+    },
+    "126": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 126,
+      "name": "\n战神级\n圣魔手镯",
+      "subtype": 708,
+      "type": 29,
+      "value": 1
+    },
+    "127": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 127,
+      "name": "\n战神级\n真魂手镯",
+      "subtype": 709,
+      "type": 29,
+      "value": 1
+    },
+    "128": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 128,
+      "name": "\n战神级\n战神级戒",
+      "subtype": 710,
+      "type": 29,
+      "value": 1
+    },
+    "129": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 129,
+      "name": "\n战神级\n圣魔魔戒",
+      "subtype": 711,
+      "type": 29,
+      "value": 1
+    },
+    "130": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 130,
+      "name": "\n战神级\n真魂道戒",
+      "subtype": 712,
+      "type": 29,
+      "value": 1
+    },
+    "131": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 131,
+      "name": "\n炎之战神级\n战神头盔[炎]",
+      "subtype": 713,
+      "type": 29,
+      "value": 1
+    },
+    "132": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 132,
+      "name": "\n炎之战神级\n圣魔头盔[炎]",
+      "subtype": 714,
+      "type": 29,
+      "value": 1
+    },
+    "133": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 133,
+      "name": "\n炎之战神级\n真魂头盔[炎]",
+      "subtype": 715,
+      "type": 29,
+      "value": 1
+    },
+    "134": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 134,
+      "name": "\n炎之战神级\n战神腰带[炎]",
+      "subtype": 716,
+      "type": 29,
+      "value": 1
+    },
+    "135": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 135,
+      "name": "\n炎之战神级\n圣魔腰带[炎]",
+      "subtype": 717,
+      "type": 29,
+      "value": 1
+    },
+    "136": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 136,
+      "name": "\n炎之战神级\n真魂腰带[炎]",
+      "subtype": 718,
+      "type": 29,
+      "value": 1
+    },
+    "137": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 137,
+      "name": "\n炎之战神级\n战神靴[炎]",
+      "subtype": 719,
+      "type": 29,
+      "value": 1
+    },
+    "138": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 138,
+      "name": "\n炎之战神级\n圣魔靴[炎]",
+      "subtype": 720,
+      "type": 29,
+      "value": 1
+    },
+    "139": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 139,
+      "name": "\n炎之战神级\n真魂靴[炎]",
+      "subtype": 721,
+      "type": 29,
+      "value": 1
+    },
+    "140": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 3,
+          "type": 3
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 140,
+      "name": "\n炎之战神级\n虎威神甲[炎]",
+      "subtype": 722,
+      "type": 29,
+      "value": 1
+    },
+    "141": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 3,
+          "type": 3
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 141,
+      "name": "\n炎之战神级\n屠龙[炎]",
+      "subtype": 723,
+      "type": 29,
+      "value": 1
+    },
+    "142": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 3,
+          "type": 3
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 142,
+      "name": "\n炎之战神级\n嗜魂法杖[炎]",
+      "subtype": 724,
+      "type": 29,
+      "value": 1
+    },
+    "143": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 3,
+          "type": 3
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 143,
+      "name": "\n炎之战神级\n倚天剑[炎]",
+      "subtype": 725,
+      "type": 29,
+      "value": 1
+    },
+    "144": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 144,
+      "name": "\n炎之战神级\n战神项链[炎]",
+      "subtype": 726,
+      "type": 29,
+      "value": 1
+    },
+    "145": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 145,
+      "name": "\n炎之战神级\n圣魔项链[炎]",
+      "subtype": 727,
+      "type": 29,
+      "value": 1
+    },
+    "146": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 146,
+      "name": "\n炎之战神级\n真魂项链[炎]",
+      "subtype": 728,
+      "type": 29,
+      "value": 1
+    },
+    "147": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 147,
+      "name": "\n炎之战神级\n战神手镯[炎]",
+      "subtype": 729,
+      "type": 29,
+      "value": 1
+    },
+    "148": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 148,
+      "name": "\n炎之战神级\n圣魔手镯[炎]",
+      "subtype": 730,
+      "type": 29,
+      "value": 1
+    },
+    "149": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 149,
+      "name": "\n炎之战神级\n真魂手镯[炎]",
+      "subtype": 731,
+      "type": 29,
+      "value": 1
+    },
+    "150": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 150,
+      "name": "\n炎之战神级\n战神戒指[炎]",
+      "subtype": 732,
+      "type": 29,
+      "value": 1
+    },
+    "151": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 151,
+      "name": "\n炎之战神级\n圣魔戒指[炎]",
+      "subtype": 733,
+      "type": 29,
+      "value": 1
+    },
+    "152": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 152,
+      "name": "\n炎之战神级\n真魂戒指[炎]",
+      "subtype": 734,
+      "type": 29,
+      "value": 1
+    },
+    "153": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 994,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 153,
+      "name": "\n星王级\n星王冠",
+      "subtype": 735,
+      "type": 29,
+      "value": 1
+    },
+    "154": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 994,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 154,
+      "name": "\n星王级\n星王腰带",
+      "subtype": 736,
+      "type": 29,
+      "value": 1
+    },
+    "155": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 994,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 155,
+      "name": "\n星王级\n星王靴",
+      "subtype": 737,
+      "type": 29,
+      "value": 1
+    },
+    "156": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 994,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 156,
+      "name": "\n星王级\n凤天魔甲",
+      "subtype": 738,
+      "type": 29,
+      "value": 1
+    },
+    "157": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 994,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 157,
+      "name": "\n星王级\n开天",
+      "subtype": 739,
+      "type": 29,
+      "value": 1
+    },
+    "158": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 994,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 158,
+      "name": "\n星王级\n镇天",
+      "subtype": 740,
+      "type": 29,
+      "value": 1
+    },
+    "159": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 994,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 159,
+      "name": "\n星王级\n玄天",
+      "subtype": 741,
+      "type": 29,
+      "value": 1
+    },
+    "160": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 994,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 160,
+      "name": "\n星王级\n星王项链",
+      "subtype": 742,
+      "type": 29,
+      "value": 1
+    },
+    "161": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 994,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 161,
+      "name": "\n星王级\n星王护腕",
+      "subtype": 743,
+      "type": 29,
+      "value": 1
+    },
+    "162": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 994,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 162,
+      "name": "\n星王级\n星王戒指",
+      "subtype": 744,
+      "type": 29,
+      "value": 1
+    },
+    "163": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 163,
+      "name": "\n炎之星王级\n星王冠[炎]",
+      "subtype": 745,
+      "type": 29,
+      "value": 1
+    },
+    "164": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 164,
+      "name": "\n炎之星王级\n星王腰带[炎]",
+      "subtype": 746,
+      "type": 29,
+      "value": 1
+    },
+    "165": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 165,
+      "name": "\n炎之星王级\n星王靴[炎]",
+      "subtype": 747,
+      "type": 29,
+      "value": 1
+    },
+    "166": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 166,
+      "name": "\n炎之星王级\n星王项链[炎]",
+      "subtype": 752,
+      "type": 29,
+      "value": 1
+    },
+    "167": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 167,
+      "name": "\n炎之星王级\n星王护腕[炎]",
+      "subtype": 753,
+      "type": 29,
+      "value": 1
+    },
+    "168": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 168,
+      "name": "\n炎之星王级\n星王戒指[炎]",
+      "subtype": 754,
+      "type": 29,
+      "value": 1
+    },
+    "169": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 169,
+      "name": "\n王者至尊\n王者战甲",
+      "subtype": 758,
+      "type": 29,
+      "value": 1
+    },
+    "170": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 170,
+      "name": "\n王者至尊\n王者魔衣",
+      "subtype": 759,
+      "type": 29,
+      "value": 1
+    },
+    "171": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 171,
+      "name": "\n王者至尊\n王者道袍",
+      "subtype": 760,
+      "type": 29,
+      "value": 1
+    },
+    "172": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 172,
+      "name": "\n王者至尊\n王者之刃",
+      "subtype": 761,
+      "type": 29,
+      "value": 1
+    },
+    "173": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 173,
+      "name": "\n王者至尊\n王者之杖",
+      "subtype": 762,
+      "type": 29,
+      "value": 1
+    },
+    "174": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 174,
+      "name": "\n王者至尊\n王者之剑",
+      "subtype": 763,
+      "type": 29,
+      "value": 1
+    },
+    "175": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 175,
+      "name": "\n30级神装\n地狱斗笠",
+      "subtype": 351,
+      "type": 29,
+      "value": 1
+    },
+    "176": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 176,
+      "name": "\n40级神装\n修罗斗笠",
+      "subtype": 352,
+      "type": 29,
+      "value": 1
+    },
+    "177": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 177,
+      "name": "\n50级神装\n人间斗笠",
+      "subtype": 353,
+      "type": 29,
+      "value": 1
+    },
+    "178": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 178,
+      "name": "\n30级神装\n地狱面甲",
+      "subtype": 358,
+      "type": 29,
+      "value": 1
+    },
+    "179": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 179,
+      "name": "\n40级神装\n修罗面甲",
+      "subtype": 359,
+      "type": 29,
+      "value": 1
+    },
+    "180": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 180,
+      "name": "\n50级神装\n人间面甲",
+      "subtype": 360,
+      "type": 29,
+      "value": 1
+    },
+    "181": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 181,
+      "name": "\n30级神装\n地狱披风",
+      "subtype": 365,
+      "type": 29,
+      "value": 1
+    },
+    "182": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 182,
+      "name": "\n40级神装\n修罗披风",
+      "subtype": 366,
+      "type": 29,
+      "value": 1
+    },
+    "183": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 183,
+      "name": "\n50级神装\n人间披风",
+      "subtype": 367,
+      "type": 29,
+      "value": 1
+    },
+    "184": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 184,
+      "name": "\n30级神装\n地狱盾牌",
+      "subtype": 372,
+      "type": 29,
+      "value": 1
+    },
+    "185": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 185,
+      "name": "\n40级神装\n修罗盾牌",
+      "subtype": 373,
+      "type": 29,
+      "value": 1
+    },
+    "186": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 186,
+      "name": "\n50级神装\n人间盾牌",
+      "subtype": 374,
+      "type": 29,
+      "value": 1
+    },
+    "187": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 187,
+      "name": "\n1品魂玉",
+      "subtype": 869,
+      "type": 29,
+      "value": 1
+    },
+    "188": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 188,
+      "name": "\n2品魂玉",
+      "subtype": 870,
+      "type": 29,
+      "value": 1
+    },
+    "189": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 189,
+      "name": "\n3品魂玉",
+      "subtype": 871,
+      "type": 29,
+      "value": 1
+    },
+    "190": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 190,
+      "name": "\n1阶勋章",
+      "subtype": 880,
+      "type": 29,
+      "value": 1
+    },
+    "191": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 191,
+      "name": "\n2阶勋章",
+      "subtype": 881,
+      "type": 29,
+      "value": 1
+    },
+    "192": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 192,
+      "name": "\n3阶勋章",
+      "subtype": 882,
+      "type": 29,
+      "value": 1
+    },
+    "193": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 193,
+      "name": "\n1级治疗宝珠",
+      "subtype": 891,
+      "type": 29,
+      "value": 1
+    },
+    "194": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 194,
+      "name": "\n2级治疗宝珠",
+      "subtype": 892,
+      "type": 29,
+      "value": 1
+    },
+    "195": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 195,
+      "name": "\n3级治疗宝珠",
+      "subtype": 893,
+      "type": 29,
+      "value": 1
+    },
+    "196": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 196,
+      "name": "\n魂火【三转】",
+      "subtype": 902,
+      "type": 29,
+      "value": 1
+    },
+    "197": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 197,
+      "name": "\n魂火【四转】",
+      "subtype": 903,
+      "type": 29,
+      "value": 1
+    },
+    "198": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 198,
+      "name": "\n魂火【五转】",
+      "subtype": 904,
+      "type": 29,
+      "value": 1
+    },
+    "199": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 199,
+      "name": "\n魂火【六转】",
+      "subtype": 905,
+      "type": 29,
+      "value": 1
+    },
+    "200": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 200,
+      "name": "\n魂火【高转】",
+      "subtype": 906,
+      "type": 29,
+      "value": 1
+    },
+    "201": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 201,
+      "name": "\n曜石【三转】",
+      "subtype": 912,
+      "type": 29,
+      "value": 1
+    },
+    "202": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 202,
+      "name": "\n曜石【四转】",
+      "subtype": 913,
+      "type": 29,
+      "value": 1
+    },
+    "203": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 203,
+      "name": "\n曜石【五转】",
+      "subtype": 914,
+      "type": 29,
+      "value": 1
+    },
+    "204": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 204,
+      "name": "\n曜石【六转】",
+      "subtype": 915,
+      "type": 29,
+      "value": 1
+    },
+    "205": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 205,
+      "name": "\n曜石【高转】",
+      "subtype": 916,
+      "type": 29,
+      "value": 1
+    },
+    "206": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 206,
+      "name": "\n佩饰[人]",
+      "subtype": 934,
+      "type": 29,
+      "value": 1
+    },
+    "207": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 207,
+      "name": "\n佩饰[鬼]",
+      "subtype": 935,
+      "type": 29,
+      "value": 1
+    },
+    "208": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 208,
+      "name": "\n佩饰[神]",
+      "subtype": 936,
+      "type": 29,
+      "value": 1
+    },
+    "209": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 209,
+      "name": "\n佩饰[魔]",
+      "subtype": 937,
+      "type": 29,
+      "value": 1
+    },
+    "210": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 210,
+      "name": "\n两仪佩饰[人]",
+      "subtype": 938,
+      "type": 29,
+      "value": 1
+    },
+    "211": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 211,
+      "name": "\n两仪佩饰[鬼]",
+      "subtype": 939,
+      "type": 29,
+      "value": 1
+    },
+    "212": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 212,
+      "name": "\n两仪佩饰[神]",
+      "subtype": 940,
+      "type": 29,
+      "value": 1
+    },
+    "213": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 213,
+      "name": "\n两仪佩饰[魔]",
+      "subtype": 941,
+      "type": 29,
+      "value": 1
+    },
+    "214": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 214,
+      "name": "\n四象佩饰[人]",
+      "subtype": 942,
+      "type": 29,
+      "value": 1
+    },
+    "215": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 215,
+      "name": "\n四象佩饰[鬼]",
+      "subtype": 943,
+      "type": 29,
+      "value": 1
+    },
+    "216": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 216,
+      "name": "\n四象佩饰[神]",
+      "subtype": 944,
+      "type": 29,
+      "value": 1
+    },
+    "217": {
+      "GiftTable": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 217,
+      "name": "\n四象佩饰[魔]",
+      "subtype": 945,
+      "type": 29,
+      "value": 1
+    },
+    "218": {
+      "GiftTable": [
+        {
+          "count": 3,
+          "id": 269,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 218,
+      "name": "\n一阶魔器\n阎罗手套",
+      "subtype": 958,
+      "type": 29,
+      "value": 1
+    },
+    "219": {
+      "GiftTable": [
+        {
+          "count": 3,
+          "id": 269,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 219,
+      "name": "\n一阶魔器\n死神手套",
+      "subtype": 984,
+      "type": 29,
+      "value": 1
+    },
+    "220": {
+      "GiftTable": [
+        {
+          "count": 3,
+          "id": 269,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 220,
+      "name": "\n一阶魔器\n二相之力",
+      "subtype": 985,
+      "type": 29,
+      "value": 1
+    },
+    "221": {
+      "GiftTable": [
+        {
+          "count": 3,
+          "id": 269,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 221,
+      "name": "\n一阶魔器\n灯笼项链",
+      "subtype": 992,
+      "type": 29,
+      "value": 1
+    },
+    "222": {
+      "GiftTable": [
+        {
+          "count": 3,
+          "id": 269,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 222,
+      "name": "\n一阶魔器\n狂风戒指[残]",
+      "subtype": 1017,
+      "type": 29,
+      "value": 1
+    },
+    "223": {
+      "GiftTable": [
+        {
+          "count": 3,
+          "id": 269,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 223,
+      "name": "\n一阶魔器\n虹魔戒指[残]",
+      "subtype": 1021,
+      "type": 29,
+      "value": 1
+    },
+    "224": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 224,
+      "name": "\n二阶魔器\n寂静手镯",
+      "subtype": 959,
+      "type": 29,
+      "value": 1
+    },
+    "225": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 225,
+      "name": "\n二阶魔器\n生命手镯",
+      "subtype": 960,
+      "type": 29,
+      "value": 1
+    },
+    "226": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 226,
+      "name": "\n二阶魔器\n毁灭吊坠",
+      "subtype": 961,
+      "type": 29,
+      "value": 1
+    },
+    "227": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 227,
+      "name": "\n二阶魔器\n黑暗吊坠",
+      "subtype": 962,
+      "type": 29,
+      "value": 1
+    },
+    "228": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 228,
+      "name": "\n二阶魔器\n嗜血挂链",
+      "subtype": 963,
+      "type": 29,
+      "value": 1
+    },
+    "229": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 229,
+      "name": "\n二阶魔器\n神力戒指",
+      "subtype": 964,
+      "type": 29,
+      "value": 1
+    },
+    "230": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 230,
+      "name": "\n二阶魔器\n残暴头盔",
+      "subtype": 986,
+      "type": 29,
+      "value": 1
+    },
+    "231": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 231,
+      "name": "\n二阶魔器\n三相之力",
+      "subtype": 987,
+      "type": 29,
+      "value": 1
+    },
+    "232": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 232,
+      "name": "\n二阶魔器\n白色虎齿",
+      "subtype": 993,
+      "type": 29,
+      "value": 1
+    },
+    "233": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 233,
+      "name": "\n三阶魔器\n恶魔降临",
+      "subtype": 988,
+      "type": 29,
+      "value": 1
+    },
+    "234": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 234,
+      "name": "\n三阶魔器\n守护之心",
+      "subtype": 965,
+      "type": 29,
+      "value": 1
+    },
+    "235": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 235,
+      "name": "\n三阶魔器\n大地之春",
+      "subtype": 966,
+      "type": 29,
+      "value": 1
+    },
+    "236": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 236,
+      "name": "\n三阶魔器\n毁天灭地",
+      "subtype": 967,
+      "type": 29,
+      "value": 1
+    },
+    "237": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 237,
+      "name": "\n三阶魔器\n日月无光",
+      "subtype": 968,
+      "type": 29,
+      "value": 1
+    },
+    "238": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 238,
+      "name": "\n三阶魔器\n热血狂奔",
+      "subtype": 969,
+      "type": 29,
+      "value": 1
+    },
+    "239": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 239,
+      "name": "\n三阶魔器\n最后轻语",
+      "subtype": 980,
+      "type": 29,
+      "value": 1
+    },
+    "240": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 970,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 240,
+      "name": "\n三阶魔器\n神力万钧",
+      "subtype": 981,
+      "type": 29,
+      "value": 1
+    },
+    "241": {
+      "GiftTable": [
+        {
+          "count": 3,
+          "id": 269,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 241,
+      "name": "\n神魔结晶",
+      "subtype": 970,
+      "type": 29,
+      "value": 1
+    },
+    "242": {
+      "GiftTable": [
+        {
+          "count": 3,
+          "id": 269,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 242,
+      "name": "\n金条",
+      "subtype": 249,
+      "type": 29,
+      "value": 1
+    },
+    "243": {
+      "GiftTable": [
+        {
+          "count": 3,
+          "id": 269,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 243,
+      "name": "\n黄色桑巴时装",
+      "subtype": 490,
+      "type": 29,
+      "value": 1
+    },
+    "244": {
+      "GiftTable": [
+        {
+          "count": 3,
+          "id": 269,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 244,
+      "name": "\n元宝(小)",
+      "subtype": 825,
+      "type": 29,
+      "value": 1
+    },
+    "245": {
+      "GiftTable": [
+        {
+          "count": 3,
+          "id": 269,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 245,
+      "name": "\n元宝(中)",
+      "subtype": 826,
+      "type": 29,
+      "value": 1
+    },
+    "246": {
+      "GiftTable": [
+        {
+          "count": 3,
+          "id": 269,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 246,
+      "name": "\n元宝(大)",
+      "subtype": 827,
+      "type": 29,
+      "value": 1
+    },
+    "247": {
+      "GiftTable": [
+        {
+          "count": 3,
+          "id": 269,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 247,
+      "name": "\n元宝(海量)",
+      "subtype": 828,
+      "type": 29,
+      "value": 1
+    },
+    "248": {
+      "GiftTable": [
+        {
+          "count": 3,
+          "id": 269,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 248,
+      "name": "\n银两(小)",
+      "subtype": 829,
+      "type": 29,
+      "value": 1
+    },
+    "249": {
+      "GiftTable": [
+        {
+          "count": 3,
+          "id": 269,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 249,
+      "name": "\n银两(中)",
+      "subtype": 830,
+      "type": 29,
+      "value": 1
+    },
+    "250": {
+      "GiftTable": [
+        {
+          "count": 3,
+          "id": 269,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 250,
+      "name": "\n银两(大)",
+      "subtype": 831,
+      "type": 29,
+      "value": 1
+    },
+    "251": {
+      "GiftTable": [
+        {
+          "count": 3,
+          "id": 269,
+          "type": 0
+        },
+        {
+          "count": 60,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10149,
+      "level": 251,
+      "name": "\n银两(海量)",
+      "subtype": 832,
+      "type": 29,
+      "value": 1
+    }
+  },
+  "10213": {
+    "1": {
+      "GiftTable": [
+        {
+          "count": 10,
+          "id": 269,
+          "type": 0
+        }
+      ],
+      "Id": 10213,
+      "level": 1,
+      "name": "消灭怪物",
+      "scheduletips": "已击败怪物:",
+      "showType": 1,
+      "subtype": 1,
+      "type": 7,
+      "value": 500
+    },
+    "2": {
+      "GiftTable": [
+        {
+          "count": 20,
+          "id": 261,
+          "type": 0
+        }
+      ],
+      "Id": 10213,
+      "level": 2,
+      "name": "消灭怪物",
+      "scheduletips": "已击败怪物:",
+      "showType": 1,
+      "subtype": 1,
+      "type": 7,
+      "value": 1000
+    },
+    "3": {
+      "GiftTable": [
+        {
+          "count": 8,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10213,
+      "level": 3,
+      "name": "消灭怪物",
+      "scheduletips": "已击败怪物:",
+      "showType": 1,
+      "subtype": 1,
+      "type": 7,
+      "value": 2000
+    },
+    "4": {
+      "GiftTable": [
+        {
+          "count": 20,
+          "id": 269,
+          "type": 0
+        }
+      ],
+      "Id": 10213,
+      "level": 4,
+      "name": "消灭怪物",
+      "scheduletips": "已击败怪物:",
+      "showType": 1,
+      "subtype": 1,
+      "type": 7,
+      "value": 4000
+    },
+    "5": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 1116,
+          "type": 0
+        }
+      ],
+      "Id": 10213,
+      "level": 5,
+      "name": "消灭怪物",
+      "scheduletips": "已击败怪物:",
+      "showType": 1,
+      "subtype": 1,
+      "type": 7,
+      "value": 8000
+    },
+    "6": {
+      "GiftTable": [
+        {
+          "count": 18,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10213,
+      "level": 6,
+      "name": "消灭怪物",
+      "scheduletips": "已击败怪物:",
+      "showType": 1,
+      "subtype": 1,
+      "type": 7,
+      "value": 15000
+    },
+    "7": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 350,
+          "type": 0
+        }
+      ],
+      "Id": 10213,
+      "level": 7,
+      "name": "消灭怪物",
+      "scheduletips": "已击败怪物:",
+      "showType": 1,
+      "subtype": 1,
+      "type": 7,
+      "value": 25000
+    },
+    "8": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 1034,
+          "type": 0
+        }
+      ],
+      "Id": 10213,
+      "level": 8,
+      "name": "消灭怪物",
+      "scheduletips": "已击败怪物:",
+      "showType": 1,
+      "subtype": 1,
+      "type": 7,
+      "value": 36000
+    }
+  },
+  "10214": {
+    "1": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 302,
+          "type": 0
+        },
+        {
+          "count": 1,
+          "id": 249,
+          "type": 0
+        }
+      ],
+      "Id": 10214,
+      "level": 1,
+      "name": "等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 1,
+      "value": 45
+    },
+    "2": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 994,
+          "type": 0
+        },
+        {
+          "count": 1,
+          "id": 249,
+          "type": 0
+        }
+      ],
+      "Id": 10214,
+      "level": 2,
+      "name": "等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 1,
+      "value": 55
+    },
+    "3": {
+      "GiftTable": [
+        {
+          "count": 5,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 1,
+          "id": 249,
+          "type": 0
+        }
+      ],
+      "Id": 10214,
+      "level": 3,
+      "name": "等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 1,
+      "value": 65
+    },
+    "4": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 995,
+          "type": 0
+        },
+        {
+          "count": 1,
+          "id": 249,
+          "type": 0
+        }
+      ],
+      "Id": 10214,
+      "level": 4,
+      "name": "等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 1,
+      "value": 75
+    },
+    "5": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 996,
+          "type": 0
+        },
+        {
+          "count": 2,
+          "id": 249,
+          "type": 0
+        }
+      ],
+      "Id": 10214,
+      "level": 5,
+      "name": "等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 1,
+      "value": 85
+    },
+    "6": {
+      "GiftTable": [
+        {
+          "count": 5,
+          "id": 269,
+          "type": 0
+        },
+        {
+          "count": 2,
+          "id": 249,
+          "type": 0
+        }
+      ],
+      "Id": 10214,
+      "level": 6,
+      "name": "等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 1,
+      "value": 95
+    },
+    "7": {
+      "GiftTable": [
+        {
+          "count": 30000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 3,
+          "id": 249,
+          "type": 0
+        }
+      ],
+      "Id": 10214,
+      "level": 7,
+      "name": "等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 1,
+      "value": 105
+    },
+    "8": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 997,
+          "type": 0
+        },
+        {
+          "count": 3,
+          "id": 249,
+          "type": 0
+        }
+      ],
+      "Id": 10214,
+      "level": 8,
+      "name": "等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 1,
+      "value": 115
+    },
+    "9": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 1116,
+          "type": 0
+        },
+        {
+          "count": 4,
+          "id": 249,
+          "type": 0
+        }
+      ],
+      "Id": 10214,
+      "level": 9,
+      "name": "等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 1,
+      "value": 125
+    },
+    "10": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 1116,
+          "type": 0
+        },
+        {
+          "count": 4,
+          "id": 249,
+          "type": 0
+        }
+      ],
+      "Id": 10214,
+      "level": 10,
+      "name": "等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 1,
+      "value": 135
+    }
+  },
+  "10215": {
+    "1": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 994,
+          "type": 0
+        },
+        {
+          "count": 2,
+          "id": 249,
+          "type": 0
+        }
+      ],
+      "Id": 10215,
+      "level": 1,
+      "name": "转生等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 2,
+      "value": 1
+    },
+    "2": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 995,
+          "type": 0
+        },
+        {
+          "count": 2,
+          "id": 249,
+          "type": 0
+        }
+      ],
+      "Id": 10215,
+      "level": 2,
+      "name": "转生等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 2,
+      "value": 2
+    },
+    "3": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 996,
+          "type": 0
+        },
+        {
+          "count": 1,
+          "id": 1116,
+          "type": 0
+        },
+        {
+          "count": 3,
+          "id": 249,
+          "type": 0
+        }
+      ],
+      "Id": 10215,
+      "level": 3,
+      "name": "转生等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 2,
+      "value": 3
+    },
+    "4": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 997,
+          "type": 0
+        },
+        {
+          "count": 1,
+          "id": 1116,
+          "type": 0
+        },
+        {
+          "count": 3,
+          "id": 249,
+          "type": 0
+        }
+      ],
+      "Id": 10215,
+      "level": 4,
+      "name": "转生等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 2,
+      "value": 4
+    },
+    "5": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 998,
+          "type": 0
+        },
+        {
+          "count": 2,
+          "id": 1116,
+          "type": 0
+        },
+        {
+          "count": 4,
+          "id": 249,
+          "type": 0
+        }
+      ],
+      "Id": 10215,
+      "level": 5,
+      "name": "转生等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 2,
+      "value": 5
+    },
+    "6": {
+      "GiftTable": [
+        {
+          "count": 2,
+          "id": 999,
+          "type": 0
+        },
+        {
+          "count": 2,
+          "id": 1116,
+          "type": 0
+        },
+        {
+          "count": 4,
+          "id": 249,
+          "type": 0
+        }
+      ],
+      "Id": 10215,
+      "level": 6,
+      "name": "转生等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 2,
+      "value": 6
+    },
+    "7": {
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 490,
+          "type": 0
+        },
+        {
+          "count": 2,
+          "id": 1116,
+          "type": 0
+        },
+        {
+          "count": 5,
+          "id": 249,
+          "type": 0
+        }
+      ],
+      "Id": 10215,
+      "level": 7,
+      "name": "转生等级达到",
+      "showType": 1,
+      "subtype": 1,
+      "type": 2,
+      "value": 7
+    }
+  }
+}

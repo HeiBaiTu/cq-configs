@@ -1,0 +1,28 @@
+﻿--與npc的對話的內容,不包括活動和任務.活動的語言放activity.txt裡,任務的放quest.txt裡
+
+Talk = 
+{
+	t00002 = "\\<#BLI008武器商店/@NPCTradeInfoToClient,1>",
+	t00003 = "\\<#BLI007防具商店/@NPCTradeInfoToClient,2>",
+	t00004 = "\\<#BLI007飾品商店/@NPCTradeInfoToClient,3>",
+	t00005 = "\\<#BLI005雜貨商店/@NPCTradeInfoToClient,4>",
+	t00006 = "\\<#BLI004藥品商店/@NPCTradeInfoToClient,5>",
+	t00007 = "\\<#BLI004書店/@NPCTradeInfoToClient,6>",
+	--t00008 = "\\<#BLI006打開倉庫/@@showStorageWin>",
+	t00008 = "\\<#BLI006打開倉庫/@ShowStorageWin>",
+
+	t02497 = "\\<#BLI004藥品商店/@NPCTradeInfoToClient,34>",
+	t02498 = "\\<#BLI005購買回程卷/@NPCTradeInfoToClient,1>",
+	t02497 = "\\<#BLI004英雄商店/@NPCTradeInfoToClient,7>",
+	-- 一鍵回血回藍菜單選項
+	t02498 = "\\<#BLI004信曾哥(花費%d金幣滿血滿藍)/@OneKeySetFullHpMp,%d>";
+	-- 兌換經驗神符
+	t02499 = "\\<#BLI004兌換經驗神符/@ExpRuneOptions>",
+	t02500 = "<(c0xFF00FF00)%.1f倍經驗神符>需要<(c0xFF00FFFF)%d>張<(c0xFFFFFF00)%.1f倍經驗神符>與<(c0xFFFFFF00)%d金幣>，每天有<(c0xFFFFFF00)%d次>兌換機會",
+	t02502 = "<(c0xFF00FF00)%d倍經驗神符>需要<(c0xFF00FFFF)%d>張<(c0xFFFFFF00)%.1f倍經驗神符>與<(c0xFFFFFF00)%d金幣>，每天有<(c0xFFFFFF00)%d次>兌換機會",
+	t02503 = "<(c0xFF00FF00)%d倍經驗神符>需要<(c0xFF00FFFF)%d>張<(c0xFFFFFF00)%d倍經驗神符>與<(c0xFFFFFF00)%d金幣>，每天有<(c0xFFFFFF00)%d次>兌換機會",
+	t02504 = "\\<#BLI004兌換%d倍經驗神符（今天剩餘%d次）/@ExpRuneDoConvert,%d>",
+	t02505 = "\\<#BLI004兌換%.1f倍經驗神符（今天剩餘%d次）/@ExpRuneDoConvert,%d>",
+	t02506 = "現在您可以從我這用一些低級經驗神符兌換成更高級的經驗神符！\\兌換規則：\\<(c0xFFFF0000)8小時的經驗神符不在兌換範圍內>\\",
+
+}

@@ -1,0 +1,91 @@
+{
+  "1": {
+    "Id": 1,
+    "IsAdd": true,
+    "Persongift": [
+      {
+        "count": 250000,
+        "id": 5,
+        "type": 5
+      }
+    ],
+    "bg": "Act_hdbg2_smsz",
+    "buttoncolor": 2,
+    "count": 2,
+    "describe": "消灭所有石墓阵怪物，就能获得大量经验\n\n\n|C:0x2eb52d&T:等级28级 消耗绑金2万|",
+    "fbId": 1,
+    "isCheckTime": 0,
+    "isFromOpenSrv": true,
+    "openParam": {
+      "level": 999
+    },
+    "rewardBtn": "进入",
+    "rewards": [
+      {
+        "count": 0,
+        "id": 0,
+        "type": 5
+      }
+    ],
+    "ruleID": 33,
+    "showParam": {
+      "level": 999,
+      "openDay": 999
+    },
+    "tipsbuttonfunction": {
+      "param1": "app.ActivityCopiesWin",
+      "param2": [
+        0
+      ],
+      "type": 1
+    },
+    "tipsbuttontext": "立即参与",
+    "tipstext": "消灭所有石墓阵怪物，就能获得大量经验（低等级时完成一次活动即可提升一级）",
+    "tipstime": "28级开启",
+    "tipstitleicon": "open_bt_6",
+    "titleIcon": "Act_biaoti_smsz",
+    "uiType": 2
+  },
+  "2": {
+    "Id": 2,
+    "IsAdd": false,
+    "Persongift": [
+      {
+        "count": 250000,
+        "id": 5,
+        "type": 5
+      }
+    ],
+    "bg": "Act_hdbg2_smsz",
+    "count": 2,
+    "describe": "消灭所有石墓阵怪物，就能获得大量经验（参加需要石墓挑战卷）\n\n|C:0x2eb52d&T:等级28级 消耗石墓挑战卷*1 绑金2万|",
+    "enterExpends": [
+      {
+        "count": 1,
+        "id": 298,
+        "type": 0
+      }
+    ],
+    "fbId": 1,
+    "isCheckTime": 0,
+    "isFromOpenSrv": false,
+    "openParam": {
+      "level": 999
+    },
+    "rewardBtn": "进入",
+    "rewards": [
+      {
+        "count": 0,
+        "id": 0,
+        "type": 5
+      }
+    ],
+    "ruleID": 34,
+    "showParam": {
+      "level": 999,
+      "openDay": 999
+    },
+    "titleIcon": "Act_biaoti_smsztz",
+    "uiType": 2
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "Id": 41,
+  "Ntipstext_1": "|C:0xeee104&T:活动：沙巴克|",
+  "Ntipstext_2": "|C:0xf56f00&T:活动时间：||C:0x2eb52d&T:开服第3天首沙 每周三、周六20:10-20:40|",
+  "Ntipstext_3": "每周三、周六参加沙巴克，在沙城区域泡点积分达标后，可在【精彩活动】-【沙战到底】领取参战奖励\n\n|C:0xf56f00&T:活动规则：|\n1.  |C:0x2eb52d&T:20:15|开始，开放沙巴克皇宫占领，若|C:0x2eb52d&T:皇宫|地图内有且|C:0x2eb52d&T:只有同一个行会|的成员，则该行会|C:0x2eb52d&T:占领沙巴克|\n2.  |C:0x2eb52d&T:20:40|截止时占领皇宫的行会即为最终的沙巴克行会\n3.  皇宫正门的传送点（紫色传送阵）仅限沙巴克成员进入\n4.  沙巴克攻城期间，沙城周围将开启泡点经验并变为|C:0x2eb52d&T:战争区域|，在此区域内|C:0x2eb52d&T:不会增加PK值|，被击败|C:0xf56f00&T:有几率掉落穿戴装备|",
+  "Ntipstext_4": "前往路径：|C:0x28ee01&T:公告牌||C:0xf56f00&T:(盟重223:150)|→|C:0xf56f00&T:沙城门口、沙城通道|",
+  "bg": "Act_hdbg1_sbkgc",
+  "buttoncolor": 2,
+  "czrewards": [
+    {
+      "count": 1,
+      "id": 950,
+      "type": 0
+    },
+    {
+      "count": 1,
+      "id": 1031,
+      "type": 0
+    },
+    {
+      "count": 1,
+      "id": 1032,
+      "type": 0
+    }
+  ],
+  "describe": "每个踏入玛法大陆的冒险者，内心深处都藏有战斗的疯狂和嗜血的渴望，战胜恶魔之后，人类必将迎来勇士之间的比拼，沙巴克攻城战正是为此而生！\n\n|C:0x2eb52d&T:每日 20:30-21:00|\n|C:0xf56f00&T:开服第7天开启|",
+  "description": "|C:0x0ffff00&T:前往沙巴克路径：|\n|C:0x2eb52d&T:公告牌(223:150)|→|C:0xf56f00&T:沙城门口、沙城通道|\n飞鞋→其它传送-沙城门口、沙城通道\n",
+  "idx": 1,
+  "isCheckTime": 0,
+  "name": "沙巴克",
+  "openParam": {
+    "level": 1,
+    "openDay": 3
+  },
+  "openView": "app.ActivityCommonView",
+  "rewards": [
+    {
+      "count": 0,
+      "id": 1059,
+      "type": 0
+    },
+    {
+      "count": 0,
+      "id": 1060,
+      "type": 0
+    },
+    {
+      "count": 0,
+      "id": 300,
+      "type": 0
+    },
+    {
+      "count": 0,
+      "id": 997,
+      "type": 0
+    },
+    {
+      "count": 1,
+      "id": 0,
+      "type": 5
+    },
+    {
+      "count": 1,
+      "id": 0,
+      "type": 2
+    }
+  ],
+  "ruleID": 38,
+  "showParam": {
+    "level": 1,
+    "openDay": 1
+  },
+  "starttime": 0,
+  "timeDescribe": "周三，周六\n20:10-20:40",
+  "tipsbuttonfunction": {
+    "param1": "app.ShaChengStarcraftWin",
+    "type": 1
+  },
+  "tipsbuttontext": "立即参与",
+  "tipstext": "沙巴克攻城将于20:10开始，请勇士们做好准备！",
+  "tipstime": "20:10~20:40",
+  "tipstitleicon": "open_bt_5",
+  "titleIcon": "Act_biaoti_sbkgc",
+  "toflyid": {
+    "FlyTable": 5,
+    "Flyid": 69
+  },
+  "uiType": 1
+}

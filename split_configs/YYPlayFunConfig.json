@@ -1,0 +1,17 @@
+{
+  "1": {
+    "icon": "icon_dttq",
+    "id": 1,
+    "view": "app.YYLobbyPrivilegesWin"
+  },
+  "2": {
+    "icon": "icon_yyhy",
+    "id": 2,
+    "view": "app.YYMemberWin"
+  },
+  "3": {
+    "icon": "icon_wxhb",
+    "id": 3,
+    "view": "app.YYWxGiftWin"
+  }
+}

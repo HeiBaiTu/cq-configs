@@ -1,0 +1,114 @@
+{
+  "17": {
+    "Id": 17,
+    "Persongift": [
+      {
+        "count": 5,
+        "id": 421,
+        "type": 0
+      }
+    ],
+    "bg": "act_zsrwbg1",
+    "buttoncolor": 2,
+    "count": 1,
+    "countstart": 2,
+    "describe": "驻守玛法大陆各个角落，守住阵地，坚持到底就是胜利\n\n|C:0x2eb52d&T:等级32级 消耗绑金2万|",
+    "durationTime": {
+      "Table": {
+        "1": 60,
+        "2": 120,
+        "3": 180,
+        "4": 240,
+        "5": 300
+      },
+      "count": 5
+    },
+    "enterExpends": [
+      {
+        "count": 20000,
+        "id": 2,
+        "type": 2
+      }
+    ],
+    "isFromOpenSrv": true,
+    "openParam": {
+      "level": 32,
+      "openDay": 999
+    },
+    "rewardBtn": "进入",
+    "rewards": [
+      {
+        "count": 5,
+        "id": 421,
+        "type": 0
+      }
+    ],
+    "ruleID": 72,
+    "saodangExpends": [
+      {
+        "count": 1,
+        "id": 436,
+        "type": 0
+      }
+    ],
+    "showParam": {
+      "level": 999,
+      "openDay": 999
+    },
+    "titleIcon": "act_zsrwt_1",
+    "uiType": 2
+  },
+  "19": {
+    "Id": 19,
+    "Persongift": [
+      {
+        "count": 5,
+        "id": 421,
+        "type": 0
+      }
+    ],
+    "bg": "Act_hdbg2_zsrw",
+    "buttoncolor": 2,
+    "count": 1,
+    "countstart": 1,
+    "describe": "驻守玛法大陆各个角落，守住阵地，坚持到底就是胜利\n\n|C:0x2eb52d&T:等级32级 消耗绑金2万|",
+    "durationTime": {
+      "Table": {
+        "1": 60,
+        "2": 120,
+        "3": 180,
+        "4": 240,
+        "5": 300
+      },
+      "count": 5
+    },
+    "isFromOpenSrv": false,
+    "openParam": {
+      "level": 999,
+      "openDay": 999
+    },
+    "openView": "app.ActivityDefendTaskView",
+    "rewardBtn": "进入",
+    "rewards": [
+      {
+        "count": 0,
+        "id": 421,
+        "type": 0
+      }
+    ],
+    "ruleID": 72,
+    "saodangExpends": [
+      {
+        "count": 1,
+        "id": 436,
+        "type": 0
+      }
+    ],
+    "showParam": {
+      "level": 999,
+      "openDay": 999
+    },
+    "titleIcon": "Act_biaoti_zsrw",
+    "uiType": 2
+  }
+}

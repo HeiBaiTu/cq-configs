@@ -1,0 +1,5 @@
+--人物转生事件
+defaultHandlerActorCirclel = function ( pActor,nCircle )
+	
+	local nLevel = Actor.getIntProperty(pActor, PROP_CREATURE_LEVEL)
+end

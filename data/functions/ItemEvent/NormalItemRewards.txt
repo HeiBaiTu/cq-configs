@@ -1,0 +1,59 @@
+--lua script
+--Reward configs
+
+MONEYTYPE = {
+[0] = OldLang.NoticeStr.x00005, 	--���
+[3] = OldLang.NoticeStr.x00007,	--Ԫ��
+}
+--��ǰ���������󲻴��ʱ������ģ����������ɱ�����չ
+--������Ϊ�����Ǹ����ǳ�������� ����Ʒ��������Ǯ��Ʒ �����ܿ���������������
+--����չ�ԺͿ�ά���ԵĽǶȿ� �б�Ҫ��������ö�������
+--rewardCheck	��Ϊר�Ŷ�Ӧ�����õĹ��߷��� ���ڼ�⽱���Ŀ�����״�������ز�ͬ���
+--doReward	��Ϊר�Ŷ�Ӧ�����õĹ��߷��� ����ִ�н�����Ϊ
+
+--ͨ�����������н������
+function rewardConfigCheck (sysarg,rewardConfig)
+	if rewardConfig == nil then return 2 end
+	local needspace = 0
+	local myJob = Actor.getIntProperty( sysarg, PROP_ACTOR_VOCATION )
+	local mySex = Actor.getIntProperty(sysarg,PROP_ACTOR_SEX)
+	for i,c in ipairs(rewardConfig) do
+		if c.rewardtype == 1 and (not c.sex or c.sex == mySex) and (not c.job or c.job == myJob) then
+			needspace = needspace + Item.getAddItemNeedGridCount( sysarg, c.itemid, c.amount )
+		end
+	end
+	--if ( needspace > Item.getBagEmptyGridCount( sysarg ) ) then
+	if ( needspace > Item.getAllBagMinEmptyGridCount( sysarg ) ) then
+		----print("---Reward config bag space lack."..needspace)
+		return 2 , needspace
+	end
+	return 0 , needspace
+end
+
+--ͨ�������б����н���
+function doRewardConfig (sysarg,rewardConfig)
+	if rewardConfig == nil then return end
+	local myJob = Actor.getIntProperty( sysarg, PROP_ACTOR_VOCATION )
+	local mySex = Actor.getIntProperty(sysarg,PROP_ACTOR_SEX)
+	for i = 1, #rewardConfig do
+		local c = rewardConfig[i]
+		if ( c.rewardtype == 1 ) then
+			if (not c.sex or c.sex == mySex) and (not c.job or c.job == myJob) then
+				Actor.addItem(sysarg,c.itemid,c.quality,c.strong, c.amount,c.bind,0,OldLang.Log.LogclOnAsyncOpResultFunc,205)
+				local itemname = Item.getItemName(c.itemid)
+				if itemname then
+					local allmsg = string.format(OldLang.NoticeStr.q00037,itemname,c.amount)
+					Actor.sendTipmsg(sysarg,allmsg, ttFlyTip)
+				else
+					print("Item.getItemName() failed, itemid = " .. c.itemid);
+				end
+			end
+		elseif ( c.rewardtype == 2 ) then
+			Actor.changeMoney( sysarg, c.type, c.amount,205, OldLang.Log.LogclOnAsyncOpResultFunc)
+			local moneystr = MONEYTYPE[c.type]
+			local allmsg = string.format(moneystr,c.amount)  
+			Actor.sendTipmsg(sysarg,allmsg, ttFlyTip)
+		end
+	end
+end
+

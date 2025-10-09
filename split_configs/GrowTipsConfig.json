@@ -1,0 +1,230 @@
+{
+  "1": {
+    "1": {
+      "buttonUI": {
+        "param1": "app.ActvityFirstChargeView",
+        "type": 1
+      },
+      "buttontext": "首充",
+      "closeparam": {
+        "zsLevel": 4
+      },
+      "id": 1,
+      "openparam": {
+        "level": 1,
+        "openDay": 1,
+        "zsLevel": 0
+      },
+      "tagid": 1
+    },
+    "2": {
+      "buttonUI": {
+        "param1": "app.FlyShoesView",
+        "param2": 2,
+        "type": 3
+      },
+      "buttontext": "挂机打宝",
+      "id": 2,
+      "openparam": {
+        "level": 1,
+        "openDay": 1,
+        "zsLevel": 0
+      },
+      "tagid": 1
+    },
+    "3": {
+      "buttonUI": {
+        "param1": "app.TradeLineWin",
+        "type": 1
+      },
+      "buttontext": "交易购买",
+      "id": 3,
+      "openparam": {
+        "level": 1,
+        "openDay": 1,
+        "zsLevel": 0
+      },
+      "tagid": 1
+    },
+    "4": {
+      "buttonUI": {
+        "param1": "app.RecycleWin",
+        "param2": 1,
+        "type": 3
+      },
+      "buttontext": "装备合成",
+      "closeparam": {
+        "zsLevel": 4
+      },
+      "id": 4,
+      "openparam": {
+        "level": 1,
+        "openDay": 1,
+        "zsLevel": 0
+      },
+      "tagid": 1
+    },
+    "5": {
+      "buttonUI": {
+        "param1": "app.BaptismWin",
+        "type": 1
+      },
+      "buttontext": "装备洗炼",
+      "id": 5,
+      "openparam": {
+        "level": 1,
+        "openDay": 1,
+        "zsLevel": 4
+      },
+      "tagid": 1
+    },
+    "6": {
+      "buttonUI": {
+        "param1": "app.ForgeWin",
+        "type": 1
+      },
+      "buttontext": "装备升星",
+      "id": 6,
+      "openparam": {
+        "level": 1,
+        "openDay": 1,
+        "zsLevel": 4
+      },
+      "tagid": 1
+    }
+  },
+  "2": {
+    "1": {
+      "buttonUI": {
+        "param1": "app.FlyShoesView",
+        "param2": 2,
+        "type": 3
+      },
+      "buttontext": "精力水晶",
+      "id": 1,
+      "openparam": {
+        "level": 1,
+        "openDay": 1,
+        "zsLevel": 0
+      },
+      "tagid": 2
+    },
+    "2": {
+      "buttonUI": {
+        "param1": "app.FlyShoesView",
+        "param2": 2,
+        "type": 3
+      },
+      "buttontext": "打怪练级",
+      "id": 2,
+      "openparam": {
+        "level": 1,
+        "openDay": 1,
+        "zsLevel": 0
+      },
+      "tagid": 2
+    }
+  },
+  "3": {
+    "1": {
+      "buttonUI": {
+        "param1": "app.RoleView",
+        "param2": [
+          1,
+          0
+        ],
+        "type": 3
+      },
+      "buttontext": "技能升级",
+      "id": 1,
+      "openparam": {
+        "level": 1,
+        "openDay": 1,
+        "zsLevel": 0
+      },
+      "tagid": 3
+    },
+    "2": {
+      "buttonUI": {
+        "param1": "app.RoleView",
+        "param2": [
+          1,
+          2
+        ],
+        "type": 3
+      },
+      "buttontext": "神魔之体",
+      "id": 2,
+      "openparam": {
+        "level": 1,
+        "openDay": 1,
+        "zsLevel": 4
+      },
+      "tagid": 3
+    },
+    "3": {
+      "buttonUI": {
+        "param1": "app.RoleView",
+        "param2": [
+          1,
+          3
+        ],
+        "type": 3
+      },
+      "buttontext": "打通经脉",
+      "id": 3,
+      "openparam": {
+        "level": 1,
+        "openDay": 1,
+        "zsLevel": 5
+      },
+      "tagid": 3
+    }
+  },
+  "4": {
+    "1": {
+      "buttonUI": {
+        "param1": "app.FlyShoesView",
+        "param2": 2,
+        "type": 3
+      },
+      "buttontext": "挂机打宝",
+      "id": 1,
+      "openparam": {
+        "level": 1,
+        "openDay": 1,
+        "zsLevel": 0
+      },
+      "tagid": 4
+    },
+    "2": {
+      "buttonUI": {
+        "param1": "app.SetUpView",
+        "param2": 6,
+        "type": 3
+      },
+      "buttontext": "装备回收",
+      "id": 2,
+      "openparam": {
+        "level": 1,
+        "openDay": 1,
+        "zsLevel": 0
+      },
+      "tagid": 4
+    },
+    "3": {
+      "buttonUI": {
+        "param1": "app.TradeLineWin",
+        "type": 1
+      },
+      "buttontext": "交易购买",
+      "id": 3,
+      "openparam": {
+        "level": 1,
+        "openDay": 1,
+        "zsLevel": 0
+      },
+      "tagid": 4
+    }
+  }
+}

@@ -1,0 +1,33 @@
+﻿Rank=
+{ 
+	--合服排行榜默认不处理，即保留主区
+	WorshipMonarchRank = "WorshipMonarchRank.txt",				--膜拜
+	OpenServerDailyChargeRank = "OpenServerDailyChargeRank.txt",--开服-每日充值活动
+	OpenServerThemeRank 	= "OpenServerThemeRank.txt",		--开服主题活动排行榜
+	OpenServerConsumeRank 	= "OpenServerConsumeRank.txt",		--开服活动累积消费排行榜
+	NightFightingRank 		= "NightFightingRank.txt",			--龙城夜战
+	StrongDayMatchRank = "StrongDayMatchRank.txt",              --强化排行榜
+	BattleDayMatchRank = "BattleDayMatchRank.txt",              --战力排行榜
+	GodStoveDayMatchRank = "GodStoveDayMatchRank.txt",          --神炉排行榜
+	SkillDayMatchRank = "SkillDayMatchRank.txt",                --技能排行榜
+	WingDayMatchRank = "WingDayMatchRank.txt",                  --翅膀排行榜
+	AllDayDayMatchRank	= "DayMatchAllDayRank.txt",		        --天关副本(每日竞技)
+	OpenServerBossScoreRank = "OpenServerBossScoreRank.txt",    --开服boss积分排名
+	
+	--合服需要合并的排行榜
+	BackCompensateRank = "BackCompensate.txt",					--后台补偿
+	TotalChargeRank = "TotalChargeRank.txt",                    --累计充值活动
+	PersonPaTaRank = "PersonPaTaRank.txt",                      --个人爬塔副本
+	TeamPaTaRank = "TeamPaTaRank.txt",                          --团队爬塔副本
+	AllDayRank	= "AllDayRank.txt",		                        --天关副本
+	DailyChargeRank = "DailyChargeRank.txt",			        --消费排行榜
+    CombatRanking1 = "CombatRanking1.txt",							--职业宗师1
+    CombatRanking2 = "CombatRanking2.txt",							--职业宗师1
+    CombatRanking3 = "CombatRanking3.txt",							--职业宗师1
+    
+
+	--合服需要删除的排行榜
+	GuildSiegeRank = "GuildSiegeRanking.txt"	                --攻城（c++)
+	
+}
+

@@ -1,0 +1,94 @@
+{
+  "1": {
+    "attribute": 11,
+    "consume": [
+      {
+        "count": 10,
+        "id": 480,
+        "type": 0
+      },
+      {
+        "count": 5,
+        "id": 1063,
+        "type": 0
+      }
+    ],
+    "limit": [
+      {
+        "lv": 7,
+        "pos": 1
+      }
+    ],
+    "limitMsg": "救主灵刃7阶后可洗炼",
+    "type": 1
+  },
+  "2": {
+    "attribute": 12,
+    "consume": [
+      {
+        "count": 10,
+        "id": 480,
+        "type": 0
+      },
+      {
+        "count": 5,
+        "id": 1064,
+        "type": 0
+      }
+    ],
+    "limit": [
+      {
+        "lv": 7,
+        "pos": 2
+      }
+    ],
+    "limitMsg": "剧毒裁决7阶后可洗炼",
+    "type": 2
+  },
+  "3": {
+    "attribute": 13,
+    "consume": [
+      {
+        "count": 10,
+        "id": 480,
+        "type": 0
+      },
+      {
+        "count": 5,
+        "id": 1065,
+        "type": 0
+      }
+    ],
+    "limit": [
+      {
+        "lv": 7,
+        "pos": 3
+      }
+    ],
+    "limitMsg": "霜之哀伤7阶后可洗炼",
+    "type": 3
+  },
+  "4": {
+    "attribute": 14,
+    "consume": [
+      {
+        "count": 10,
+        "id": 480,
+        "type": 0
+      },
+      {
+        "count": 5,
+        "id": 1066,
+        "type": 0
+      }
+    ],
+    "limit": [
+      {
+        "lv": 7,
+        "pos": 4
+      }
+    ],
+    "limitMsg": "血饮狂刀7阶后可洗炼",
+    "type": 4
+  }
+}

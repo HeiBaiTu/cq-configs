@@ -1,0 +1,55 @@
+--boss令
+
+----#include "data\functions\ItemEvent\ItemUseCount.txt" once
+--#include "data\functions\GlobalMiscExpand\GlobalMisc.txt" once
+--#include "data\config\item\BossToken.txt" once
+
+
+function UseBossToken(sysarg, count, itemidx, itemPtr,ItemTable, delType, param)
+	--local lastTimes, maxTimes = getItemUseCount(sysarg, itemidx)
+	--if lastTimes <= 0 then
+	--    local MaxDailyUseCircleSoulItemTimes = ItemUseCountCfg[itemidx].dailyUseLimit
+	--	Actor.sendTipmsg( sysarg, OldLang.Script.EscortTips030, ttFlyTip )
+	--	return
+	--end
+	if Actor.getSceneId(sysarg) ~= bossTokenConfig.senceId then
+		Actor.sendTipmsg( sysarg, OldLang.Script.UseBossToken001, ttFlyTip )
+		return
+	end
+	if Actor.hasMapAreaAttri(sysarg, aaSaft) then
+		Actor.sendTipmsg( sysarg, OldLang.Script.UseBossToken004, ttFlyTip )
+		return
+	end
+	local SenceName,x,y = Actor.getSceneName(sysarg,0,0)
+	local logId, logStr = 301, OldLang.Log.UseBossToken
+	if Actor.removeItemByPtr(sysarg, itemPtr, 1, true, logStr, logId) > 0 then
+		--if AddDailyItemUseCount(sysarg, itemidx, 1)	then		--次数增加，并发送客户端
+		local bossId = ItemTable.bossId
+		BossTokenMonsterCreate(sysarg, bossId, x, y)
+		return true
+		--Actor.sendTipmsg( sysarg, string.format(OldLang.Script.EscortTips031, lastTimes-1), ttFlyTip )
+		--end
+	end
+
+end
+
+function BossTokenMonsterCreate(sysarg, bossId, x, y)			--boss创建
+	local hScene = Actor.getSceneHandle(sysarg)
+	bossarg = Fuben.createMonster(hScene, bossId, x, y, bossTokenConfig.lastTime)
+	bossName = System.getMonsterNameById(bossId)
+	local tip = string.format(OldLang.Script.UseBossToken002, Actor.getName(sysarg), bossName, x, y)
+	System.broadcastTipmsg(tip , ttChatWindow, bossTokenConfig.BroadCastLevel )
+	local actorId = Actor.getActorId(sysarg)
+	Actor.SetForceVesterId(bossarg, actorId)
+	--print("bossTokenConfig.lastTime="..bossTokenConfig.lastTime)
+	Actor.regScriptTimer(bossarg, 0, bossTokenConfig.lastTime * 1000, 0, 1, "OnUseTokenBossEnd", actorId)
+end
+
+function UseBossTokenInit(sysarg)
+    for i = 1,table.getn(bossTokenConfig.bossTokenList) do
+	    local x = bossTokenConfig.bossTokenList[i]
+	    GlobalItemFn[x.itemId] = { func = UseBossToken, params = x }
+    end
+end
+
+table.insert(InitFnTable, UseBossTokenInit)

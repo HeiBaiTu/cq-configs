@@ -1,0 +1,173 @@
+--翅膀系统
+--#include "data\config\AlmirahSystem\WingCfg.txt" once
+--#include "data\functions\Common\CommonMisc.txt" once
+
+--直接下一级的概率获取
+function getNextWingRand(nLv, nLuck)
+	local cfg = WingCfg.directLv[nLv]
+	if(cfg == nil or type(nLuck) ~= 'number')then
+		print("getNextWingRand", cfg, nLuck)
+		return 0 
+	end
+	for k,v in pairs(cfg)do
+		if( nLuck <= v[1] )then
+			return v[2]
+		end	
+	end
+	return 0
+end
+
+--直接本次提升增加的幸运值
+function getLuckWingRand(nLv)
+	local cfg = WingCfg.level[nLv]
+	if(cfg == nil or cfg.LuckRand == nil)then
+		print("getLuckWingRand", nLv)
+		return 0 
+	end
+	local nMinRand = cfg.LuckRand[1]
+	local nMaxRand = cfg.LuckRand[2] - nMinRand
+	local randNum =  System.getRandomNumber(nMaxRand) + nMinRand
+	return randNum, cfg.LuckValue
+end
+
+--先检查够不够
+function ItemWingLogicCheck(sysarg, consumes)
+    --消耗检查
+	for k,v in pairs(consumes) do
+		local bCheck = Actor.checkConsume(sysarg, v.type, v.id, v.count, v.quality or 0, v.strong or 0, -1 , 0) 
+		if bCheck ~= true then
+			Actor.sendAwardNotEnough(sysarg, v.type, v.id, v.count)
+			return false
+		end
+	end	
+	return true
+end
+
+--翅膀吞噬
+function WingDevour(sysarg, ...)
+	local nModelId = arg[1]
+	local btType = arg[2]		--元宝替代
+	--BaseFuc_Print("Enter WingDevour",nModelId)	
+	if(Actor.getActivation(sysarg, nModelId) == true)then
+		return Actor.sendTipmsg(sysarg,OldLang.Script.WingActivation02,ttFlyTip)
+	end	
+	local logId = 180
+	local logStr = OldLang.Log.LogWingActivation	
+	local nLv = Actor.getIntProperty( sysarg, PROP_ACTOR_WING_LV ) + 1
+	if(nLv < 1 or #WingCfg.consumes < nLv)then	--等级条件检测
+		return	BaseFuc_Print(#WingCfg.consumes,nLv)
+	end
+	local consumes = WingCfg.consumes[nLv]	
+	
+	local  nPrice =  WingCfg.level[nLv].Yb
+	local consumesList = {}
+	for k,v in pairs(consumes)do
+		local csm = {type = v.type, id = v.id, count = v.count, quality = qualitytem, strong = v.strong, bind = v.bind}	
+		if(v.type == 0)then			--道具
+			if(btType == 1)then		--元宝替代
+				local myCount = Actor.getItemCount(sysarg, v.id) 
+				if(myCount < v.count )then 
+					local money = {type = 10, id = 0, count = (v.count-myCount)*nPrice , quality = 0, strong = 0, bind = -1}
+					csm.count = myCount
+					table.insert(consumesList,money)
+				end
+			end		
+			table.insert(consumesList,csm)
+		else
+			table.insert(consumesList,csm)
+		end
+	end	
+	if(SubBatchItemByType(sysarg, consumesList, logId, logStr) ~= true)then
+		return print("btType",btType)
+	end
+	--[[
+	if ItemWingLogicCheck(sysarg, consumesList)~= true then
+		return print("ItemWingLogicCheck")
+	end
+	if CommonFunc.Consumes.Remove(sysarg, consumesList, logId,logStr) ~= true then
+		return print("Remove")
+	end	
+	]]
+	local nLuckPoint = Actor.getIntProperty( sysarg, PROP_ACTOR_WINGPOINT )
+	local nRand = getNextWingRand(nLv, nLuckPoint)
+	local randNum =  System.getRandomNumber(WingCfg.nMaxRand)+1	
+	local bLevel = false
+	if(randNum <= nRand )then			--随机升级
+		bLevel = true
+	end
+	local nAddLuck,LuckValue = getLuckWingRand(nLv)
+	nLuckPoint = nLuckPoint + nAddLuck 
+	if(LuckValue <= nLuckPoint)then		--最大幸运值升级
+		bLevel = true
+	end
+	--BaseFuc_Print("nLuckPoint,LuckValue",nLuckPoint,LuckValue)
+	if(bLevel == true)then
+		Actor.setUIntProperty(sysarg, PROP_ACTOR_WING_LV, nLv)
+		WingActivation(sysarg, nModelId)
+		Actor.setUIntProperty(sysarg, PROP_ACTOR_WINGPOINT, 0)
+		WingDayMatch(sysarg,nLv) --每日竞技，进阶翅膀
+	else
+		Actor.setUIntProperty(sysarg, PROP_ACTOR_WINGPOINT, nLuckPoint)
+	end	
+	Actor.collectOperate(sysarg,0)			--刷新属性
+	--OnOpenServerActWingAct(sysarg, nLv)	--开服活动激活翅膀
+	--BaseFuc_Print("nLv",nLv)
+end
+
+--获得当前等级配置和进度百分比
+function getWingCfgAndPercent(nLevel)
+	local cfg,percent
+	for i,curCfg in ipairs(WingCfg.level) do
+		if curCfg.WingLevel > nLevel then
+			cfg = curCfg
+			local preWingLevel = 0
+			local preWcfg = WingCfg.level[i-1]
+			if preWcfg then
+				preWingLevel = preWcfg.WingLevel
+			end
+			percent = math.floor(100/(curCfg.WingLevel - preWingLevel))* (nLevel - preWingLevel)
+			break
+		end
+	end
+	return cfg,percent
+end
+
+--激活翅膀
+function WingActivation(sysarg, nModelId)
+	--BaseFuc_Print("Enter WingActivation")
+	if(Actor.getActivation(sysarg, nModelId) == true)then
+		return Actor.sendTipmsg(sysarg,OldLang.Script.WingActivation02,ttFlyTip)
+	end
+	local cfg = WingCfg.level[nModelId]
+	if(cfg == nil)then
+		return
+	end
+	local strNotice = cfg.strNotice
+	Actor.setActivation(sysarg,nModelId)
+	if(strNotice)then
+		local sNotice = string.format(strNotice,Actor.getName(sysarg))
+		System.broadcastTipmsg(sNotice, ttScreenCenter + ttChatWindow)	
+	end
+	--BaseFuc_Print("Sucess")
+end
+
+function ClearActorWingDailyData(sysarg)
+	local nLv = Actor.getIntProperty( sysarg, PROP_ACTOR_WING_LV ) + 1
+	if(WingCfg.ClearLv <= nLv)then
+		Actor.setUIntProperty(sysarg, PROP_ACTOR_WINGPOINT, 0)
+	end
+end
+
+-- @DebugLua 1001 1 1
+function GMTestWing(sysarg,arg1,arg2)
+	--BaseFuc_Print(arg1,arg2)
+	if(arg1 == 0)then	--GM 激活一个翅膀
+		Actor.setActivation(sysarg,arg2)
+	end
+	if(arg1 == 1)then	--GM 升级一个翅膀
+		WingDevour(sysarg,arg2, 1)
+	end	
+end
+
+
+

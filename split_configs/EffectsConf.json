@@ -1,0 +1,689 @@
+{
+  "1": {
+    "effects": "gsjs",
+    "id": 1,
+    "isDir": 1,
+    "sound": "m_gsjs_1"
+  },
+  "2": {
+    "effects": "gsjs1",
+    "id": 2,
+    "isDir": 1,
+    "sound": "m_gsjs_1"
+  },
+  "3": {
+    "effects": "csjs",
+    "id": 3,
+    "isDir": 1,
+    "sound": "m_csjs_1"
+  },
+  "4": {
+    "effects": "csjs1",
+    "id": 4,
+    "isDir": 1,
+    "sound": "m_csjs_1"
+  },
+  "5": {
+    "effects": "bywd",
+    "id": 5,
+    "isDir": 1,
+    "sound": "m_bywd_1"
+  },
+  "6": {
+    "effects": "bywd1",
+    "id": 6,
+    "isDir": 1,
+    "sound": "m_bywd_1"
+  },
+  "7": {
+    "effects": "ymcz",
+    "id": 7,
+    "isDir": 1,
+    "sound": "m_ymcz_1"
+  },
+  "8": {
+    "effects": "lhjf",
+    "id": 8,
+    "isDir": 1,
+    "sound": "m_lhjf_1"
+  },
+  "9": {
+    "effects": "lhjf1",
+    "id": 9,
+    "isDir": 1,
+    "sound": "m_lhjf_1"
+  },
+  "10": {
+    "effects": "szh_a0",
+    "id": 10,
+    "sound": "m_szh_1"
+  },
+  "11": {
+    "effects": "zrjf",
+    "id": 11,
+    "isDir": 1,
+    "sound": "m_zrjf_1"
+  },
+  "12": {
+    "effects": "zrjf1",
+    "id": 12,
+    "isDir": 1,
+    "sound": "m_zrjf_1"
+  },
+  "13": {
+    "effects": "hqs_a0",
+    "id": 13,
+    "sound": "m_hqs_1"
+  },
+  "14": {
+    "effects": "hqs_b0",
+    "id": 14,
+    "playTimes": -1,
+    "sound": "m_hqs_2"
+  },
+  "15": {
+    "effects": "hqs_c0",
+    "id": 15,
+    "sound": "m_hqs_3"
+  },
+  "16": {
+    "effects": "kjhh_a0",
+    "id": 16,
+    "sound": "m_kjhh_1"
+  },
+  "17": {
+    "effects": "yhzg_a0",
+    "id": 17,
+    "sound": "m_yhzg_1"
+  },
+  "18": {
+    "effects": "yhzg_c0",
+    "id": 18,
+    "sound": "m_yhzg_3"
+  },
+  "19": {
+    "effects": "lds_c0",
+    "id": 19,
+    "sound": "m_lds_3"
+  },
+  "20": {
+    "effects": "sxyd_a0",
+    "id": 20,
+    "sound": "m_sxyd_1"
+  },
+  "21": {
+    "effects": "sxyd_a1",
+    "id": 21
+  },
+  "22": {
+    "effects": "hq_a0",
+    "id": 22,
+    "sound": "m_hq_1"
+  },
+  "23": {
+    "id": 23,
+    "sound": "m_hq_3"
+  },
+  "24": {
+    "effects": "jgdy_a0",
+    "id": 24
+  },
+  "25": {
+    "effects": "jgdy_b0",
+    "id": 25,
+    "isDir": 1,
+    "sound": "m_jgdy_3"
+  },
+  "26": {
+    "effects": "dylg_a0",
+    "id": 26,
+    "sound": "m_dylg_1"
+  },
+  "27": {
+    "effects": "mfd_a0",
+    "id": 27,
+    "sound": "m_mfd_1"
+  },
+  "28": {
+    "effects": "bpx_a0",
+    "id": 28,
+    "sound": "m_bpx_1"
+  },
+  "29": {
+    "effects": "bpx_c0",
+    "id": 29,
+    "sound": "m_bpx_3"
+  },
+  "30": {
+    "effects": "bpx1_a0",
+    "id": 30,
+    "sound": "m_bpx_1"
+  },
+  "31": {
+    "effects": "bpx1_c0",
+    "id": 31,
+    "sound": "m_bpx_3"
+  },
+  "32": {
+    "effects": "hbz_a0",
+    "id": 32,
+    "sound": "m_hbz_1"
+  },
+  "33": {
+    "effects": "hbz_b0",
+    "id": 33,
+    "playTimes": -1,
+    "sound": "m_hbz_2"
+  },
+  "34": {
+    "effects": "hbz_c0",
+    "id": 34,
+    "sound": "m_hbz_3"
+  },
+  "35": {
+    "effects": "mth_a0",
+    "id": 35
+  },
+  "36": {
+    "effects": "mth_c0",
+    "id": 36,
+    "sound": "m_mth_3"
+  },
+  "37": {
+    "effects": "lxhy_a0",
+    "id": 37,
+    "sound": "m_lxhy_1"
+  },
+  "38": {
+    "effects": "lxhy_c0",
+    "id": 38,
+    "sound": "m_lxhy_3"
+  },
+  "39": {
+    "effects": "zys_a0",
+    "id": 39,
+    "sound": "m_zys_1"
+  },
+  "40": {
+    "effects": "zys_c0",
+    "id": 40,
+    "sound": "m_zys_3"
+  },
+  "41": {
+    "effects": "sds_a0",
+    "id": 41,
+    "sound": "m_sds_1"
+  },
+  "42": {
+    "effects": "sds_c0",
+    "id": 42,
+    "sound": "m_sds_3"
+  },
+  "43": {
+    "id": 43,
+    "sound": "m_lhhf_1"
+  },
+  "44": {
+    "effects": "lhhf_b0",
+    "id": 44,
+    "playTimes": -1,
+    "sound": "m_lhhf_2"
+  },
+  "45": {
+    "effects": "lhhf_c0",
+    "id": 45,
+    "sound": "m_lhhf_3"
+  },
+  "46": {
+    "effects": "zhkl_a0",
+    "id": 46,
+    "sound": "m_zhkl_1"
+  },
+  "47": {
+    "id": 47,
+    "sound": "m_yss_1"
+  },
+  "48": {
+    "id": 48,
+    "sound": "m_jtyss_1"
+  },
+  "49": {
+    "effects": "lhhf_b0",
+    "id": 49,
+    "playTimes": -1,
+    "sound": "m_jtyss_2"
+  },
+  "50": {
+    "id": 50,
+    "sound": "m_jtyss_3"
+  },
+  "51": {
+    "id": 51,
+    "sound": "m_sszjs_1"
+  },
+  "52": {
+    "effects": "lhhf_b0",
+    "id": 52,
+    "playTimes": -1,
+    "sound": "m_sszjs_2"
+  },
+  "53": {
+    "effects": "sszjs_c0",
+    "id": 53,
+    "sound": "m_sszjs_3"
+  },
+  "54": {
+    "effects": "qtzys_a0",
+    "id": 54
+  },
+  "55": {
+    "effects": "qtzys_c0",
+    "id": 55,
+    "sound": "m_qtzys_3"
+  },
+  "56": {
+    "effects": "zhss_a0",
+    "id": 56,
+    "sound": "m_zhss_1"
+  },
+  "57": {
+    "effects": "qgb_a0",
+    "id": 57,
+    "sound": "m_kjhh_1"
+  },
+  "58": {
+    "effects": "wjzq_a0",
+    "id": 58,
+    "sound": "m_wjzq_1"
+  },
+  "59": {
+    "effects": "sxs1_a0",
+    "id": 59
+  },
+  "60": {
+    "effects": "sxs1_c0",
+    "id": 60,
+    "sound": "m_sxs_3"
+  },
+  "61": {
+    "effects": "lxhy1_a0",
+    "id": 61,
+    "sound": "m_lxhy_1"
+  },
+  "62": {
+    "effects": "lxhy1_c0",
+    "id": 62,
+    "sound": "m_lxhy_3"
+  },
+  "63": {
+    "effects": "sxs2_a0",
+    "id": 63
+  },
+  "64": {
+    "effects": "sxs2_c0",
+    "id": 64,
+    "sound": "m_sxs_3"
+  },
+  "65": {
+    "effects": "anhei_b0",
+    "id": 65,
+    "playTimes": -1,
+    "sound": "zumagjs-2"
+  },
+  "66": {
+    "effects": "btxd_a0",
+    "id": 66
+  },
+  "67": {
+    "effects": "chiyueemo_c0",
+    "id": 67,
+    "sound": "shuyao-2"
+  },
+  "68": {
+    "effects": "chulongshen_a0",
+    "id": 68,
+    "sound": "shuyao-2"
+  },
+  "69": {
+    "effects": "dianji1",
+    "id": 69,
+    "isDir": 1
+  },
+  "70": {
+    "effects": "dianjiang_a0",
+    "id": 70,
+    "isDir": 1,
+    "sound": "dian-2"
+  },
+  "71": {
+    "effects": "gongjian_b0",
+    "id": 71,
+    "playTimes": -1,
+    "sound": "zumagjs-2"
+  },
+  "72": {
+    "effects": "hongmo",
+    "id": 72,
+    "isDir": 1,
+    "sound": "bosstongyong-2"
+  },
+  "73": {
+    "effects": "hongmozhuwei",
+    "id": 73,
+    "isDir": 1
+  },
+  "74": {
+    "effects": "molongjiaozhu",
+    "id": 74,
+    "isDir": 1,
+    "sound": "bosstongyong-2"
+  },
+  "75": {
+    "effects": "niumofashi",
+    "id": 75,
+    "isDir": 1
+  },
+  "76": {
+    "effects": "niumojisi",
+    "id": 76,
+    "isDir": 1
+  },
+  "77": {
+    "effects": "niumowang",
+    "id": 77,
+    "isDir": 1,
+    "sound": "bosstongyong-2"
+  },
+  "78": {
+    "effects": "ssgj3",
+    "id": 78,
+    "isDir": 1,
+    "sound": "shenshouz-2"
+  },
+  "79": {
+    "effects": "tianlang_a0",
+    "id": 79
+  },
+  "80": {
+    "effects": "womajiaozhu",
+    "id": 80,
+    "isDir": 1,
+    "sound": "bosstongyong-2"
+  },
+  "81": {
+    "effects": "xiee",
+    "id": 81,
+    "isDir": 1,
+    "sound": "xiee-2"
+  },
+  "82": {
+    "effects": "zhifukulou_b0",
+    "id": 82,
+    "playTimes": -1,
+    "sound": "klss-2"
+  },
+  "83": {
+    "effects": "zumajiaozhu",
+    "id": 83,
+    "isDir": 1,
+    "sound": "zmjz-2"
+  },
+  "84": {
+    "effects": "dianjiang_death",
+    "id": 84
+  },
+  "85": {
+    "effects": "yuemo_death",
+    "id": 85
+  },
+  "86": {
+    "effects": "daocaoren_death",
+    "id": 86
+  },
+  "87": {
+    "effects": "suiji1_a0",
+    "id": 87,
+    "sound": "chuansonglikai"
+  },
+  "88": {
+    "effects": "suiji2_a0",
+    "id": 88,
+    "sound": "chuansongziji"
+  },
+  "89": {
+    "effects": "huoyanwoma",
+    "id": 89,
+    "isDir": 1,
+    "sound": "shenshouz-2"
+  },
+  "90": {
+    "effects": "shoulingpugong_b0",
+    "id": 90,
+    "isDir": 1,
+    "playTimes": -1,
+    "sound": "m_hqs_2"
+  },
+  "91": {
+    "effects": "shoulingpugong_c0",
+    "id": 91,
+    "sound": "m_hqs_3"
+  },
+  "92": {
+    "effects": "shoulingqungong_a0",
+    "id": 92,
+    "sound": "m_lxhy_3"
+  },
+  "93": {
+    "effects": "sh_c0",
+    "id": 93
+  },
+  "94": {
+    "effects": "gsjs2",
+    "id": 94,
+    "isDir": 1,
+    "sound": "m_gsjs_1"
+  },
+  "95": {
+    "effects": "bywd2",
+    "id": 95,
+    "isDir": 1,
+    "sound": "m_bywd_1"
+  },
+  "96": {
+    "effects": "lhjf2",
+    "id": 96,
+    "isDir": 1,
+    "sound": "m_lhjf_1"
+  },
+  "97": {
+    "effects": "bywd2",
+    "id": 97,
+    "isDir": 1,
+    "sound": "m_bywd_1"
+  },
+  "98": {
+    "effects": "zrjf2",
+    "id": 98,
+    "isDir": 1,
+    "sound": "m_zrjf_1"
+  },
+  "99": {
+    "effects": "lds1_c0",
+    "id": 99,
+    "sound": "m_lds_3"
+  },
+  "100": {
+    "effects": "lds2_c0",
+    "id": 100,
+    "sound": "m_lds_3"
+  },
+  "101": {
+    "effects": "bpx2_a0",
+    "id": 101,
+    "sound": "m_bpx_1"
+  },
+  "102": {
+    "effects": "bpx2_c0",
+    "id": 102,
+    "sound": "m_bpx_3"
+  },
+  "103": {
+    "effects": "lxhy2_a0",
+    "id": 103,
+    "sound": "m_lxhy_1"
+  },
+  "104": {
+    "effects": "lxhy2_c0",
+    "id": 104,
+    "sound": "m_lxhy_3"
+  },
+  "105": {
+    "effects": "lxhy1_a0",
+    "id": 105,
+    "sound": "m_lxhy_1"
+  },
+  "106": {
+    "effects": "lxhy1_c0",
+    "id": 106,
+    "sound": "m_lxhy_3"
+  },
+  "107": {
+    "effects": "lhhf1_b0",
+    "id": 107,
+    "playTimes": -1,
+    "sound": "m_lhhf_2"
+  },
+  "108": {
+    "effects": "lhhf2_b0",
+    "id": 108,
+    "playTimes": -1,
+    "sound": "m_lhhf_2"
+  },
+  "109": {
+    "effects": "zhss1_a0",
+    "id": 109,
+    "sound": "m_zhss_1"
+  },
+  "110": {
+    "effects": "zhss2_a0",
+    "id": 110,
+    "sound": "m_zhss_1"
+  },
+  "111": {
+    "effects": "sxs3_a0",
+    "id": 111
+  },
+  "112": {
+    "effects": "sxs3_c0",
+    "id": 112,
+    "sound": "m_sxs_3"
+  },
+  "113": {
+    "blendMode": 1,
+    "effects": "bj7_c0",
+    "id": 113
+  },
+  "114": {
+    "blendMode": 1,
+    "effects": "sh5_c0",
+    "id": 114
+  },
+  "115": {
+    "effects": "ssgj1",
+    "id": 115,
+    "isDir": 1,
+    "sound": "shenshouz-2"
+  },
+  "116": {
+    "effects": "ssgj2",
+    "id": 116,
+    "isDir": 1,
+    "sound": "shenshouz-2"
+  },
+  "117": {
+    "effects": "ssgj3",
+    "id": 117,
+    "isDir": 1,
+    "sound": "shenshouz-2"
+  },
+  "118": {
+    "effects": "dttz1_a0",
+    "id": 118,
+    "sound": "ditutiaozhuan"
+  },
+  "119": {
+    "effects": "lhhf2_c0",
+    "id": 119,
+    "sound": "m_lhhf_3"
+  },
+  "120": {
+    "effects": "lhhf3_c0",
+    "id": 120,
+    "sound": "m_lhhf_3"
+  },
+  "121": {
+    "blendMode": 1,
+    "effects": "bingdong_c0",
+    "id": 121
+  },
+  "122": {
+    "effects": "bingdongbuff_c0",
+    "id": 122
+  },
+  "123": {
+    "effects": "jiuzhu_c0",
+    "id": 123
+  },
+  "124": {
+    "effects": "shixuebuff_c0",
+    "id": 124
+  },
+  "125": {
+    "blendMode": 1,
+    "effects": "zhongdu_c0",
+    "id": 125
+  },
+  "126": {
+    "effects": "xueyin_c0",
+    "id": 126
+  },
+  "127": {
+    "blendMode": 1,
+    "effects": "ltyj1_c0",
+    "id": 127,
+    "sound": "hero_hj__ltyj"
+  },
+  "128": {
+    "blendMode": 1,
+    "effects": "zhican_c0",
+    "id": 128
+  },
+  "129": {
+    "blendMode": 1,
+    "effects": "gjzhican_c0",
+    "id": 129
+  },
+  "130": {
+    "blendMode": 1,
+    "effects": "ltyj2_c0",
+    "id": 130
+  },
+  "131": {
+    "blendMode": 1,
+    "effects": "pxz_c0",
+    "id": 131,
+    "sound": "hero_hj__pxz"
+  },
+  "132": {
+    "blendMode": 1,
+    "effects": "hlqy_c0",
+    "id": 132,
+    "sound": "hero_hj_hlqy"
+  },
+  "133": {
+    "blendMode": 1,
+    "effects": "shzz_c0",
+    "id": 133,
+    "sound": "hero_hj__sszz"
+  }
+}

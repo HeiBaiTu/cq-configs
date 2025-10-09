@@ -1,0 +1,120 @@
+--lua script
+
+--#include "data\config\combat\combatConfig.txt"  once
+--#include "data\functions\ActorSystems\CombatSystem\CombatPkCommonOp.txt"  once
+
+function GetCombatBaseInfo(sysarg, args)
+
+end
+
+function SelectPayers(sysarg, args)
+
+end
+
+function StartCombatPK(sysarg, args)
+	CombatPkCommon(sysarg, args[2])
+end
+
+function ClearCooldown(sysarg, args)
+
+end
+
+function RechargeAward(sysarg, args)
+	local awardId = args[2]
+	local curRank = args[3]
+	local config = CombatConfig
+	local award
+	local index = 0
+	for k, v in ipairs(config.rankShop) do
+		if v.id == awardId then
+			index = k
+			award = v
+			break
+		end
+	end
+	
+	if index < 1 and index > 32 then
+		return
+	end
+	
+	local day = System.getDaysSinceOpenServer()
+	if day < config.openDay then
+	    return
+	end
+
+	if curRank > award.rankLimit or curRank <= 0 then
+		Actor.sendTipmsg(sysarg, OldLang.Script.CombatRank002, ttFlyTip)
+		return
+	end
+	
+	local sex = Actor.getIntProperty(sysarg, PROP_ACTOR_SEX)
+	if award.sex >= 0 and award.sex ~= sex then
+		return
+	end
+
+	local job = Actor.getIntProperty(sysarg, PROP_ACTOR_VOCATION)
+	if award.job ~= 0 and award.job ~= job then
+		return
+	end
+	
+	local sVar = Actor.getStaticVar(sysarg)
+	if not sVar.CombatShopData then
+		sVar.CombatShopData = 0
+	end
+	local isGetAward = System.getIntBit(sVar.CombatShopData, index-1)
+	if isGetAward > 0 then
+		return
+	end
+
+	--兑换道具
+	local bCheck = Actor.checkConsume(sysarg, 33, 0, award.price)
+	if not bCheck then
+		return
+	end
+	Actor.removeConsume(sysarg, 33, 0, award.price)
+	Actor.giveAward(sysarg, 0, award.item, award.count, award.quality or 0, award.strong or 0, award.bind or 0, 0, 312, "CombatRechargeAward")
+
+	sVar.CombatShopData = System.setIntBit(sVar.CombatShopData, index-1, true)
+	local pack = DataPack.allocPacket(sysarg, 57, 5)
+	if (pack) then	
+		DataPack.writeInt(pack, award.id)
+		DataPack.flush(pack)  		
+	end
+end
+
+function GetCombatLog(sysarg, args)
+
+end
+
+function GetCombatRank(sysarg, args)
+
+end
+
+function GetRankAwardList(sysarg, args)
+	local config = CombatConfig
+	local awardList = {}
+	local sVar = Actor.getStaticVar(sysarg)
+	if sVar.CombatShopData then
+		local isGetAward = 0
+		for k,v in ipairs(config.rankShop) do
+			if k > 32 then
+				break
+			end
+			isGetAward = System.getIntBit(sVar.CombatShopData, k-1)
+			if isGetAward > 0 then
+				awardList[#awardList + 1] = v.id
+			end
+		end
+	end
+
+	local pack = DataPack.allocPacket(sysarg, 57, 8)
+	if (pack) then	
+		DataPack.writeInt(pack, #awardList)
+		for _, v in ipairs(awardList) do
+			DataPack.writeInt(pack, v)
+		end
+
+		DataPack.flush(pack)  		
+	end
+end
+

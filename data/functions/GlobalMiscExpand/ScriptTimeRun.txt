@@ -1,0 +1,70 @@
+--ScriptTimeConfig中调用的方法放在这里,被全局脚本包含 
+--#include "data\config\misc\ScriptTimerSystemMsg.txt" once 	ScriptTImer执行的一些系统公告配置
+
+--重置系统级的一些数据，一个服在0点会调用一次
+function ResetSysDate()
+	refreshStore()
+	System.RefeshWorldLevel()
+end
+
+--定时保存文件(商城动态文件)
+function SaveFiles()
+	System.saveFiles()
+end
+
+
+--[[每日清除商城某些ladble的商品数据
+0表示是普通的商城，1表示限时抢购，2-神秘商店，3-绑定元宝商城，4-职业宗师商店
+玩家购买1、3的商品，需要每天重置其购买数量
+普通的商城：商品不限购
+]]
+function  refreshStore()
+	System.refreshStore(3)  	--清空绑定元宝tab页的商品购买数据
+    System.refreshStore(1)  	--限时抢购
+    System.refreshStore(4) 		--职业宗师商店
+end
+
+
+--周一0点重置
+function WeekReset()
+end
+
+--更新排行榜
+function updateRankData()
+	System.updateRankData()
+end
+--每30分钟更新头衔，在updateRankData后更新
+function updateMaintainTopTitle()
+	System.CallmaintainTopTitle()
+end
+
+--ScriptTimer通用的系统公告
+function SystemMsg(id)
+	id = tonumber(id)
+	local msgCfg
+	for i,v in ipairs(ScriptTimerSystemMsgConfig) do
+		if v.id == id then
+			msgCfg = v
+		end
+	end
+	if not msgCfg then
+		return
+	end
+	if type(msgCfg.CondFunc) == "function" then
+		if not msgCfg.CondFunc() then
+			return
+		end
+	end
+	System.broadcastTipmsg(msgCfg.msg, msgCfg.type)
+end
+
+--发送怪的死亡次数到后台
+function CountMonsterDeadToLog()
+	--System.sendMonsterDeadToLog()
+end
+
+--发送物品产出统计
+function CountItemOutPutToLog()
+	System.sendItemOutPutToLog()
+end
+

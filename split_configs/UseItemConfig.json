@@ -1,0 +1,71 @@
+{
+  "131": {
+    "ItemType": 131,
+    "closeLimit": {
+      "zslevel": 3
+    },
+    "exclude": [
+      1125,
+      1126,
+      1127,
+      1128,
+      1148,
+      1149,
+      1150,
+      1151,
+      1152,
+      1153,
+      1154,
+      1155,
+      1156,
+      1157,
+      1158,
+      1159,
+      1160,
+      1161,
+      1162,
+      1163,
+      1263,
+      1327,
+      1328,
+      1329,
+      1307,
+      1308,
+      1309,
+      1357,
+      1359
+    ],
+    "openLimit": {
+      "level": 1,
+      "zslevel": 0
+    }
+  },
+  "133": {
+    "ItemType": 133,
+    "closeLimit": {
+      "zslevel": 3
+    },
+    "openLimit": {
+      "level": 1,
+      "zslevel": 0
+    }
+  },
+  "136": {
+    "ItemType": 136,
+    "closeLimit": {
+      "zslevel": 4
+    },
+    "openLimit": {
+      "level": 1,
+      "zslevel": 0
+    },
+    "useType": 1
+  },
+  "141": {
+    "ItemType": 141,
+    "openLimit": {
+      "level": 1,
+      "zslevel": 0
+    }
+  }
+}

@@ -1,0 +1,251 @@
+﻿local campType_Blue = 1 
+local campType_Red  = 2 
+
+--复活超时
+defaultHandlerActorReliveTimeOut = function (pActor,args)
+	AutoRelive(pActor)
+end
+
+--超时自动复活
+function AutoRelive(pActor)
+	if Actor.getIntProperty(pActor,PROP_CREATURE_HP) ~= 0 then 
+		return
+	end
+	if Actor.hasMapAreaAttri(pActor, aaSafeResurrection) then		--限制10秒复活
+		if(System.getCurrMiniTime() < Actor.getDeadTimeRecent(pActor) + 10)then
+			--return
+		end
+	end
+
+	--获取当前副本复活配置
+	local pFuben = Actor.getFubenPrt(pActor)
+	local fbId = Fuben.getFubenIdByPtr(pFuben)
+	local ConfId = (StaticFubens[fbId] and StaticFubens[fbId].reliveConfId) or 1
+	local ReliveConf = ReliveConfig[ConfId] or ReliveConfig[1]
+
+	--回血回蓝
+	local maxhp = Actor.getIntProperty(pActor,PROP_CREATURE_MAXHP)
+	Actor.changeHp(pActor, maxhp * ((ReliveConf.RecoverRatio.hp or 100)/100))
+	local maxmp = Actor.getIntProperty(pActor,PROP_CREATURE_MAXMP)
+	Actor.changeMp(pActor, maxmp * ((ReliveConf.RecoverRatio.mp or 100)/100))
+	
+	-- 静态场景安全区复活
+	if ReliveConf.autoType == 1 then
+		if Fuben.isFuben(pFuben) then
+			Actor.exitFubenAndBackCity(pActor)
+		else
+			Actor.relive(pActor)
+		end
+	-- 副本场景安全区复活
+	elseif ReliveConf.autoType == 2 then
+		Actor.relive(pActor)
+	-- 本图随机复活
+	elseif ReliveConf.autoType == 3 then
+		System.telportRandPos(pActor)
+	-- 原地复活
+	elseif ReliveConf.autoType == 4 then
+	-- 固定点复活
+	elseif ReliveConf.autoType == 5 then
+		if ReliveConf.FixedPosi then
+			local sceneId = Actor.getSceneId(pActor)
+			Actor.enterScene(pActor, sceneId, ReliveConf.FixedPosi.x, ReliveConf.FixedPosi.y)
+		else
+			Actor.relive(pActor)
+		end
+	--本方阵营复活
+	elseif ReliveConf.autoType == 6 then
+			local cacheData = FubenDispatcher.GetCacheData(pFuben)
+            if cacheData.atvId ~= nil  then   --全局配置里的复活类型和活动里重新分配阵营配置类型一致。
+                local ActorData = ActivityDispatcher.GetActorData(pActor,cacheData.atvId)              
+                if ActorData.curCamp ==nil then return end 
+                if ActorData.curCamp == campType_Blue then 
+                    if ReliveConf.camprevive.nEnterRangeA ~= nil then 
+						Actor.enterScene(pActor,unpack(ReliveConf.camprevive.nEnterRangeA))
+					end 
+                else 
+
+                    if ReliveConf.camprevive.nEnterRangeB ~= nil  then 
+						Actor.enterScene(pActor,unpack(ReliveConf.camprevive.nEnterRangeB))
+					end                     
+                end 
+            else 
+                Actor.relive(pActor)   
+            end
+	end
+
+	--清除复活倒计时
+	Actor.clearReliveTimeOut(pActor)
+	Actor.onRelive(pActor)
+	--Actor.removeState(pActor, esStateDeath)
+	--Actor.updateActorEntityProp(pActor)
+	TranRedActorToRedSceen(pActor)	--一定要放在复活的后面,先退出副本再进监狱
+end
+
+local ReliveType =
+{
+	PlaceRelive = 1, --原地复活
+	SafeRelive = 2, -- 安全复活
+}
+
+local ReliveConsumeType = 
+{
+	item = 1, --消耗道具
+	yb = 2, --消耗元宝
+}
+ 
+local KillerType =  
+{ 
+	player = 0,  --玩家
+	monster = 1, --怪物
+	other = 2, --其他
+}
+
+--点击确定 复活类型 1原地复活 2安全复活
+function GoReliveFunc(pActor, type)
+	
+	if Actor.hasMapAreaAttri(pActor, aaNotHereRelive) then		--要判断是否禁止原地复活
+		safeResurrection(pActor)
+	end
+
+	local maxhp = Actor.getIntProperty(pActor,PROP_CREATURE_MAXHP)
+	Actor.changeHp(pActor,maxhp)
+
+	local maxmp = Actor.getIntProperty(pActor,PROP_CREATURE_MAXMP)
+	Actor.changeMp(pActor,maxmp)
+
+	Actor.clearReliveTimeOut(pActor)
+	Actor.onRelive(pActor)
+	
+	--清除击杀者信息
+	ClearKillerData(pActor)
+
+end
+
+--检测复活消耗 复活类型 1消耗道具 2消耗元宝
+function CheckReliveFunc(pActor, nType)
+	local nType = tonumber(nType)
+	if Actor.getIntProperty(pActor,PROP_CREATURE_HP) == 0 then 
+		if nType == ReliveConsumeType.item then
+			--if(IsfreePlaceRelive(pActor) == false)then		--免费复活
+				if Actor.getItemCount(pActor,ReliveConfig.item.id,-1,-1) < ReliveConfig.item.count
+				or Actor.removeItem(pActor,ReliveConfig.item.id,ReliveConfig.item.count,-1,-1,-1,OldLang.Log.relive0001, ReliveConfig.logId) < ReliveConfig.item.count then
+					Actor.messageBox(pActor,0,0,OldLang.Script.relive0001,OldLang.Script.relive0002.."/buyResurrecStone",OldLang.Script.relive0003.."/cancelFunc",nil)
+					return
+				end
+			--end
+		elseif nType == ReliveConsumeType.yb then
+			--if(IsfreePlaceRelive(pActor) == false)then	--免费复活
+				if (Actor.getIntProperty( pActor, PROP_ACTOR_YUANBAO ) < ReliveConfig.yuanbao)
+				or Actor.changeMoney(pActor, mtYuanbao, -ReliveConfig.yuanbao, ReliveConfig.logId, OldLang.Log.relive0002)	== false then 
+					return 
+				end
+			--end
+		end
+		GoReliveFunc(pActor, nType)
+	end
+end
+
+--红名传送到红名村
+function TranRedActorToRedSceen(sysarg,bFlag)
+	local pkValue = Actor.getIntProperty(sysarg,PROP_ACTOR_PK_VALUE)
+	if pkValue < PkConfig.redName then	--红名
+		return false
+	end
+	local sceneName = Fuben.getSceneNameById(PkConfig.nSceenId)
+	Actor.enterScene(sysarg,unpack(PkConfig.nEnterRange))
+	--System.telportSceneDefaultPoint(sysarg, sceneName)
+	if bFlag == true then
+		Actor.sendTipmsg(sysarg,Lang.Activity.t00038,2+128)
+	end
+	return true
+end
+
+--原地复活
+function OnPlaceRelive(pActor)  
+	
+	if Actor.hasMapAreaAttri(pActor, aaNotHereRelive) then		--要判断是否禁止原地复活
+		Actor.sendTipmsg(pActor, OldLang.Script.relive0005, ttTipmsgWindow) 
+		local nLiveTime = Actor.getReliveTimeOut(pActor)
+		return
+	end
+ 
+	local liveTime = Actor.getReliveTimeOut(pActor)
+	local level = Actor.getIntProperty(pActor,PROP_CREATURE_LEVEL)
+	if level < ReliveConfig.limitLevel then 
+		local tips = string.format(OldLang.Script.relive0006, ReliveConfig.limitLevel) 
+		Actor.sendTipmsg(pActor,tips,ttTipmsgWindow) 
+		return
+	end	
+
+	local ItemCount = Actor.getItemCount(pActor,ReliveConfig.item.id,-1,-1)
+	local nMoneyCount = Actor.getIntProperty( pActor, PROP_ACTOR_YUANBAO )
+	--itemid为回魂丹的ID
+	if (ItemCount < ReliveConfig.item.count and  nMoneyCount < ReliveConfig.yuanbao) then   
+		local itemName = Item.getItemName(ReliveConfig.item.id) or  " "
+		local tips = string.format(OldLang.Script.relive0004, itemName, ReliveConfig.yuanbao) 
+		Actor.sendTipmsg(pActor,tips,ttTipmsgWindow)
+		return 
+	else
+		if Actor.getItemCount(pActor,ReliveConfig.item.id,-1,-1) >= ReliveConfig.item.count then
+			CheckReliveFunc(pActor, ReliveConsumeType.item)
+		else
+			CheckReliveFunc(pActor, ReliveConsumeType.yb)
+		end
+	end
+	local svar = Actor.getStaticVar(pActor)
+	if(svar.freePlaceReliveFlag == nil)then
+		svar.freePlaceReliveFlag = 0
+	end	
+	svar.freePlaceReliveFlag = svar.freePlaceReliveFlag + 1 
+end
+
+--安全复活 
+function safeResurrection(pActor)
+	if Actor.getIntProperty(pActor,PROP_CREATURE_HP) ~= 0 then 
+		return
+	end
+	if Actor.hasMapAreaAttri(pActor, aaSafeResurrection) then		--限制10秒复活
+		if(System.getCurrMiniTime() < Actor.getDeadTimeRecent(pActor) + 10)then
+			--return
+		end
+	end
+	--回血回蓝
+	local maxhp = Actor.getIntProperty(pActor,PROP_CREATURE_MAXHP)
+	Actor.changeHp(pActor, maxhp * ReliveConfig.safeRate)
+
+	local maxmp = Actor.getIntProperty(pActor,PROP_CREATURE_MAXMP)
+	Actor.changeMp(pActor, maxmp * ReliveConfig.safeRate)
+	
+	local bInCrossBattle = false
+	--在跨服中的处理
+	if System.isCommonServer() == true then
+		
+	end
+	local fbid  = Actor.getFubenId(pActor)
+	local nSceneId = Actor.getSceneId(pActor)
+
+	--复活
+	Actor.relive(pActor) 
+	
+	--清除复活倒计时
+	Actor.clearReliveTimeOut(pActor)
+	ClearKillerData(pActor) --清除击杀者信息
+	
+	TranRedActorToRedSceen(pActor)	--一定要放在复活的后面,先退出副本再进监狱
+end
+
+--清除击杀者信息
+function ClearKillerData(pActor)  
+
+	local svar = Actor.getStaticVar(pActor)
+	local data = svar.killerData	--被击杀者记录被杀信息
+	if not data then 
+		svar.killerData = {}
+		data = svar.killerData
+	end
+	data[1] = nil	--击杀者等级
+	data[2] = nil	--击杀者阵营ID
+	data[3] = nil 	--击杀者名字
+	data[4] = nil	--击杀者类型 
+	data[5] = nil	--被击杀者掉落功勋 
+end

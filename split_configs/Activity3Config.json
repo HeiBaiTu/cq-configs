@@ -1,0 +1,219 @@
+{
+  "4": {
+    "Id": 4,
+    "Ntipstext_1": "|C:0xeee104&T:活动：竞技大乱斗|",
+    "Ntipstext_2": "活动时间：|C:0x2eb52d&T:每周二、周六 19:45-20:05|",
+    "Ntipstext_3": "在这里你无法分清对手与朋友，合纵连横出奇制胜！成为最后的幸存者吧",
+    "Ntipstext_4": "需要等级：|C:0x28ee01&T:30级\n|C:0xff7700&T:该地图被击败不会掉落装备、道具|",
+    "bg": "Act_hdbg1_jjdld",
+    "buttoncolor": 1,
+    "describe": "在这里你无法分清对手与朋友，合纵连横出奇制胜！成为最后的幸存者吧\n\n\n\n|C:0x2eb52d&T:等级30级|\n|C:0x2eb52d&T:每周二、周六 20:00-20:20|\n|C:0xf56f00&T:开服第2天开启|",
+    "fbId": 2,
+    "firstHalfTime": 600,
+    "isCheckTime": 0,
+    "name": "竞技大乱斗",
+    "noticeFirstHalf": "竞技大乱斗已经开始，19:55前都可以进入",
+    "noticeSecondHalf": "竞技大乱斗下半场开始，场内玩家每人有4次复活机会",
+    "openFun": "app.Activitie.click",
+    "openParam": {
+      "level": 30,
+      "openDay": 1
+    },
+    "phaseAward": {
+      "1": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 314,
+            "type": 0
+          }
+        ],
+        "value": 50
+      },
+      "2": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 315,
+            "type": 0
+          }
+        ],
+        "value": 100
+      },
+      "3": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 316,
+            "type": 0
+          }
+        ],
+        "value": 200
+      },
+      "4": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 317,
+            "type": 0
+          }
+        ],
+        "value": 300
+      },
+      "5": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 318,
+            "type": 0
+          }
+        ],
+        "value": 450
+      },
+      "6": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 319,
+            "type": 0
+          }
+        ],
+        "value": 600
+      },
+      "7": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 320,
+            "type": 0
+          }
+        ],
+        "value": 800
+      },
+      "8": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 321,
+            "type": 0
+          }
+        ],
+        "value": 1000
+      }
+    },
+    "rankAward": {
+      "1": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 322,
+            "type": 0
+          }
+        ],
+        "rank": "1",
+        "value": 1
+      },
+      "2": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 323,
+            "type": 0
+          }
+        ],
+        "rank": "2-5",
+        "value": 5
+      },
+      "3": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 324,
+            "type": 0
+          }
+        ],
+        "rank": "6-20",
+        "value": 20
+      },
+      "4": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 325,
+            "type": 0
+          }
+        ],
+        "rank": "21-50",
+        "value": 50
+      }
+    },
+    "rewardBtn": "进入",
+    "rewards": [
+      {
+        "count": 0,
+        "id": 13,
+        "type": 13
+      },
+      {
+        "count": 0,
+        "id": 3,
+        "type": 3
+      },
+      {
+        "count": 0,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 0,
+        "id": 269,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 852,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 302,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 480,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1018,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1218,
+        "type": 0
+      }
+    ],
+    "ruleID": 37,
+    "secondHalfTime": 600,
+    "showFun": "app.Activitie.showFunction",
+    "showParam": {
+      "level": 1,
+      "openDay": 1
+    },
+    "tipsbuttonfunction": {
+      "param1": "app.ActivityCopiesWin",
+      "param2": [
+        1
+      ],
+      "type": 1
+    },
+    "tipsbuttontext": "立即参与",
+    "tipstext": "在这里你无法分清对手与朋友，合纵连横出奇制胜！成为最后的幸存者吧",
+    "tipstime": "19:45~ 20:05",
+    "tipstitleicon": "open_bt_2",
+    "titleIcon": "Act_biaoti_jjdld",
+    "uiType": 1
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "43": {
+    "AwardA": [
+      {
+        "count": 1,
+        "id": 1346,
+        "type": 0
+      }
+    ],
+    "AwardB": [
+      {
+        "count": 1,
+        "id": 1347,
+        "type": 0
+      }
+    ],
+    "AwardC": [
+      {
+        "count": 1,
+        "id": 1348,
+        "type": 0
+      }
+    ],
+    "Duration": 1800,
+    "Id": 43,
+    "Ntipstext_1": "|C:0xeee104&T:活动：秘境打宝|",
+    "Ntipstext_2": "活动时间：|C:0x2eb52d&T:每日12:45-13:15、20:50-21:20|",
+    "Ntipstext_3": "跨服秘境充满烟瘴，生命回复和吸血能力大幅下降。怪物看似不强，关键你还得提防其他人的偷袭。这里还有奇特的神油，效果超乎你的想象。好好利用这一切多打一些宝箱吧",
+    "Ntipstext_4": "|C:0xff7700&T:开服第25天开启，所有宝箱回到原服时邮件发放。神油、雪莲仅限跨服秘境使用，跨服中被击败不会掉落装备、道具|",
+    "buttoncolor": 1,
+    "describe": "在这片黑暗的空间中随时会遇到危险，有人的？有怪物的…赶快累积积分逃生吧！\n\n\n|C:0x2eb52d&T:等级30级|\n|C:0x2eb52d&T:每周三、周六 20:10-20:30|\n|C:0xf56f00&T:开服第8天开启|",
+    "fbId": 25,
+    "isCheckTime": 0,
+    "mailContent1": "以下是您参与秘境打宝活动获得的秘境宝箱，请查收",
+    "mailContent2": "以下是您参与秘境打宝活动获得的字诀宝箱，请查收",
+    "mailContent3": "以下是您参与秘境打宝活动获得的材料宝箱，请查收",
+    "mailTitle1": "秘境宝箱奖励",
+    "mailTitle2": "字诀宝箱奖励",
+    "mailTitle3": "材料宝箱奖励",
+    "name": "秘境打宝",
+    "noticeFirstHalf": "秘境打宝已经开始，尽情的挑战自己吧",
+    "openParam": {
+      "level": 30,
+      "zsLevel": 3
+    },
+    "rewardBtn": "进入",
+    "rewards": [
+      {
+        "count": 0,
+        "id": 1346,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1347,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1348,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1335,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1336,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1337,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1338,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1339,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1340,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1341,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1342,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 265,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 5,
+        "type": 5
+      },
+      {
+        "count": 0,
+        "id": 2,
+        "type": 2
+      }
+    ],
+    "ruleID": 111,
+    "showParam": {
+      "level": 1,
+      "zsLevel": 3
+    },
+    "tipsbuttonfunction": {
+      "param1": "app.CrossServerWin",
+      "param2": [
+        1
+      ],
+      "type": 1
+    },
+    "tipsbuttontext": "立即参与",
+    "tipstext": "这里有海量的宝箱，还有强大的Buff帮助你，尽情发挥吧",
+    "tipstime": "每日12:45-13:15、20:50-21:20",
+    "tipstitleicon": "open_bt_15",
+    "uiType": 1
+  }
+}

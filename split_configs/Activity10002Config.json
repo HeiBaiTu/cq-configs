@@ -1,0 +1,164 @@
+{
+  "10023": {
+    "1": {
+      "BuyDayLmt": 1,
+      "BuyLimit": 1,
+      "GiftBoxNum": 1,
+      "Id": 10023,
+      "actlogo": "kf_lb_p1",
+      "award": [
+        {
+          "count": 10,
+          "id": 300,
+          "type": 0
+        },
+        {
+          "count": 5,
+          "id": 298,
+          "type": 0
+        }
+      ],
+      "isCheckTime": 1,
+      "name": "经验礼包",
+      "price": [
+        {
+          "count": 498,
+          "id": 4,
+          "type": 4
+        }
+      ],
+      "redType": 0,
+      "titleImg": "kf_lb_t1"
+    },
+    "2": {
+      "BuyDayLmt": 1,
+      "BuyLimit": 1,
+      "GiftBoxNum": 2,
+      "Id": 10023,
+      "actlogo": "kf_lb_p2",
+      "award": [
+        {
+          "count": 168,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 1,
+          "id": 249,
+          "type": 0
+        }
+      ],
+      "isCheckTime": 1,
+      "name": "技能礼包",
+      "price": [
+        {
+          "count": 680,
+          "id": 4,
+          "type": 4
+        }
+      ],
+      "redType": 0,
+      "titleImg": "kf_lb_t2"
+    },
+    "3": {
+      "BuyDayLmt": 1,
+      "BuyLimit": 1,
+      "GiftBoxNum": 3,
+      "Id": 10023,
+      "actlogo": "kf_lb_p3",
+      "award": [
+        {
+          "count": 49,
+          "id": 269,
+          "type": 0
+        }
+      ],
+      "isCheckTime": 1,
+      "name": "祝福礼包",
+      "price": [
+        {
+          "count": 518,
+          "id": 4,
+          "type": 4
+        }
+      ],
+      "redType": 0,
+      "titleImg": "kf_lb_t3"
+    },
+    "4": {
+      "BuyDayLmt": 2,
+      "BuyLimit": 1,
+      "GiftBoxNum": 4,
+      "Id": 10023,
+      "actlogo": "kf_lb_p4",
+      "award": [
+        {
+          "count": 268,
+          "id": 411,
+          "type": 0
+        }
+      ],
+      "isCheckTime": 1,
+      "name": "强化礼包",
+      "price": [
+        {
+          "count": 388,
+          "id": 4,
+          "type": 4
+        }
+      ],
+      "redType": 0,
+      "titleImg": "kf_lb_t4"
+    },
+    "5": {
+      "BuyDayLmt": 3,
+      "BuyLimit": 1,
+      "GiftBoxNum": 5,
+      "Id": 10023,
+      "actlogo": "kf_lb_p5",
+      "award": [
+        {
+          "count": 188,
+          "id": 421,
+          "type": 0
+        }
+      ],
+      "isCheckTime": 1,
+      "name": "暴击礼包",
+      "price": [
+        {
+          "count": 999,
+          "id": 4,
+          "type": 4
+        }
+      ],
+      "redType": 0,
+      "titleImg": "kf_lb_t5"
+    },
+    "6": {
+      "BuyDayLmt": 4,
+      "BuyLimit": 1,
+      "GiftBoxNum": 6,
+      "Id": 10023,
+      "actlogo": "kf_lb_p6",
+      "award": [
+        {
+          "count": 188,
+          "id": 415,
+          "type": 0
+        }
+      ],
+      "isCheckTime": 1,
+      "name": "四象礼包",
+      "price": [
+        {
+          "count": 999,
+          "id": 4,
+          "type": 4
+        }
+      ],
+      "redType": 0,
+      "titleImg": "kf_lb_t6"
+    }
+  }
+}

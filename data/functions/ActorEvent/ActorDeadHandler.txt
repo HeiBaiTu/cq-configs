@@ -1,0 +1,70 @@
+﻿local defReliveConfId = StaticFubens[0].reliveConfId or 1
+local defReliveConf = ReliveConfig[defReliveConfId] or ReliveConfig[1]
+
+--人物死亡事件
+defaultHandlerActorDead = function (pActor)
+	local pFuben = Actor.getFubenPrt(pActor)
+	--Actor.addState(pActor, esStateDeath)
+	print("死亡")
+	Actor.updateActorEntityProp(pActor)
+
+	-- 静态场景
+	if Fuben.isFuben(pFuben) == false then
+		if Actor.getReliveTimeOut(pActor) == 0 then
+
+			--复活特权
+			local nCurReviveDuration = Actor.getIntProperty2(pActor, PROP_ACTOR_CURREVIVEDURATION);
+
+			if defReliveConf then
+
+				--复活特权
+				if nCurReviveDuration ~= 0 then
+					Actor.setReliveTimeOut(pActor, (defReliveConf.VipRevive or 5))
+				else
+					Actor.setReliveTimeOut(pActor, (defReliveConf.expire or 10))
+				end
+
+				local npack = DataPack.allocPacket(pActor, enDefaultEntitySystemID, sActorReliveInfo)
+				if npack then
+					DataPack.writeByte(npack, defReliveConfId)
+					DataPack.writeByte(npack, -1)
+					local count = (defReliveConf.selectInfo and #defReliveConf.selectInfo) or 0
+					DataPack.writeByte(npack, count)
+					local actorData = FubenDispatcher.GetActorData(pActor,0)
+					if actorData.relive == nil then
+						actorData.relive = {}
+					end
+					if count > 0 then
+						for i=1,count do
+							if actorData.relive[i] == nil then
+								actorData.relive[i] = defReliveConf.selectInfo[i].limit or -1
+							end
+							DataPack.writeByte(npack, actorData.relive[i])
+						end
+					end
+
+					-- 添加击杀者名字
+					local h_killer = Actor.getKillHandle(pActor)
+					local pKiller = Actor.getEntity(h_killer)
+					local name = ""
+					if pKiller then
+						name = Actor.getName(pKiller)
+					end
+					DataPack.writeString( npack, name )
+        			DataPack.flush(npack)
+				end
+			else
+				--复活特权
+				if nCurReviveDuration ~= 0 then
+					Actor.setReliveTimeOut(pActor, 5)
+				else
+					Actor.setReliveTimeOut(pActor, 10)
+				end
+				
+			end
+		end
+	-- 副本中
+	else
+		FubenDispatcher.OnActorDeath(pActor, pFuben)
+	end
+end

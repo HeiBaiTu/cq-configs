@@ -1,0 +1,76 @@
+{
+  "awardGuildMoney": 1000,
+  "buildMaxNum": 5,
+  "buildnum": 3,
+  "createNeedYb": 10,
+  "czrewards": [
+    {
+      "count": 1,
+      "id": 1111,
+      "type": 0
+    }
+  ],
+  "czrewardsMailCT": "恭喜你获得沙巴克城主奖励",
+  "czrewardsMailTT": "跨服沙巴克城主",
+  "declareWarNeedCoin": 100,
+  "impeachcost": 10,
+  "leftTimeLimit": 0,
+  "levelLimit": 24,
+  "noticereward": [
+    {
+      "count": 1,
+      "id": 950,
+      "type": 0
+    },
+    {
+      "count": 1,
+      "id": 1031,
+      "type": 0
+    },
+    {
+      "count": 1,
+      "id": 1032,
+      "type": 0
+    }
+  ],
+  "noticetips": "沙巴克攻城结束后，城主可通过我来领取专属奖励！/n/n沙城之巅称号：/n暴击倍率：+50%/n物防：30-30/n魔御：30-30/n全职业攻击：1-2",
+  "open": 0,
+  "protectDay": 3,
+  "rankAward": [
+    {
+      "awards": [
+        {
+          "count": 1,
+          "id": 1112,
+          "type": 0
+        }
+      ],
+      "rank": "1",
+      "value": 1
+    },
+    {
+      "awards": [
+        {
+          "count": 1,
+          "id": 1112,
+          "type": 0
+        }
+      ],
+      "rank": "2",
+      "value": 2
+    },
+    {
+      "awards": [
+        {
+          "count": 1,
+          "id": 1112,
+          "type": 0
+        }
+      ],
+      "rank": "3",
+      "value": 3
+    }
+  ],
+  "rankAwardMailCT": "恭喜你在跨服沙巴克优秀会长奖励",
+  "rankAwardMailTT": "跨服沙巴克荣耀奖励"
+}

@@ -1,0 +1,109 @@
+{
+  "1": {
+    "1": {
+      "Tabshop": 1,
+      "dealtype": "兑换银两",
+      "name": "功能",
+      "sctype": 2,
+      "shoptype": 1,
+      "tabname": "功能",
+      "title": "商城"
+    },
+    "2": {
+      "Tabshop": 2,
+      "dealtype": "兑换银两",
+      "name": "成长",
+      "sctype": 2,
+      "shoptype": 1,
+      "tabname": "成长",
+      "title": "商城"
+    },
+    "3": {
+      "Tabshop": 3,
+      "dealtype": "兑换银两",
+      "name": "补给",
+      "sctype": 2,
+      "shoptype": 1,
+      "tabname": "补给",
+      "title": "商城"
+    },
+    "4": {
+      "Tabshop": 4,
+      "dealtype": "兑换银两",
+      "name": "材料",
+      "sctype": 2,
+      "shoptype": 1,
+      "tabname": "材料",
+      "title": "商城"
+    },
+    "5": {
+      "Tabshop": 5,
+      "dealtype": "兑换银两",
+      "name": "时装",
+      "sctype": 2,
+      "shoptype": 1,
+      "tabname": "时装",
+      "title": "商城"
+    },
+    "6": {
+      "Tabshop": 6,
+      "dealtype": "兑换银两",
+      "name": "打宝",
+      "sctype": 2,
+      "shoptype": 1,
+      "tabname": "打宝",
+      "title": "商城"
+    },
+    "7": {
+      "Tabshop": 7,
+      "dealtype": "兑换银两",
+      "name": "圣物",
+      "sctype": 2,
+      "shoptype": 1,
+      "tabname": "圣物",
+      "title": "商城"
+    }
+  },
+  "2": {
+    "1": {
+      "Tabshop": 1,
+      "dealtype": "",
+      "name": "行会商店",
+      "sctype": 0,
+      "shoptype": 2,
+      "tabname": "行会商店"
+    }
+  },
+  "3": {
+    "1": {
+      "Tabshop": 1,
+      "dealtype": "兑换绑金",
+      "name": "杂货",
+      "sctype": 1,
+      "shoptype": 3,
+      "tabname": "杂货",
+      "title": "小贩"
+    }
+  },
+  "4": {
+    "1": {
+      "Tabshop": 1,
+      "dealtype": "兑换绑金",
+      "name": "杂货",
+      "sctype": 1,
+      "shoptype": 4,
+      "tabname": "杂货",
+      "title": "杂货铺"
+    }
+  },
+  "6": {
+    "1": {
+      "Tabshop": 1,
+      "dealtype": "",
+      "name": "战令",
+      "sctype": 0,
+      "shoptype": 6,
+      "tabname": "战令"
+    }
+  }
+}

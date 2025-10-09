@@ -1,0 +1,132 @@
+--机器人的配置文件
+RobotConfig = {
+	procName = "机器人1-任务",
+    loginAccountLimit = 0,      --登陆的账户的最大值，<=0表示不限制，否则表示所有accounts里的玩家都登陆
+    groupLoginInterval = 5,	-- 每组登录间隔时间，秒为单位。间隔太短容易导致多线程连接造成重复地址绑定的问题
+
+    serverIndex = 1,  --模拟登陆的服务器的id，3服就填3
+
+    --session服务器的网关的地址列表
+	--port最小端口号,maxPort最大端口号，会随机连接一个端口
+    gates= {
+		{ip= "127.0.0.1", port=9901, maxPort = 9901},
+    },
+
+    --玩家的模拟的账户的列表，因为测试的账户的角色都是非常有规律的，比如wuyitest1 -wuyitest100，而且密码是一样的
+    --同时为了支持单个账户测试的情况，
+    --	name 表示账户的前缀/完整的账户 
+    --  pass 表示
+    --  accountStartId 账户开始的ID，如果是-1表示不使用前缀表示法，使用完整账户表示法，比如helloworld
+    --  accountEndId   账户结束的ID, 如果是-1表示不使用前缀表示法
+	--  doWord = 1 职能：1挂机，2做任务
+    accounts=
+    {
+        {name="robotac",pass="123456",accountStartId=1,accountEndId=500, doWord = 2},
+        {name="robot_1",pass="asdasd",accountStartId=-1,accountEndId=-1, doWord = 2},
+        {name="robotb",pass="123456",accountStartId=1,accountEndId=500, doWord = 2},
+        {name="robotc",pass="123456",accountStartId=1,accountEndId=15, doWord = 2},
+        {name="robotd",pass="123456",accountStartId=1,accountEndId=15, doWord = 2},
+        {name="robote",pass="123456",accountStartId=1,accountEndId=15, doWord = 2},
+        {name="robotf",pass="123456",accountStartId=1,accountEndId=15, doWord = 2},
+        {name="robotg",pass="123456",accountStartId=1,accountEndId=15, doWord = 2},
+        {name="roboth",pass="123456",accountStartId=1,accountEndId=15, doWord = 2},
+        {name="roboti",pass="123456",accountStartId=1,accountEndId=15, doWord = 2},
+        {name="robotj",pass="123456",accountStartId=1,accountEndId=15, doWord = 2},
+        {name="robotk",pass="123456",accountStartId=1,accountEndId=15, doWord = 1},
+        {name="robotl",pass="123456",accountStartId=1,accountEndId=15, doWord = 1},
+        {name="robotm",pass="123456",accountStartId=1,accountEndId=15, doWord = 1},
+        {name="robotn",pass="123456",accountStartId=1,accountEndId=15, doWord = 1},
+        {name="roboto",pass="123456",accountStartId=1,accountEndId=15, doWord = 1},
+        {name="robotp",pass="123456",accountStartId=1,accountEndId=15, doWord = 1},
+        {name="robotq",pass="123456",accountStartId=1,accountEndId=15, doWord = 1},
+        {name="robotr",pass="123456",accountStartId=1,accountEndId=15, doWord = 1},
+        {name="robots",pass="123456",accountStartId=1,accountEndId=15, doWord = 1},
+        {name="robott",pass="123456",accountStartId=1,accountEndId=15, doWord = 1},
+        {name="robotu",pass="123456",accountStartId=1,accountEndId=15, doWord = 1},
+        {name="robotw",pass="123456",accountStartId=1,accountEndId=15, doWord = 1},
+        {name="robotx",pass="123456",accountStartId=1,accountEndId=15, doWord = 1},
+        {name="roboty",pass="123456",accountStartId=1,accountEndId=15, doWord = 1},
+        {name="robotz",pass="123456",accountStartId=1,accountEndId=15, doWord = 1},
+    },
+
+   -- 进入游戏后的地图分布。模拟玩家登陆后，自动选择一个地方传送过去，然后在此地图内部走动
+   mappoints =
+   {
+   		{sid=1, sname="新手村", level=1, x=474, y=312},
+   		{sid=1, sname="比奇", level=20, x=216, y=151},
+   		{sid=3, sname="盟重", level=1, x=216, y=151},
+   		{sid=216, sname="老虎滩", level=1, x=20, y=10},
+   		{sid=230, sname="木兰围场1", level=1, x=43, y=30},
+   		{sid=246, sname="训练场1", level=1, x=16, y=17},
+   },
+
+--[[
+[2021-09-21 06:45:02]<[sock:9,idx:0] Recv(255,1)  -> 发包检测用户名 密码
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(255,2)  向客户端下发用户列表
+[2021-09-21 06:45:02]<[sock:9,idx:0] Recv(0,1)    -> 登陆游戏
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(0,3) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(0,52) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(26,8) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(4,4) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(0,37) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(27,9) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(24,3) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(52,1) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(25,1) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(25,2) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(0,40) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(0,13) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(0,41) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(17,3) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(41,3) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(41,3) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(50,1) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(28,3) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(34,1) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(0,37) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(0,40) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(24,3) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(9,2) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(0,37) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(26,78) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(26,28) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(26,31) 
+[2021-09-21 06:45:02]<[sock:9,idx:0] Recv(5,1)     -> 
+[2021-09-21 06:45:02]<[sock:9,idx:0] Recv(7,3) 
+[2021-09-21 06:45:02]<[sock:9,idx:0] Recv(8,2) 
+[2021-09-21 06:45:02]<[sock:9,idx:0] Recv(10,22) 
+[2021-09-21 06:45:02]<[sock:9,idx:0] Recv(6,1) 
+[2021-09-21 06:45:02]<[sock:9,idx:0] Recv(29,1) 
+[2021-09-21 06:45:02]<[sock:9,idx:0] Recv(29,1) 
+[2021-09-21 06:45:02]<[sock:9,idx:0] Recv(51,1) 
+[2021-09-21 06:45:02]<[sock:9,idx:0] Recv(17,1) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(5,1) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(0,7) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(7,3) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(8,2) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(6,1) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(29,1) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(29,1) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(51,1) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(17,1) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(0,67) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(0,67) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(0,67) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(0,67) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(0,67) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(0,67) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(0,67) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(0,67) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(0,67) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(0,67) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(0,67) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(0,67) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(0,69) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(0,69) 
+[2021-09-21 06:45:02]>[sock:9,idx:0] Send(0,2) 
+[2021-09-21 06:45:04]>[sock:9,idx:0] Send(0,9) 
+[2021-09-21 06:45:04]>[sock:9,idx:0] Send(0,9) 
+[2021-09-21 06:45:04]>[sock:9,idx:0] Send(0,9) 
+]]
+
+}

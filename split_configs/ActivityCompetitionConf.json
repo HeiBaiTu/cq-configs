@@ -1,0 +1,57 @@
+{
+  "1": {
+    "Id": 1,
+    "actId": 10214,
+    "disposableredpoint1": {
+      "zsLevel": 1
+    },
+    "disposableredpoint2": {
+      "level": 999
+    },
+    "name": "等级达标"
+  },
+  "2": {
+    "Id": 2,
+    "actId": 10215,
+    "disposableredpoint1": {
+      "zsLevel": 1
+    },
+    "disposableredpoint2": {
+      "level": 999
+    },
+    "name": "转生达标"
+  },
+  "3": {
+    "Id": 3,
+    "actId": 10020,
+    "disposableredpoint1": {
+      "zsLevel": 1
+    },
+    "disposableredpoint2": {
+      "level": 999
+    },
+    "name": "装备达标"
+  },
+  "4": {
+    "Id": 4,
+    "actId": 10213,
+    "disposableredpoint1": {
+      "zsLevel": 1
+    },
+    "disposableredpoint2": {
+      "level": 999
+    },
+    "name": "怪物猎人"
+  },
+  "5": {
+    "Id": 5,
+    "actId": 10016,
+    "disposableredpoint1": {
+      "zsLevel": 1
+    },
+    "disposableredpoint2": {
+      "level": 999
+    },
+    "name": "暴击达标"
+  }
+}

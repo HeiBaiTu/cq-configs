@@ -1,0 +1,18 @@
+{
+  "2": {
+    "addcion": 20,
+    "adddonate": 20,
+    "cost": 200000,
+    "limittimes": 5,
+    "staticcounttype": 30,
+    "type": 2
+  },
+  "3": {
+    "addcion": 88,
+    "adddonate": 88,
+    "cost": 20,
+    "limittimes": 5,
+    "staticcounttype": 31,
+    "type": 3
+  }
+}

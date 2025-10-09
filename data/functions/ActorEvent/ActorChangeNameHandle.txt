@@ -1,0 +1,5 @@
+--改名事件
+defaultHandleChangeNameOp = function (pActor, oldName, newName)
+    
+    
+end

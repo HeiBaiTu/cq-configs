@@ -1,0 +1,1595 @@
+{
+  "1": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 5,
+        "value": 100
+      },
+      {
+        "type": 76,
+        "value": 2
+      },
+      {
+        "type": 77,
+        "value": 2
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao013",
+    "id": 1,
+    "titleDesc": "白卡会员专属称号",
+    "titleName": "冰雪新秀",
+    "titleTime": 0
+  },
+  "2": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 5,
+        "value": 100
+      },
+      {
+        "type": 76,
+        "value": 1
+      },
+      {
+        "type": 77,
+        "value": 1
+      },
+      {
+        "type": 144,
+        "value": 1800
+      },
+      {
+        "type": 83,
+        "value": 3000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao012",
+    "id": 2,
+    "titleDesc": "绿卡会员专属称号",
+    "titleName": "冰雪老铁",
+    "titleTime": 0
+  },
+  "3": {
+    "VIPnotice": 416,
+    "active": 1,
+    "attr": [
+      {
+        "type": 5,
+        "value": 100
+      },
+      {
+        "type": 76,
+        "value": 7
+      },
+      {
+        "type": 77,
+        "value": 7
+      },
+      {
+        "type": 70,
+        "value": 2000
+      },
+      {
+        "type": 144,
+        "value": 1800
+      },
+      {
+        "type": 59,
+        "value": 2000
+      }
+    ],
+    "broadcast": true,
+    "effect": 1,
+    "icon": "chenghao014",
+    "id": 3,
+    "noticeLv": 1,
+    "titleDesc": "蓝卡会员专属称号",
+    "titleName": "冰雪贵族",
+    "titleTime": 0
+  },
+  "4": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 139,
+        "value": 18
+      }
+    ],
+    "broadcast": true,
+    "icon": "ch_show_004",
+    "id": 4,
+    "titleDesc": "成就系统达成累充成就获得的称号\n",
+    "titleName": "大富豪",
+    "titleTime": 0
+  },
+  "5": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 21,
+        "value": 0
+      },
+      {
+        "type": 23,
+        "value": 1
+      },
+      {
+        "type": 25,
+        "value": 0
+      },
+      {
+        "type": 27,
+        "value": 1
+      }
+    ],
+    "broadcast": false,
+    "displayType": 1,
+    "icon": "ch_show_005",
+    "id": 5,
+    "titleDesc": "超玩专属称号\n",
+    "titleName": "超玩专属",
+    "titleTime": 0
+  },
+  "6": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 1
+      }
+    ],
+    "broadcast": false,
+    "displayType": 1,
+    "icon": "ch_show_006",
+    "id": 6,
+    "titleDesc": "玩冰雪传奇上YY游戏\n",
+    "titleName": "玩冰雪传奇上YY游戏",
+    "titleTime": 604800
+  },
+  "7": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 138,
+        "value": 15
+      }
+    ],
+    "broadcast": false,
+    "displayType": 1,
+    "icon": "ch_show_007",
+    "id": 7,
+    "titleDesc": "YY会员称号红尘不朽，YY会员1-3级可领取\n",
+    "titleName": "红尘不朽",
+    "titleTime": 0
+  },
+  "8": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 138,
+        "value": 20
+      }
+    ],
+    "broadcast": false,
+    "displayType": 1,
+    "icon": "ch_show_008",
+    "id": 8,
+    "titleDesc": "YY会员称号红鸾灭天，YY会员4-6级可领取\n",
+    "titleName": "红鸾灭天",
+    "titleTime": 0
+  },
+  "9": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 138,
+        "value": 25
+      }
+    ],
+    "broadcast": true,
+    "displayType": 1,
+    "icon": "ch_show_009",
+    "id": 9,
+    "titleDesc": "YY会员称号红颜绝地，YY会员7-9级可领取\n",
+    "titleName": "红颜绝地",
+    "titleTime": 0
+  },
+  "10": {
+    "VIPnotice": 416,
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 45
+      },
+      {
+        "type": 77,
+        "value": 45
+      },
+      {
+        "type": 45,
+        "value": 7
+      },
+      {
+        "type": 59,
+        "value": 2000
+      },
+      {
+        "type": 5,
+        "value": 700
+      }
+    ],
+    "broadcast": true,
+    "effect": 1,
+    "icon": "chenghao015",
+    "id": 10,
+    "noticeLv": 2,
+    "titleDesc": "紫卡会员专属称号",
+    "titleName": "江山无限",
+    "titleTime": 0
+  },
+  "11": {
+    "VIPnotice": 416,
+    "active": 1,
+    "attr": [
+      {
+        "type": 136,
+        "value": 5000
+      },
+      {
+        "type": 21,
+        "value": 30
+      },
+      {
+        "type": 23,
+        "value": 30
+      },
+      {
+        "type": 25,
+        "value": 30
+      },
+      {
+        "type": 27,
+        "value": 30
+      },
+      {
+        "type": 35,
+        "value": 1000
+      }
+    ],
+    "broadcast": true,
+    "effect": 1,
+    "icon": "chenghao009",
+    "id": 11,
+    "noticeLv": 3,
+    "titleDesc": "橙卡会员专属称号",
+    "titleName": "天地唯我",
+    "titleTime": 0
+  },
+  "12": {
+    "VIPnotice": 428,
+    "active": 1,
+    "attr": [
+      {
+        "type": 136,
+        "value": 1000
+      },
+      {
+        "type": 21,
+        "value": 10
+      },
+      {
+        "type": 23,
+        "value": 10
+      },
+      {
+        "type": 25,
+        "value": 10
+      },
+      {
+        "type": 27,
+        "value": 10
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao010",
+    "id": 12,
+    "noticeLv": 5,
+    "titleDesc": "沙巴克专属称号",
+    "titleName": "沙城之巅",
+    "titleTime": 345600
+  },
+  "13": {
+    "VIPnotice": 429,
+    "active": 1,
+    "attr": [
+      {
+        "type": 138,
+        "value": 100
+      },
+      {
+        "type": 79,
+        "value": 100
+      },
+      {
+        "type": 82,
+        "value": 100
+      },
+      {
+        "type": 6,
+        "value": 100
+      },
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 81,
+        "value": 100
+      }
+    ],
+    "broadcast": true,
+    "effect": 1,
+    "icon": "chenghao011",
+    "id": 13,
+    "noticeLv": 4,
+    "titleDesc": "神魔之体全部升满获得的专属称号",
+    "titleName": "独孤败天",
+    "titleTime": 0
+  },
+  "14": {
+    "attr": [
+      {
+        "type": 5,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "displayType": 1,
+    "icon": "ch_show_0010",
+    "id": 14,
+    "titleDesc": "战士排行榜第一，天下第一战士",
+    "titleName": "第一战神",
+    "titleTime": 0
+  },
+  "15": {
+    "attr": [
+      {
+        "type": 5,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "displayType": 1,
+    "icon": "ch_show_0011",
+    "id": 15,
+    "titleDesc": "法师排行榜第一，天下第一法师",
+    "titleName": "第一法圣",
+    "titleTime": 0
+  },
+  "16": {
+    "attr": [
+      {
+        "type": 5,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "displayType": 1,
+    "icon": "ch_show_0012",
+    "id": 16,
+    "titleDesc": "道士排行榜第一，天下第一道士",
+    "titleName": "第一道尊",
+    "titleTime": 0
+  },
+  "17": {
+    "attr": [
+      {
+        "type": 5,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "displayType": 1,
+    "icon": "ch_show_0037",
+    "id": 17,
+    "titleDesc": "战士排行榜第二至第十才可以获得专属称号",
+    "titleName": "十大战神",
+    "titleTime": 0
+  },
+  "18": {
+    "attr": [
+      {
+        "type": 5,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "displayType": 1,
+    "icon": "ch_show_0038",
+    "id": 18,
+    "titleDesc": "法师排行榜第二至第十才可以获得专属称号",
+    "titleName": "十大法圣",
+    "titleTime": 0
+  },
+  "19": {
+    "attr": [
+      {
+        "type": 5,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "displayType": 1,
+    "icon": "ch_show_0039",
+    "id": 19,
+    "titleDesc": "道士排行榜第二至第十才可以获得专属称号",
+    "titleName": "十大道尊",
+    "titleTime": 0
+  },
+  "20": {
+    "attr": [
+      {
+        "type": 5,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "displayType": 1,
+    "icon": "ch_show_0034",
+    "id": 20,
+    "titleDesc": "物攻排行榜第四至第十才可以获得专属称号",
+    "titleName": "物攻十强",
+    "titleTime": 0
+  },
+  "21": {
+    "attr": [
+      {
+        "type": 5,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "displayType": 1,
+    "icon": "ch_show_0035",
+    "id": 21,
+    "titleDesc": "魔法排行榜第四至第十才可以获得专属称号",
+    "titleName": "魔法十强",
+    "titleTime": 0
+  },
+  "22": {
+    "attr": [
+      {
+        "type": 5,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "displayType": 1,
+    "icon": "ch_show_0036",
+    "id": 22,
+    "titleDesc": "道术排行榜第四至第十才可以获得专属称号",
+    "titleName": "道术十强",
+    "titleTime": 0
+  },
+  "23": {
+    "attr": [
+      {
+        "type": 5,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "displayType": 1,
+    "icon": "ch_show_0013",
+    "id": 23,
+    "titleDesc": "物攻排行榜前三甲",
+    "titleName": "物攻三甲",
+    "titleTime": 0
+  },
+  "24": {
+    "attr": [
+      {
+        "type": 5,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "displayType": 1,
+    "icon": "ch_show_0014",
+    "id": 24,
+    "titleDesc": "魔法排行榜前三甲",
+    "titleName": "魔法三甲",
+    "titleTime": 0
+  },
+  "25": {
+    "attr": [
+      {
+        "type": 5,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "displayType": 1,
+    "icon": "ch_show_0015",
+    "id": 25,
+    "titleDesc": "道术排行榜前三甲",
+    "titleName": "道术三甲",
+    "titleTime": 0
+  },
+  "26": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 5,
+        "value": 5
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 1
+      },
+      {
+        "type": 21,
+        "value": 1
+      },
+      {
+        "type": 23,
+        "value": 1
+      },
+      {
+        "type": 25,
+        "value": 1
+      },
+      {
+        "type": 27,
+        "value": 1
+      }
+    ],
+    "broadcast": true,
+    "displayType": 1,
+    "icon": "ch_show_0040",
+    "id": 26,
+    "titleDesc": "在开服活动中击杀130只小怪获得的限时称号",
+    "titleName": "打怪小能手",
+    "titleTime": 604800
+  },
+  "27": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 5,
+        "value": 5
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 1
+      },
+      {
+        "type": 21,
+        "value": 1
+      },
+      {
+        "type": 23,
+        "value": 1
+      },
+      {
+        "type": 25,
+        "value": 1
+      },
+      {
+        "type": 27,
+        "value": 1
+      }
+    ],
+    "broadcast": true,
+    "displayType": 1,
+    "icon": "ch_show_0041",
+    "id": 27,
+    "titleDesc": "在开服活动中击杀800只小怪获得的限时称号",
+    "titleName": "刷怪达人",
+    "titleTime": 864000
+  },
+  "28": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 5,
+        "value": 5
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 1
+      },
+      {
+        "type": 21,
+        "value": 1
+      },
+      {
+        "type": 23,
+        "value": 1
+      },
+      {
+        "type": 25,
+        "value": 1
+      },
+      {
+        "type": 27,
+        "value": 1
+      }
+    ],
+    "broadcast": true,
+    "displayType": 1,
+    "icon": "ch_show_0042",
+    "id": 28,
+    "titleDesc": "在开服活动中击杀1600只小怪获得的限时称号",
+    "titleName": "这图我包场",
+    "titleTime": 1209600
+  },
+  "29": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 5,
+        "value": 5
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 1
+      }
+    ],
+    "broadcast": true,
+    "displayType": 1,
+    "icon": "ch_show_0043",
+    "id": 29,
+    "titleDesc": "在开服活动期间内穿戴6件祖玛级装备获得的绝版称号",
+    "titleName": "祖玛套装毕业",
+    "titleTime": 0
+  },
+  "30": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 5,
+        "value": 5
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 1
+      }
+    ],
+    "broadcast": true,
+    "displayType": 1,
+    "icon": "ch_show_0044",
+    "id": 30,
+    "titleDesc": "在开服活动期间内穿戴6件赤月级装备获得的绝版称号",
+    "titleName": "赤月套装毕业",
+    "titleTime": 0
+  },
+  "31": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 5,
+        "value": 5
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 1
+      }
+    ],
+    "broadcast": true,
+    "displayType": 1,
+    "icon": "ch_show_0045",
+    "id": 31,
+    "titleDesc": "在开服活动期间内穿戴7件魔龙级装备获得的绝版称号",
+    "titleName": "魔龙套装毕业",
+    "titleTime": 0
+  },
+  "32": {
+    "attr": [
+      {
+        "type": 116,
+        "value": 3
+      }
+    ],
+    "broadcast": true,
+    "displayType": 1,
+    "icon": "ch_show_0031",
+    "id": 32,
+    "titleDesc": "开服活动中参与怪物猎人活动获得的绝版称号",
+    "titleName": "怪物猎人",
+    "titleTime": 0
+  },
+  "33": {
+    "attr": [
+      {
+        "type": 101,
+        "value": 3
+      }
+    ],
+    "broadcast": true,
+    "displayType": 1,
+    "icon": "ch_show_0032",
+    "id": 33,
+    "titleDesc": "开服活动中首杀黄泉教主才可以获得的绝版称号",
+    "titleName": "巨人猎手",
+    "titleTime": 0
+  },
+  "34": {
+    "attr": [
+      {
+        "type": 5,
+        "value": 60
+      }
+    ],
+    "broadcast": true,
+    "displayType": 1,
+    "icon": "ch_show_0033",
+    "id": 34,
+    "titleDesc": "开服活动中首次获得四象佩饰[神]才可以获得的绝版称号",
+    "titleName": "打宝标兵",
+    "titleTime": 0
+  },
+  "35": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 5,
+        "value": 5
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 1
+      }
+    ],
+    "broadcast": true,
+    "displayType": 1,
+    "icon": "ch_show_0046",
+    "id": 35,
+    "titleDesc": "在开服活动期间内穿戴7件强化魔龙级装备获得的绝版称号",
+    "titleName": "强化魔龙毕业",
+    "titleTime": 0
+  },
+  "36": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 5,
+        "value": 5
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 1
+      }
+    ],
+    "broadcast": true,
+    "displayType": 1,
+    "icon": "ch_show_0047",
+    "id": 36,
+    "titleDesc": "在开服活动期间内穿戴4件战神级装备获得的绝版称号",
+    "titleName": "战神套装毕业",
+    "titleTime": 0
+  },
+  "37": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 5,
+        "value": 5
+      },
+      {
+        "type": 76,
+        "value": 1
+      },
+      {
+        "type": 77,
+        "value": 1
+      }
+    ],
+    "broadcast": true,
+    "displayType": 1,
+    "icon": "ch_show_0048",
+    "id": 37,
+    "titleDesc": "在开服活动期间内穿戴7件炎战神级装备获得的绝版称号，代表已经无敌于第一大陆",
+    "titleName": "第一大陆毕业",
+    "titleTime": 0
+  },
+  "38": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 75,
+        "value": 100
+      },
+      {
+        "type": 21,
+        "value": 1
+      },
+      {
+        "type": 23,
+        "value": 1
+      },
+      {
+        "type": 25,
+        "value": 1
+      },
+      {
+        "type": 27,
+        "value": 1
+      }
+    ],
+    "broadcast": true,
+    "icon": "ch_show_0049",
+    "id": 38,
+    "titleDesc": "通过战令商店兑换的限时称号",
+    "titleName": "玛法精英",
+    "titleTime": 1296000
+  },
+  "39": {
+    "VIPnotice": 429,
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 6,
+        "value": 100
+      },
+      {
+        "type": 81,
+        "value": 100
+      },
+      {
+        "type": 75,
+        "value": 100
+      },
+      {
+        "type": 54,
+        "value": 100
+      }
+    ],
+    "broadcast": true,
+    "effect": 1,
+    "icon": "chenghao016",
+    "id": 39,
+    "noticeLv": 4,
+    "titleDesc": "橙星会员专属称号",
+    "titleName": "橙星会员",
+    "titleTime": 0
+  },
+  "40": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 81,
+        "value": 100
+      },
+      {
+        "type": 76,
+        "value": 1
+      },
+      {
+        "type": 77,
+        "value": 1
+      }
+    ],
+    "broadcast": true,
+    "effect": 1,
+    "icon": "chenghao017",
+    "id": 40,
+    "titleDesc": "占领跨服沙巴克的城主奖励，激活后限时7天",
+    "titleName": "跨服城主",
+    "titleTime": 604800
+  },
+  "41": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 6,
+        "value": 100
+      },
+      {
+        "type": 76,
+        "value": 1
+      },
+      {
+        "type": 77,
+        "value": 1
+      }
+    ],
+    "broadcast": true,
+    "icon": "ch_show_0050",
+    "id": 41,
+    "titleDesc": "跨服沙巴克活动行会总积分前3行会的会长及副会长才能获得的称号，激活后限时7天",
+    "titleName": "优秀会长",
+    "titleTime": 604800
+  },
+  "42": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 47,
+        "value": 5
+      },
+      {
+        "type": 81,
+        "value": 100
+      }
+    ],
+    "broadcast": true,
+    "icon": "ch_show_0051",
+    "id": 42,
+    "titleDesc": "跨服沙巴克活动行会总积分达到150分以上即可获得的称号，激活后限时7天",
+    "titleName": "攻城精英",
+    "titleTime": 604800
+  },
+  "43": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 1
+      }
+    ],
+    "broadcast": true,
+    "displayType": 1,
+    "icon": "ch_show_0052",
+    "id": 43,
+    "titleDesc": "开服活动获得的绝版称号",
+    "titleName": "开服先锋",
+    "titleTime": 0
+  },
+  "44": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 2
+      }
+    ],
+    "broadcast": true,
+    "displayType": 1,
+    "effect": 1,
+    "icon": "chenghao018",
+    "id": 44,
+    "titleDesc": "开服活动获得的绝版称号",
+    "titleName": "开服勇士",
+    "titleTime": 0
+  },
+  "45": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 3
+      }
+    ],
+    "broadcast": true,
+    "displayType": 1,
+    "effect": 1,
+    "icon": "chenghao019",
+    "id": 45,
+    "titleDesc": "开服活动获得的绝版称号",
+    "titleName": "开服大将",
+    "titleTime": 0
+  },
+  "46": {
+    "VIPnotice": 429,
+    "active": 1,
+    "attr": [
+      {
+        "type": 54,
+        "value": 100
+      }
+    ],
+    "broadcast": true,
+    "displayType": 1,
+    "effect": 1,
+    "icon": "chenghao020",
+    "id": 46,
+    "noticeLv": 4,
+    "titleDesc": "开服大佬获得的专属称号",
+    "titleName": "大佬驾到",
+    "titleTime": 0
+  },
+  "47": {
+    "VIPnotice": 429,
+    "active": 1,
+    "attr": [
+      {
+        "type": 54,
+        "value": 100
+      },
+      {
+        "type": 75,
+        "value": 100
+      }
+    ],
+    "broadcast": true,
+    "displayType": 1,
+    "effect": 1,
+    "icon": "chenghao021",
+    "id": 47,
+    "noticeLv": 5,
+    "titleDesc": "本服冠名玩家获得的专属称号",
+    "titleName": "本服我做主",
+    "titleTime": 0
+  },
+  "48": {
+    "VIPnotice": 429,
+    "active": 1,
+    "attr": [
+      {
+        "type": 75,
+        "value": 500
+      },
+      {
+        "type": 64,
+        "value": 500
+      }
+    ],
+    "broadcast": true,
+    "effect": 1,
+    "icon": "chenghao022",
+    "id": 48,
+    "noticeLv": 6,
+    "titleDesc": "橙月会员专属称号",
+    "titleName": "橙月会员",
+    "titleTime": 0
+  },
+  "49": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 21,
+        "value": 0
+      },
+      {
+        "type": 23,
+        "value": 1
+      },
+      {
+        "type": 25,
+        "value": 0
+      },
+      {
+        "type": 27,
+        "value": 1
+      }
+    ],
+    "broadcast": true,
+    "displayType": 1,
+    "icon": "ch_show_0057",
+    "id": 49,
+    "titleDesc": "超级大玩家V1可获得限定称号",
+    "titleName": "超级大玩家V1",
+    "titleTime": 0
+  },
+  "50": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 138,
+        "value": 15
+      }
+    ],
+    "broadcast": true,
+    "displayType": 1,
+    "icon": "ch_show_0058",
+    "id": 50,
+    "titleDesc": "超级大玩家V2可获得限定称号",
+    "titleName": "超级大玩家V2",
+    "titleTime": 0
+  },
+  "51": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 138,
+        "value": 20
+      }
+    ],
+    "broadcast": true,
+    "displayType": 1,
+    "icon": "ch_show_0059",
+    "id": 51,
+    "titleDesc": "超级大玩家V3可获得限定称号",
+    "titleName": "超级大玩家V3",
+    "titleTime": 0
+  },
+  "52": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 138,
+        "value": 25
+      }
+    ],
+    "broadcast": true,
+    "displayType": 1,
+    "icon": "ch_show_0060",
+    "id": 52,
+    "titleDesc": "超级大玩家V4可获得限定称号",
+    "titleName": "超级大玩家V4",
+    "titleTime": 0
+  },
+  "53": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 138,
+        "value": 15
+      }
+    ],
+    "broadcast": true,
+    "displayType": 1,
+    "icon": "ch_show_0063",
+    "id": 53,
+    "titleDesc": "VIP称号初入凡尘，VIP1-3级可领取\n",
+    "titleName": "初入凡尘",
+    "titleTime": 0
+  },
+  "54": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 138,
+        "value": 20
+      }
+    ],
+    "broadcast": true,
+    "displayType": 1,
+    "icon": "ch_show_0064",
+    "id": 54,
+    "titleDesc": "VIP称号独步九州，VIP4-6级可领取\n",
+    "titleName": "独步九州",
+    "titleTime": 0
+  },
+  "55": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 138,
+        "value": 25
+      }
+    ],
+    "broadcast": true,
+    "displayType": 1,
+    "icon": "ch_show_0065",
+    "id": 55,
+    "titleDesc": "VIP称号傲视天下，VIP7-9级可领取\n",
+    "titleName": "傲视天下",
+    "titleTime": 0
+  },
+  "56": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 21,
+        "value": 0
+      },
+      {
+        "type": 23,
+        "value": 1
+      },
+      {
+        "type": 25,
+        "value": 0
+      },
+      {
+        "type": 27,
+        "value": 1
+      }
+    ],
+    "broadcast": true,
+    "displayType": 1,
+    "icon": "ch_show_0066",
+    "id": 56,
+    "titleDesc": "会员称号C会员贵宾，黄金及以上会员可领取\n",
+    "titleName": "C会员贵宾",
+    "titleTime": 0
+  },
+  "57": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 21,
+        "value": 1
+      },
+      {
+        "type": 23,
+        "value": 1
+      },
+      {
+        "type": 25,
+        "value": 1
+      },
+      {
+        "type": 27,
+        "value": 1
+      }
+    ],
+    "broadcast": true,
+    "displayType": 1,
+    "icon": "ch_show_0067",
+    "id": 57,
+    "titleDesc": "会员称号C钻石会员，钻石及以上会员可领取\n",
+    "titleName": "C钻石会员",
+    "titleTime": 0
+  },
+  "58": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 1
+      }
+    ],
+    "broadcast": false,
+    "displayType": 1,
+    "icon": "ch_show_0061",
+    "id": 58,
+    "titleDesc": "玩双倍传奇上7youxi\n",
+    "titleName": "玩双倍传奇上7youxi",
+    "titleTime": 604800
+  },
+  "59": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 1
+      }
+    ],
+    "broadcast": false,
+    "displayType": 1,
+    "icon": "ch_show_0062",
+    "id": 59,
+    "titleDesc": "玩双倍传奇上鲁大师\n",
+    "titleName": "玩双倍传奇上鲁大师",
+    "titleTime": 604800
+  },
+  "60": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 1
+      }
+    ],
+    "broadcast": false,
+    "displayType": 1,
+    "icon": "ch_show_0068",
+    "id": 60,
+    "titleDesc": "玩双倍传奇上37网游\n",
+    "titleName": "玩双倍传奇上37网游",
+    "titleTime": 604800
+  },
+  "61": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 1
+      }
+    ],
+    "broadcast": false,
+    "displayType": 1,
+    "icon": "ch_show_0069",
+    "id": 61,
+    "titleDesc": "玩游戏上搜狗\n",
+    "titleName": "玩游戏上搜狗",
+    "titleTime": 604800
+  },
+  "62": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 1
+      }
+    ],
+    "broadcast": false,
+    "displayType": 1,
+    "icon": "ch_show_0072",
+    "id": 62,
+    "titleDesc": "玩冰雪传奇上1758游戏\n",
+    "titleName": "玩冰雪传奇上1758游戏",
+    "titleTime": 604800
+  },
+  "63": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 1
+      }
+    ],
+    "broadcast": false,
+    "displayType": 1,
+    "icon": "ch_show_0030",
+    "id": 63,
+    "titleDesc": "玩冰雪传奇上红狐游戏",
+    "titleName": "玩冰雪传奇上红狐游戏",
+    "titleTime": 604800
+  },
+  "64": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 1
+      }
+    ],
+    "broadcast": false,
+    "displayType": 1,
+    "icon": "ch_show_0029",
+    "id": 64,
+    "titleDesc": "玩冰雪传奇上4366游戏",
+    "titleName": "玩冰雪传奇上4366游戏",
+    "titleTime": 604800
+  },
+  "65": {
+    "VIPnotice": 429,
+    "active": 1,
+    "attr": [
+      {
+        "type": 95,
+        "value": 200
+      },
+      {
+        "type": 97,
+        "value": 200
+      },
+      {
+        "type": 99,
+        "value": 200
+      },
+      {
+        "type": 80,
+        "value": 100
+      }
+    ],
+    "broadcast": true,
+    "effect": 1,
+    "icon": "chenghao029",
+    "id": 65,
+    "noticeLv": 6,
+    "titleDesc": "限定称号",
+    "titleName": "雄霸天下",
+    "titleTime": 0
+  },
+  "66": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 1
+      }
+    ],
+    "broadcast": false,
+    "displayType": 1,
+    "icon": "ch_show_0073",
+    "id": 66,
+    "titleDesc": "玩冰雪传奇上土豆游戏\n",
+    "titleName": "玩冰雪传奇上土豆游戏",
+    "titleTime": 604800
+  },
+  "67": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 1
+      }
+    ],
+    "broadcast": false,
+    "displayType": 1,
+    "icon": "ch_show_0074",
+    "id": 67,
+    "titleDesc": "玩冰雪传奇上顺网游戏\n",
+    "titleName": "玩冰雪传奇上顺网游戏",
+    "titleTime": 604800
+  },
+  "68": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 138,
+        "value": 15
+      }
+    ],
+    "broadcast": true,
+    "displayType": 1,
+    "icon": "ch_show_0075",
+    "id": 68,
+    "titleDesc": "会员称号疾风迅雷，白金会员可领取\n",
+    "titleName": "疾风迅雷",
+    "titleTime": 0
+  },
+  "69": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 138,
+        "value": 20
+      }
+    ],
+    "broadcast": true,
+    "displayType": 1,
+    "icon": "ch_show_0076",
+    "id": 69,
+    "titleDesc": "会员称号雷厉风行，超级会员可领取\n",
+    "titleName": "雷厉风行",
+    "titleTime": 0
+  },
+  "70": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 21,
+        "value": 0
+      },
+      {
+        "type": 23,
+        "value": 1
+      },
+      {
+        "type": 25,
+        "value": 0
+      },
+      {
+        "type": 27,
+        "value": 1
+      }
+    ],
+    "broadcast": true,
+    "displayType": 1,
+    "icon": "ch_show_0077",
+    "id": 70,
+    "titleDesc": "会员称号铁血雷鸣，白金年费会员可领取\n",
+    "titleName": "铁血雷鸣",
+    "titleTime": 0
+  },
+  "71": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 21,
+        "value": 1
+      },
+      {
+        "type": 23,
+        "value": 1
+      },
+      {
+        "type": 25,
+        "value": 1
+      },
+      {
+        "type": 27,
+        "value": 1
+      }
+    ],
+    "broadcast": true,
+    "displayType": 1,
+    "icon": "ch_show_0078",
+    "id": 71,
+    "titleDesc": "会员称号雷霆之主，超级年费会员可领取\n",
+    "titleName": "雷霆之主",
+    "titleTime": 0
+  },
+  "72": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 1
+      }
+    ],
+    "broadcast": false,
+    "displayType": 1,
+    "icon": "ch_show_0079",
+    "id": 72,
+    "titleDesc": "玩传奇就上顺火游戏\n",
+    "titleName": "玩传奇就上顺火游戏",
+    "titleTime": 604800
+  }
+}

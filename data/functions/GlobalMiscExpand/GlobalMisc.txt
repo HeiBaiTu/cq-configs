@@ -1,0 +1,117 @@
+--全局的比较零散的函数，放在这里,被全局脚本包含 
+------#include "data\functions\ActorSystems\WingSystem\Wing.txt" once	--翅膀
+--每日重置的数据，以便节省存储
+DailyFlagDefine = 
+{
+	--UseExpBoxTimes = 1			--每日使用经验盒子的次数
+}
+
+--检查活动礼包各种卡
+--[[
+	4、内测新手卡；
+	5、好评卡（100万张）；
+	6、VIP特权礼包（5万张）；
+	7、王者礼包（5万张）；
+--]]
+function checkNewPlayerNumber(sysarg,number,typeid)
+	checkPlayerNumber(sysarg,number,typeid)
+end
+
+function checkPlayerNumber(sysarg,number,type)
+	if (not number) then return false end
+	--设置动态变量 用于判断输入窗口类型 
+	local sDvar = Actor.getDyanmicVar(sysarg)
+	--sDvar.getRewardCodeBag = tonumber(type)  --增值类型  用于限制每个按钮只能固定输入类型 
+
+	sDvar.getRewardCodeBag = 0
+	Actor.queryServicesAddCard(sysarg, number, true)
+end
+
+--玩家开始游戏要执行的参数
+function startPlay(sysarg)
+	--添加初始的任务
+	local sceneId = Actor.getSceneId(sysarg)
+	--local qId = FirstEnterQuestMap[sceneId]
+	local qId = 1
+	if qId then
+		Actor.addQuest(sysarg, qId)
+	end	
+end
+
+--第一次开始游戏欢迎界面
+function checkFirstQuest(sysarg)
+	if Actor.getQuestCount(sysarg) == 0 then
+		local boResult = true
+		local qid = 1
+			--local qId = FirstEnterQuestMap[sceneId]
+		if Actor.isFinishQuest(sysarg, qid) then
+			boResult = false
+		end
+		
+		if boResult then
+			Actor.openDialogs(sysarg,diWelcome)
+		end
+	end
+end
+
+--添加一个buf
+function addSameTypeBuff(sysarg, ItemId, BuffId)
+	----print("addSameTypeBuff ItemId="..ItemId..", BuffId="..BuffId)
+	if Actor.getItemCount(sysarg, ItemId) > 0 then
+		if Actor.removeItem(sysarg, ItemId, 1) < 1 then	--扣除一个道具
+			return false
+		else
+			Actor.addBuffById(sysarg, BuffId)  	--59
+		end
+	end
+	return true
+end
+
+function emptyFunc(sysarg)
+end
+
+--获取每日变量(每日跨0点清空)
+function GetDailyFlag( sysarg, key )
+	local sVar = Actor.getStaticVar(sysarg)
+	if not sVar.dailyFalgs then
+		sVar.dailyFalgs = {}
+	end
+	return sVar.dailyFalgs[key]
+end
+
+--设置每日变量
+function SetDailyFlag(sysarg, key, value )
+	local sVar = Actor.getStaticVar(sysarg)
+	if not sVar.dailyFalgs then
+		sVar.dailyFalgs = {}
+	end
+	sVar.dailyFalgs[key] = value
+end
+
+--[[批量使用道具成功（有每日最大次数限制）
+处理部分策划特殊要求
+lastCout：该道具剩余使用次数
+]]
+function OnBatchUseItem( sysarg, itemId, count, addValue, lastCout )
+	----print("OnBatchUseItem, itemId="..itemId..", count="..count..", addValue="..addValue..
+	--	", lastCout="..lastCout)
+	if itemId == 893 then		--经验勾玉
+		local msg = string.format(OldLang.Script.ExpJade002, addValue, lastCout)
+		Actor.sendTipmsg( sysarg, string.format(msg), ttFlyTip)
+	end
+end
+
+--boss令结束
+function OnUseTokenBossEnd(bossarg, actorId)
+	if Actor.hasState(bossarg,esStateDeath) then
+		return
+	end
+	if Actor.getIntProperty(bossarg, PROP_CREATURE_HP) <= 0 then
+		return
+	end
+	local hBoss = Actor.getHandle(bossarg)
+	sysarg = Actor.getActorById(actorId) 
+	if sysarg then
+		Actor.sendTipmsg( sysarg, OldLang.Script.UseBossToken003, ttFlyTip )
+	end
+end

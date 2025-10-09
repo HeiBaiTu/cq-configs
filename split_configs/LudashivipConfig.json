@@ -1,0 +1,137 @@
+{
+  "1": {
+    "description": [
+      {
+        "index": 1,
+        "itemDesc": "|C:0xffffff&T:称号初入凡尘\n暴击率+15|",
+        "ldsDesc": "VIP达到1级",
+        "title": "|C:0xffffff&T:VIP专属称号|",
+        "titleImg": "ch_show_0063"
+      },
+      {
+        "index": 2,
+        "itemDesc": "|C:0xffffff&T:包含道具：\n暴击碎片*3\n四象朱雀丹*2|",
+        "ldsDesc": "VIP达到1级",
+        "title": "|C:0xffffff&T:VIP专属礼包|"
+      }
+    ],
+    "giftReward": [
+      {
+        "count": 3,
+        "id": 421,
+        "type": 0
+      },
+      {
+        "count": 2,
+        "id": 855,
+        "type": 0
+      }
+    ],
+    "giftShowReward": [
+      {
+        "count": 1,
+        "id": 1285,
+        "type": 0
+      }
+    ],
+    "id": 1,
+    "titleReward": [
+      {
+        "count": 1,
+        "id": 1279,
+        "type": 0
+      }
+    ],
+    "vipLevel": 1
+  },
+  "2": {
+    "description": [
+      {
+        "index": 1,
+        "itemDesc": "|C:0xffffff&T:称号独步九州\n暴击率+20|",
+        "ldsDesc": "VIP达到4级",
+        "title": "|C:0xffffff&T:VIP专属称号|",
+        "titleImg": "ch_show_0064"
+      },
+      {
+        "index": 2,
+        "itemDesc": "|C:0xffffff&T:包含道具：\n暴击碎片*6\n四象朱雀丹*2|",
+        "ldsDesc": "VIP达到4级",
+        "title": "|C:0xffffff&T:VIP专属礼包|"
+      }
+    ],
+    "giftReward": [
+      {
+        "count": 6,
+        "id": 421,
+        "type": 0
+      },
+      {
+        "count": 2,
+        "id": 855,
+        "type": 0
+      }
+    ],
+    "giftShowReward": [
+      {
+        "count": 1,
+        "id": 1286,
+        "type": 0
+      }
+    ],
+    "id": 2,
+    "titleReward": [
+      {
+        "count": 1,
+        "id": 1280,
+        "type": 0
+      }
+    ],
+    "vipLevel": 4
+  },
+  "3": {
+    "description": [
+      {
+        "index": 1,
+        "itemDesc": "|C:0xffffff&T:称号傲视天下\n暴击率+25|",
+        "ldsDesc": "VIP达到7级",
+        "title": "|C:0xffffff&T:VIP专属称号|",
+        "titleImg": "ch_show_0065"
+      },
+      {
+        "index": 2,
+        "itemDesc": "|C:0xffffff&T:包含道具：\n暴击碎片*8\n四象朱雀丹*2|",
+        "ldsDesc": "VIP达到7级",
+        "title": "|C:0xffffff&T:VIP专属礼包|"
+      }
+    ],
+    "giftReward": [
+      {
+        "count": 8,
+        "id": 421,
+        "type": 0
+      },
+      {
+        "count": 2,
+        "id": 855,
+        "type": 0
+      }
+    ],
+    "giftShowReward": [
+      {
+        "count": 1,
+        "id": 1287,
+        "type": 0
+      }
+    ],
+    "id": 3,
+    "titleReward": [
+      {
+        "count": 1,
+        "id": 1281,
+        "type": 0
+      }
+    ],
+    "vipLevel": 7
+  }
+}

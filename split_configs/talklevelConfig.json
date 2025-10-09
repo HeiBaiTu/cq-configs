@@ -1,0 +1,23 @@
+{
+  "1": {
+    "level": 1,
+    "maxlevel": 48,
+    "maxopenday": 9999,
+    "minlevel": 1,
+    "minopenday": 1
+  },
+  "2": {
+    "level": 2,
+    "maxlevel": 94,
+    "maxopenday": 9999,
+    "minlevel": 49,
+    "minopenday": 1
+  },
+  "3": {
+    "level": 3,
+    "maxlevel": 300,
+    "maxopenday": 9999,
+    "minlevel": 95,
+    "minopenday": 1
+  }
+}

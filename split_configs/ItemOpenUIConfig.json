@@ -1,0 +1,142 @@
+{
+  "269": {
+    "ItemId": 269,
+    "closeLimit": {
+      "zsLevel": 3
+    },
+    "openLimit": {
+      "level": 1,
+      "zsLevel": 0
+    }
+  },
+  "421": {
+    "ItemId": 421,
+    "closeLimit": {
+      "zsLevel": 3
+    },
+    "openLimit": {
+      "level": 1,
+      "zsLevel": 0
+    }
+  },
+  "823": {
+    "ItemId": 823,
+    "closeLimit": {
+      "zsLevel": 3
+    },
+    "openLimit": {
+      "level": 1,
+      "zsLevel": 0
+    }
+  },
+  "824": {
+    "ItemId": 824,
+    "closeLimit": {
+      "zsLevel": 3
+    },
+    "openLimit": {
+      "level": 1,
+      "zsLevel": 0
+    }
+  },
+  "853": {
+    "ItemId": 853,
+    "closeLimit": {
+      "zsLevel": 3
+    },
+    "openLimit": {
+      "level": 1,
+      "zsLevel": 0
+    }
+  },
+  "854": {
+    "ItemId": 854,
+    "closeLimit": {
+      "zsLevel": 3
+    },
+    "openLimit": {
+      "level": 1,
+      "zsLevel": 0
+    }
+  },
+  "855": {
+    "ItemId": 855,
+    "closeLimit": {
+      "zsLevel": 3
+    },
+    "openLimit": {
+      "level": 1,
+      "zsLevel": 0
+    }
+  },
+  "856": {
+    "ItemId": 856,
+    "closeLimit": {
+      "zsLevel": 3
+    },
+    "openLimit": {
+      "level": 1,
+      "zsLevel": 0
+    }
+  },
+  "970": {
+    "ItemId": 970,
+    "closeLimit": {
+      "zsLevel": 5
+    },
+    "openLimit": {
+      "level": 1,
+      "zsLevel": 4
+    }
+  },
+  "1013": {
+    "ItemId": 1013,
+    "closeLimit": {
+      "zsLevel": 6
+    },
+    "openLimit": {
+      "level": 1,
+      "zsLevel": 5
+    }
+  },
+  "1014": {
+    "ItemId": 1014,
+    "closeLimit": {
+      "zsLevel": 6
+    },
+    "openLimit": {
+      "level": 1,
+      "zsLevel": 5
+    }
+  },
+  "1015": {
+    "ItemId": 1015,
+    "closeLimit": {
+      "zsLevel": 6
+    },
+    "openLimit": {
+      "level": 1,
+      "zsLevel": 5
+    }
+  },
+  "1018": {
+    "ItemId": 1018,
+    "closeLimit": {
+      "zsLevel": 3
+    },
+    "openLimit": {
+      "level": 1,
+      "zsLevel": 0
+    }
+  },
+  "1022": {
+    "ItemId": 1022,
+    "closeLimit": {
+      "zsLevel": 3
+    },
+    "openLimit": {
+      "level": 1,
+      "zsLevel": 0
+    }
+  }
+}

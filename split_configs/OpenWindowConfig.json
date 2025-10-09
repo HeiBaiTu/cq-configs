@@ -1,0 +1,408 @@
+{
+  "1": {
+    "WindowRoute": [
+      [
+        2
+      ]
+    ],
+    "icon": "get_icon_1",
+    "id": 1,
+    "moudleName": "打怪掉落",
+    "view": "app.FlyShoesView"
+  },
+  "2": {
+    "WindowRoute": [
+      [
+        0,
+        0
+      ]
+    ],
+    "icon": "get_icon_2",
+    "id": 2,
+    "moudleName": "寄售行",
+    "view": "app.TradeLineWin"
+  },
+  "3": {
+    "WindowRoute": [
+      [
+        1,
+        2
+      ]
+    ],
+    "icon": "get_icon_3",
+    "id": 3,
+    "moudleName": "成长商城",
+    "view": "app.ShopView"
+  },
+  "4": {
+    "WindowRoute": [
+      [
+        1,
+        1
+      ]
+    ],
+    "icon": "get_icon_3",
+    "id": 4,
+    "moudleName": "功能商城",
+    "view": "app.ShopView"
+  },
+  "5": {
+    "WindowRoute": [
+      [
+        5
+      ],
+      [
+        5
+      ]
+    ],
+    "icon": "get_icon_7",
+    "id": 5,
+    "moudleName": "膜拜",
+    "openParam": {
+      "level": 25
+    },
+    "tips": "|C:0xf56f00&T:25级开启膜拜系统|",
+    "view": "app.ActivityCopiesWin;app.WorshipWin"
+  },
+  "6": {
+    "WindowRoute": [
+      [
+        4
+      ]
+    ],
+    "icon": "get_icon_1",
+    "id": 6,
+    "moudleName": "山海关挂机",
+    "openParam": {
+      "level": 45
+    },
+    "tips": "|C:0xf56f00&T:45级才可以进入山海关|",
+    "view": "app.FlyShoesView"
+  },
+  "7": {
+    "WindowRoute": [
+      [
+        1,
+        4
+      ]
+    ],
+    "icon": "get_icon_3",
+    "id": 7,
+    "moudleName": "材料商城",
+    "view": "app.ShopView"
+  },
+  "8": {
+    "WindowRoute": [
+      [
+        3,
+        59
+      ]
+    ],
+    "icon": "get_icon_1",
+    "id": 8,
+    "moudleName": "玉门关挂机",
+    "openParam": {
+      "level": 40
+    },
+    "tips": "|C:0xf56f00&T:40级才可以进入玉门关|",
+    "view": "app.FlyShoesView"
+  },
+  "9": {
+    "WindowRoute": [
+      [
+        3,
+        58
+      ]
+    ],
+    "icon": "get_icon_1",
+    "id": 9,
+    "moudleName": "天涯海角挂机",
+    "openParam": {
+      "level": 50
+    },
+    "tips": "|C:0xf56f00&T:50级才可以进入玉门关|",
+    "view": "app.FlyShoesView"
+  },
+  "10": {
+    "WindowRoute": [
+      [
+        6
+      ]
+    ],
+    "icon": "get_icon_9",
+    "id": 10,
+    "moudleName": "装备回收",
+    "view": "app.SetUpView"
+  },
+  "11": {
+    "WindowRoute": [
+      1
+    ],
+    "icon": "get_icon_9",
+    "id": 11,
+    "moudleName": "回收-合成需要的凭证",
+    "view": "app.RecycleWin"
+  },
+  "12": {
+    "WindowRoute": [
+      [
+        1
+      ]
+    ],
+    "icon": "get_icon_8",
+    "id": 12,
+    "moudleName": "击杀BOSS",
+    "view": "app.BossView"
+  },
+  "13": {
+    "WindowRoute": [
+      [
+        1
+      ]
+    ],
+    "icon": "get_icon_6",
+    "id": 13,
+    "moudleName": "首充",
+    "view": "app.ActvityFirstChargeView"
+  },
+  "14": {
+    "WindowRoute": [
+      [
+        2
+      ]
+    ],
+    "icon": "get_icon_5",
+    "id": 14,
+    "moudleName": "绿卡特权",
+    "view": "app.VipView"
+  },
+  "15": {
+    "WindowRoute": [
+      [
+        5
+      ]
+    ],
+    "icon": "get_icon_5",
+    "id": 15,
+    "moudleName": "橙卡特权",
+    "view": "app.VipView"
+  },
+  "16": {
+    "WindowRoute": [
+      [
+        2
+      ]
+    ],
+    "icon": "get_icon_1",
+    "id": 16,
+    "moudleName": "38级以上地图爆1-4转材料",
+    "view": "app.FlyShoesView"
+  },
+  "17": {
+    "WindowRoute": [
+      [
+        2
+      ]
+    ],
+    "icon": "get_icon_1",
+    "id": 17,
+    "moudleName": "所有地图都爆1-2转材料",
+    "view": "app.FlyShoesView"
+  },
+  "18": {
+    "WindowRoute": [
+      [
+        1
+      ]
+    ],
+    "icon": "get_icon_5",
+    "id": 18,
+    "moudleName": "会员特权礼包",
+    "view": "app.VipView"
+  },
+  "19": {
+    "WindowRoute": [
+      [
+        1,
+        4
+      ]
+    ],
+    "icon": "get_icon_3",
+    "id": 19,
+    "moudleName": "成长商城",
+    "view": "app.ShopView"
+  },
+  "20": {
+    "WindowRoute": [
+      [
+        3
+      ]
+    ],
+    "icon": "get_icon_5",
+    "id": 20,
+    "moudleName": "蓝卡特权",
+    "view": "app.VipView"
+  },
+  "21": {
+    "WindowRoute": [
+      [
+        1,
+        5
+      ]
+    ],
+    "icon": "get_icon_3",
+    "id": 21,
+    "moudleName": "成长商城",
+    "view": "app.ShopView"
+  },
+  "22": {
+    "WindowRoute": [
+      1
+    ],
+    "icon": "get_icon_10",
+    "id": 22,
+    "moudleName": "合成坊",
+    "openParam": {
+      "zsLevel": 2
+    },
+    "view": "app.RecycleWin"
+  },
+  "23": {
+    "WindowRoute": [
+      [
+        3
+      ]
+    ],
+    "icon": "get_icon_1",
+    "id": 23,
+    "moudleName": "雪山之巅挂机",
+    "view": "app.FlyShoesView"
+  },
+  "24": {
+    "WindowRoute": [
+      [
+        4,
+        66
+      ]
+    ],
+    "icon": "get_icon_1",
+    "id": 24,
+    "moudleName": "太行山挂机",
+    "view": "app.FlyShoesView"
+  },
+  "25": {
+    "WindowRoute": [
+      [
+        4
+      ]
+    ],
+    "icon": "get_icon_7",
+    "id": 25,
+    "moudleName": "竞技大乱斗",
+    "openParam": {
+      "level": 30
+    },
+    "tips": "|C:0xf56f00&T:30级开放竞技大乱斗|",
+    "view": "app.ActivityCopiesWin"
+  },
+  "26": {
+    "WindowRoute": [
+      [
+        14
+      ]
+    ],
+    "icon": "get_icon_7",
+    "id": 26,
+    "moudleName": "夜战沃玛三",
+    "openParam": {
+      "level": 30
+    },
+    "tips": "|C:0xf56f00&T:30级开放夜战沃玛三|",
+    "view": "app.ActivityCopiesWin"
+  },
+  "27": {
+    "WindowRoute": [],
+    "icon": "get_icon_4",
+    "id": 27,
+    "moudleName": "",
+    "view": ""
+  },
+  "28": {
+    "WindowRoute": [
+      2
+    ],
+    "icon": "get_icon_12",
+    "id": 28,
+    "moudleName": "",
+    "openParam": {
+      "level": 52
+    },
+    "view": "app.ActivityWarView"
+  },
+  "29": {
+    "WindowRoute": [
+      [
+        4
+      ]
+    ],
+    "icon": "get_icon_1",
+    "id": 29,
+    "moudleName": "打怪掉落",
+    "view": "app.FlyShoesView"
+  },
+  "30": {
+    "WindowRoute": [
+      [
+        31
+      ]
+    ],
+    "icon": "get_icon_13",
+    "id": 30,
+    "moudleName": "跨服战场",
+    "view": "app.CrossServerWin"
+  },
+  "31": {
+    "WindowRoute": [
+      [
+        1,
+        2,
+        5
+      ]
+    ],
+    "icon": "get_icon_10",
+    "id": 31,
+    "moudleName": "合成坊",
+    "openParam": {
+      "zsLevel": 2
+    },
+    "view": "app.RecycleWin"
+  },
+  "32": {
+    "WindowRoute": [
+      [
+        1,
+        8,
+        1
+      ]
+    ],
+    "icon": "get_icon_10",
+    "id": 32,
+    "moudleName": "合成坊",
+    "openParam": {
+      "zsLevel": 3
+    },
+    "view": "app.RecycleWin"
+  },
+  "33": {
+    "WindowRoute": [
+      [
+        44,
+        43
+      ]
+    ],
+    "icon": "get_icon_13",
+    "id": 33,
+    "moudleName": "跨服战场",
+    "view": "app.CrossServerWin"
+  }
+}

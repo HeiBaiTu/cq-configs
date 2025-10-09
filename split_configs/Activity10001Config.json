@@ -1,0 +1,58 @@
+{
+  "10001": {
+    "GiftTable": {
+      "1": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 322,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 228,
+            "type": 0
+          }
+        ],
+        "value": 1
+      },
+      "2": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 323,
+            "type": 0
+          }
+        ],
+        "value": 5
+      },
+      "3": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 324,
+            "type": 0
+          }
+        ],
+        "value": 20
+      },
+      "4": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 325,
+            "type": 0
+          }
+        ],
+        "value": 50
+      }
+    },
+    "Id": 10001,
+    "actlogo": "apay_banner_chfl",
+    "buttoncolor": 1,
+    "descLabel": "充值达到累积金额，即可领取大量奖励！",
+    "isCheckTime": 1,
+    "name": "累计充值",
+    "titleImg": "apay_biaoti_jchd"
+  }
+}

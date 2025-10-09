@@ -1,0 +1,82 @@
+{
+  "1": {
+    "id": 1,
+    "index": 1,
+    "ringeff": "icon_ring_1",
+    "ringname": "t_ring",
+    "ruleid": 62,
+    "tabImg": "btn_sj_1",
+    "type": 1
+  },
+  "2": {
+    "id": 2,
+    "index": 2,
+    "ringeff": "icon_ring_3",
+    "ringname": "t_ring3",
+    "ruleid": 81,
+    "tabImg": "btn_sj_2",
+    "type": 2
+  },
+  "3": {
+    "id": 3,
+    "index": 6,
+    "ringLimit": [
+      2
+    ],
+    "ringeff": "icon_ring_4",
+    "ringname": "t_ring4",
+    "ruleid": 82,
+    "tabImg": "btn_sj_3",
+    "type": 2
+  },
+  "4": {
+    "id": 4,
+    "index": 3,
+    "openDay": {
+      "openDay": 4
+    },
+    "openMsg": "狂风神戒开服第4天开放",
+    "ringeff": "icon_ring_5",
+    "ringname": "t_ring5",
+    "ruleid": 84,
+    "showLimit": {
+      "openDay": 3
+    },
+    "tabImg": "btn_sj_4",
+    "type": 1
+  },
+  "5": {
+    "id": 5,
+    "index": 4,
+    "openDay": {
+      "openDay": 8
+    },
+    "openMsg": "虹魔神戒开服第8天开放",
+    "ringeff": "icon_ring_6",
+    "ringname": "t_ring6",
+    "ruleid": 85,
+    "showLimit": {
+      "openDay": 7
+    },
+    "tabImg": "btn_sj_5",
+    "type": 1
+  },
+  "6": {
+    "id": 6,
+    "index": 5,
+    "openDay": {
+      "openDay": 3,
+      "zsLevel": 4
+    },
+    "openMsg": "护身神戒开服第3天、角色四转开放",
+    "ringeff": "icon_ring_7",
+    "ringname": "t_ring7",
+    "ruleid": 86,
+    "showLimit": {
+      "openDay": 3,
+      "zsLevel": 4
+    },
+    "tabImg": "btn_sj_6",
+    "type": 1
+  }
+}

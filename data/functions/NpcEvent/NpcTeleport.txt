@@ -1,0 +1,231 @@
+--传送类NPC
+
+local NpcFuncType = 3
+NpcFuncs[NpcFuncType] = {}
+
+local editionConf = editionConf
+local SuitConfig = SuitConfig
+local NpcTransConf = NpcTransConf
+
+if NpcTransConf==nil then
+    assert(false, "NPC的传送功能配置找不到。")
+end
+
+-- 主方法
+NpcFuncs[NpcFuncType] = function(pActor, nNpcHandle, nNpcId, nFuncId, packet)
+    -- 传送应该做这里的，带NPC距离检测的。但是已经加了协议，就算了。
+end
+
+function inRange(numtmp, numsmall, numbig)
+	num = numtmp - System.getToday()
+	if num < numsmall then
+		return false
+	elseif num > numbig then
+		return false
+	else
+		return true
+	end
+end
+
+--注册消息协议
+if NetmsgDispatcher then
+	function OnNpcTransform (actor, packet)
+		local npcHandle = DataPack.readUint64(packet)
+		local transId = DataPack.readShort(packet)
+
+		-- 检测NPC距离
+		if transId and NpcTransConf[transId] then
+			local config = NpcTransConf[transId]
+
+			--检测今日传送次数限制
+			if config.limittimes then
+				--检测参与次数
+				local staticTypeKey = config.staticType
+				local tranTimesLimit = config.limittimes
+				if not Actor.checkNpcTranLimit(actor , staticTypeKey,tranTimesLimit) then
+					--Actor.sendTipmsg(actor, "您已达到今日传送次数限制!", ttFlyTip)
+					Actor.sendTipmsgWithId(actor, tmTelePortLimitActivity, ttFlyTip)
+					return
+				end
+			end
+
+			if config.activityRequirement then
+				local ColorLv = Actor.GetMaxColorCardLevel(actor)
+				--检测色卡等级限制
+				if config.activityRequirement.CardLv then
+					local ZuiDiLv = config.activityRequirement.CardLv
+					if ColorLv < ZuiDiLv then		
+						Actor.sendTipmsg(actor, "特权等级不足 无法传送", ttFlyTip)
+						--Actor.sendTipmsgWithId(actor, tmTelePortLimitActivity, ttFlyTip)
+						return
+					end
+				end
+
+				--检测是否在npc附近
+				if config.activityRequirement.distanceLimit then
+					if Actor.CheckDistanceByHandle(actor,npcHandle,config.activityRequirement.distanceLimit) ~= true then
+						Actor.sendTipmsg(actor, "|C:0xf56f00&T:距离NPC太远,无法传送|", ttFlyTip)
+						return
+					end
+				end
+
+				--检测开放时间 
+				if config.activityRequirement.opentime then
+					--检测开放时间
+					local secondTimeNow = System.getCurrMiniTime()
+					local openTimeflag = false
+					for i, k in ipairs(config.activityRequirement.opentime) do
+						if inRange(secondTimeNow,k.openMinute, k.closeMinute) then
+							openTimeflag = true
+							break
+						end
+					end
+					if openTimeflag~= true then
+						--Actor.sendTipmsg(actor, "未到开放时间 无法进入!", ttFlyTip)
+						Actor.sendTipmsgWithId(actor, tmTelePortTimeUnopen, ttFlyTip)
+						return
+					end
+				end
+
+				--检测杀怪个数
+				if config.activityRequirement.activityId then
+					local atvId = config.activityRequirement.activityId
+					local actorData = ActivityDispatcher.GetActorData(actor,atvId)
+					if actorData.monsterCount <10 then
+					--if actorData.monsterCount <1 then
+						--Actor.sendTipmsg(actor, tmKillMonsterNotEnouth, ttFlyTip)
+						Actor.sendTipmsgWithId(actor, tmKillMonsterNotEnouth, ttFlyTip)
+						--print("活动，杀怪不够,无法传送")
+						return
+					end
+				end
+				-- 狂暴
+				if config.activityRequirement.isRageconst and Actor.checkKuangbao(actor, config.activityRequirement.isRageconst) ~= true then
+					Actor.sendTipmsgWithId(actor, tmkuangbaolimir, tstUI)
+					return
+				end
+
+				-- 神魔
+				if config.activityRequirement.demonsconstLv then
+					local num = Actor.getGhostSumLv(actor)
+					if num < config.activityRequirement.demonsconstLv then
+						Actor.sendTipmsgWithParams(actor, tmghostlimit, tstUI, config.activityRequirement.demonsconstLv)
+						return
+					end
+				end
+			end
+
+			-- 等级检测
+			if config.nLevel and Actor.checkActorLevel(actor, config.nLevel, 0) ~= true then
+				--local tips = string.format(Lang.TisMsg.xxx, config.nLevel)
+				--Actor.sendTipmsg(actor, "等级不足!", ttFlyTip)
+				return
+			end
+
+		    -- 检查转生
+		    local zs = config.zsLevel and Actor.checkActorLevel(actor, 0, config.zsLevel)
+			--local tips = string.format(Lang.TisMsg.xxx, config.nLevel)
+			--Actor.sendTipmsg(actor, "等级不足!", ttFlyTip)
+			if editionConf.suit == System.getServerId() and config.suit then
+				-- 检查套装
+				local suit = SuitConfig[config.suit]
+				if suit and suit.equip then
+				    local myJob = Actor.getIntProperty(actor, PROP_ACTOR_VOCATION)
+    				for _, v in pairs(suit.equip or {}) do -- 遍历套装配置
+        				if (not v.job or v.job and v.job == myJob) and false == Actor.hasEquiment(actor, v.id) then
+        				    --Actor.sendTipmsg(actor, "未穿戴套装["..v.name.."]", tstUI)
+        				    return
+        				end
+        			end
+        		end
+    		else
+    		    if zs ~= true then return end
+    		end
+
+			-- 场景传送检测
+			if not Actor.canTelport(actor, config.nSceneId) then
+				Actor.sendTipmsg(actor, "该场景不给传送!", ttFlyTip)
+				return
+			end
+
+			--开服天数检测
+			if config.openDay then
+				if System.getDaysSinceOpenServer() < config.openDay then
+					Actor.sendTipmsg(actor, "开服天数未到", ttFlyTip)
+					return
+				end
+			end
+
+			--充值检测
+			if config.dayRecharge then
+                --[[local userData = ActivityType10027.GetKu25UserData(actor)
+                local todayRecharge = userData and userData.OneDayRechargesYBNum or -1
+				if todayRecharge < config.dayRecharge then -- not Actor.checkRecharge(config.dayRecharge)
+				    --print("need dayRecharge="..config.dayRecharge..", today recharge="..todayRecharge..", error")
+					Actor.sendTipmsg(actor, "充值条件不足", tstUI)
+					return
+				end]]
+				--print("need dayRecharge="..config.dayRecharge..", today recharge="..todayRecharge..", ok")
+				--色卡检测
+				local ColorLv = Actor.GetMaxColorCardLevel(actor)
+				--Actor.sendTipmsg(actor, "need CardLevel="..config.dayRecharge..", my CardLevel="..ColorLv, ttFlyTip)
+				if ColorLv < config.dayRecharge then		
+					Actor.sendTipmsg(actor, "特权等级不足，无法传送", ttFlyTip)
+					--Actor.sendTipmsgWithId(actor, tmTelePortLimitActivity, ttFlyTip)
+					return
+				end
+			end
+
+			-- 消耗检测
+			local consumes = config.Consumelist
+			if consumes then
+				if CommonFunc.Consumes.Check(actor, consumes) ~= true then
+					Actor.sendTipmsg(actor, "道具或金币元宝不足!", ttFlyTip)
+					return
+				end
+				if CommonFunc.Consumes.Remove(actor, consumes, GameLog.Log_NPCTelep, "NPC传送") ~= true then
+					return
+				end
+			end
+
+			-- 传送
+			Actor.enterScene(actor, config.nSceneId, config.nX, config.nY)
+			--  计入传送次数
+			if config.limittimes then
+				Actor.addNpcTranTimes(actor , config.staticType,1)
+			end
+			if config.activityRequirement then
+				if config.activityRequirement.activityId then
+					local atvId = config.activityRequirement.activityId
+					local actorData = ActivityDispatcher.GetActorData(actor,atvId)
+					actorData.monsterCount = 0
+				end
+			end
+
+			local mapGroup = 0
+			local SceneData = Scenes[config.nSceneId]
+			if SceneData then
+				mapGroup = SceneData.mapGgroup;
+			end
+			if config.jiontime then
+				Actor.SetNpcTeleport(actor, config.nSceneId,config.jiontime, mapGroup);
+			end
+			if config.jionmsg then
+				local SceneData = Scenes[config.nSceneId]
+				local name = Actor.getName(actor);
+				if SceneData then
+					local tips = string.format(config.jionmsg,name, SceneData.scencename)
+					System.broadcastTipmsgLimitLev(tips, tstKillDrop)
+				end
+			end
+
+			local npack = DataPack.allocPacket(actor, enMoveSystemID, sNpcTransform)
+			if npack then
+				DataPack.writeInt(npack, (config.jiontime or 0))
+				DataPack.flush(npack)
+			end
+		end
+	end
+
+    NetmsgDispatcher.Reg(enMoveSystemID, cNpcTransform or 6, OnNpcTransform)
+end

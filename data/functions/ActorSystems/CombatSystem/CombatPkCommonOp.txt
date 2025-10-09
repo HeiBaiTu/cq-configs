@@ -1,0 +1,299 @@
+﻿--lua script
+
+--#include "data\config\combat\combatConfig.txt"  once
+--#include "data\config\combat\combatRank.txt"  once  --基本设置 
+
+function CombatRankInit() 
+	local config = CombatRankConfig
+	for _, value in ipairs(config.RankInfo) do
+		Rank.Init(value.RankName, value.RankFile, config.RankColumn, config.MaxRankNum, 0)
+
+		local ranking = Ranking.getRanking(value.RankName)
+		if not ranking then 
+			return 
+		end
+
+		local nCount = Ranking.getRankItemCount(ranking)
+		if nCount == 0 then
+			for _, v in ipairs(value.RankDefaultItem) do	
+				local item = Ranking.addItem(ranking, v[1], v[2], false)
+				if item then
+					for i = 1, #config.RankColumn do
+						Ranking.setSub(item, i-1, tostring(v[i+2]))
+					end
+				end
+			end
+		end
+	end
+end
+
+function CombatRankFinal()
+	local config = CombatRankConfig
+	for _, value in ipairs(config.RankInfo) do
+		local ranking = Ranking.getRanking(value.RankName)
+		if ranking then
+			Ranking.save(ranking, value.RankFile, true)
+		end
+	end
+end
+
+table.insert(InitFnTable, CombatRankInit)
+table.insert(FinaFnTable, CombatRankFinal)
+
+--职业宗师pk流程
+function CombatPkCommon(sysarg, nActorId)
+	local config = CombatConfig
+	local mJop = Actor.getIntProperty(sysarg, PROP_ACTOR_VOCATION)
+	local skills = config.skills[mJop]
+	if not skills then
+		return 
+	end
+	local RankInfo = CombatRankConfig.RankInfo[mJop]
+	if not RankInfo then
+		return
+	end
+
+	local ranking = Ranking.getRanking(RankInfo.RankName)
+	if not ranking then return end
+
+	-- 对方的排名项
+	local tItem = Ranking.getItemPtrFromId(ranking,nActorId)
+	if not tItem then
+		return
+	end	
+
+	local myId = Actor.getIntProperty(sysarg,PROP_ENTITY_ID)	
+	--local myItem = Ranking.getItemPtrFromId(ranking,myId)
+	local mRanking = Ranking.getItemIndexFromId(ranking, myId) + 1
+	local tRanking = Ranking.getItemIndexFromId(ranking, nActorId) + 1
+	local Awards
+	local Swap = 0
+
+	local Me = {
+		num = 0,
+		sex = Actor.getIntProperty(sysarg, PROP_ACTOR_SEX),
+		name = Actor.getName(sysarg),
+		level = Actor.getIntProperty(sysarg, PROP_CREATURE_LEVEL),
+		icon = Actor.getIntProperty(sysarg, PROP_ENTITY_ICON),
+		model = Actor.getIntProperty(sysarg, PROP_ENTITY_MODELID),
+		weapon = Actor.getIntProperty(sysarg, PROP_ACTOR_WEAPONAPPEARANCE),
+		swing = Actor.getIntProperty(sysarg, PROP_ACTOR_SWINGAPPEARANCE),
+		hp = Actor.getIntProperty(sysarg, PROP_CREATURE_MAXHP),
+		attack = Actor.getMaxAttack(sysarg),
+		defence = Actor.getMaxDefence(sysarg),
+		hit = Actor.getIntProperty(sysarg, PROP_CREATURE_HITVALUE),
+		crit = Actor.getIntProperty(sysarg, PROP_ACTOR_CRIT_RATE),
+		dodge = Actor.getIntProperty(sysarg, PROP_CREATURE_DODVALUE),
+		battlePower = Actor.getIntProperty(sysarg, PROP_ACTOR_BATTLE_POWER),
+		isreal = 1,
+	}
+	Me.curHp = Me.hp
+	local Target = {
+		num = 1,
+		sex = tonumber(Ranking.getSub(tItem, 3)),
+		name = Ranking.getSub(tItem, 0),
+		level = tonumber(Ranking.getSub(tItem, 2)),
+		icon = tonumber(Ranking.getSub(tItem, 4)),
+		model = tonumber(Ranking.getSub(tItem, 5)),
+		weapon = tonumber(Ranking.getSub(tItem, 6)),
+		swing = tonumber(Ranking.getSub(tItem, 7)),
+		hp = tonumber(Ranking.getSub(tItem, 8)),
+		attack = tonumber(Ranking.getSub(tItem, 9)),
+		defence = tonumber(Ranking.getSub(tItem, 10)),
+		hit = tonumber(Ranking.getSub(tItem, 11)),
+		crit = tonumber(Ranking.getSub(tItem, 12)),
+		dodge = tonumber(Ranking.getSub(tItem, 13)) or 0,
+		isreal = tonumber(Ranking.getSub(tItem, 14)) or 0,
+		battlePower = tonumber(Ranking.getPoint(tItem)),
+	}
+	Target.curHp = Target.hp
+
+	local actions = {}
+	local OneHit = function(attacker, defencer, order)
+
+		local action = {
+			num = attacker.num,
+			skill = skills[order],
+			hp = 0,
+			isHit = 0,
+			isCrit = 0,
+			isDead = 0,
+		}
+
+		-- 1 是否命中
+		if attacker.hit > defencer.dodge then
+			action.isHit = 1
+		elseif attacker.hit >= math.random(defencer.dodge) then
+			action.isHit = 1
+		else
+			action.isHit = 0
+		end
+
+		if action.isHit == 0 then
+			action.hp = defencer.curHp	
+			actions[#actions + 1] = action
+			return false
+		end
+
+		-- 2 计算伤害
+		local attackMin = math.floor(attacker.attack * 325 / 100)
+		local attackMax = math.floor(attacker.attack * 375 / 100)
+		local attackValue = math.random(attackMin, attackMax)
+		local damage = attackValue - defencer.defence
+		if damage < 0 then
+			damage = 0
+		end
+
+		-- 3 是否暴击
+		if attacker.crit >= math.random(10000) then
+			action.isCrit = 1
+			damage = math.floor(damage + damage * 20 / 100)
+		end
+
+		defencer.curHp = defencer.curHp - damage
+		action.hp = defencer.curHp
+		-- 记录战斗
+		if defencer.curHp <= 0 then
+			action.isDead = 1
+			actions[#actions + 1] = action
+			return true
+		else
+			actions[#actions + 1] = action
+			return false
+		end
+	end
+
+	local winNum = 0
+	local order = 0
+	local skillCount = #skills
+	while(1) do
+		local result = OneHit(Me, Target, order + 1)
+		if result then
+			winNum = Me.num
+			break
+		end
+
+		result = OneHit(Target, Me, order + 1)
+		if result then
+			winNum = Target.num
+			break
+		end
+		order = (order + 1) % skillCount
+	end
+
+	-- 发送协议和奖励处理
+	local pack = DataPack.allocPacket(sysarg, 57, 3)
+	if (pack) then	
+		-- 基本信息
+		DataPack.writeByte(pack,2)
+		for i =1,2 do
+			if i == 1 then -- 自己
+				DataPack.writeByte(pack, Me.num)
+				DataPack.writeByte(pack, Me.sex)
+				DataPack.writeString(pack, Me.name)				
+				DataPack.writeInt(pack, Me.level)
+				DataPack.writeInt(pack, Me.icon)
+				DataPack.writeInt(pack, Me.model)
+				DataPack.writeInt(pack, Me.weapon)
+				DataPack.writeInt(pack, Me.swing)
+				DataPack.writeInt(pack, Me.hp)
+				DataPack.writeInt(pack, Me.battlePower)
+
+			elseif i == 2 then -- 对方
+				DataPack.writeByte(pack, Target.num)
+				DataPack.writeByte(pack, Target.sex)
+				DataPack.writeString(pack, Target.name)				
+				DataPack.writeInt(pack, Target.level)
+				DataPack.writeInt(pack, Target.icon)
+				DataPack.writeInt(pack, Target.model)
+				DataPack.writeInt(pack, Target.weapon)
+				DataPack.writeInt(pack, Target.swing)
+				DataPack.writeInt(pack, Target.hp)
+				DataPack.writeInt(pack, Target.battlePower)
+			end
+		end
+
+		-- 动作序列
+		DataPack.writeInt(pack, #actions) -- 动作数量	
+		for _, v in ipairs(actions) do
+			DataPack.writeByte(pack, v.num)
+			DataPack.writeInt(pack,  v.skill)
+			DataPack.writeInt(pack,  v.hp)
+			DataPack.writeByte(pack, v.isCrit)
+			DataPack.writeByte(pack, v.isDead)
+		end
+
+		--战胜
+		if winNum == 0 then	
+			if mRanking > tRanking or mRanking <= 0 then 
+				Swap = tRanking	
+			end
+
+			Awards= config.combatResultAward[1]	
+			--失败
+		else 
+			Awards = config.combatResultAward[2]
+		end
+
+		-- 胜出方
+		DataPack.writeByte(pack, winNum)
+		DataPack.writeInt(pack, Swap)
+
+		--奖励的消息
+		DataPack.writeInt(pack, #Awards)
+		for _, v in ipairs(Awards) do
+			DataPack.writeInt(pack, v.type)
+			DataPack.writeInt(pack, v.count)
+		end
+		DataPack.flush(pack)  		
+	end
+
+	GiveCommonAward(sysarg, Awards, 311, "CombatChallengeAward")
+	if winNum == 0 then		--胜利
+		if mRanking > tRanking or mRanking <= 0 then 
+			Actor.swapCombatRank(sysarg, myId, nActorId)
+			if tRanking > 0 and tRanking < 11 then
+				str = string.format(OldLang.Script.CombatRank001, tRanking, Target.name, Me.name)
+				System.broadcastTipmsgLimitLev(str, ttScreenCenter + ttChatWindow, CombatRankConfig.LevLimit)
+			end
+			Actor.ChallegeOverOp(sysarg, 2, nActorId, Target.name, Target.isreal)
+		else
+			Actor.ChallegeOverOp(sysarg, 1, nActorId, Target.name, Target.isreal)
+		end
+	else
+		Actor.ChallegeOverOp(sysarg, -1, nActorId, Target.name, Target.isreal)
+	end
+end
+
+--职业宗师定时排名奖励发放
+function CombatRankAwardTimeing()
+	local config = CombatConfig
+	local title = OldLang.Script.CombatRank003
+
+	for _, value in ipairs(CombatRankConfig.RankInfo) do
+		local ranking = Ranking.getRanking(value.RankName)
+		if not ranking then 
+			return 
+		end
+
+		local nCount = Ranking.getRankItemCount(ranking)
+		for idx=1, nCount do
+			for _, v in ipairs(config.combatRankAward) do
+				if idx >= v.rankRange[1] and idx <=	v.rankRange[2] then
+					local rankItem = Ranking.getItemFromIndex(ranking, idx-1)
+					if rankItem then
+						isreal = tonumber(Ranking.getSub(rankItem, 14)) or 0
+						if isreal > 0 then
+							local actorId = Ranking.getId(rankItem)
+							local content = string.format(OldLang.Script.CombatRank004, idx)
+							SendMail(actorId, title, content, v.awards)
+						end
+					end
+					break
+				end
+			end
+		end
+
+	end
+end
+

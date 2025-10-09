@@ -1,0 +1,30 @@
+print("================================= 加载AsyncWorkerFunction =================================")
+
+_G.SystemPackagePath = _G.SystemPackagePath or package.path
+package.path = _G.SystemPackagePath .. ";./?.lua;./data/config/?.lua;./data/functions/?.lua"
+
+--#include "data/language/LangCode.config" once		            --新语言包
+--#include "data/functions/AsyncWork/GetHttpContent.lua" once	--获取Http返回内容
+
+_G.Test = function(arg1,arg2)
+    return (arg1 + arg2), "OKOK"
+end
+
+function main(funcname, ...)
+	local func = _G[funcname]
+	if func ~= nil then
+		return func(...)
+	end
+end
+
+--[[初始化函数]]--
+function initialization(npcobj)
+	
+end
+
+--[[析构化函数]]--
+function finalization(npcobj)
+	
+end
+
+print("================================= 已完成AsyncWorkerFunction加载 =================================")

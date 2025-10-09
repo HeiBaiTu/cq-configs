@@ -1,0 +1,66 @@
+{
+  "1": {
+    "btn_source": "合成装备",
+    "id": 1,
+    "openLv": 1,
+    "openZs": 0,
+    "openserverDay": 0,
+    "sort": 1
+  },
+  "2": {
+    "btn_source": "材料",
+    "id": 2,
+    "openLv": 1,
+    "openZs": 0,
+    "openserverDay": 0,
+    "sort": 3
+  },
+  "3": {
+    "btn_source": "高阶装备",
+    "id": 3,
+    "openLv": 1,
+    "openZs": 0,
+    "openserverDay": 0,
+    "sort": 4
+  },
+  "4": {
+    "btn_source": "神兵圣甲",
+    "id": 4,
+    "openLv": 1,
+    "openZs": 4,
+    "openserverDay": 0,
+    "sort": 5
+  },
+  "5": {
+    "btn_source": "活动",
+    "id": 5,
+    "openLv": 1,
+    "openZs": 999,
+    "openserverDay": 1,
+    "sort": 6
+  },
+  "6": {
+    "btn_source": "内功",
+    "id": 6,
+    "openLv": 1,
+    "openZs": 6,
+    "openserverDay": 1,
+    "sort": 2
+  },
+  "7": {
+    "btn_source": "现金红包",
+    "id": 7,
+    "openLv": 1,
+    "openZs": 0,
+    "openserverDay": 1,
+    "sort": 7
+  },
+  "8": {
+    "btn_source": "字诀",
+    "id": 8,
+    "openLv": 1,
+    "openZs": 3,
+    "openserverDay": 15,
+    "sort": 8
+  }
+}

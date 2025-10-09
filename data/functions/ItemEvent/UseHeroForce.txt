@@ -1,0 +1,66 @@
+--#include "data\functions\ItemEvent\ItemUseCount.txt" once
+--#include "data\functions\GlobalMiscExpand\GlobalMisc.txt" once
+--#include "data\config\item\HeroForce.txt" once
+--#include "data\config\Hero\HeroConfig.txt" once
+--#include "data\functions\ItemEvent\ItemUseCount.txt" once
+--#include "data\functions\GlobalMiscExpand\GlobalMisc.txt" once
+
+--英雄体力丹
+
+function UseHeroForceItem(sysarg, count, itemidx, itemPtr,ItemTable, delType, param)
+	local lastTimes, maxTimes = getItemUseCount(sysarg, itemidx)
+	if lastTimes <= 0 then
+		Actor.sendTipmsg( sysarg, OldLang.Script.HeroItem008, ttFlyTip )
+		return
+	end
+	local useCount = count
+	if useCount > lastTimes then
+		useCount = lastTimes
+	end	
+	if(Actor.getItemCount(sysarg, itemidx) == 0) then
+		Actor.sendTipmsg( sysarg,OldLang.Script.HeroItem004,ttFlyTip)
+		return
+	end
+    local nHeroId = Hero.getBattleHeroId(sysarg)
+	if nHeroId == -1  then
+	    local  nDefHero = Hero.getHeroProperty(sysarg,1,enHeroLevel)
+		if nDefHero > 0 then
+		    nHeroId = 1
+		else 
+		    Actor.sendTipmsg( sysarg,OldLang.Script.HeroItem007,ttFlyTip)
+		    return
+		end
+    end
+	local HeroCfg  = HeroConfig.HeroList[nHeroId]
+	if HeroCfg then
+	    local nMaxForce = HeroCfg.MaxForce
+        local nForce  = Hero.getHeroProperty(sysarg,nHeroId,enHeroForce)
+		local nOldForce = nForce
+		nForce = nForce + ItemTable.force * count
+        if  nForce > nMaxForce then
+            Actor.sendTipmsg( sysarg,OldLang.Script.HeroItem005,ttFlyTip)
+			return
+        end
+	    local useCount = Actor.removeItemByPtr(sysarg, itemPtr, count, true, "HeroForce",327)
+	    if useCount > 0 then
+		    nForce = nOldForce + ItemTable.force * useCount
+			Hero.setHeroProperty(sysarg,nHeroId,enHeroForce,nForce)
+			local nAdd = nForce - nOldForce
+		    Actor.sendTipmsg( sysarg, string.format(OldLang.Script.HeroItem006,nAdd), ttFlyTip )
+			AddDailyItemUseCount(sysarg, itemidx, 1)
+		    return true,useCount
+	    end		
+	end
+end
+
+function UseHeroForceInit(sysarg)
+  for i = 1,table.getn(HeroForceConfig) do
+	local x = HeroForceConfig[i]
+	GlobalItemFn[x.itemid] = { func = UseHeroForceItem, params = x }
+  end
+end
+
+table.insert(InitFnTable, UseHeroForceInit)
+
+
+

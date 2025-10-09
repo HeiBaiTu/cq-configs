@@ -1,0 +1,132 @@
+{
+  "1": {
+    "ActivityDescription": "前往|E:1,&U:&C:0x28ee01&T:装备升星|",
+    "ActivityName": "|C:0xd6aa0e&T:[进阶]||C:0xd6aa0e&U&T:装备提升|",
+    "index": 1,
+    "limit": {
+      "level": 90
+    },
+    "type": 4,
+    "view": [
+      "app.ForgeWin"
+    ]
+  },
+  "2": {
+    "ActivityDescription": "前往|E:1,&U:&C:0x28ee01&T:装备洗炼|",
+    "ActivityName": "|C:0xd6aa0e&T:[变强]||C:0xd6aa0e&U&T:装备提升|",
+    "index": 2,
+    "limit": {
+      "level": 90
+    },
+    "type": 4,
+    "view": [
+      "app.BaptismWin"
+    ]
+  },
+  "3": {
+    "ActivityDescription": "了解|E:1,&U:&C:0x28ee01&T:神魔之体|",
+    "ActivityName": "|C:0xd6aa0e&T:[变强]||C:0xd6aa0e&U&T:神魔之体|",
+    "hierarchy": [
+      1,
+      2
+    ],
+    "index": 3,
+    "limit": {
+      "level": 90
+    },
+    "type": 4,
+    "view": [
+      "app.RoleView"
+    ]
+  },
+  "4": {
+    "ActivityDescription": "|E:1,&U:&C:0x28ee01&T:打宝地图|装备全爆",
+    "ActivityName": "|C:0xd6aa0e&T:[攻略]||C:0xd6aa0e&U&T:我要装备|",
+    "hierarchy": [
+      2
+    ],
+    "index": 4,
+    "limit": {
+      "level": 51
+    },
+    "type": 4,
+    "view": [
+      "app.FlyShoesView"
+    ]
+  },
+  "5": {
+    "ActivityDescription": "挂机打金、|E:1,&U:&C:0x28ee01&T:装备回收|",
+    "ActivityName": "|C:0xd6aa0e&T:[金币]||C:0xd6aa0e&U&T:我要金币|",
+    "index": 5,
+    "limit": {
+      "level": 51
+    },
+    "type": 4,
+    "view": [
+      "app.BagView"
+    ]
+  },
+  "6": {
+    "ActivityDescription": "泡点、|E:1,&U:&C:0x28ee01&T:挂机打怪|、精力水晶",
+    "ActivityName": "|C:0xd6aa0e&T:[经验]||C:0xd6aa0e&U&T:我要等级|",
+    "hierarchy": [
+      2
+    ],
+    "index": 6,
+    "limit": {
+      "level": 51
+    },
+    "type": 4,
+    "view": [
+      "app.FlyShoesView"
+    ]
+  },
+  "7": {
+    "ActivityDescription": "|E:1,&U:&C:0x28ee01&T:转生|材料打怪爆",
+    "ActivityName": "|C:0xd6aa0e&T:[变强]||C:0xd6aa0e&U&T:我要转生|",
+    "hierarchy": [
+      2,
+      0
+    ],
+    "index": 7,
+    "limit": {
+      "level": 51
+    },
+    "type": 4,
+    "view": [
+      "app.RoleView"
+    ]
+  },
+  "8": {
+    "ActivityDescription": "前往|E:1,&U:&C:0x28ee01&T:四象升级|",
+    "ActivityName": "|C:0xd6aa0e&T:[变强]||C:0xd6aa0e&U&T:四象之力|",
+    "hierarchy": [
+      0,
+      2
+    ],
+    "index": 8,
+    "limit": {
+      "level": 51
+    },
+    "type": 4,
+    "view": [
+      "app.RoleView"
+    ]
+  },
+  "9": {
+    "ActivityDescription": "升级|E:1,&U:&C:0x28ee01&T:暴击神戒|",
+    "ActivityName": "|C:0xd6aa0e&T:[变强]||C:0xd6aa0e&U&T:我要暴击|",
+    "hierarchy": [
+      3,
+      2
+    ],
+    "index": 9,
+    "limit": {
+      "level": 51
+    },
+    "type": 4,
+    "view": [
+      "app.RoleView"
+    ]
+  }
+}

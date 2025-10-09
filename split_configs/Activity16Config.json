@@ -1,0 +1,41 @@
+{
+  "Id": 20,
+  "describe": "通过捐献元宝获得排名",
+  "minValue": 10,
+  "name": "捐献榜",
+  "openParam": {
+    "level": 1,
+    "openDay": 1
+  },
+  "rewards": [
+    {
+      "content": "|C:0xda1e00&T:属性奖励：攻魔道50-50，伤害减免+10%|",
+      "reward": 1
+    },
+    {
+      "content": "|C:0xf56f00&T:属性奖励：攻魔道30-30，伤害减免+5%|",
+      "reward": 2
+    },
+    {
+      "content": "|C:0xeee104&T:属性奖励：攻魔道20-20，伤害减免+3%|",
+      "reward": 3
+    },
+    {
+      "content": "|C:0xfc21ed&T:属性奖励：攻魔道15-15，伤害减免+2%|",
+      "reward": 4
+    },
+    {
+      "content": "|C:0x318aff&T:属性奖励：攻魔道10-10，伤害减免+1%|",
+      "reward": 5
+    },
+    {
+      "content": "|C:0x2eb52d&T:属性奖励：攻魔道5-5|",
+      "reward": 7
+    }
+  ],
+  "ruleID": 43,
+  "showParam": {
+    "level": 1,
+    "openDay": 1
+  }
+}

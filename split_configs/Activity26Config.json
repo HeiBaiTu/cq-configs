@@ -1,0 +1,139 @@
+{
+  "38": {
+    "Duration": 1200,
+    "Id": 38,
+    "Ntipstext_1": "|C:0xeee104&T:活动：逃脱试炼|",
+    "Ntipstext_2": "活动时间：|C:0x2eb52d&T:每周三、周六 20:10-20:30 |",
+    "Ntipstext_3": "想要逃离可怕的试炼之地，需要300积分。偷袭别人虽是不错的选择，但前提是保护好自己",
+    "Ntipstext_4": "|C:0xff7700&T:转生达到5转开启，所有奖励回到原服时邮件发放，跨服中被击败不会掉落装备、道具|",
+    "Standardscore": 300,
+    "addScoreAuto": 1,
+    "addScoreGuard": 10,
+    "addScoreHelpKill": 8,
+    "addScoreKill": 12,
+    "autoTime": 1,
+    "buttoncolor": 1,
+    "describe": "在这片黑暗的空间中随时会遇到危险，有人的？有怪物的…赶快累积积分逃生吧！\n\n\n|C:0x2eb52d&T:等级30级|\n|C:0x2eb52d&T:每周三、周六 20:10-20:30|\n|C:0xf56f00&T:开服第8天开启|",
+    "fbId": 24,
+    "isCheckTime": 0,
+    "mailContent1": "恭喜你在逃脱试炼中取得了第%d名",
+    "mailContent2": "恭喜你在逃脱试炼中获得了参与奖",
+    "mailTitle1": "逃脱试炼排名奖励",
+    "mailTitle2": "逃脱试炼参与奖",
+    "name": "逃脱试炼",
+    "noticeFirstHalf": "逃脱试炼已经开始，请勇士们踊跃参与",
+    "openParam": {
+      "level": 30,
+      "zsLevel": 5
+    },
+    "partakeAward": [
+      {
+        "count": 1,
+        "id": 1239,
+        "type": 0
+      }
+    ],
+    "rankAward": {
+      "1": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 1234,
+            "type": 0
+          }
+        ],
+        "rank": "1",
+        "value": 1
+      },
+      "2": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 1235,
+            "type": 0
+          }
+        ],
+        "rank": "2-3",
+        "value": 3
+      },
+      "3": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 1236,
+            "type": 0
+          }
+        ],
+        "rank": "4-10",
+        "value": 10
+      },
+      "4": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 1237,
+            "type": 0
+          }
+        ],
+        "rank": "11-30",
+        "value": 30
+      },
+      "5": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 1238,
+            "type": 0
+          }
+        ],
+        "rank": "31-200",
+        "value": 200
+      }
+    },
+    "rewardBtn": "进入",
+    "rewards": [
+      {
+        "count": 0,
+        "id": 1060,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 302,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1228,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1218,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 2,
+        "type": 2
+      }
+    ],
+    "ruleID": 102,
+    "showParam": {
+      "level": 1,
+      "zsLevel": 3
+    },
+    "tipsbuttonfunction": {
+      "param1": "app.CrossServerWin",
+      "param2": [
+        1
+      ],
+      "type": 1
+    },
+    "tipsbuttontext": "立即参与",
+    "tipstext": "想要逃离可怕的试炼之地，需要300积分。偷袭别人虽是不错的选择，但前提是保护好自己",
+    "tipstime": "20:10~20:30",
+    "tipstitleicon": "open_bt_14",
+    "uiType": 1
+  }
+}

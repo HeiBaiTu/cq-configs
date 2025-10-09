@@ -1,0 +1,62 @@
+{
+  "1": {
+    "Id": 1,
+    "actId": 10028,
+    "name": "新充礼包",
+    "view": "app.OpenServerSportsView"
+  },
+  "2": {
+    "Id": 2,
+    "actId": 10029,
+    "name": "新充礼包",
+    "view": "app.OpenServerSportsView"
+  },
+  "3": {
+    "Id": 3,
+    "actId": 10030,
+    "name": "新充礼包",
+    "view": "app.OpenServerSportsView"
+  },
+  "4": {
+    "Id": 4,
+    "actId": 10031,
+    "name": "新充礼包",
+    "view": "app.OpenServerSportsView"
+  },
+  "5": {
+    "Id": 5,
+    "actId": 10032,
+    "name": "新充礼包",
+    "view": "app.OpenServerSportsView"
+  },
+  "6": {
+    "Id": 6,
+    "actId": 10033,
+    "name": "新充礼包",
+    "view": "app.OpenServerSportsView"
+  },
+  "7": {
+    "Id": 7,
+    "actId": 10034,
+    "name": "新充礼包",
+    "view": "app.OpenServerSportsView"
+  },
+  "8": {
+    "Id": 8,
+    "actId": 10004,
+    "name": "七日登录",
+    "view": "app.SevenDayLoginView"
+  },
+  "9": {
+    "Id": 9,
+    "actId": 10023,
+    "name": "开服礼包",
+    "view": "app.OpenServerGiftView"
+  },
+  "10": {
+    "Id": 10,
+    "actId": 10024,
+    "name": "锻造好礼",
+    "view": "app.OpenServerSportsView"
+  }
+}

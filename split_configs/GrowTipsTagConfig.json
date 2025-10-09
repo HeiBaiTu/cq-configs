@@ -1,0 +1,38 @@
+{
+  "1": {
+    "icon": "bq_icon_5",
+    "openparam": {
+      "level": 1,
+      "openDay": 1,
+      "zsLevel": 0
+    },
+    "tagid": 1
+  },
+  "2": {
+    "icon": "bq_icon_1",
+    "openparam": {
+      "level": 1,
+      "openDay": 1,
+      "zsLevel": 0
+    },
+    "tagid": 2
+  },
+  "3": {
+    "icon": "bq_icon_3",
+    "openparam": {
+      "level": 1,
+      "openDay": 1,
+      "zsLevel": 0
+    },
+    "tagid": 3
+  },
+  "4": {
+    "icon": "bq_icon_2",
+    "openparam": {
+      "level": 1,
+      "openDay": 1,
+      "zsLevel": 0
+    },
+    "tagid": 4
+  }
+}

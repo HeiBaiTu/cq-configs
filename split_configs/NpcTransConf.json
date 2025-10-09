@@ -1,0 +1,4310 @@
+{
+  "1": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 1,
+    "nLevel": 2,
+    "nSceneId": 1,
+    "nX": 235,
+    "nY": 131,
+    "openDay": 0,
+    "sName": "前往比奇城",
+    "zsLevel": 0
+  },
+  "2": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 2,
+    "nLevel": 0,
+    "nSceneId": 1,
+    "nX": 203,
+    "nY": 306,
+    "openDay": 0,
+    "sName": "前往边界村",
+    "zsLevel": 0
+  },
+  "3": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 3,
+    "nLevel": 0,
+    "nSceneId": 1,
+    "nX": 467,
+    "nY": 307,
+    "openDay": 0,
+    "sName": "前往银杏山谷",
+    "zsLevel": 0
+  },
+  "4": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 4,
+    "nLevel": 0,
+    "nSceneId": 1,
+    "nX": 485,
+    "nY": 45,
+    "openDay": 0,
+    "sName": "毒蛇山谷入口",
+    "zsLevel": 0
+  },
+  "5": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 5,
+    "nLevel": 0,
+    "nSceneId": 8,
+    "nX": 371,
+    "nY": 233,
+    "openDay": 0,
+    "sName": "毒蛇村",
+    "zsLevel": 0
+  },
+  "6": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 6,
+    "nLevel": 0,
+    "nSceneId": 1,
+    "nX": 229,
+    "nY": 18,
+    "openDay": 0,
+    "sName": "沃玛森林入口",
+    "zsLevel": 0
+  },
+  "7": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 7,
+    "nLevel": 0,
+    "nSceneId": 5,
+    "nX": 56,
+    "nY": 137,
+    "openDay": 0,
+    "sName": "沃玛寺庙",
+    "zsLevel": 0
+  },
+  "8": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 8,
+    "nLevel": 0,
+    "nSceneId": 1,
+    "nX": 23,
+    "nY": 56,
+    "openDay": 0,
+    "sName": "洞穴",
+    "zsLevel": 0
+  },
+  "9": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 9,
+    "nLevel": 0,
+    "nSceneId": 1,
+    "nX": 91,
+    "nY": 18,
+    "openDay": 0,
+    "sName": "兽人古墓",
+    "zsLevel": 0
+  },
+  "10": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 10,
+    "nLevel": 0,
+    "nSceneId": 1,
+    "nX": 478,
+    "nY": 109,
+    "openDay": 0,
+    "sName": "废矿入口",
+    "zsLevel": 0
+  },
+  "11": {
+    "Consumelist": [
+      {
+        "count": 2000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 11,
+    "nLevel": 30,
+    "nSceneId": 6,
+    "nX": 126,
+    "nY": 156,
+    "openDay": 0,
+    "sName": "白日门(等级达到30绑金2000)",
+    "zsLevel": 0
+  },
+  "12": {
+    "Consumelist": [
+      {
+        "count": 2000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 12,
+    "nLevel": 32,
+    "nSceneId": 9,
+    "nX": 167,
+    "nY": 90,
+    "openDay": 0,
+    "sName": "封魔谷(等级达到32绑金2000)",
+    "zsLevel": 0
+  },
+  "13": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 13,
+    "nLevel": 0,
+    "nSceneId": 1,
+    "nX": 235,
+    "nY": 131,
+    "openDay": 0,
+    "sName": "比奇城",
+    "zsLevel": 0
+  },
+  "14": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 14,
+    "nLevel": 0,
+    "nSceneId": 3,
+    "nX": 219,
+    "nY": 149,
+    "openDay": 0,
+    "random": 1,
+    "sName": "盟重土城",
+    "zsLevel": 0
+  },
+  "15": {
+    "Consumelist": [
+      {
+        "count": 1000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 15,
+    "nLevel": 0,
+    "nSceneId": 8,
+    "nX": 413,
+    "nY": 81,
+    "openDay": 0,
+    "sName": "山谷矿区入口(绑金1000)",
+    "zsLevel": 0
+  },
+  "16": {
+    "Consumelist": [
+      {
+        "count": 20,
+        "type": 4
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 16,
+    "nLevel": 35,
+    "nSceneId": 4,
+    "nX": 43,
+    "nY": 143,
+    "openDay": 4,
+    "sName": "前往苍月岛(元宝20)",
+    "zsLevel": 0
+  },
+  "17": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 17,
+    "nLevel": 0,
+    "nSceneId": 8,
+    "nX": 371,
+    "nY": 233,
+    "openDay": 0,
+    "sName": "毒蛇村",
+    "zsLevel": 0
+  },
+  "18": {
+    "Consumelist": [
+      {
+        "count": 5000,
+        "type": 2
+      }
+    ],
+    "displayDay": 12,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 18,
+    "nLevel": 45,
+    "nSceneId": 10,
+    "nX": 86,
+    "nY": 73,
+    "openDay": 15,
+    "sName": "魔龙城(等级达到40绑金5000)",
+    "zsLevel": 0
+  },
+  "19": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 19,
+    "nLevel": 0,
+    "nSceneId": 3,
+    "nX": 192,
+    "nY": 154,
+    "openDay": 0,
+    "sName": "石墓入口",
+    "zsLevel": 0
+  },
+  "20": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 20,
+    "nLevel": 0,
+    "nSceneId": 3,
+    "nX": 78,
+    "nY": 33,
+    "openDay": 0,
+    "sName": "地牢入口",
+    "zsLevel": 0
+  },
+  "21": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 21,
+    "nLevel": 0,
+    "nSceneId": 3,
+    "nX": 612,
+    "nY": 76,
+    "openDay": 0,
+    "sName": "祖玛寺庙",
+    "zsLevel": 0
+  },
+  "22": {
+    "Consumelist": [
+      {
+        "count": 5000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 22,
+    "nLevel": 0,
+    "nSceneId": 3,
+    "nX": 487,
+    "nY": 157,
+    "openDay": 0,
+    "sName": "沙城门口(绑金5000)",
+    "zsLevel": 0
+  },
+  "23": {
+    "Consumelist": [
+      {
+        "count": 2000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 23,
+    "nLevel": 0,
+    "nSceneId": 98,
+    "nX": 68,
+    "nY": 50,
+    "openDay": 0,
+    "sName": "沙城通道(绑金2000)",
+    "zsLevel": 0
+  },
+  "24": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 24,
+    "nLevel": 0,
+    "nSceneId": 1,
+    "nX": 235,
+    "nY": 131,
+    "openDay": 0,
+    "sName": "待配置",
+    "zsLevel": 0
+  },
+  "25": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 25,
+    "nLevel": 0,
+    "nSceneId": 1,
+    "nX": 235,
+    "nY": 131,
+    "openDay": 0,
+    "sName": "待配置",
+    "zsLevel": 0
+  },
+  "26": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 26,
+    "nLevel": 0,
+    "nSceneId": 1,
+    "nX": 235,
+    "nY": 131,
+    "openDay": 0,
+    "sName": "待配置",
+    "zsLevel": 0
+  },
+  "27": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 27,
+    "nLevel": 0,
+    "nSceneId": 1,
+    "nX": 235,
+    "nY": 131,
+    "openDay": 0,
+    "sName": "待配置",
+    "zsLevel": 0
+  },
+  "28": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 28,
+    "nLevel": 0,
+    "nSceneId": 1,
+    "nX": 235,
+    "nY": 131,
+    "openDay": 0,
+    "sName": "待配置",
+    "zsLevel": 0
+  },
+  "29": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 29,
+    "nLevel": 0,
+    "nSceneId": 1,
+    "nX": 235,
+    "nY": 131,
+    "openDay": 0,
+    "sName": "待配置",
+    "zsLevel": 0
+  },
+  "30": {
+    "Consumelist": [
+      {
+        "count": 2000,
+        "type": 2
+      }
+    ],
+    "displayDay": 4,
+    "displayLevel": 40,
+    "displayZsLevel": 0,
+    "id": 30,
+    "nLevel": 40,
+    "nSceneId": 6,
+    "nX": 263,
+    "nY": 120,
+    "openDay": 6,
+    "sName": "丛林迷宫(绑金2000)",
+    "zsLevel": 0
+  },
+  "31": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 31,
+    "nLevel": 0,
+    "nSceneId": 9,
+    "nX": 37,
+    "nY": 29,
+    "openDay": 0,
+    "sName": "封魔矿区",
+    "zsLevel": 0
+  },
+  "32": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 32,
+    "nLevel": 35,
+    "nSceneId": 4,
+    "nX": 340,
+    "nY": 43,
+    "openDay": 4,
+    "sName": "骨魔洞",
+    "zsLevel": 0
+  },
+  "33": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 33,
+    "nLevel": 35,
+    "nSceneId": 4,
+    "nX": 323,
+    "nY": 286,
+    "openDay": 4,
+    "sName": "尸魔洞",
+    "zsLevel": 0
+  },
+  "34": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 34,
+    "nLevel": 35,
+    "nSceneId": 4,
+    "nX": 436,
+    "nY": 210,
+    "openDay": 4,
+    "sName": "牛魔寺庙",
+    "zsLevel": 0
+  },
+  "35": {
+    "Consumelist": [
+      {
+        "count": 300,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 35,
+    "nLevel": 0,
+    "nSceneId": 11,
+    "nX": 140,
+    "nY": 67,
+    "openDay": 0,
+    "sName": "兽人古墓一层(绑金300)",
+    "zsLevel": 0
+  },
+  "36": {
+    "Consumelist": [
+      {
+        "count": 500,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 36,
+    "nLevel": 0,
+    "nSceneId": 12,
+    "nX": 142,
+    "nY": 100,
+    "openDay": 0,
+    "sName": "兽人古墓二层(绑金500)",
+    "zsLevel": 0
+  },
+  "37": {
+    "Consumelist": [
+      {
+        "count": 1000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 37,
+    "nLevel": 0,
+    "nSceneId": 13,
+    "nX": 115,
+    "nY": 96,
+    "openDay": 0,
+    "sName": "兽人古墓三层(绑金1000)",
+    "zsLevel": 0
+  },
+  "38": {
+    "Consumelist": [
+      {
+        "count": 300,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 38,
+    "nLevel": 0,
+    "nSceneId": 14,
+    "nX": 153,
+    "nY": 85,
+    "openDay": 0,
+    "sName": "洞穴一层(绑金300)",
+    "zsLevel": 0
+  },
+  "39": {
+    "Consumelist": [
+      {
+        "count": 500,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 39,
+    "nLevel": 0,
+    "nSceneId": 15,
+    "nX": 156,
+    "nY": 105,
+    "openDay": 0,
+    "sName": "洞穴二层(绑金500)",
+    "zsLevel": 0
+  },
+  "40": {
+    "Consumelist": [
+      {
+        "count": 1000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 40,
+    "nLevel": 0,
+    "nSceneId": 16,
+    "nX": 157,
+    "nY": 54,
+    "openDay": 0,
+    "sName": "祖玛寺庙一层(绑金1000)",
+    "zsLevel": 0
+  },
+  "41": {
+    "Consumelist": [
+      {
+        "count": 2000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 41,
+    "nLevel": 0,
+    "nSceneId": 17,
+    "nX": 84,
+    "nY": 35,
+    "openDay": 0,
+    "sName": "祖玛寺庙二层(绑金2000)",
+    "zsLevel": 0
+  },
+  "42": {
+    "Consumelist": [
+      {
+        "count": 3000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 42,
+    "nLevel": 0,
+    "nSceneId": 18,
+    "nX": 153,
+    "nY": 59,
+    "openDay": 0,
+    "sName": "祖玛寺庙三层(绑金3000)",
+    "zsLevel": 0
+  },
+  "43": {
+    "Consumelist": [
+      {
+        "count": 4000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 43,
+    "nLevel": 0,
+    "nSceneId": 19,
+    "nX": 213,
+    "nY": 80,
+    "openDay": 0,
+    "sName": "祖玛寺庙四层(绑金4000)",
+    "zsLevel": 0
+  },
+  "44": {
+    "Consumelist": [
+      {
+        "count": 5000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 44,
+    "nLevel": 0,
+    "nSceneId": 20,
+    "nX": 118,
+    "nY": 85,
+    "openDay": 0,
+    "sName": "祖玛寺庙五层(绑金5000)",
+    "zsLevel": 0
+  },
+  "45": {
+    "Consumelist": [
+      {
+        "count": 6000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 45,
+    "nLevel": 0,
+    "nSceneId": 22,
+    "nX": 11,
+    "nY": 8,
+    "openDay": 0,
+    "sName": "祖玛寺庙六层(绑金6000)",
+    "zsLevel": 0
+  },
+  "46": {
+    "Consumelist": [
+      {
+        "count": 7000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 46,
+    "nLevel": 0,
+    "nSceneId": 23,
+    "nX": 22,
+    "nY": 11,
+    "openDay": 0,
+    "sName": "祖玛七层一(绑金7000)",
+    "zsLevel": 0
+  },
+  "47": {
+    "Consumelist": [
+      {
+        "count": 500,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 47,
+    "nLevel": 0,
+    "nSceneId": 62,
+    "nX": 68,
+    "nY": 48,
+    "openDay": 0,
+    "sName": "废矿入口(绑金500)",
+    "zsLevel": 0
+  },
+  "48": {
+    "Consumelist": [
+      {
+        "count": 1000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 48,
+    "nLevel": 0,
+    "nSceneId": 63,
+    "nX": 75,
+    "nY": 50,
+    "openDay": 0,
+    "sName": "废矿区东部(绑金1000)",
+    "zsLevel": 0
+  },
+  "49": {
+    "Consumelist": [
+      {
+        "count": 500,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 49,
+    "nLevel": 0,
+    "nSceneId": 64,
+    "nX": 68,
+    "nY": 50,
+    "openDay": 0,
+    "sName": "废区一层(绑金500)",
+    "zsLevel": 0
+  },
+  "50": {
+    "Consumelist": [
+      {
+        "count": 500,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 50,
+    "nLevel": 0,
+    "nSceneId": 65,
+    "nX": 75,
+    "nY": 50,
+    "openDay": 0,
+    "sName": "矿区B二层(绑金500)",
+    "zsLevel": 0
+  },
+  "51": {
+    "Consumelist": [
+      {
+        "count": 1500,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 51,
+    "nLevel": 0,
+    "nSceneId": 66,
+    "nX": 95,
+    "nY": 50,
+    "openDay": 0,
+    "sName": "矿物回收站(绑金1500)",
+    "zsLevel": 0
+  },
+  "52": {
+    "Consumelist": [
+      {
+        "count": 1500,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 52,
+    "nLevel": 0,
+    "nSceneId": 67,
+    "nX": 74,
+    "nY": 56,
+    "openDay": 0,
+    "sName": "废矿区南部(绑金1500)",
+    "zsLevel": 0
+  },
+  "53": {
+    "Consumelist": [
+      {
+        "count": 1500,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 53,
+    "nLevel": 0,
+    "nSceneId": 68,
+    "nX": 40,
+    "nY": 30,
+    "openDay": 0,
+    "sName": "矿区B一层(绑金1500)",
+    "zsLevel": 0
+  },
+  "54": {
+    "Consumelist": [
+      {
+        "count": 1000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 54,
+    "nLevel": 0,
+    "nSceneId": 70,
+    "nX": 30,
+    "nY": 20,
+    "openDay": 0,
+    "sName": "矿区A一层(绑金1000)",
+    "zsLevel": 0
+  },
+  "55": {
+    "Consumelist": [
+      {
+        "count": 1000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 55,
+    "nLevel": 0,
+    "nSceneId": 71,
+    "nX": 30,
+    "nY": 25,
+    "openDay": 0,
+    "sName": "矿区C一层(绑金1000)",
+    "zsLevel": 0
+  },
+  "56": {
+    "Consumelist": [
+      {
+        "count": 800,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 56,
+    "nLevel": 0,
+    "nSceneId": 74,
+    "nX": 150,
+    "nY": 80,
+    "openDay": 0,
+    "sName": "山谷矿区密道(绑金800)",
+    "zsLevel": 0
+  },
+  "57": {
+    "Consumelist": [
+      {
+        "count": 1500,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 57,
+    "nLevel": 0,
+    "nSceneId": 75,
+    "nX": 145,
+    "nY": 109,
+    "openDay": 0,
+    "sName": "山谷矿区(绑金1500)",
+    "zsLevel": 0
+  },
+  "58": {
+    "Consumelist": [
+      {
+        "count": 8000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 58,
+    "nLevel": 0,
+    "nSceneId": 75,
+    "nX": 170,
+    "nY": 31,
+    "openDay": 0,
+    "sName": "尸王殿(绑金8000)",
+    "zsLevel": 0
+  },
+  "59": {
+    "Consumelist": [
+      {
+        "count": 1000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 59,
+    "nLevel": 0,
+    "nSceneId": 76,
+    "nX": 50,
+    "nY": 14,
+    "openDay": 0,
+    "sName": "沃玛寺庙入口(绑金1000)",
+    "zsLevel": 0
+  },
+  "60": {
+    "Consumelist": [
+      {
+        "count": 2000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 60,
+    "nLevel": 0,
+    "nSceneId": 77,
+    "nX": 178,
+    "nY": 95,
+    "openDay": 0,
+    "sName": "沃玛寺庙一层(绑金2000)",
+    "zsLevel": 0
+  },
+  "61": {
+    "Consumelist": [
+      {
+        "count": 3000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 61,
+    "nLevel": 0,
+    "nSceneId": 78,
+    "nX": 157,
+    "nY": 97,
+    "openDay": 0,
+    "sName": "沃玛寺庙二层(绑金3000)",
+    "zsLevel": 0
+  },
+  "62": {
+    "Consumelist": [
+      {
+        "count": 1000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 62,
+    "nLevel": 0,
+    "nSceneId": 100,
+    "nX": 155,
+    "nY": 93,
+    "openDay": 0,
+    "sName": "石墓一层(绑金1000)",
+    "zsLevel": 0
+  },
+  "63": {
+    "Consumelist": [
+      {
+        "count": 2000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 63,
+    "nLevel": 0,
+    "nSceneId": 101,
+    "nX": 155,
+    "nY": 93,
+    "openDay": 0,
+    "sName": "石墓二层(绑金2000)",
+    "zsLevel": 0
+  },
+  "64": {
+    "Consumelist": [
+      {
+        "count": 3000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 64,
+    "nLevel": 0,
+    "nSceneId": 102,
+    "nX": 157,
+    "nY": 94,
+    "openDay": 0,
+    "sName": "石墓三层(绑金3000)",
+    "zsLevel": 0
+  },
+  "65": {
+    "Consumelist": [
+      {
+        "count": 4000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 65,
+    "nLevel": 0,
+    "nSceneId": 103,
+    "nX": 154,
+    "nY": 93,
+    "openDay": 0,
+    "sName": "石墓四层(绑金4000)",
+    "zsLevel": 0
+  },
+  "66": {
+    "Consumelist": [
+      {
+        "count": 5000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 66,
+    "nLevel": 0,
+    "nSceneId": 104,
+    "nX": 152,
+    "nY": 95,
+    "openDay": 0,
+    "sName": "石墓五层(绑金5000)",
+    "zsLevel": 0
+  },
+  "67": {
+    "Consumelist": [
+      {
+        "count": 6000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 67,
+    "nLevel": 0,
+    "nSceneId": 106,
+    "nX": 19,
+    "nY": 9,
+    "openDay": 0,
+    "sName": "石墓阵(绑金6000)",
+    "zsLevel": 0
+  },
+  "68": {
+    "Consumelist": [
+      {
+        "count": 1000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 68,
+    "nLevel": 0,
+    "nSceneId": 80,
+    "nX": 56,
+    "nY": 53,
+    "openDay": 0,
+    "sName": "地牢南一层(绑金1000)",
+    "zsLevel": 0
+  },
+  "69": {
+    "Consumelist": [
+      {
+        "count": 2000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 69,
+    "nLevel": 0,
+    "nSceneId": 81,
+    "nX": 42,
+    "nY": 48,
+    "openDay": 0,
+    "sName": "地牢西一层(绑金2000)",
+    "zsLevel": 0
+  },
+  "70": {
+    "Consumelist": [
+      {
+        "count": 2000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 70,
+    "nLevel": 0,
+    "nSceneId": 82,
+    "nX": 95,
+    "nY": 33,
+    "openDay": 0,
+    "sName": "地牢北一层(绑金2000)",
+    "zsLevel": 0
+  },
+  "71": {
+    "Consumelist": [
+      {
+        "count": 2500,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 71,
+    "nLevel": 0,
+    "nSceneId": 83,
+    "nX": 26,
+    "nY": 60,
+    "openDay": 0,
+    "sName": "地牢西二层(绑金2500)",
+    "zsLevel": 0
+  },
+  "72": {
+    "Consumelist": [
+      {
+        "count": 4000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 72,
+    "nLevel": 0,
+    "nSceneId": 84,
+    "nX": 72,
+    "nY": 21,
+    "openDay": 0,
+    "sName": "地牢北二层(绑金4000)",
+    "zsLevel": 0
+  },
+  "73": {
+    "Consumelist": [
+      {
+        "count": 4000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 73,
+    "nLevel": 0,
+    "nSceneId": 85,
+    "nX": 138,
+    "nY": 57,
+    "openDay": 0,
+    "sName": "死亡棺材(绑金4000)",
+    "zsLevel": 0
+  },
+  "74": {
+    "Consumelist": [
+      {
+        "count": 2000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 74,
+    "nLevel": 0,
+    "nSceneId": 91,
+    "nX": 45,
+    "nY": 21,
+    "openDay": 0,
+    "sName": "黑暗地带(绑金2000)",
+    "zsLevel": 0
+  },
+  "75": {
+    "Consumelist": [
+      {
+        "count": 3000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 75,
+    "nLevel": 0,
+    "nSceneId": 92,
+    "nX": 33,
+    "nY": 32,
+    "openDay": 0,
+    "sName": "生死之间(绑金3000)",
+    "zsLevel": 0
+  },
+  "76": {
+    "Consumelist": [
+      {
+        "count": 3000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 76,
+    "nLevel": 0,
+    "nSceneId": 93,
+    "nX": 48,
+    "nY": 39,
+    "openDay": 0,
+    "sName": "传奇部落(绑金3000)",
+    "zsLevel": 0
+  },
+  "77": {
+    "Consumelist": [
+      {
+        "count": 4000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 77,
+    "nLevel": 0,
+    "nSceneId": 94,
+    "nX": 38,
+    "nY": 27,
+    "openDay": 0,
+    "sName": "邪恶势力(绑金4000)",
+    "zsLevel": 0
+  },
+  "78": {
+    "Consumelist": [
+      {
+        "count": 3000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 78,
+    "nLevel": 0,
+    "nSceneId": 95,
+    "nX": 56,
+    "nY": 23,
+    "openDay": 0,
+    "sName": "幽冥圣域(绑金3000)",
+    "zsLevel": 0
+  },
+  "79": {
+    "Consumelist": [
+      {
+        "count": 4000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 79,
+    "nLevel": 0,
+    "nSceneId": 96,
+    "nX": 39,
+    "nY": 22,
+    "openDay": 0,
+    "sName": "恐怖空间(绑金4000)",
+    "zsLevel": 0
+  },
+  "80": {
+    "Consumelist": [
+      {
+        "count": 4000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 80,
+    "nLevel": 0,
+    "nSceneId": 97,
+    "nX": 57,
+    "nY": 11,
+    "openDay": 0,
+    "sName": "一线天(绑金4000)",
+    "zsLevel": 0
+  },
+  "81": {
+    "Consumelist": [
+      {
+        "count": 3000,
+        "type": 2
+      }
+    ],
+    "displayDay": 4,
+    "displayLevel": 40,
+    "displayZsLevel": 0,
+    "id": 81,
+    "nLevel": 40,
+    "nSceneId": 109,
+    "nX": 112,
+    "nY": 80,
+    "openDay": 6,
+    "sName": "赤月峡谷北入口(绑金3000)",
+    "zsLevel": 0
+  },
+  "82": {
+    "Consumelist": [
+      {
+        "count": 3000,
+        "type": 2
+      }
+    ],
+    "displayDay": 4,
+    "displayLevel": 40,
+    "displayZsLevel": 0,
+    "id": 82,
+    "nLevel": 40,
+    "nSceneId": 110,
+    "nX": 73,
+    "nY": 83,
+    "openDay": 6,
+    "sName": "赤月峡谷南入口(绑金3000)",
+    "zsLevel": 0
+  },
+  "83": {
+    "Consumelist": [
+      {
+        "count": 3000,
+        "type": 2
+      }
+    ],
+    "displayDay": 4,
+    "displayLevel": 40,
+    "displayZsLevel": 0,
+    "id": 83,
+    "nLevel": 40,
+    "nSceneId": 111,
+    "nX": 115,
+    "nY": 99,
+    "openDay": 6,
+    "sName": "赤月峡谷东入口(绑金3000)",
+    "zsLevel": 0
+  },
+  "84": {
+    "Consumelist": [
+      {
+        "count": 4000,
+        "type": 2
+      }
+    ],
+    "displayDay": 4,
+    "displayLevel": 40,
+    "displayZsLevel": 0,
+    "id": 84,
+    "nLevel": 40,
+    "nSceneId": 112,
+    "nX": 125,
+    "nY": 69,
+    "openDay": 6,
+    "sName": "赤月峡谷广场(绑金4000)",
+    "zsLevel": 0
+  },
+  "85": {
+    "Consumelist": [
+      {
+        "count": 5000,
+        "type": 2
+      }
+    ],
+    "displayDay": 4,
+    "displayLevel": 40,
+    "displayZsLevel": 0,
+    "id": 85,
+    "nLevel": 40,
+    "nSceneId": 113,
+    "nX": 74,
+    "nY": 62,
+    "openDay": 6,
+    "sName": "左回廊(绑金5000)",
+    "zsLevel": 0
+  },
+  "86": {
+    "Consumelist": [
+      {
+        "count": 5000,
+        "type": 2
+      }
+    ],
+    "displayDay": 4,
+    "displayLevel": 40,
+    "displayZsLevel": 0,
+    "id": 86,
+    "nLevel": 40,
+    "nSceneId": 114,
+    "nX": 100,
+    "nY": 72,
+    "openDay": 6,
+    "sName": "右回廊(绑金5000)",
+    "zsLevel": 0
+  },
+  "87": {
+    "Consumelist": [
+      {
+        "count": 8000,
+        "type": 2
+      }
+    ],
+    "displayDay": 4,
+    "displayLevel": 40,
+    "displayZsLevel": 0,
+    "id": 87,
+    "nLevel": 40,
+    "nSceneId": 115,
+    "nX": 118,
+    "nY": 66,
+    "openDay": 6,
+    "sName": "抉择之地(绑金8000)",
+    "zsLevel": 0
+  },
+  "88": {
+    "Consumelist": [
+      {
+        "count": 15000,
+        "type": 2
+      }
+    ],
+    "displayDay": 4,
+    "displayLevel": 40,
+    "displayZsLevel": 0,
+    "id": 88,
+    "nLevel": 40,
+    "nSceneId": 116,
+    "nX": 77,
+    "nY": 47,
+    "openDay": 6,
+    "sName": "山谷秘道(恶)(绑金15000)",
+    "zsLevel": 0
+  },
+  "89": {
+    "Consumelist": [
+      {
+        "count": 15000,
+        "type": 2
+      }
+    ],
+    "displayDay": 4,
+    "displayLevel": 40,
+    "displayZsLevel": 0,
+    "id": 89,
+    "nLevel": 40,
+    "nSceneId": 117,
+    "nX": 67,
+    "nY": 45,
+    "openDay": 6,
+    "sName": "山谷秘道(赤)(绑金15000)",
+    "zsLevel": 0
+  },
+  "90": {
+    "Consumelist": [
+      {
+        "count": 30000,
+        "type": 2
+      }
+    ],
+    "displayDay": 4,
+    "displayLevel": 40,
+    "displayZsLevel": 0,
+    "id": 90,
+    "nLevel": 40,
+    "nSceneId": 116,
+    "nX": 132,
+    "nY": 26,
+    "openDay": 6,
+    "sName": "恶魔祭坛(绑金30000)",
+    "zsLevel": 0
+  },
+  "91": {
+    "Consumelist": [
+      {
+        "count": 30000,
+        "type": 2
+      }
+    ],
+    "displayDay": 4,
+    "displayLevel": 40,
+    "displayZsLevel": 0,
+    "id": 91,
+    "nLevel": 40,
+    "nSceneId": 117,
+    "nX": 97,
+    "nY": 9,
+    "openDay": 6,
+    "sName": "赤月魔穴(绑金30000)",
+    "zsLevel": 0
+  },
+  "92": {
+    "Consumelist": [
+      {
+        "count": 1000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 92,
+    "nLevel": 0,
+    "nSceneId": 120,
+    "nX": 68,
+    "nY": 48,
+    "openDay": 0,
+    "sName": "封魔矿区(绑金1000)",
+    "zsLevel": 0
+  },
+  "93": {
+    "Consumelist": [
+      {
+        "count": 1500,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 93,
+    "nLevel": 0,
+    "nSceneId": 121,
+    "nX": 125,
+    "nY": 72,
+    "openDay": 0,
+    "sName": "崎路(绑金1500)",
+    "zsLevel": 0
+  },
+  "94": {
+    "Consumelist": [
+      {
+        "count": 2000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 94,
+    "nLevel": 0,
+    "nSceneId": 122,
+    "nX": 15,
+    "nY": 10,
+    "openDay": 0,
+    "sName": "连接通道(绑金2000)",
+    "zsLevel": 0
+  },
+  "95": {
+    "Consumelist": [
+      {
+        "count": 2500,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 95,
+    "nLevel": 0,
+    "nSceneId": 123,
+    "nX": 33,
+    "nY": 17,
+    "openDay": 0,
+    "sName": "疾风殿(绑金2500)",
+    "zsLevel": 0
+  },
+  "96": {
+    "Consumelist": [
+      {
+        "count": 3000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 96,
+    "nLevel": 0,
+    "nSceneId": 124,
+    "nX": 35,
+    "nY": 25,
+    "openDay": 0,
+    "sName": "光芒回廊(绑金3000)",
+    "zsLevel": 0
+  },
+  "97": {
+    "Consumelist": [
+      {
+        "count": 3500,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 97,
+    "nLevel": 0,
+    "nSceneId": 125,
+    "nX": 30,
+    "nY": 20,
+    "openDay": 0,
+    "sName": "烈焰殿(绑金3500)",
+    "zsLevel": 0
+  },
+  "98": {
+    "Consumelist": [
+      {
+        "count": 4000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 98,
+    "nLevel": 0,
+    "nSceneId": 126,
+    "nX": 65,
+    "nY": 48,
+    "openDay": 0,
+    "sName": "雷霆之路(绑金4000)",
+    "zsLevel": 0
+  },
+  "99": {
+    "Consumelist": [
+      {
+        "count": 4500,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 99,
+    "nLevel": 0,
+    "nSceneId": 127,
+    "nX": 35,
+    "nY": 25,
+    "openDay": 0,
+    "sName": "霸者大厅(绑金4500)",
+    "zsLevel": 0
+  },
+  "100": {
+    "Consumelist": [
+      {
+        "count": 5000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 100,
+    "nLevel": 0,
+    "nSceneId": 128,
+    "nX": 40,
+    "nY": 30,
+    "openDay": 0,
+    "sName": "幽冥回廊(绑金5000)",
+    "zsLevel": 0
+  },
+  "101": {
+    "Consumelist": [
+      {
+        "count": 5500,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 101,
+    "nLevel": 0,
+    "nSceneId": 129,
+    "nX": 85,
+    "nY": 60,
+    "openDay": 0,
+    "sName": "纵横道(绑金5500)",
+    "zsLevel": 0
+  },
+  "102": {
+    "Consumelist": [
+      {
+        "count": 6000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 102,
+    "nLevel": 0,
+    "nSceneId": 130,
+    "nX": 35,
+    "nY": 25,
+    "openDay": 0,
+    "sName": "魔魂殿(绑金6000)",
+    "zsLevel": 0
+  },
+  "103": {
+    "Consumelist": [
+      {
+        "count": 6500,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 103,
+    "nLevel": 0,
+    "nSceneId": 131,
+    "nX": 35,
+    "nY": 25,
+    "openDay": 0,
+    "sName": "炼狱回廊(绑金6500)",
+    "zsLevel": 0
+  },
+  "104": {
+    "Consumelist": [
+      {
+        "count": 1000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 104,
+    "nLevel": 0,
+    "nSceneId": 134,
+    "nX": 86,
+    "nY": 79,
+    "openDay": 0,
+    "sName": "尸魔洞一层(绑金1000)",
+    "zsLevel": 0
+  },
+  "105": {
+    "Consumelist": [
+      {
+        "count": 2000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 105,
+    "nLevel": 0,
+    "nSceneId": 135,
+    "nX": 136,
+    "nY": 17,
+    "openDay": 0,
+    "sName": "尸魔洞二层(绑金2000)",
+    "zsLevel": 0
+  },
+  "106": {
+    "Consumelist": [
+      {
+        "count": 3000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 106,
+    "nLevel": 0,
+    "nSceneId": 136,
+    "nX": 52,
+    "nY": 20,
+    "openDay": 0,
+    "sName": "尸魔洞三层(绑金3000)",
+    "zsLevel": 0
+  },
+  "107": {
+    "Consumelist": [
+      {
+        "count": 2000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 107,
+    "nLevel": 0,
+    "nSceneId": 137,
+    "nX": 58,
+    "nY": 29,
+    "openDay": 0,
+    "sName": "骨魔洞一层(绑金2000)",
+    "zsLevel": 0
+  },
+  "108": {
+    "Consumelist": [
+      {
+        "count": 3000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 108,
+    "nLevel": 0,
+    "nSceneId": 138,
+    "nX": 102,
+    "nY": 48,
+    "openDay": 0,
+    "sName": "骨魔洞二层(绑金3000)",
+    "zsLevel": 0
+  },
+  "109": {
+    "Consumelist": [
+      {
+        "count": 4000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 109,
+    "nLevel": 0,
+    "nSceneId": 139,
+    "nX": 39,
+    "nY": 61,
+    "openDay": 0,
+    "sName": "骨魔洞三层(绑金4000)",
+    "zsLevel": 0
+  },
+  "110": {
+    "Consumelist": [
+      {
+        "count": 5000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 110,
+    "nLevel": 0,
+    "nSceneId": 140,
+    "nX": 18,
+    "nY": 19,
+    "openDay": 0,
+    "sName": "骨魔洞四层(绑金5000)",
+    "zsLevel": 0
+  },
+  "111": {
+    "Consumelist": [
+      {
+        "count": 6000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 111,
+    "nLevel": 0,
+    "nSceneId": 141,
+    "nX": 121,
+    "nY": 21,
+    "openDay": 0,
+    "sName": "骨魔洞五层(绑金6000)",
+    "zsLevel": 0
+  },
+  "112": {
+    "Consumelist": [
+      {
+        "count": 2000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 112,
+    "nLevel": 0,
+    "nSceneId": 143,
+    "nX": 80,
+    "nY": 66,
+    "openDay": 0,
+    "sName": "牛魔寺庙一层(绑金2000)",
+    "zsLevel": 0
+  },
+  "113": {
+    "Consumelist": [
+      {
+        "count": 3000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 113,
+    "nLevel": 0,
+    "nSceneId": 144,
+    "nX": 85,
+    "nY": 49,
+    "openDay": 0,
+    "sName": "牛魔寺庙二层(绑金3000)",
+    "zsLevel": 0
+  },
+  "114": {
+    "Consumelist": [
+      {
+        "count": 4000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 114,
+    "nLevel": 0,
+    "nSceneId": 145,
+    "nX": 128,
+    "nY": 79,
+    "openDay": 0,
+    "sName": "牛魔寺庙三层(绑金4000)",
+    "zsLevel": 0
+  },
+  "115": {
+    "Consumelist": [
+      {
+        "count": 5000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 115,
+    "nLevel": 0,
+    "nSceneId": 146,
+    "nX": 115,
+    "nY": 48,
+    "openDay": 0,
+    "sName": "牛魔寺庙四层(绑金5000)",
+    "zsLevel": 0
+  },
+  "116": {
+    "Consumelist": [
+      {
+        "count": 6000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 116,
+    "nLevel": 0,
+    "nSceneId": 147,
+    "nX": 67,
+    "nY": 35,
+    "openDay": 0,
+    "sName": "牛魔寺庙五层(绑金6000)",
+    "zsLevel": 0
+  },
+  "117": {
+    "Consumelist": [
+      {
+        "count": 7000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 117,
+    "nLevel": 0,
+    "nSceneId": 148,
+    "nX": 103,
+    "nY": 67,
+    "openDay": 0,
+    "sName": "牛魔寺庙六层(绑金7000)",
+    "zsLevel": 0
+  },
+  "118": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 118,
+    "nLevel": 0,
+    "nSceneId": 150,
+    "nX": 53,
+    "nY": 36,
+    "openDay": 0,
+    "sName": "庄园",
+    "zsLevel": 0
+  },
+  "119": {
+    "Consumelist": [
+      {
+        "count": 20000,
+        "id": 2,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 119,
+    "nLevel": 0,
+    "nSceneId": 162,
+    "nX": 17,
+    "nY": 12,
+    "openDay": 0,
+    "sName": "地下夺宝(绑金2万)",
+    "zsLevel": 0
+  },
+  "120": {
+    "Consumelist": [
+      {
+        "count": 2,
+        "type": 12
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 120,
+    "limittimes": 3,
+    "nLevel": 0,
+    "nSceneId": 162,
+    "nX": 17,
+    "nY": 12,
+    "openDay": 0,
+    "sName": "使用活跃度前往",
+    "zsLevel": 0
+  },
+  "121": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 121,
+    "nLevel": 0,
+    "nSceneId": 163,
+    "nX": 90,
+    "nY": 6,
+    "openDay": 0,
+    "sName": "前往宫殿长廊",
+    "zsLevel": 0
+  },
+  "122": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "distanceLimit": 15,
+      "opentime": [
+        {
+          "closeMinute": 41400,
+          "id": 1,
+          "openMinute": 39600
+        },
+        {
+          "closeMinute": 52200,
+          "id": 2,
+          "openMinute": 50400
+        },
+        {
+          "closeMinute": 84600,
+          "id": 3,
+          "openMinute": 82800
+        }
+      ]
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 122,
+    "nLevel": 0,
+    "nSceneId": 164,
+    "nX": 33,
+    "nY": 17,
+    "openDay": 0,
+    "sName": "前往藏宝库",
+    "zsLevel": 0
+  },
+  "123": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "activityId": 12
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 123,
+    "nLevel": 30,
+    "nSceneId": 169,
+    "nX": 36,
+    "nY": 29,
+    "openDay": 1,
+    "sName": "前往夺宝战二层左上",
+    "zsLevel": 0
+  },
+  "124": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "activityId": 12
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 124,
+    "nLevel": 30,
+    "nSceneId": 169,
+    "nX": 60,
+    "nY": 30,
+    "openDay": 1,
+    "sName": "前往夺宝战二层右上",
+    "zsLevel": 0
+  },
+  "125": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "activityId": 12
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 125,
+    "nLevel": 30,
+    "nSceneId": 169,
+    "nX": 34,
+    "nY": 54,
+    "openDay": 1,
+    "sName": "前往夺宝战二层左下",
+    "zsLevel": 0
+  },
+  "126": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "activityId": 12
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 126,
+    "nLevel": 30,
+    "nSceneId": 169,
+    "nX": 60,
+    "nY": 52,
+    "openDay": 1,
+    "sName": "前往夺宝战二层右下",
+    "zsLevel": 0
+  },
+  "127": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "activityId": 12
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 127,
+    "nLevel": 30,
+    "nSceneId": 170,
+    "nX": 18,
+    "nY": 29,
+    "openDay": 1,
+    "sName": "前往夺宝战三层左上",
+    "zsLevel": 0
+  },
+  "128": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "activityId": 12
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 128,
+    "nLevel": 30,
+    "nSceneId": 170,
+    "nX": 121,
+    "nY": 17,
+    "openDay": 1,
+    "sName": "前往夺宝战三层右上",
+    "zsLevel": 0
+  },
+  "129": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "activityId": 12
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 129,
+    "nLevel": 30,
+    "nSceneId": 170,
+    "nX": 37,
+    "nY": 70,
+    "openDay": 1,
+    "sName": "前往夺宝战三层左下",
+    "zsLevel": 0
+  },
+  "130": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "activityId": 12
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 130,
+    "nLevel": 30,
+    "nSceneId": 170,
+    "nX": 116,
+    "nY": 77,
+    "openDay": 1,
+    "sName": "前往夺宝战三层右下",
+    "zsLevel": 0
+  },
+  "131": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "activityId": 12
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 131,
+    "nLevel": 30,
+    "nSceneId": 171,
+    "nX": 13,
+    "nY": 9,
+    "openDay": 1,
+    "sName": "前往夺宝战四层左上",
+    "zsLevel": 0
+  },
+  "132": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "activityId": 12
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 132,
+    "nLevel": 30,
+    "nSceneId": 171,
+    "nX": 55,
+    "nY": 14,
+    "openDay": 1,
+    "sName": "前往夺宝战四层右上",
+    "zsLevel": 0
+  },
+  "133": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "activityId": 12
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 133,
+    "nLevel": 30,
+    "nSceneId": 171,
+    "nX": 24,
+    "nY": 39,
+    "openDay": 1,
+    "sName": "前往夺宝战四层左下",
+    "zsLevel": 0
+  },
+  "134": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "activityId": 12
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 134,
+    "nLevel": 30,
+    "nSceneId": 171,
+    "nX": 45,
+    "nY": 42,
+    "openDay": 1,
+    "sName": "前往夺宝战四层右下",
+    "zsLevel": 0
+  },
+  "135": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "activityId": 12
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 135,
+    "nLevel": 30,
+    "nSceneId": 172,
+    "nX": 13,
+    "nY": 8,
+    "openDay": 1,
+    "sName": "前往夺宝战五层左上",
+    "zsLevel": 0
+  },
+  "136": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "activityId": 12
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 136,
+    "nLevel": 30,
+    "nSceneId": 172,
+    "nX": 64,
+    "nY": 9,
+    "openDay": 1,
+    "sName": "前往夺宝战五层右上",
+    "zsLevel": 0
+  },
+  "137": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "activityId": 12
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 137,
+    "nLevel": 30,
+    "nSceneId": 172,
+    "nX": 15,
+    "nY": 40,
+    "openDay": 1,
+    "sName": "前往夺宝战五层左下",
+    "zsLevel": 0
+  },
+  "138": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "activityId": 12
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 138,
+    "nLevel": 30,
+    "nSceneId": 172,
+    "nX": 64,
+    "nY": 40,
+    "openDay": 1,
+    "sName": "前往夺宝战五层右下",
+    "zsLevel": 0
+  },
+  "139": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "activityId": 12
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 139,
+    "nLevel": 30,
+    "nSceneId": 173,
+    "nX": 16,
+    "nY": 9,
+    "openDay": 1,
+    "sName": "前往夺宝战六层左上",
+    "zsLevel": 0
+  },
+  "140": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "activityId": 12
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 140,
+    "nLevel": 30,
+    "nSceneId": 173,
+    "nX": 56,
+    "nY": 9,
+    "openDay": 1,
+    "sName": "前往夺宝战六层右上",
+    "zsLevel": 0
+  },
+  "141": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "activityId": 12
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 141,
+    "nLevel": 30,
+    "nSceneId": 173,
+    "nX": 14,
+    "nY": 37,
+    "openDay": 1,
+    "sName": "前往夺宝战六层左下",
+    "zsLevel": 0
+  },
+  "142": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "activityId": 12
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 142,
+    "nLevel": 30,
+    "nSceneId": 173,
+    "nX": 59,
+    "nY": 37,
+    "openDay": 1,
+    "sName": "前往夺宝战六层右下",
+    "zsLevel": 0
+  },
+  "143": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "activityId": 12
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 143,
+    "nLevel": 30,
+    "nSceneId": 174,
+    "nX": 40,
+    "nY": 14,
+    "openDay": 1,
+    "sName": "前往夺宝战七层",
+    "zsLevel": 0
+  },
+  "144": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "CardLv": 2
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 144,
+    "nLevel": 0,
+    "nSceneId": 216,
+    "nX": 103,
+    "nY": 67,
+    "openDay": 0,
+    "sName": "老虎滩(绿卡特权)",
+    "zsLevel": 0
+  },
+  "145": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 145,
+    "nLevel": 0,
+    "nSceneId": 217,
+    "nX": 103,
+    "nY": 67,
+    "openDay": 0,
+    "sName": "老虎滩1",
+    "zsLevel": 0
+  },
+  "146": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 146,
+    "nLevel": 0,
+    "nSceneId": 218,
+    "nX": 103,
+    "nY": 67,
+    "openDay": 0,
+    "sName": "老虎滩2",
+    "zsLevel": 0
+  },
+  "147": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 147,
+    "nLevel": 0,
+    "nSceneId": 219,
+    "nX": 103,
+    "nY": 67,
+    "openDay": 0,
+    "sName": "老虎滩3",
+    "zsLevel": 0
+  },
+  "148": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "CardLv": 2
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 148,
+    "nLevel": 30,
+    "nSceneId": 220,
+    "nX": 11,
+    "nY": 8,
+    "openDay": 0,
+    "sName": "秦始皇陵(绿卡特权)",
+    "zsLevel": 0
+  },
+  "149": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 149,
+    "nLevel": 30,
+    "nSceneId": 221,
+    "nX": 11,
+    "nY": 8,
+    "openDay": 0,
+    "sName": "秦始皇陵1",
+    "zsLevel": 0
+  },
+  "150": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 150,
+    "nLevel": 30,
+    "nSceneId": 222,
+    "nX": 11,
+    "nY": 8,
+    "openDay": 0,
+    "sName": "秦始皇陵2",
+    "zsLevel": 0
+  },
+  "151": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 151,
+    "nLevel": 30,
+    "nSceneId": 223,
+    "nX": 11,
+    "nY": 8,
+    "openDay": 0,
+    "sName": "秦始皇陵3",
+    "zsLevel": 0
+  },
+  "152": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "CardLv": 2
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 152,
+    "nLevel": 40,
+    "nSceneId": 224,
+    "nX": 33,
+    "nY": 17,
+    "openDay": 0,
+    "sName": "十三陵(绿卡特权)",
+    "zsLevel": 0
+  },
+  "153": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 153,
+    "nLevel": 40,
+    "nSceneId": 225,
+    "nX": 33,
+    "nY": 17,
+    "openDay": 0,
+    "sName": "十三陵1",
+    "zsLevel": 0
+  },
+  "154": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 154,
+    "nLevel": 40,
+    "nSceneId": 226,
+    "nX": 33,
+    "nY": 17,
+    "openDay": 0,
+    "sName": "十三陵2",
+    "zsLevel": 0
+  },
+  "155": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "CardLv": 2
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 155,
+    "nLevel": 45,
+    "nSceneId": 227,
+    "nX": 52,
+    "nY": 20,
+    "openDay": 0,
+    "sName": "太阳岛(绿卡特权)",
+    "zsLevel": 0
+  },
+  "156": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 156,
+    "nLevel": 45,
+    "nSceneId": 228,
+    "nX": 52,
+    "nY": 20,
+    "openDay": 0,
+    "sName": "太阳岛1",
+    "zsLevel": 0
+  },
+  "157": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 157,
+    "nLevel": 45,
+    "nSceneId": 229,
+    "nX": 52,
+    "nY": 20,
+    "openDay": 0,
+    "sName": "太阳岛2",
+    "zsLevel": 0
+  },
+  "158": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "CardLv": 2
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 158,
+    "nLevel": 0,
+    "nSceneId": 230,
+    "nX": 48,
+    "nY": 19,
+    "openDay": 0,
+    "sName": "木兰围场(绿卡特权)",
+    "zsLevel": 1
+  },
+  "159": {
+    "Consumelist": [
+      {
+        "count": 300,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 159,
+    "nLevel": 0,
+    "nSceneId": 231,
+    "nX": 48,
+    "nY": 19,
+    "openDay": 0,
+    "sName": "木兰围场1(绑金300)",
+    "zsLevel": 1
+  },
+  "160": {
+    "Consumelist": [
+      {
+        "count": 300,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 160,
+    "nLevel": 0,
+    "nSceneId": 232,
+    "nX": 48,
+    "nY": 19,
+    "openDay": 0,
+    "sName": "木兰围场2(绑金300)",
+    "zsLevel": 1
+  },
+  "161": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "CardLv": 2
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 161,
+    "nLevel": 0,
+    "nSceneId": 233,
+    "nX": 33,
+    "nY": 32,
+    "openDay": 0,
+    "sName": "兔耳岭(绿卡特权)",
+    "zsLevel": 2
+  },
+  "162": {
+    "Consumelist": [
+      {
+        "count": 300,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 162,
+    "nLevel": 0,
+    "nSceneId": 234,
+    "nX": 33,
+    "nY": 32,
+    "openDay": 0,
+    "sName": "兔耳岭1(绑金300)",
+    "zsLevel": 2
+  },
+  "163": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "CardLv": 2
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 163,
+    "nLevel": 0,
+    "nSceneId": 235,
+    "nX": 38,
+    "nY": 22,
+    "openDay": 0,
+    "sName": "落凤坡(绿卡特权)",
+    "zsLevel": 3
+  },
+  "164": {
+    "Consumelist": [
+      {
+        "count": 800,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 164,
+    "nLevel": 0,
+    "nSceneId": 236,
+    "nX": 35,
+    "nY": 25,
+    "openDay": 0,
+    "sName": "剑门关1(绑金800)",
+    "zsLevel": 4
+  },
+  "165": {
+    "Consumelist": [
+      {
+        "count": 50000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 165,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 237,
+    "nX": 37,
+    "nY": 13,
+    "openDay": 0,
+    "sName": "石头城(绑金5万)",
+    "zsLevel": 5
+  },
+  "166": {
+    "Consumelist": [
+      {
+        "count": 50000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 166,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 238,
+    "nX": 35,
+    "nY": 25,
+    "openDay": 0,
+    "sName": "沧浪亭(绑金5万)",
+    "zsLevel": 6
+  },
+  "167": {
+    "Consumelist": [
+      {
+        "count": 50000,
+        "type": 2
+      }
+    ],
+    "activityRequirement": {
+      "demonsconstLv": 0
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 167,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 239,
+    "nX": 35,
+    "nY": 17,
+    "openDay": 0,
+    "sName": "太行山(绑金5万)",
+    "suit": 1,
+    "zsLevel": 7
+  },
+  "168": {
+    "Consumelist": [
+      {
+        "count": 5000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 168,
+    "nLevel": 0,
+    "nSceneId": 240,
+    "nX": 48,
+    "nY": 19,
+    "openDay": 0,
+    "sName": "天涯海角(绑金5千)",
+    "zsLevel": 2
+  },
+  "169": {
+    "Consumelist": [
+      {
+        "count": 5000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 169,
+    "nLevel": 0,
+    "nSceneId": 241,
+    "nX": 48,
+    "nY": 19,
+    "openDay": 0,
+    "sName": "天涯海角2层(绑金5千)",
+    "zsLevel": 2
+  },
+  "170": {
+    "Consumelist": [
+      {
+        "count": 5000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 170,
+    "nLevel": 0,
+    "nSceneId": 242,
+    "nX": 35,
+    "nY": 25,
+    "openDay": 0,
+    "sName": "玉门关(绑金5千)",
+    "zsLevel": 3
+  },
+  "171": {
+    "Consumelist": [
+      {
+        "count": 5000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 171,
+    "nLevel": 0,
+    "nSceneId": 243,
+    "nX": 35,
+    "nY": 25,
+    "openDay": 0,
+    "sName": "玉门关2层(绑金5千)",
+    "zsLevel": 3
+  },
+  "172": {
+    "Consumelist": [
+      {
+        "count": 5000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 172,
+    "nLevel": 45,
+    "nSceneId": 244,
+    "nX": 35,
+    "nY": 17,
+    "openDay": 0,
+    "sName": "山海关(绑金5千)",
+    "zsLevel": 3
+  },
+  "173": {
+    "Consumelist": [
+      {
+        "count": 10000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 173,
+    "nLevel": 0,
+    "nSceneId": 245,
+    "nX": 35,
+    "nY": 17,
+    "openDay": 0,
+    "sName": "山海关2层(绑金1万)",
+    "zsLevel": 4
+  },
+  "174": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 174,
+    "nLevel": 0,
+    "nSceneId": 256,
+    "nX": 38,
+    "nY": 25,
+    "openDay": 0,
+    "sName": "前往天空之城",
+    "zsLevel": 1
+  },
+  "175": {
+    "Consumelist": [
+      {
+        "count": 20000,
+        "id": 2,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 175,
+    "nLevel": 0,
+    "nSceneId": 105,
+    "nX": 19,
+    "nY": 7,
+    "openDay": 0,
+    "sName": "石墓夺宝(绑金2万)",
+    "zsLevel": 0
+  },
+  "176": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 176,
+    "nLevel": 40,
+    "nSceneId": 257,
+    "nX": 33,
+    "nY": 17,
+    "openDay": 0,
+    "sName": "十三陵3",
+    "zsLevel": 0
+  },
+  "177": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 177,
+    "nLevel": 45,
+    "nSceneId": 258,
+    "nX": 52,
+    "nY": 20,
+    "openDay": 0,
+    "sName": "太阳岛3",
+    "zsLevel": 0
+  },
+  "178": {
+    "Consumelist": [
+      {
+        "count": 300,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 178,
+    "nLevel": 0,
+    "nSceneId": 259,
+    "nX": 48,
+    "nY": 19,
+    "openDay": 0,
+    "sName": "木兰围场3(绑金300)",
+    "zsLevel": 1
+  },
+  "179": {
+    "Consumelist": [
+      {
+        "count": 300,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 179,
+    "nLevel": 0,
+    "nSceneId": 260,
+    "nX": 33,
+    "nY": 32,
+    "openDay": 0,
+    "sName": "兔耳岭2(绑金300)",
+    "zsLevel": 2
+  },
+  "180": {
+    "Consumelist": [
+      {
+        "count": 300,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 180,
+    "nLevel": 0,
+    "nSceneId": 261,
+    "nX": 38,
+    "nY": 22,
+    "openDay": 0,
+    "sName": "落凤坡1(绑金300)",
+    "zsLevel": 3
+  },
+  "181": {
+    "Consumelist": [
+      {
+        "count": 800,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 181,
+    "nLevel": 0,
+    "nSceneId": 262,
+    "nX": 35,
+    "nY": 25,
+    "openDay": 0,
+    "sName": "剑门关2(绑金800)",
+    "zsLevel": 4
+  },
+  "182": {
+    "Consumelist": [
+      {
+        "count": 20000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 182,
+    "nLevel": 0,
+    "nSceneId": 263,
+    "nX": 17,
+    "nY": 34,
+    "openDay": 0,
+    "sName": "荒凉之地(绑金2万)",
+    "zsLevel": 4
+  },
+  "183": {
+    "activityRequirement": {
+      "CardLv": 3
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 183,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 264,
+    "nX": 54,
+    "nY": 41,
+    "openDay": 0,
+    "sName": "雪山陵墓(6转)",
+    "zsLevel": 6
+  },
+  "184": {
+    "Consumelist": [
+      {
+        "count": 50000,
+        "type": 2
+      }
+    ],
+    "activityRequirement": {
+      "demonsconstLv": 10,
+      "isRageconst": 1
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 184,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 255,
+    "nX": 15,
+    "nY": 34,
+    "openDay": 0,
+    "sName": "冰封之境(绑金5万)",
+    "zsLevel": 5
+  },
+  "185": {
+    "Consumelist": [
+      {
+        "count": 50000,
+        "type": 2
+      }
+    ],
+    "activityRequirement": {
+      "demonsconstLv": 15,
+      "isRageconst": 1
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 185,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 253,
+    "nX": 55,
+    "nY": 38,
+    "openDay": 0,
+    "sName": "冰封雪域(绑金5万)",
+    "zsLevel": 5
+  },
+  "186": {
+    "Consumelist": [
+      {
+        "count": 50000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 186,
+    "nLevel": 0,
+    "nSceneId": 265,
+    "nX": 27,
+    "nY": 29,
+    "openDay": 0,
+    "sName": "东关(绑金5万)",
+    "zsLevel": 4
+  },
+  "187": {
+    "Consumelist": [
+      {
+        "count": 50000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 187,
+    "nLevel": 0,
+    "nSceneId": 266,
+    "nX": 105,
+    "nY": 79,
+    "openDay": 0,
+    "sName": "西关(绑金5万)",
+    "zsLevel": 4
+  },
+  "188": {
+    "Consumelist": [
+      {
+        "count": 300,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 188,
+    "nLevel": 0,
+    "nSceneId": 267,
+    "nX": 48,
+    "nY": 19,
+    "openDay": 0,
+    "sName": "木兰围场4(绑金300)",
+    "zsLevel": 1
+  },
+  "189": {
+    "Consumelist": [
+      {
+        "count": 300,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 189,
+    "nLevel": 0,
+    "nSceneId": 268,
+    "nX": 48,
+    "nY": 19,
+    "openDay": 0,
+    "sName": "木兰围场5(绑金300)",
+    "zsLevel": 1
+  },
+  "190": {
+    "Consumelist": [
+      {
+        "count": 300,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 190,
+    "nLevel": 0,
+    "nSceneId": 269,
+    "nX": 33,
+    "nY": 32,
+    "openDay": 0,
+    "sName": "兔耳岭3(绑金300)",
+    "zsLevel": 2
+  },
+  "191": {
+    "Consumelist": [
+      {
+        "count": 300,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 191,
+    "nLevel": 0,
+    "nSceneId": 270,
+    "nX": 38,
+    "nY": 22,
+    "openDay": 0,
+    "sName": "落凤坡2(绑金300)",
+    "zsLevel": 3
+  },
+  "192": {
+    "Consumelist": [
+      {
+        "count": 300,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 192,
+    "nLevel": 0,
+    "nSceneId": 271,
+    "nX": 48,
+    "nY": 19,
+    "openDay": 0,
+    "sName": "木兰围场6(绑金300)",
+    "zsLevel": 1
+  },
+  "193": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "demonsconstLv": 23
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 193,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 272,
+    "nX": 23,
+    "nY": 18,
+    "openDay": 0,
+    "sName": "孤独之路1层(4转)",
+    "zsLevel": 4
+  },
+  "194": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "demonsconstLv": 32
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 194,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 273,
+    "nX": 23,
+    "nY": 18,
+    "openDay": 0,
+    "sName": "孤独之路2层(5转)",
+    "zsLevel": 5
+  },
+  "195": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "demonsconstLv": 42
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 195,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 274,
+    "nX": 23,
+    "nY": 18,
+    "openDay": 0,
+    "sName": "孤独之路3层(6转)",
+    "zsLevel": 6
+  },
+  "196": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "demonsconstLv": 42
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 196,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 275,
+    "nX": 23,
+    "nY": 18,
+    "openDay": 0,
+    "sName": "孤独之路4层(7转)",
+    "zsLevel": 7
+  },
+  "197": {
+    "Consumelist": [
+      {
+        "count": 50000,
+        "type": 2
+      }
+    ],
+    "activityRequirement": {
+      "CardLv": 2
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 197,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 276,
+    "nX": 37,
+    "nY": 56,
+    "openDay": 0,
+    "sName": "沉睡之地1层(4转)",
+    "zsLevel": 4
+  },
+  "198": {
+    "Consumelist": [
+      {
+        "count": 50000,
+        "type": 2
+      }
+    ],
+    "activityRequirement": {
+      "CardLv": 3
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 198,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 277,
+    "nX": 37,
+    "nY": 56,
+    "openDay": 0,
+    "sName": "沉睡之地2层(5转)",
+    "zsLevel": 5
+  },
+  "199": {
+    "Consumelist": [
+      {
+        "count": 50000,
+        "type": 2
+      }
+    ],
+    "activityRequirement": {
+      "CardLv": 3
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 199,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 278,
+    "nX": 37,
+    "nY": 56,
+    "openDay": 0,
+    "sName": "沉睡之地3层(6转)",
+    "zsLevel": 6
+  },
+  "200": {
+    "Consumelist": [
+      {
+        "count": 50000,
+        "type": 2
+      }
+    ],
+    "activityRequirement": {
+      "CardLv": 3
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 200,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 279,
+    "nX": 37,
+    "nY": 56,
+    "openDay": 0,
+    "sName": "沉睡之地4层(7转)",
+    "zsLevel": 7
+  },
+  "201": {
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 201,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 264,
+    "nX": 54,
+    "nY": 41,
+    "openDay": 0,
+    "sName": "雪山陵墓",
+    "zsLevel": 6
+  },
+  "202": {
+    "Consumelist": [
+      {
+        "count": 50000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 202,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 299,
+    "nX": 66,
+    "nY": 39,
+    "openDay": 0,
+    "sName": "潼关(绑金5万)",
+    "zsLevel": 4
+  },
+  "203": {
+    "Consumelist": [
+      {
+        "count": 50000,
+        "type": 2
+      }
+    ],
+    "activityRequirement": {
+      "demonsconstLv": 10
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 203,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 300,
+    "nX": 54,
+    "nY": 38,
+    "openDay": 0,
+    "sName": "祖玛道中殿(绑金5万)",
+    "zsLevel": 5
+  },
+  "204": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "CardLv": 3
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 204,
+    "nLevel": 0,
+    "nSceneId": 301,
+    "nX": 38,
+    "nY": 22,
+    "openDay": 0,
+    "sName": "落凤坡(蓝卡特权)",
+    "zsLevel": 3
+  },
+  "205": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "CardLv": 3
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 205,
+    "nLevel": 0,
+    "nSceneId": 302,
+    "nX": 35,
+    "nY": 25,
+    "openDay": 0,
+    "sName": "剑门关(蓝卡特权)",
+    "zsLevel": 4
+  },
+  "206": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 206,
+    "nLevel": 0,
+    "nSceneId": 250,
+    "nX": 32,
+    "nY": 16,
+    "openDay": 16,
+    "sName": "马卡鲁峰",
+    "zsLevel": 5
+  },
+  "207": {
+    "Consumelist": [],
+    "displayDay": 50,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 207,
+    "nLevel": 0,
+    "nSceneId": 251,
+    "nX": 15,
+    "nY": 34,
+    "openDay": 60,
+    "sName": "干城章嘉峰",
+    "zsLevel": 6
+  },
+  "208": {
+    "Consumelist": [],
+    "displayDay": 1,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 208,
+    "nLevel": 0,
+    "nSceneId": 303,
+    "nX": 27,
+    "nY": 16,
+    "openDay": 1,
+    "sName": "前往迷失之城(1转开服1天)",
+    "zsLevel": 1
+  },
+  "209": {
+    "Consumelist": [
+      {
+        "count": 50000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 209,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 304,
+    "nX": 11,
+    "nY": 17,
+    "openDay": 0,
+    "sName": "楼兰1层",
+    "suit": 2,
+    "zsLevel": 8
+  },
+  "210": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "demonsconstLv": 42
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 210,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 306,
+    "nX": 23,
+    "nY": 18,
+    "openDay": 0,
+    "sName": "沉默之路1层",
+    "zsLevel": 8
+  },
+  "211": {
+    "Consumelist": [
+      {
+        "count": 50000,
+        "type": 2
+      }
+    ],
+    "activityRequirement": {
+      "CardLv": 3
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 211,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 307,
+    "nX": 65,
+    "nY": 31,
+    "openDay": 0,
+    "sName": "昏睡之地1层",
+    "zsLevel": 8
+  },
+  "212": {
+    "Consumelist": [
+      {
+        "count": 300,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 212,
+    "nLevel": 0,
+    "nSceneId": 308,
+    "nX": 33,
+    "nY": 32,
+    "openDay": 0,
+    "sName": "兔耳岭4(绑金300)",
+    "zsLevel": 2
+  },
+  "213": {
+    "Consumelist": [
+      {
+        "count": 300,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 213,
+    "nLevel": 0,
+    "nSceneId": 309,
+    "nX": 33,
+    "nY": 32,
+    "openDay": 0,
+    "sName": "兔耳岭5(绑金300)",
+    "zsLevel": 2
+  },
+  "214": {
+    "Consumelist": [
+      {
+        "count": 300,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 214,
+    "nLevel": 0,
+    "nSceneId": 310,
+    "nX": 33,
+    "nY": 32,
+    "openDay": 0,
+    "sName": "兔耳岭6(绑金300)",
+    "zsLevel": 2
+  },
+  "215": {
+    "Consumelist": [],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 215,
+    "nLevel": 0,
+    "nSceneId": 313,
+    "nX": 15,
+    "nY": 13,
+    "openDay": 0,
+    "sName": "前往练功房",
+    "zsLevel": 0
+  },
+  "216": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "demonsconstLv": 42
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 216,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 320,
+    "nX": 23,
+    "nY": 18,
+    "openDay": 0,
+    "sName": "沉默之路2层",
+    "zsLevel": 9
+  },
+  "217": {
+    "Consumelist": [
+      {
+        "count": 50000,
+        "type": 2
+      }
+    ],
+    "activityRequirement": {
+      "CardLv": 3
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 217,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 321,
+    "nX": 65,
+    "nY": 31,
+    "openDay": 0,
+    "sName": "昏睡之地2层",
+    "zsLevel": 9
+  },
+  "218": {
+    "Consumelist": [
+      {
+        "count": 50000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 218,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 318,
+    "nX": 74,
+    "nY": 10,
+    "openDay": 0,
+    "sName": "龙门窟1层",
+    "suit": 3,
+    "zsLevel": 9
+  },
+  "219": {
+    "Consumelist": [
+      {
+        "count": 300,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 219,
+    "nLevel": 0,
+    "nSceneId": 327,
+    "nX": 38,
+    "nY": 22,
+    "openDay": 0,
+    "sName": "落凤坡3(绑金300)",
+    "zsLevel": 3
+  },
+  "220": {
+    "Consumelist": [
+      {
+        "count": 300,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 220,
+    "nLevel": 0,
+    "nSceneId": 328,
+    "nX": 38,
+    "nY": 22,
+    "openDay": 0,
+    "sName": "落凤坡4(绑金300)",
+    "zsLevel": 3
+  },
+  "221": {
+    "Consumelist": [
+      {
+        "count": 800,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 221,
+    "nLevel": 0,
+    "nSceneId": 329,
+    "nX": 35,
+    "nY": 25,
+    "openDay": 0,
+    "sName": "剑门关3(绑金800)",
+    "zsLevel": 4
+  },
+  "222": {
+    "Consumelist": [
+      {
+        "count": 800,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 222,
+    "nLevel": 0,
+    "nSceneId": 330,
+    "nX": 35,
+    "nY": 25,
+    "openDay": 0,
+    "sName": "剑门关4(绑金800)",
+    "zsLevel": 4
+  },
+  "223": {
+    "Consumelist": [
+      {
+        "count": 800,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 223,
+    "nLevel": 0,
+    "nSceneId": 331,
+    "nX": 35,
+    "nY": 25,
+    "openDay": 0,
+    "sName": "剑门关5(绑金800)",
+    "zsLevel": 4
+  },
+  "224": {
+    "Consumelist": [
+      {
+        "count": 50000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 224,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 332,
+    "nX": 66,
+    "nY": 39,
+    "openDay": 0,
+    "sName": "潼关2(绑金5万)",
+    "zsLevel": 4
+  },
+  "225": {
+    "Consumelist": [
+      {
+        "count": 50000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 225,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 333,
+    "nX": 66,
+    "nY": 39,
+    "openDay": 0,
+    "sName": "潼关3(绑金5万)",
+    "zsLevel": 4
+  },
+  "226": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "demonsconstLv": 45
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 226,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 334,
+    "nX": 23,
+    "nY": 18,
+    "openDay": 0,
+    "sName": "沉默之路3层",
+    "zsLevel": 11
+  },
+  "227": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "demonsconstLv": 45
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 227,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 335,
+    "nX": 23,
+    "nY": 18,
+    "openDay": 0,
+    "sName": "沉默之路4层",
+    "zsLevel": 13
+  },
+  "228": {
+    "Consumelist": [
+      {
+        "count": 50000,
+        "type": 2
+      }
+    ],
+    "activityRequirement": {
+      "CardLv": 4
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 228,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 336,
+    "nX": 65,
+    "nY": 31,
+    "openDay": 0,
+    "sName": "昏睡之地3层",
+    "zsLevel": 11
+  },
+  "229": {
+    "Consumelist": [
+      {
+        "count": 50000,
+        "type": 2
+      }
+    ],
+    "activityRequirement": {
+      "CardLv": 4
+    },
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 229,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 337,
+    "nX": 65,
+    "nY": 31,
+    "openDay": 0,
+    "sName": "昏睡之地4层",
+    "zsLevel": 13
+  },
+  "230": {
+    "Consumelist": [
+      {
+        "count": 50000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 230,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 338,
+    "nX": 55,
+    "nY": 38,
+    "openDay": 0,
+    "sName": "玉龙山1层",
+    "suit": 4,
+    "zsLevel": 11
+  },
+  "231": {
+    "Consumelist": [
+      {
+        "count": 50000,
+        "type": 2
+      }
+    ],
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 231,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 342,
+    "nX": 105,
+    "nY": 79,
+    "openDay": 0,
+    "sName": "风陵渡1层",
+    "suit": 5,
+    "zsLevel": 13
+  },
+  "232": {
+    "Consumelist": [],
+    "displayDay": 999,
+    "displayLevel": 0,
+    "displayZsLevel": 999,
+    "id": 232,
+    "nLevel": 999,
+    "nSceneId": 303,
+    "nX": 27,
+    "nY": 16,
+    "openDay": 999,
+    "sName": "前往迷失之城(1转进入)",
+    "zsLevel": 1
+  },
+  "233": {
+    "Consumelist": [],
+    "activityRequirement": {
+      "demonsconstLv": 45
+    },
+    "displayDay": 95,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 233,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 347,
+    "nX": 23,
+    "nY": 18,
+    "openDay": 95,
+    "sName": "沉默之路5层",
+    "zsLevel": 15
+  },
+  "234": {
+    "Consumelist": [
+      {
+        "count": 50000,
+        "type": 2
+      }
+    ],
+    "activityRequirement": {
+      "CardLv": 5
+    },
+    "displayDay": 95,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 234,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 348,
+    "nX": 65,
+    "nY": 31,
+    "openDay": 95,
+    "sName": "昏睡之地5层",
+    "zsLevel": 15
+  },
+  "235": {
+    "Consumelist": [
+      {
+        "count": 50000,
+        "type": 2
+      }
+    ],
+    "displayDay": 1,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 235,
+    "jionmsg": "|C:0x0066ff&T:%s|进入地图|C:0xff7700&T:%s|",
+    "nLevel": 0,
+    "nSceneId": 349,
+    "nX": 23,
+    "nY": 15,
+    "openDay": 1,
+    "sName": "天池1层",
+    "suit": 6,
+    "zsLevel": 0
+  },
+  "236": {
+    "Consumelist": [
+      {
+        "count": 20000,
+        "type": 2
+      }
+    ],
+    "dayRecharge": 9,
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 236,
+    "nLevel": 0,
+    "nSceneId": 353,
+    "nX": 27,
+    "nY": 29,
+    "openDay": 0,
+    "sName": "寻宝秘境1层(橙卡)",
+    "zsLevel": 2
+  },
+  "237": {
+    "Consumelist": [
+      {
+        "count": 20000,
+        "type": 2
+      }
+    ],
+    "dayRecharge": 12,
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 237,
+    "nLevel": 0,
+    "nSceneId": 354,
+    "nX": 27,
+    "nY": 29,
+    "openDay": 0,
+    "sName": "寻宝秘境2层(橙星)",
+    "zsLevel": 4
+  },
+  "238": {
+    "Consumelist": [
+      {
+        "count": 20000,
+        "type": 2
+      }
+    ],
+    "dayRecharge": 13,
+    "displayDay": 0,
+    "displayLevel": 0,
+    "displayZsLevel": 0,
+    "id": 238,
+    "nLevel": 0,
+    "nSceneId": 355,
+    "nX": 27,
+    "nY": 29,
+    "openDay": 0,
+    "sName": "寻宝秘境3层(橙月)",
+    "zsLevel": 6
+  }
+}

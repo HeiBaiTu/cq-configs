@@ -1,0 +1,226 @@
+{
+  "0": {
+    "1": {
+      "attr": [
+        {
+          "type": 77,
+          "value": 2
+        }
+      ],
+      "level": 1,
+      "pos": 0,
+      "text": "|C:0xe5ddcf&T:所有神魔均达||C:0x28ee01&T:1||C:0xe5ddcf&T:级攻魔道上限+||C:0x1affff&T:2|"
+    },
+    "2": {
+      "attr": [
+        {
+          "type": 77,
+          "value": 5
+        }
+      ],
+      "level": 2,
+      "pos": 0,
+      "text": "|C:0xe5ddcf&T:所有神魔均达||C:0x28ee01&T:2||C:0xe5ddcf&T:级攻魔道上限+||C:0x1affff&T:5|"
+    },
+    "3": {
+      "attr": [
+        {
+          "type": 77,
+          "value": 8
+        }
+      ],
+      "level": 3,
+      "pos": 0,
+      "text": "|C:0xe5ddcf&T:所有神魔均达||C:0x28ee01&T:3||C:0xe5ddcf&T:级攻魔道上限+||C:0x1affff&T:8|"
+    },
+    "4": {
+      "attr": [
+        {
+          "type": 77,
+          "value": 11
+        }
+      ],
+      "level": 4,
+      "pos": 0,
+      "text": "|C:0xe5ddcf&T:所有神魔均达||C:0x28ee01&T:4||C:0xe5ddcf&T:级攻魔道上限+||C:0x1affff&T:11|"
+    },
+    "5": {
+      "attr": [
+        {
+          "type": 77,
+          "value": 15
+        }
+      ],
+      "level": 5,
+      "pos": 0,
+      "text": "|C:0xe5ddcf&T:所有神魔均达||C:0x28ee01&T:5||C:0xe5ddcf&T:级攻魔道上限+||C:0x1affff&T:15|"
+    },
+    "6": {
+      "attr": [
+        {
+          "type": 77,
+          "value": 20
+        }
+      ],
+      "level": 6,
+      "pos": 0,
+      "text": "|C:0xe5ddcf&T:所有神魔均达||C:0x28ee01&T:6||C:0xe5ddcf&T:级攻魔道上限+||C:0x1affff&T:20|"
+    },
+    "7": {
+      "attr": [
+        {
+          "type": 77,
+          "value": 26
+        }
+      ],
+      "level": 7,
+      "pos": 0,
+      "text": "|C:0xe5ddcf&T:所有神魔均达||C:0x28ee01&T:7||C:0xe5ddcf&T:级攻魔道上限+||C:0x1affff&T:26|"
+    },
+    "8": {
+      "attr": [
+        {
+          "type": 77,
+          "value": 33
+        }
+      ],
+      "level": 8,
+      "pos": 0,
+      "text": "|C:0xe5ddcf&T:所有神魔均达||C:0x28ee01&T:8||C:0xe5ddcf&T:级攻魔道上限+||C:0x1affff&T:33|"
+    },
+    "9": {
+      "attr": [
+        {
+          "type": 77,
+          "value": 41
+        }
+      ],
+      "level": 9,
+      "pos": 0,
+      "text": "|C:0xe5ddcf&T:所有神魔均达||C:0x28ee01&T:9||C:0xe5ddcf&T:级攻魔道上限+||C:0x1affff&T:41|"
+    },
+    "10": {
+      "attr": [
+        {
+          "type": 77,
+          "value": 50
+        }
+      ],
+      "level": 10,
+      "pos": 0,
+      "text": "|C:0xe5ddcf&T:所有神魔均达||C:0x28ee01&T:10||C:0xe5ddcf&T:级攻魔道上限+||C:0x1affff&T:50|"
+    }
+  },
+  "1": {
+    "1": {
+      "attr": [
+        {
+          "type": 77,
+          "value": 5
+        }
+      ],
+      "level": 1,
+      "pos": 1,
+      "text": "|C:0xe5ddcf&T:最高为||C:0x28ee01&T:1||C:0xe5ddcf&T:级攻魔道上限+||C:0x1affff&T:5|"
+    },
+    "2": {
+      "attr": [
+        {
+          "type": 77,
+          "value": 10
+        }
+      ],
+      "level": 2,
+      "pos": 1,
+      "text": "|C:0xe5ddcf&T:最高为||C:0x28ee01&T:2||C:0xe5ddcf&T:级攻魔道上限+||C:0x1affff&T:10|"
+    },
+    "3": {
+      "attr": [
+        {
+          "type": 77,
+          "value": 15
+        }
+      ],
+      "level": 3,
+      "pos": 1,
+      "text": "|C:0xe5ddcf&T:最高为||C:0x28ee01&T:3||C:0xe5ddcf&T:级攻魔道上限+||C:0x1affff&T:15|"
+    },
+    "4": {
+      "attr": [
+        {
+          "type": 77,
+          "value": 20
+        }
+      ],
+      "level": 4,
+      "pos": 1,
+      "text": "|C:0xe5ddcf&T:最高为||C:0x28ee01&T:4||C:0xe5ddcf&T:级攻魔道上限+||C:0x1affff&T:20|"
+    },
+    "5": {
+      "attr": [
+        {
+          "type": 77,
+          "value": 25
+        }
+      ],
+      "level": 5,
+      "pos": 1,
+      "text": "|C:0xe5ddcf&T:最高为||C:0x28ee01&T:5||C:0xe5ddcf&T:级攻魔道上限+||C:0x1affff&T:25|"
+    },
+    "6": {
+      "attr": [
+        {
+          "type": 77,
+          "value": 30
+        }
+      ],
+      "level": 6,
+      "pos": 1,
+      "text": "|C:0xe5ddcf&T:最高为||C:0x28ee01&T:6||C:0xe5ddcf&T:级攻魔道上限+||C:0x1affff&T:30|"
+    },
+    "7": {
+      "attr": [
+        {
+          "type": 77,
+          "value": 35
+        }
+      ],
+      "level": 7,
+      "pos": 1,
+      "text": "|C:0xe5ddcf&T:最高为||C:0x28ee01&T:7||C:0xe5ddcf&T:级攻魔道上限+||C:0x1affff&T:35|"
+    },
+    "8": {
+      "attr": [
+        {
+          "type": 77,
+          "value": 40
+        }
+      ],
+      "level": 8,
+      "pos": 1,
+      "text": "|C:0xe5ddcf&T:最高为||C:0x28ee01&T:8||C:0xe5ddcf&T:级攻魔道上限+||C:0x1affff&T:40|"
+    },
+    "9": {
+      "attr": [
+        {
+          "type": 77,
+          "value": 45
+        }
+      ],
+      "level": 9,
+      "pos": 1,
+      "text": "|C:0xe5ddcf&T:最高为||C:0x28ee01&T:9||C:0xe5ddcf&T:级攻魔道上限+||C:0x1affff&T:45|"
+    },
+    "10": {
+      "attr": [
+        {
+          "type": 77,
+          "value": 50
+        }
+      ],
+      "level": 10,
+      "pos": 1,
+      "text": "|C:0xe5ddcf&T:最高为||C:0x28ee01&T:10||C:0xe5ddcf&T:级攻魔道上限+||C:0x1affff&T:50|"
+    }
+  }
+}

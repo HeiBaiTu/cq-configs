@@ -1,0 +1,100 @@
+{
+  "1": {
+    "Id": 1,
+    "activityid": 5,
+    "name": "膜拜",
+    "sortact": 2,
+    "source": "act_icon2",
+    "timeType": 2
+  },
+  "2": {
+    "Id": 2,
+    "activityid": 7,
+    "mainIcon": "icon_activity7",
+    "name": "地下夺宝",
+    "sortact": 3,
+    "source": "act_icon7",
+    "timeType": 3
+  },
+  "3": {
+    "Id": 3,
+    "activityid": 8,
+    "mainIcon": "icon_activity8",
+    "name": "石墓夺宝",
+    "sortact": 4,
+    "source": "act_icon8",
+    "timeType": 3
+  },
+  "4": {
+    "Id": 4,
+    "activityid": 11,
+    "mainIcon": "icon_activity6",
+    "name": "世界boss",
+    "sortact": 5,
+    "source": "act_icon6",
+    "timeType": 3
+  },
+  "5": {
+    "Id": 5,
+    "activityid": 9,
+    "mainIcon": "icon_activity9",
+    "name": "散财鹿",
+    "sortact": 6,
+    "source": "act_icon9",
+    "timeType": 3
+  },
+  "6": {
+    "Id": 6,
+    "actdesc": "每周二、六19:45",
+    "activityid": 4,
+    "herald": 1,
+    "mainIcon": "icon_activity3",
+    "name": "竞技大乱斗",
+    "sortact": 7,
+    "source": "act_icon3",
+    "timeType": 4
+  },
+  "7": {
+    "Id": 7,
+    "actdesc": "每周四、日19:45",
+    "activityid": 12,
+    "herald": 1,
+    "mainIcon": "icon_activity4",
+    "name": "独闯天涯",
+    "sortact": 8,
+    "source": "act_icon4",
+    "timeType": 4
+  },
+  "8": {
+    "Id": 8,
+    "actdesc": "每周一、三、五",
+    "activityid": 14,
+    "herald": 1,
+    "mainIcon": "icon_activity5",
+    "name": "夜战沃玛三",
+    "sortact": 9,
+    "source": "act_icon5",
+    "timeType": 4
+  },
+  "9": {
+    "Id": 9,
+    "activityid": 35,
+    "closelimit": {
+      "openDay": 1
+    },
+    "mainIcon": "icon_activity6",
+    "name": "世界boss",
+    "sortact": 5,
+    "source": "act_icon6",
+    "timeType": 3
+  },
+  "10": {
+    "Id": 10,
+    "activityid": 70,
+    "mainIcon": "icon_cydzb",
+    "name": "苍月大灾变",
+    "sortact": 5,
+    "source": "act_icon6",
+    "timeType": 3
+  }
+}

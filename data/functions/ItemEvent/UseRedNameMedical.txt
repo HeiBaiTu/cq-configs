@@ -1,0 +1,51 @@
+--红名药水
+
+----#include "data\functions\ItemEvent\ItemUseCount.txt" once
+--#include "data\functions\GlobalMiscExpand\GlobalMisc.txt" once
+--#include "data\config\item\RedNameMedical.txt" once
+
+
+function UseRedNameMedical(sysarg, count, itemidx, itemPtr,ItemTable, delType, param)
+	--local lastTimes, maxTimes = getItemUseCount(sysarg, itemidx)
+	--if lastTimes <= 0 then
+	--    local MaxDailyUseCircleSoulItemTimes = ItemUseCountCfg[itemidx].dailyUseLimit
+	--	Actor.sendTipmsg( sysarg, OldLang.Script.EscortTips030, ttFlyTip )
+	--	return
+	--end
+	local nPkValue = Actor.getIntProperty(sysarg,PROP_ACTOR_PK_VALUE)
+	if nPkValue <= 0 then
+		Actor.sendTipmsg( sysarg, OldLang.Script.UseRedNameMedical001, ttFlyTip )
+		--print(nPkValue)
+		return
+	end
+	--print(count..","..nPkValue)
+	local useCount = math.ceil(nPkValue/ItemTable.value)
+	if useCount > count then
+		useCount = count
+	end
+	--print(useCount)
+	local logId, logStr = 328, OldLang.Log.RedNameMedical
+	if Actor.removeItemByPtr(sysarg, itemPtr, useCount, true, logStr, logId) > 0 then
+		--if AddDailyItemUseCount(sysarg, itemidx, 1)	then		--次数增加，并发送客户端
+		local pkValue = nPkValue-useCount*ItemTable.value
+		if pkValue < 0 then
+			pkValue = 0
+		end
+		Actor.setUIntProperty(sysarg, PROP_ACTOR_PK_VALUE, pkValue)
+		local changeValue = nPkValue - pkValue
+		Actor.sendTipmsg( sysarg, string.format(OldLang.Script.UseRedNameMedical002, changeValue)  ,ttTipmsgWindow )
+		return true,useCount
+		--Actor.sendTipmsg( sysarg, string.format(OldLang.Script.EscortTips031, lastTimes-1), ttFlyTip )
+		--end
+	end
+
+end
+
+function UseRedNameMedicalInit(sysarg)
+    for i = 1,table.getn(RedNameMedicalConfig.MedicalList) do
+	    local x = RedNameMedicalConfig.MedicalList[i]
+	    GlobalItemFn[x.itemId] = { func = UseRedNameMedical, params = x }
+    end
+end
+
+table.insert(InitFnTable, UseRedNameMedicalInit)

@@ -1,0 +1,194 @@
+{
+  "10005": {
+    "1": {
+      "GiftNums": 2,
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 302,
+          "type": 0
+        },
+        {
+          "count": 1,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 2,
+          "id": 1051,
+          "type": 0
+        },
+        {
+          "count": 2,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 2,
+          "id": 853,
+          "type": 0
+        }
+      ],
+      "Id": 10005,
+      "isCheckTime": 1,
+      "name": "每日签到"
+    },
+    "2": {
+      "GiftNums": 5,
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 302,
+          "type": 0
+        },
+        {
+          "count": 1,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 5,
+          "id": 1051,
+          "type": 0
+        },
+        {
+          "count": 2,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 2,
+          "id": 854,
+          "type": 0
+        }
+      ],
+      "Id": 10005,
+      "isCheckTime": 1,
+      "name": "每日签到"
+    },
+    "3": {
+      "GiftNums": 10,
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 302,
+          "type": 0
+        },
+        {
+          "count": 2,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 10,
+          "id": 1051,
+          "type": 0
+        },
+        {
+          "count": 2,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 1,
+          "id": 269,
+          "type": 0
+        }
+      ],
+      "Id": 10005,
+      "isCheckTime": 1,
+      "name": "每日签到"
+    },
+    "4": {
+      "GiftNums": 18,
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 302,
+          "type": 0
+        },
+        {
+          "count": 3,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 18,
+          "id": 1051,
+          "type": 0
+        },
+        {
+          "count": 3,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 1,
+          "id": 269,
+          "type": 0
+        }
+      ],
+      "Id": 10005,
+      "isCheckTime": 1,
+      "name": "每日签到"
+    },
+    "5": {
+      "GiftNums": 26,
+      "GiftTable": [
+        {
+          "count": 1,
+          "id": 302,
+          "type": 0
+        },
+        {
+          "count": 3,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        },
+        {
+          "count": 26,
+          "id": 1051,
+          "type": 0
+        },
+        {
+          "count": 3,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 10,
+          "id": 3,
+          "type": 3
+        }
+      ],
+      "Id": 10005,
+      "isCheckTime": 1,
+      "name": "每日签到"
+    }
+  }
+}

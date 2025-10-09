@@ -1,0 +1,1093 @@
+{
+  "1": {
+    "funcType": 1,
+    "id": 1,
+    "param1": 6,
+    "param2": 1
+  },
+  "2": {
+    "funcType": 1,
+    "id": 2,
+    "param1": 6,
+    "param2": 1
+  },
+  "3": {
+    "funcType": 1,
+    "id": 3,
+    "param1": 6,
+    "param2": 1
+  },
+  "4": {
+    "funcType": 1,
+    "id": 4,
+    "param1": 3,
+    "param2": 1
+  },
+  "5": {
+    "funcType": 1,
+    "id": 5,
+    "param1": 4,
+    "param2": 1
+  },
+  "6": {
+    "funcType": 3,
+    "id": 6,
+    "param1": [
+      1
+    ]
+  },
+  "7": {
+    "funcType": 3,
+    "id": 7,
+    "param1": [
+      14,
+      11,
+      12,
+      16,
+      3,
+      4,
+      5,
+      6,
+      8,
+      9,
+      10,
+      7
+    ]
+  },
+  "8": {
+    "funcType": 3,
+    "id": 8,
+    "param1": [
+      13,
+      14,
+      15
+    ]
+  },
+  "9": {
+    "funcType": 3,
+    "id": 9,
+    "param1": [
+      13,
+      16,
+      18,
+      17,
+      20,
+      19,
+      21
+    ]
+  },
+  "10": {
+    "funcType": 3,
+    "id": 10,
+    "param1": [
+      22,
+      23
+    ]
+  },
+  "11": {
+    "funcType": 3,
+    "id": 11,
+    "param1": [
+      14
+    ]
+  },
+  "12": {
+    "funcType": 3,
+    "id": 12,
+    "param1": [
+      13,
+      31
+    ]
+  },
+  "13": {
+    "funcType": 3,
+    "id": 13,
+    "param1": [
+      13,
+      30
+    ]
+  },
+  "14": {
+    "funcType": 3,
+    "id": 14,
+    "param1": [
+      14,
+      32,
+      33,
+      34
+    ]
+  },
+  "15": {
+    "funcType": 2,
+    "id": 15,
+    "param1": 16,
+    "param2": 1,
+    "param3": [
+      {
+        "consume": {
+          "count": 100000,
+          "type": 2
+        },
+        "limitday": 2,
+        "pkval": 30
+      },
+      {
+        "consume": {
+          "count": 20,
+          "type": 4
+        },
+        "limitday": -1,
+        "pkval": 100
+      }
+    ]
+  },
+  "16": {
+    "funcType": 3,
+    "id": 16,
+    "param1": [
+      35,
+      36,
+      37
+    ]
+  },
+  "17": {
+    "funcType": 3,
+    "id": 17,
+    "param1": [
+      38,
+      39
+    ]
+  },
+  "18": {
+    "funcType": 3,
+    "id": 18,
+    "param1": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ]
+  },
+  "19": {
+    "funcType": 3,
+    "id": 19,
+    "param1": [
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55
+    ]
+  },
+  "20": {
+    "funcType": 3,
+    "id": 20,
+    "param1": [
+      56,
+      57,
+      58
+    ]
+  },
+  "21": {
+    "funcType": 3,
+    "id": 21,
+    "param1": [
+      59,
+      60,
+      61
+    ]
+  },
+  "22": {
+    "funcType": 3,
+    "id": 22,
+    "param1": [
+      62,
+      63,
+      64,
+      65,
+      66,
+      67
+    ]
+  },
+  "23": {
+    "funcType": 3,
+    "id": 23,
+    "param1": [
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80
+    ]
+  },
+  "24": {
+    "funcType": 3,
+    "id": 24,
+    "param1": [
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91
+    ]
+  },
+  "25": {
+    "funcType": 3,
+    "id": 25,
+    "param1": [
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103
+    ]
+  },
+  "26": {
+    "funcType": 3,
+    "id": 26,
+    "param1": [
+      104,
+      105,
+      106
+    ]
+  },
+  "27": {
+    "funcType": 3,
+    "id": 27,
+    "param1": [
+      107,
+      108,
+      109,
+      110,
+      111
+    ]
+  },
+  "28": {
+    "funcType": 3,
+    "id": 28,
+    "param1": [
+      112,
+      113,
+      114,
+      115,
+      116,
+      117
+    ]
+  },
+  "29": {
+    "funcType": 2,
+    "id": 29,
+    "param1": [
+      18
+    ]
+  },
+  "30": {
+    "funcType": 3,
+    "id": 30,
+    "param1": [
+      121,
+      122
+    ]
+  },
+  "31": {
+    "funcType": 3,
+    "id": 31,
+    "param1": [
+      122
+    ]
+  },
+  "32": {
+    "funcType": 5,
+    "id": 32,
+    "param1": 1,
+    "param2": 6
+  },
+  "33": {
+    "funcType": 5,
+    "id": 33,
+    "param1": 2,
+    "param2": 5
+  },
+  "34": {
+    "funcType": 5,
+    "id": 34,
+    "param1": 3,
+    "param2": 6
+  },
+  "35": {
+    "funcType": 5,
+    "id": 35,
+    "param1": 4,
+    "param2": 5
+  },
+  "36": {
+    "funcType": 4,
+    "id": 36,
+    "param1": 1,
+    "param2": 101
+  },
+  "37": {
+    "funcType": 4,
+    "id": 37,
+    "param1": 1,
+    "param2": 102
+  },
+  "38": {
+    "funcType": 4,
+    "id": 38,
+    "param1": 2,
+    "param2": 201
+  },
+  "39": {
+    "funcType": 4,
+    "id": 39,
+    "param1": 2,
+    "param2": 202
+  },
+  "40": {
+    "funcType": 4,
+    "id": 40,
+    "param1": 3,
+    "param2": 301
+  },
+  "41": {
+    "funcType": 4,
+    "id": 41,
+    "param1": 10003,
+    "param2": 303
+  },
+  "42": {
+    "funcType": 4,
+    "id": 42,
+    "param1": 10004,
+    "param2": 401
+  },
+  "43": {
+    "funcType": 4,
+    "id": 43,
+    "param1": 10004,
+    "param2": 403
+  },
+  "44": {
+    "funcType": 4,
+    "id": 44,
+    "param1": 10005,
+    "param2": 501
+  },
+  "45": {
+    "funcType": 4,
+    "id": 45,
+    "param1": 10005,
+    "param2": 502
+  },
+  "46": {
+    "funcType": 4,
+    "id": 46,
+    "param1": 10006,
+    "param2": 601
+  },
+  "47": {
+    "funcType": 4,
+    "id": 47,
+    "param1": 10006,
+    "param2": 602
+  },
+  "48": {
+    "funcType": 4,
+    "id": 48,
+    "param1": 10007,
+    "param2": 701
+  },
+  "49": {
+    "funcType": 4,
+    "id": 49,
+    "param1": 10007,
+    "param2": 702
+  },
+  "50": {
+    "funcType": 4,
+    "id": 50,
+    "param1": 10008,
+    "param2": 801
+  },
+  "51": {
+    "funcType": 4,
+    "id": 51,
+    "param1": 10008,
+    "param2": 802
+  },
+  "52": {
+    "funcType": 4,
+    "id": 52,
+    "param1": 10009,
+    "param2": 901
+  },
+  "53": {
+    "funcType": 4,
+    "id": 53,
+    "param1": 10009,
+    "param2": 903
+  },
+  "54": {
+    "funcType": 4,
+    "id": 54,
+    "param1": 10010,
+    "param2": 1001
+  },
+  "55": {
+    "funcType": 4,
+    "id": 55,
+    "param1": 10010,
+    "param2": 1003
+  },
+  "56": {
+    "funcType": 4,
+    "id": 56,
+    "param1": 10011,
+    "param2": 1101
+  },
+  "57": {
+    "funcType": 4,
+    "id": 57,
+    "param1": 10011,
+    "param2": 1103
+  },
+  "58": {
+    "funcType": 4,
+    "id": 58,
+    "param1": 10012,
+    "param2": 1201
+  },
+  "59": {
+    "funcType": 4,
+    "id": 59,
+    "param1": 10012,
+    "param2": 1203
+  },
+  "60": {
+    "funcType": 4,
+    "id": 60,
+    "param1": 10017,
+    "param2": 1701
+  },
+  "61": {
+    "funcType": 4,
+    "id": 61,
+    "param1": 10017,
+    "param2": 1703
+  },
+  "66": {
+    "funcType": 3,
+    "id": 66,
+    "param1": [
+      123,
+      124,
+      125,
+      126
+    ]
+  },
+  "67": {
+    "funcType": 3,
+    "id": 67,
+    "param1": [
+      127,
+      128,
+      129,
+      130
+    ]
+  },
+  "68": {
+    "funcType": 3,
+    "id": 68,
+    "param1": [
+      131,
+      132,
+      133,
+      134
+    ]
+  },
+  "69": {
+    "funcType": 3,
+    "id": 69,
+    "param1": [
+      135,
+      136,
+      137,
+      138
+    ]
+  },
+  "70": {
+    "funcType": 3,
+    "id": 70,
+    "param1": [
+      139,
+      140,
+      141,
+      142
+    ]
+  },
+  "71": {
+    "funcType": 3,
+    "id": 71,
+    "param1": [
+      143
+    ]
+  },
+  "72": {
+    "funcType": 5,
+    "id": 72,
+    "param1": 5,
+    "param2": 5
+  },
+  "73": {
+    "funcType": 5,
+    "id": 73,
+    "param1": 6,
+    "param2": 6
+  },
+  "74": {
+    "funcType": 1,
+    "id": 74,
+    "param1": 6,
+    "param2": 1
+  },
+  "75": {
+    "funcType": 1,
+    "id": 75,
+    "param1": 6,
+    "param2": 1
+  },
+  "76": {
+    "funcType": 1,
+    "id": 76,
+    "param1": 6,
+    "param2": 1
+  },
+  "77": {
+    "funcType": 1,
+    "id": 77,
+    "param1": 6,
+    "param2": 1
+  },
+  "78": {
+    "funcType": 1,
+    "id": 78,
+    "param1": 6,
+    "param2": 1
+  },
+  "79": {
+    "funcType": 1,
+    "id": 79,
+    "param1": 6,
+    "param2": 1
+  },
+  "80": {
+    "funcType": 1,
+    "id": 80,
+    "param1": 6,
+    "param2": 1
+  },
+  "81": {
+    "funcType": 1,
+    "id": 81,
+    "param1": 6,
+    "param2": 1
+  },
+  "82": {
+    "funcType": 1,
+    "id": 82,
+    "param1": 6,
+    "param2": 1
+  },
+  "83": {
+    "funcType": 1,
+    "id": 83,
+    "param1": 6,
+    "param2": 1
+  },
+  "84": {
+    "funcType": 1,
+    "id": 84,
+    "param1": 6,
+    "param2": 1
+  },
+  "85": {
+    "funcType": 1,
+    "id": 85,
+    "param1": 6,
+    "param2": 1
+  },
+  "86": {
+    "funcType": 1,
+    "id": 86,
+    "param1": 6,
+    "param2": 1
+  },
+  "87": {
+    "funcType": 1,
+    "id": 87,
+    "param1": 6,
+    "param2": 1
+  },
+  "88": {
+    "funcType": 1,
+    "id": 88,
+    "param1": 6,
+    "param2": 1
+  },
+  "89": {
+    "funcType": 1,
+    "id": 89,
+    "param1": 6,
+    "param2": 1
+  },
+  "90": {
+    "funcType": 1,
+    "id": 90,
+    "param1": 6,
+    "param2": 1
+  },
+  "91": {
+    "funcType": 1,
+    "id": 91,
+    "param1": 6,
+    "param2": 1
+  },
+  "92": {
+    "funcType": 1,
+    "id": 92,
+    "param1": 6,
+    "param2": 1
+  },
+  "93": {
+    "funcType": 1,
+    "id": 93,
+    "param1": 6,
+    "param2": 1
+  },
+  "94": {
+    "funcType": 1,
+    "id": 94,
+    "param1": 6,
+    "param2": 1
+  },
+  "95": {
+    "funcType": 1,
+    "id": 95,
+    "param1": 6,
+    "param2": 1
+  },
+  "96": {
+    "funcType": 1,
+    "id": 96,
+    "param1": 6,
+    "param2": 1
+  },
+  "97": {
+    "funcType": 1,
+    "id": 97,
+    "param1": 6,
+    "param2": 1
+  },
+  "98": {
+    "funcType": 4,
+    "id": 98,
+    "param1": 4,
+    "param2": 401
+  },
+  "99": {
+    "funcType": 3,
+    "id": 99,
+    "param1": [
+      144,
+      145,
+      146,
+      147
+    ]
+  },
+  "100": {
+    "funcType": 3,
+    "id": 100,
+    "param1": [
+      148,
+      149,
+      150,
+      151
+    ]
+  },
+  "101": {
+    "funcType": 3,
+    "id": 101,
+    "param1": [
+      152,
+      153,
+      154,
+      176
+    ]
+  },
+  "102": {
+    "funcType": 3,
+    "id": 102,
+    "param1": [
+      155,
+      156,
+      157,
+      177
+    ]
+  },
+  "103": {
+    "funcType": 3,
+    "id": 103,
+    "param1": [
+      158,
+      159,
+      160,
+      178,
+      188,
+      189,
+      192
+    ]
+  },
+  "104": {
+    "funcType": 3,
+    "id": 104,
+    "param1": [
+      161,
+      162,
+      179,
+      190,
+      212,
+      213,
+      214
+    ]
+  },
+  "105": {
+    "funcType": 3,
+    "id": 105,
+    "param1": [
+      204,
+      163,
+      180,
+      191,
+      219,
+      220
+    ]
+  },
+  "106": {
+    "funcType": 3,
+    "id": 106,
+    "param1": [
+      205,
+      164,
+      181,
+      221,
+      222,
+      223
+    ]
+  },
+  "107": {
+    "funcType": 3,
+    "id": 107,
+    "param1": [
+      165
+    ]
+  },
+  "108": {
+    "funcType": 3,
+    "id": 108,
+    "param1": [
+      166
+    ]
+  },
+  "109": {
+    "funcType": 3,
+    "id": 109,
+    "param1": [
+      167
+    ]
+  },
+  "110": {
+    "funcType": 3,
+    "id": 110,
+    "param1": [
+      168,
+      169
+    ]
+  },
+  "111": {
+    "funcType": 3,
+    "id": 111,
+    "param1": [
+      170,
+      171
+    ]
+  },
+  "112": {
+    "funcType": 3,
+    "id": 112,
+    "param1": [
+      172,
+      173
+    ]
+  },
+  "113": {
+    "funcType": 3,
+    "id": 113,
+    "param1": [
+      174
+    ]
+  },
+  "114": {
+    "funcType": 6,
+    "id": 114,
+    "param1": "装备洗炼",
+    "param2": "app.BaptismWin",
+    "param3": 1
+  },
+  "115": {
+    "funcType": 6,
+    "id": 115,
+    "param1": "装备升星",
+    "param2": "app.ForgeWin",
+    "param3": 1
+  },
+  "116": {
+    "funcType": 6,
+    "id": 116,
+    "param1": "膜拜英雄",
+    "param2": "app.WorshipWin"
+  },
+  "117": {
+    "funcType": 6,
+    "id": 117,
+    "param1": "金币回收",
+    "param2": "app.RecycleWin",
+    "param3": 0
+  },
+  "118": {
+    "funcType": 6,
+    "id": 118,
+    "param1": "四象神兽",
+    "param2": "app.FourImageLevelUpWin"
+  },
+  "119": {
+    "funcType": 3,
+    "id": 119,
+    "param1": [
+      182
+    ]
+  },
+  "120": {
+    "funcType": 3,
+    "id": 120,
+    "param1": [
+      184,
+      185
+    ]
+  },
+  "121": {
+    "funcType": 3,
+    "id": 121,
+    "param1": [
+      186,
+      187
+    ]
+  },
+  "122": {
+    "funcType": 6,
+    "id": 122,
+    "param1": "城主奖励",
+    "param2": "app.ShabakRewardsWin"
+  },
+  "123": {
+    "funcType": 3,
+    "id": 123,
+    "param1": [
+      201
+    ]
+  },
+  "124": {
+    "funcType": 3,
+    "id": 124,
+    "param1": [
+      193,
+      194,
+      195,
+      196
+    ]
+  },
+  "125": {
+    "funcType": 3,
+    "id": 125,
+    "param1": [
+      197,
+      198,
+      199,
+      200
+    ]
+  },
+  "126": {
+    "funcType": 6,
+    "id": 126,
+    "param1": "狂暴之力",
+    "param2": "app.ViolentStateWin"
+  },
+  "127": {
+    "funcType": 3,
+    "id": 127,
+    "param1": [
+      202,
+      224,
+      225
+    ]
+  },
+  "128": {
+    "funcType": 3,
+    "id": 128,
+    "param1": [
+      203
+    ]
+  },
+  "129": {
+    "funcType": 6,
+    "id": 129,
+    "param1": "捐献排行榜",
+    "param2": "app.DonationRankWin"
+  },
+  "130": {
+    "funcType": 6,
+    "id": 130,
+    "param1": "加官进爵",
+    "param2": "app.GuanZhiView"
+  },
+  "131": {
+    "funcType": 3,
+    "id": 131,
+    "param1": [
+      206,
+      207
+    ]
+  },
+  "132": {
+    "funcType": 3,
+    "id": 132,
+    "param1": [
+      208,
+      232
+    ]
+  },
+  "133": {
+    "funcType": 3,
+    "id": 133,
+    "param1": [
+      209
+    ]
+  },
+  "134": {
+    "funcType": 3,
+    "id": 134,
+    "param1": [
+      210,
+      216,
+      226,
+      227
+    ]
+  },
+  "135": {
+    "funcType": 3,
+    "id": 135,
+    "param1": [
+      211,
+      217,
+      228,
+      229
+    ]
+  },
+  "136": {
+    "funcType": 3,
+    "id": 136,
+    "param1": [
+      215
+    ]
+  },
+  "137": {
+    "funcType": 6,
+    "id": 137,
+    "param1": "了解更多版本信息",
+    "param2": "app.MainServerInfoWin"
+  },
+  "138": {
+    "funcType": 3,
+    "id": 138,
+    "param1": [
+      118
+    ]
+  },
+  "139": {
+    "funcType": 3,
+    "id": 139,
+    "param1": [
+      218
+    ]
+  },
+  "140": {
+    "funcType": 3,
+    "id": 140,
+    "param1": [
+      230
+    ]
+  },
+  "141": {
+    "funcType": 3,
+    "id": 141,
+    "param1": [
+      231
+    ]
+  },
+  "142": {
+    "funcType": 3,
+    "id": 142,
+    "param1": [
+      235,
+      233,
+      234
+    ]
+  },
+  "143": {
+    "funcType": 3,
+    "id": 143,
+    "param1": [
+      236,
+      237,
+      238
+    ]
+  }
+}

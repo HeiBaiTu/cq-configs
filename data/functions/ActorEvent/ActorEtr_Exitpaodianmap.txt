@@ -1,0 +1,39 @@
+-- 人物活动时间进入泡点地图
+defaultHandleEnterpaodianmap = function(pActor,args)
+            
+print("[ActorEtr_Exitpaodianmap],args: "..args)
+
+    for k, v in pairs(ActivitiesConf) do
+        if v.ActivityType == 5 then
+            local atvId = v.Id
+            if Activity5Config[atvId].sceneId and args== Activity5Config[atvId].sceneId then 
+                local cacheData = ActivityDispatcher.GetCacheData(atvId)
+                if cacheData.actors == nil then
+                     cacheData.actors = {}
+                end
+                local actorId = Actor.getIntProperty( pActor, PROP_ENTITY_ID )
+                cacheData.actors[actorId] = actorId
+                break
+            end
+        end 
+    end
+end
+
+
+--人物退出泡点地图
+defaultHandleExitpaodianmap = function(pActor,args)
+    for k, v in pairs(ActivitiesConf) do
+        if v.ActivityType == 5 then
+            local atvId = v.Id
+            if Activity5Config[atvId].sceneId and args== Activity5Config[atvId].sceneId then 
+                local cacheData = ActivityDispatcher.GetCacheData(atvId)
+                if cacheData.actors == nil then
+                     cacheData.actors = {}
+                end
+                local actorId = Actor.getIntProperty( pActor, PROP_ENTITY_ID )
+                cacheData.actors[actorId] = nil
+                break
+            end
+        end 
+    end
+end

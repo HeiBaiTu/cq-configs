@@ -1,0 +1,21 @@
+--lua script
+--#include "data\config\friend\FriendConfig.txt" once
+
+--发送推荐好友列表
+function SendCanAddFriendList(sysarg,args)
+	--print("SendCanAddFriendList...")
+	local nLevel = args[2]
+	local nFlag = false
+	for i=1,table.getn(FriendConfig.PromptLevel) do
+		if nLevel == FriendConfig.PromptLevel[i] then
+			nFlag = true
+			break
+		end
+	end
+	
+	if nFlag == true then
+		Actor.sendCanAddFriendList(sysarg, 
+			FriendConfig.LevelInterval[1], FriendConfig.LevelInterval[2],
+			FriendConfig.MaxNum)
+	end
+end

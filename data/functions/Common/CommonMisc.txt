@@ -1,0 +1,349 @@
+--刷选职业性别奖励
+	--sex表示玩家的性别，-1 不限 0表示男的，1表示女的
+	--job -1,0 表示任何职业   1 - 3 ， 战法道
+function  SelectAwards(sysarg,awards)
+	local tab = {}
+	local job = Actor.getIntProperty( sysarg, PROP_ACTOR_VOCATION)
+	local sex = Actor.getIntProperty( sysarg, PROP_ACTOR_SEX)
+	for k,v in ipairs(awards) do
+	    if ((v.sex == -1) or (v.sex == sex) or (v.sex == nil) ) and ((v.job == -1) or (v.job == 0) or (v.job == job) or (v.job == nil)) then
+		    table.insert(tab,v)
+		end
+	end
+	return tab
+end
+
+--系统加成通用函数
+function  GetSysAddCfg()
+    return 0,0
+    --[[
+    local day = System.getDaysSinceOpenServer()
+	local length  = #OpenServerConfig.SysAdd.AddRate
+	if  day < OpenServerConfig.SysAdd.day then
+	    return 0,0
+	else
+	    local i =  day % length + 1
+		return i, OpenServerConfig.SysAdd.AddRate[i] or 0
+    end
+	--]]
+end
+
+--给玩家发送物品
+function MailItemsToPlayer(actorId, Items, sTitle, sContent)
+	local nType1, nID1, nCount1, nType2, nID2, nCount2, nType3, nID3, nCount3, nType4, nID4, nCount4, 
+					nType5, nID5, nCount5, nType6, nID6, nCount6 = GetActivityAnswerAwards(Items)
+	System.sendSysMail(actorId, sTitle, sContent, nType1, nID1, nCount1, nType2, nID2, nCount2,
+		nType3, nID3, nCount3, nType4, nID4, nCount4, nType5, nID5, nCount5, nType6, nID6, nCount6,1)		--默认是非绑定的，1-绑定
+end
+
+--校验背包物品是否足够
+--Item格式{{id1, count1},{id2,count2}}
+function CheckBagItems(sysarg, Items)
+	for _, item in pairs(Items) do
+		local id    = item[1]
+		local count = item[2]
+		--print("CheckBagItems, id="..id..", count="..count)
+		if id > 3 then	--物品
+			if Actor.getItemCount(sysarg, id) < count then
+				return false
+			end
+		else		--金钱
+			if Actor.getMoneyCount(sysarg, id) < count then
+				return false
+			end
+		end
+	end
+	return true
+end
+
+--检查物品所占格子的数量
+-- item为{ type = 0, id=258, count = 5, strong = 0, quality = 0, bind = 0,} 类型
+function GetItemGrid(sysarg, item)
+	return Item.getAddItemNeedGridCount( sysarg, item.id, item.count, item.quality, item.strong)
+end
+
+--[[给奖励
+使用commonFunc.txt的方法
+function GiveCommonAward(sysarg, Awards, logId, LogDesc)
+	for _, v in ipairs(Awards) do
+		if v.qualityDataIndex then
+			Actor.giveAward(sysarg, v.type, v.id, v.count, v.quality or 0, v.strong or 0, v.bind or 0, 0, logId, LogDesc,
+				v.qualityDataIndex)
+		else
+			Actor.giveAward(sysarg, v.type, v.id, v.count, v.quality or 0, v.strong or 0, v.bind or 0, 0, logId, LogDesc)
+		end
+	end
+end
+]]
+
+
+--检查背包格子是否足够，返回需要空闲的格子数量，
+--0-不缺
+function CheckBagGridForAwards(sysarg, Awards)
+	local needGirds = 0
+	for _, v in ipairs( Awards ) do
+		if v.type == 0 then
+			needGirds = needGirds + Item.getAddItemNeedGridCount( sysarg, v.id, v.count, v.quality, v.strong)
+		end
+	end
+	--local hasEmptyIdxs = Item.getBagEmptyGridCount( sysarg )
+	local hasEmptyIdxs = Item.getAllBagMinEmptyGridCount( sysarg )
+	if  hasEmptyIdxs >= needGirds then
+		return 0
+	else
+		return needGirds
+	end
+end
+
+function GetCommonAwardByRange( diffAwards, diff )
+	--print("GetCommonAwardByRange, diff="..diff)
+	for i,diffAward in ipairs(diffAwards) do
+		if diffAward.range[1] <= diff and diff <= diffAward.range[2] then
+			return diffAward 
+		end
+	end
+	return nil
+end
+
+function GetElemByRange( elems, value )
+	for i,elem in ipairs(elems) do
+		if elem.range[1] <= value and value <= elem.range[2] then
+			return elem 
+		end
+	end
+	return nil
+end
+
+--------------------------------常用公共接口-------------------------------
+
+-- 从a~b范围内随机出N个不重复的数
+BaseFuc_Random = function( nMin, nMax, nRandCount )
+	local nRange = nMax + 1 - nMin
+	if nRange <= 1 or nRandCount > nRange then
+		--local szError = string.format( "Error: can't from %d to %d random %d times", nMin, nMax, nRandCount )
+		--BaseFuc_Print( szError )
+		return {}
+	end
+	local tabRet ={}
+	local tabTemp = {}
+	local nTop = nMax
+	for i = 1, nRandCount do
+		local nRandResult = math.random( nMin, nTop )
+		local nResult = tabTemp[nRandResult] or nRandResult
+		table.insert( tabRet, nResult )
+		if nRandResult ~= nTop then
+			tabTemp[nRandResult] = tabTemp[nTop] or nTop
+		end
+		nTop = nTop - 1
+	end
+	return tabRet
+end
+
+--自动拼接打印参数
+BaseFuc_Print = function(...)
+	local strContent=""
+	for i=1,arg.n,1 do
+		strContent = tostring(strContent)..tostring(arg[i])
+		if i ~= arg.n then 
+			strContent = strContent.."\t"
+		end
+	end
+	print(strContent)
+end	
+
+--table to string
+BaseFuc_serialize = function( obj )
+	local lua = ""
+	local t = type( obj )
+	if t == "number" then
+		lua = lua .. obj
+	elseif t == "boolean" then
+		lua = lua .. tostring( obj )
+	elseif t == "string" then
+		lua = lua .. string.format( "%q", obj )
+	elseif t == "table" then
+		lua = lua .. "{"
+		for k, v in pairs( obj ) do
+			lua = lua .. "[" .. BaseFuc_serialize( k ) .. "]=" .. BaseFuc_serialize( v ) .. ","
+		end
+		local metatable = getmetatable( obj )
+			if metatable ~= nil and type( metatable.__index ) == "table" then
+			for k, v in pairs( metatable.__index ) do
+				lua = lua .. "[" .. BaseFuc_serialize( k ) .. "]=" .. BaseFuc_serialize( v ) .. ","
+			end
+		end
+		lua = lua .. "}"
+	elseif t == "nil" then
+		return nil
+	else
+		error( "can not BaseFuc_serialize a " .. t .. " type." )
+	end
+	return lua
+end
+
+--string to table
+BaseFuc_unserialize = function( lua )
+	local t = type( lua )
+	if t == "nil" or lua == "" then
+		return nil
+	elseif t == "number" or t == "string" or t == "boolean" then
+		lua = tostring( lua )
+	else
+		error( "can not unserialize a " .. t .. " type." )
+	end
+	lua = "return " .. lua
+	local func = loadstring( lua )
+	if func == nil then
+		return nil
+	end
+	return func()
+end
+
+--获取元素列表长度（支持离散列表）
+function GetElemsLen( elems )
+	local num = 0
+	for k,elem in pairs(elems) do
+		num = num + 1
+	end
+	return num
+end
+
+--检查物品是否足够(包括金钱)
+function CheckSingleEnoughByType(sysarg, nType, nId , nCount)
+	if(sysarg == nil or type(nType)~='number' or type(nId)~='number' or type(nCount)~='number')then
+		print("CheckSingleEnoughByType Error")
+		return false
+	end
+	if(nType == 0)then		-- 道具
+		if (Actor.getItemCount(sysarg, nId, -1, -1) < nCount) then   --不足
+			local strName = Item.getItemName(nId)
+			local strNotice = string.format(OldLang.Script.ir103,strName)
+			Actor.sendTipmsg(sysarg, strNotice, ttFlyTip)
+			return false
+		end	
+	elseif(nType == 3)then  -- 金币
+		if (Actor.getMoneyCount(sysarg,0) < nCount)then
+			Actor.sendTipmsg(sysarg, OldLang.Script.ir105, ttFlyTip)
+			return false
+		end	
+	elseif(nType == 5)then  -- 绑定元宝
+		if (Actor.getMoneyCount(sysarg,2) < nCount)then
+			Actor.sendTipmsg(sysarg, OldLang.Script.ir106, ttFlyTip)
+			return false
+		end		
+	elseif(nType == 10)then  -- 元宝
+		if (Actor.getMoneyCount(sysarg,3) < nCount)then
+			Actor.sendTipmsg(sysarg, OldLang.Script.ir107, ttFlyTip)
+			return false
+		end	
+	elseif(nType == 27)then  -- 羽魂
+		local myWingSoul = Actor.getMoneyCount(sysarg, mtWingSoul)
+		if ( myWingSoul < nCount)then
+			--Actor.sendTipmsg(sysarg, OldLang.Script.ir108, ttFlyTip)
+			Actor.sendNotEnoughMoney(sysarg, mtWingSoul, nCount)
+			return false
+		end	
+	else
+		return false
+	end
+	return true
+end
+
+--扣除物品(包括金钱)
+function SubSingleItemByType(sysarg, nType, nId , nCount, logId, logStr)
+	if(nCount == 0)then
+		return true
+	end
+	if(sysarg == nil or type(nType)~='number' or type(nId)~='number' or type(nCount)~='number')then
+		print("SubSingleItemByType Error")
+		return false
+	end
+	if(type(logId) ~= 'number' or type(logStr)~='string')then
+		print("SubSingleItemByType Error")
+		return	false	
+	end
+	if(nType == 0)then		--道具
+		if Actor.getItemCount(sysarg, nId, -1, -1) < nCount then
+			return false
+    	end
+
+		if not Actor.removeItem(sysarg, nId, nCount,-1, -1, -1, logStr, logId)then
+			return false
+		end	
+	elseif(nType == 3)then  -- 金币
+		if (Actor.changeMoney(sysarg,0, -nCount, logId, logStr) == false)then
+			return false
+		end
+	elseif(nType == 5)then  -- 礼券
+		if (Actor.changeMoney(sysarg,2, -nCount, logId, logStr) == false)then
+			return false
+		end	
+	elseif(nType == 10)then  -- 元宝
+		if (Actor.changeMoney(sysarg,3, -nCount, logId, logStr) == false)then
+			return false
+		end	
+	elseif(nType == 27)then	
+		if (Actor.changeMoney(sysarg,6, -nCount, logId, logStr) == false)then
+			return false
+		end			
+	else
+		return false
+	end
+	return true
+end
+
+--批量扣除物品(包括金钱)
+function SubBatchItemByType(sysarg, ItemList, logId, logStr)
+	if(sysarg == nil or type(ItemList)~='table' or type(logId)~='number' or type(logStr)~='string')then
+		print("SubBatchItemByType Error")
+		return false
+	end
+	for k,v in pairs(ItemList)do	--先判断够不够
+		if(v.type == nil or v.id == nil or v.count == nil)then
+			BaseFuc_Print("SubBatchItemByType ItemList Error",v.type,v.id,v.count)
+			return false
+		end
+		if(CheckSingleEnoughByType(sysarg, v.type, v.id , v.count) ~= true)then
+			return false
+		end
+	end
+	for k,v in pairs(ItemList)do	--再批量扣除物品(包括金钱)	
+		if(SubSingleItemByType(sysarg, v.type, v.id , v.count, logId, logStr) ~= true)then
+			return false
+		end
+	end
+	return true
+end
+
+--扣除货币
+--nCount:必须 >= 0
+function SubSingleMoneyByType(sysarg, nType, nCount, logId, logStr)
+	--print("SubSingleMoneyByType, nType="..nType..", nCount="..nCount)
+	if(sysarg == nil or type(nType)~='number' or type(nCount)~='number')then
+		print("SubSingleMoneyByType type Error")
+		return false
+	end
+	if(type(logId) ~= 'number' or type(logStr)~='string')then
+		print("SubSingleMoneyByType log Error")
+		return	false	
+	end
+	if nCount < 0 then
+		return false
+	end
+	if(nType == 0)then  -- 金币
+		if (Actor.changeMoney(sysarg,0, -nCount, logId, logStr) == false)then
+			return false
+		end
+	elseif(nType == 5)then  -- 礼券
+		if (Actor.changeMoney(sysarg,2, -nCount, logId, logStr) == false)then
+			return false
+		end	
+	elseif(nType == 10)then  -- 元宝
+		if (Actor.changeMoney(sysarg,3, -nCount, logId, logStr) == false)then
+			return false
+		end
+	else
+		return false
+	end
+	return true
+end

@@ -1,0 +1,68 @@
+{
+  "1": {
+    "Opendaylimit": 1,
+    "id": 1,
+    "reward": [
+      {
+        "count": 200000,
+        "id": 2,
+        "type": 2
+      }
+    ]
+  },
+  "2": {
+    "Opendaylimit": 1,
+    "id": 2,
+    "reward": [
+      {
+        "count": 280000,
+        "id": 2,
+        "type": 2
+      }
+    ]
+  },
+  "3": {
+    "Opendaylimit": 7,
+    "id": 3,
+    "reward": [
+      {
+        "count": 280000,
+        "id": 2,
+        "type": 2
+      }
+    ]
+  },
+  "4": {
+    "Opendaylimit": 7,
+    "id": 4,
+    "reward": [
+      {
+        "count": 380000,
+        "id": 2,
+        "type": 2
+      }
+    ]
+  },
+  "5": {
+    "Opendaylimit": 30,
+    "id": 5,
+    "reward": [
+      {
+        "count": 380000,
+        "id": 2,
+        "type": 2
+      }
+    ]
+  },
+  "6": {
+    "Opendaylimit": 30,
+    "id": 6,
+    "reward": [
+      {
+        "count": 580000,
+        "id": 2,
+        "type": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+
+BuffRemovedHandlers = {}
+
+-- 角色Buff消失事件
+function defaultHandlerBuffRemoved(pActor, buffId)
+	
+end

@@ -1,0 +1,45 @@
+--lua script
+--ʹ�ü�����ѧϰ����
+
+--#include "data\config\item\SkillBookItem.txt" once
+
+--[[
+--����buff����Ʒ
+--sysarg:ʵ���ָ��
+--itemidx: ��Ʒ��ID
+--itemPtr: ��Ʒ��ָ��
+--ItemTable: ���õĲ����б� 
+--]]
+function UseBookLearnSkill(sysarg,count,itemidx,itemPtr,ItemTable) --������һ��ֻ����һ����count��Ч
+	local nJop = Actor.getIntProperty(sysarg, PROP_ACTOR_VOCATION)	
+	if nJop == 0 or nJop == ItemTable.jop_id then
+		local curSkillLv = Actor.getSkillLevel(sysarg,ItemTable.skill_id)
+		if curSkillLv < ItemTable.skill_Level then
+			if curSkillLv ~= (ItemTable.skill_Level - 1) then
+				Actor.sendTipmsg( sysarg,OldLang.Script.UseSkillBook001,ttFlyTip )
+				return
+			end
+			local canLearn = true
+			if ItemTable.needConsume and Actor.removeItemByPtr(sysarg,itemPtr,1,true, OldLang.Log.UseSkillBook, 167) <= 0 then
+				canLearn = false
+			end
+			if canLearn then
+				Actor.startLearnSkill(sysarg,ItemTable.skill_id,ItemTable.skill_Level)
+				return true
+			end
+		elseif curSkillLv >= ItemTable.skill_Level then
+			Actor.sendTipmsg( sysarg,OldLang.Script.UseSkillBook002,ttFlyTip )
+		end
+	else
+		Actor.sendTipmsg( sysarg,OldLang.Script.UseSkillBook003,ttFlyTip )
+	end
+end
+
+function BookLeanrnSkillInit(sysarg)
+  for i = 1,table.getn(SkillBoolConfig) do
+	local x = SkillBoolConfig[i]
+	GlobalItemFn[x.item_id] = { func = UseBookLearnSkill, params = x }
+  end
+end
+
+table.insert(InitFnTable,BookLeanrnSkillInit)

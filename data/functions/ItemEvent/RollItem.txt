@@ -1,0 +1,194 @@
+--类似开箱子的道具，按怪物的掉落爆出物品
+--添加配置
+--#include "data\config\item\scriptItemConfig\RollItem.txt" once
+--#include "data\config\item\scriptItemConfig\PreUseItemConfig.txt" once
+--#include "data\functions\ItemEvent\ItemUseCount.txt" once
+
+function PreUseItem(sysarg, itemId, itemPtr, ItemTable)
+  	local cfg = PreUseItemConfig[itemId]
+	if cfg then
+		if cfg.startDt then
+			local nNowDt = System.getCurrMiniTime()
+			if nNowDt < cfg.startDt then
+				Actor.sendTipmsg(sysarg, OldLang.Script.comm008, ttFlyTip)
+				return false
+			end
+		end
+	end
+	return true
+end
+
+--[[
+--按怪物掉落类似的配置Roll一个物品 
+--sysarg:实体的指针
+--itemidx: 物品的ID
+--itemPtr: 物品的指针
+--ItemTable: 配置的参数列表，如果单独调用的话，这里是需要背包格子的数量 
+--]]
+function RollItemFunc(sysarg,count,itemidx,itemPtr,ItemTable)
+  for idx = 1, count do
+    RollItemFuncImp(sysarg,itemidx,itemPtr,ItemTable)
+  end
+  return true
+end
+
+
+function RollItemFuncImp(sysarg,itemidx,itemPtr,ItemTable)
+  	--获取玩家目前有多少个空格子，如果格子不够，就返回 
+  	local count = Item.getBagEmptyGridCount(sysarg)
+  	local needGridCount=1
+  	if( type( ItemTable ) == 'number' ) then
+    	needGridCount = ItemTable
+  	else
+    	needGridCount = ItemTable.needMinBagGrid
+  	end
+    
+    if(itemidx == 791)then	--銮金宝箱
+		local nMyGuildId = Actor.getGuildId(sysarg)
+		if(nMyGuildId < 1)then
+			Actor.sendTipmsg( sysarg,OldLang.NoticeStr.n029, ttFlyTip )
+			return false
+		end
+	end 
+  
+  	--判断物品需要消耗的数目
+  	local nNeedItemCount = ItemTable.itemCount
+  	if nNeedItemCount == nil then 
+    	nNeedItemCount = 1 
+  	end
+    local myItemCount = Actor.getItemCount(sysarg,itemidx,-1,-1)
+  	if myItemCount < nNeedItemCount then
+    	local tipMsg = string.format(OldLang.Script.comm009, nNeedItemCount)
+    	Actor.sendTipmsg( sysarg,tipMsg, ttFlyTip )
+	 	return false
+  	end
+  
+  	if needGridCount and count < needGridCount then
+      if ItemTable.needDelete and nNeedItemCount == myItemCount and (count +1)>= needGridCount then
+          --允许删除item之后多空出一个格子来放roll出来的物品
+      else
+        local tipMsg = string.format(OldLang.Script.comm001,needGridCount)
+        Actor.sendTipmsg( sysarg,tipMsg,ttFlyTip )
+        return false
+      end
+  	end
+
+  	if not PreUseItem(sysarg, itemidx,itemPtr,ItemTable) then
+		return false
+  	end
+  
+  	--需要roll一个物品 
+  	local dropName = "roll"..tostring(itemidx) --按名字索引的 
+  	local drop = System.getObjectVar(dropName)
+  	if (not drop) then
+    	System.trace("getObjectVar is nil"..itemidx)
+		return
+  	end
+  
+  --[[
+    drop:drop(sysarg)，怪物掉落模式，对于group>0的，是否出道具，除了判断propability的比率，
+        还受怪物死亡次数影响，即同group不一定必出；
+    drop:proabilityDrop(sysarg)，宝箱掉落模式，对于groupid>0的，是否出道具，仅判断propability的比率，
+        即同group必出一个
+  ]]
+	--local items = drop:drop(sysarg)
+  local items = drop:proabilityDrop(sysarg)
+  --print("drop:proabilityDrop()...")
+	for i = items.itemCount - 1, 0, -1 do
+		local result = Actor.canGiveAward(sysarg, 
+			items.itemList[i].btAwardType,
+			items.itemList[i].wItemId, 
+			items.itemList[i].btCount,
+			items.itemList[i].btQuality,
+			items.itemList[i].btStrong,
+			items.itemList[i].btBind,
+			true)
+		if not result then
+			return false
+		end
+	end
+	
+  	--如果需要删除物品的话就删除 
+  	if ItemTable.needDelete then
+
+      if ItemUseCountCfg[itemidx] then
+
+        local lastTimes, maxTimes = getItemUseCount(sysarg, itemidx)
+        if lastTimes <= 0 then
+            Actor.sendTipmsg( sysarg, OldLang.Script.ItemUseCount001, ttFlyTip )
+            return
+        end
+
+      end
+
+  	  local logDesc 	= OldLang.Script.comm007
+  	  local logId 	= 3
+      if itemPtr then
+          local delCount  = Actor.removeItemByPtr(sysarg,itemPtr,nNeedItemCount,true,logDesc, logId)
+          local otherDelCount = nNeedItemCount - delCount
+	      if otherDelCount > 0 then
+			  Actor.removeItem(sysarg,itemidx,otherDelCount,-1,-1,-1, logDesc, logId)
+	      end
+      else
+      	  if nNeedItemCount ~= Actor.removeItem(sysarg,itemidx,nNeedItemCount,-1,-1,-1, logDesc, logId) then
+  	    	  return false
+  	   	  end
+      end
+
+      if ItemUseCountCfg[itemidx] then
+        AddDailyItemUseCount(sysarg, itemidx, nNeedItemCount)
+      end
+  	end
+  
+   --遍历掉落列表，并添加玩家的物品 
+  	if  items.itemCount > 0 then
+	  	for i=0, items.itemCount -1 do
+        Actor.giveAward(sysarg,
+           items.itemList[i].btAwardType,
+           items.itemList[i].wItemId, 
+           items.itemList[i].btCount,
+           items.itemList[i].btQuality,
+           items.itemList[i].btStrong,
+           items.itemList[i].btBind,
+           items.itemList[i].nTime,
+           337,
+           "roll",
+           items.itemList[i].nQualityDataIndex)  --nQualityDataIndex默认为0，此值需要>0才有效
+
+        	if(items.itemList[i].btAuxParam ==1)  then
+				local count = items.itemList[i].btCount
+				local name = Item.getAwardDesc(items.itemList[i].btAwardType,items.itemList[i].wItemId)
+				if(name ~= nil and name ~= "") then
+					if(items.itemList[i].btAwardType == 20) then --按经验表里配置经验的
+						count = Actor.getActivityExp(sysarg,items.itemList[i].wItemId,items.itemList[i].btCount,items.itemList[i].btQuality)
+					end
+					local tipMsg = string.format(OldLang.Script.comm006,Actor.getName(sysarg),Item.getItemName(itemidx),name,count )   --要全服广播
+					System.broadcastTipmsg(tipMsg, ttChatWindow )
+				end
+        	end
+	  end
+  end
+  return true
+end
+
+function RollItemsInit(sysarg)
+  	for i = 1,table.getn(RollItemConfig) do
+    	local x = RollItemConfig[i]
+    	--如果只执行爆率的话，那么就注册调用函数 
+    	if x.onlyDoRoll then
+      		GlobalItemFn[x.item_id] = { func = RollItemFunc,params =x }
+    	end 
+    	--在初始化的时候全部装载进来 ,避免后期临时去加载 
+    	local dropName = "roll"..tostring(x.item_id)
+    	local boxdrop = System.getObjectVar(dropName)
+    	if not boxdrop then
+			boxdrop = CBoxDropMgr:getSingleton():createBoxDrop(dropName)  -- 这里会返回一个宝箱掉落对象(CBoxDrop)
+		end
+
+		if boxdrop then
+			boxdrop:load(x.dropName)
+		end
+  	end
+end
+
+table.insert(InitFnTable,RollItemsInit)

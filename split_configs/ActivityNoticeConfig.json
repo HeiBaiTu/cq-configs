@@ -1,0 +1,381 @@
+{
+  "1": {
+    "4": {
+      "TimeDetail": [
+        {
+          "EndTime": "2-20:05",
+          "StartTime": "2-19:45"
+        },
+        {
+          "EndTime": "6-20:05",
+          "StartTime": "6-19:45"
+        }
+      ],
+      "actId": 4,
+      "id": 1,
+      "isOpenNeed": {
+        "level": 1,
+        "openDay": 1
+      }
+    },
+    "7": {
+      "TimeDetail": [
+        {
+          "EndTime": "0-11:06",
+          "StartTime": "0-11:00"
+        },
+        {
+          "EndTime": "0-14:06",
+          "StartTime": "0-14:00"
+        },
+        {
+          "EndTime": "0-23:06",
+          "StartTime": "0-23:00"
+        }
+      ],
+      "actId": 7,
+      "id": 1,
+      "isOpenNeed": {
+        "level": 1,
+        "openDay": 1
+      }
+    },
+    "8": {
+      "TimeDetail": [
+        {
+          "EndTime": "0-21:06",
+          "StartTime": "0-21:00"
+        }
+      ],
+      "actId": 8,
+      "id": 1,
+      "isOpenNeed": {
+        "level": 1,
+        "openDay": 1
+      }
+    },
+    "9": {
+      "TimeDetail": [
+        {
+          "EndTime": "0-13:30",
+          "StartTime": "0-13:00"
+        }
+      ],
+      "actId": 9,
+      "id": 1,
+      "isOpenNeed": {
+        "level": 1,
+        "openDay": 1
+      }
+    },
+    "11": {
+      "TimeDetail": [
+        {
+          "EndTime": "0-19:45",
+          "StartTime": "0-19:30"
+        }
+      ],
+      "actId": 11,
+      "id": 1,
+      "isOpenNeed": {
+        "level": 1,
+        "openDay": 1
+      }
+    },
+    "12": {
+      "TimeDetail": [
+        {
+          "EndTime": "4-20:15",
+          "StartTime": "4-19:45"
+        },
+        {
+          "EndTime": "7-20:15",
+          "StartTime": "7-19:45"
+        }
+      ],
+      "actId": 12,
+      "id": 1,
+      "isOpenNeed": {
+        "level": 1,
+        "openDay": 1
+      }
+    },
+    "13": {
+      "TimeDetail": [
+        {
+          "EndTime": "3-20:40",
+          "StartTime": "3-20:10"
+        },
+        {
+          "EndTime": "6-20:40",
+          "StartTime": "6-20:10"
+        }
+      ],
+      "actId": 13,
+      "id": 1,
+      "isOpenNeed": {
+        "level": 60,
+        "openDay": 4
+      }
+    },
+    "14": {
+      "TimeDetail": [
+        {
+          "EndTime": "1-20:05",
+          "StartTime": "1-19:45"
+        },
+        {
+          "EndTime": "3-20:05",
+          "StartTime": "3-19:45"
+        },
+        {
+          "EndTime": "5-20:05",
+          "StartTime": "5-19:45"
+        }
+      ],
+      "actId": 14,
+      "id": 1,
+      "isOpenNeed": {
+        "level": 1,
+        "openDay": 1
+      }
+    },
+    "22": {
+      "TimeDetail": [
+        {
+          "EndTime": "1-20:30",
+          "StartTime": "1-20:10"
+        },
+        {
+          "EndTime": "4-20:30",
+          "StartTime": "4-20:10"
+        }
+      ],
+      "actId": 22,
+      "id": 1,
+      "isOpenNeed": {
+        "level": 1,
+        "openDay": 1
+      }
+    },
+    "23": {
+      "TimeDetail": [
+        {
+          "EndTime": "2-20:30",
+          "StartTime": "2-20:10"
+        },
+        {
+          "EndTime": "5-20:30",
+          "StartTime": "5-20:10"
+        }
+      ],
+      "actId": 23,
+      "id": 1,
+      "isOpenNeed": {
+        "level": 1,
+        "openDay": 1
+      }
+    },
+    "24": {
+      "TimeDetail": [
+        {
+          "EndTime": "0-12:45",
+          "StartTime": "0-12:30"
+        }
+      ],
+      "actId": 24,
+      "id": 1,
+      "isOpenNeed": {
+        "level": 1,
+        "openDay": 1
+      }
+    },
+    "26": {
+      "TimeDetail": [
+        {
+          "EndTime": "7-20:40",
+          "StartTime": "7-20:10"
+        }
+      ],
+      "actId": 26,
+      "id": 1,
+      "isOpenNeed": {
+        "level": 1,
+        "openDay": 25
+      }
+    },
+    "28": {
+      "TimeDetail": [
+        {
+          "EndTime": "1-20:30",
+          "StartTime": "1-20:08"
+        },
+        {
+          "EndTime": "4-20:30",
+          "StartTime": "4-20:08"
+        }
+      ],
+      "actId": 28,
+      "id": 1,
+      "isOpenNeed": {
+        "level": 1,
+        "openDay": 1
+      }
+    },
+    "29": {
+      "TimeDetail": [
+        {
+          "EndTime": "2-20:30",
+          "StartTime": "2-20:08"
+        },
+        {
+          "EndTime": "5-20:30",
+          "StartTime": "5-20:08"
+        }
+      ],
+      "actId": 29,
+      "id": 1,
+      "isOpenNeed": {
+        "level": 1,
+        "openDay": 1
+      }
+    },
+    "30": {
+      "TimeDetail": [
+        {
+          "EndTime": "0-12:45",
+          "StartTime": "0-12:28"
+        }
+      ],
+      "actId": 30,
+      "id": 1,
+      "isOpenNeed": {
+        "level": 1,
+        "openDay": 1
+      }
+    },
+    "31": {
+      "TimeDetail": [
+        {
+          "EndTime": "0-10:50",
+          "StartTime": "0-10:28"
+        },
+        {
+          "EndTime": "0-14:30",
+          "StartTime": "0-14:28"
+        },
+        {
+          "EndTime": "0-20:50",
+          "StartTime": "0-20:28"
+        }
+      ],
+      "actId": 31,
+      "id": 1,
+      "isOpenNeed": {
+        "level": 1,
+        "openDay": 1
+      }
+    },
+    "32": {
+      "TimeDetail": [
+        {
+          "EndTime": "7-20:40",
+          "StartTime": "7-20:08"
+        }
+      ],
+      "actId": 32,
+      "id": 1,
+      "isOpenNeed": {
+        "level": 1,
+        "openDay": 25
+      }
+    },
+    "38": {
+      "TimeDetail": [
+        {
+          "EndTime": "3-20:30",
+          "StartTime": "3-20:10"
+        },
+        {
+          "EndTime": "6-20:30",
+          "StartTime": "6-20:10"
+        }
+      ],
+      "actId": 38,
+      "id": 1,
+      "isOpenNeed": {
+        "level": 1,
+        "openDay": 1
+      }
+    },
+    "39": {
+      "TimeDetail": [
+        {
+          "EndTime": "3-20:30",
+          "StartTime": "3-20:08"
+        },
+        {
+          "EndTime": "6-20:30",
+          "StartTime": "6-20:08"
+        }
+      ],
+      "actId": 39,
+      "id": 1,
+      "isOpenNeed": {
+        "level": 1,
+        "openDay": 1
+      }
+    },
+    "41": {
+      "TimeDetail": [
+        {
+          "EndTime": "20:40",
+          "StartTime": "20:10",
+          "type": 1
+        }
+      ],
+      "actId": 41,
+      "id": 1,
+      "isOpenNeed": {
+        "level": 60,
+        "openDay": 3
+      }
+    },
+    "43": {
+      "TimeDetail": [
+        {
+          "EndTime": "0-13:15",
+          "StartTime": "0-12:45"
+        },
+        {
+          "EndTime": "0-21:20",
+          "StartTime": "0-20:50"
+        }
+      ],
+      "actId": 43,
+      "id": 1,
+      "isOpenNeed": {
+        "level": 1,
+        "openDay": 25
+      }
+    },
+    "44": {
+      "TimeDetail": [
+        {
+          "EndTime": "0-13:15",
+          "StartTime": "0-12:45"
+        },
+        {
+          "EndTime": "0-21:20",
+          "StartTime": "0-20:50"
+        }
+      ],
+      "actId": 44,
+      "id": 1,
+      "isOpenNeed": {
+        "level": 1,
+        "openDay": 25
+      }
+    }
+  }
+}

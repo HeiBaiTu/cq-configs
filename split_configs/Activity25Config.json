@@ -1,0 +1,198 @@
+{
+  "35": {
+    "Id": 35,
+    "Ntipstext_1": "|C:0xeee104&T:活动：世界boss|",
+    "Ntipstext_2": "活动时间：|C:0x2eb52d&T:每日12:30开始|",
+    "Ntipstext_3": "黑暗的时代即将来临，强大的深渊领主即将从黑暗中复苏，请勇士们前往击杀！\n所有攻击者都可获得|C:0xff7700&T:参与奖|\n完成|C:0xe50000&T:最后一击|还将获得额外|C:0xe50000&T:高额奖励|",
+    "Ntipstext_4": "需要等级：|C:0x28ee01&T:28级\n|C:0xff7700&T:开服第二天开启，该地图被击败不会掉落装备、道具|",
+    "bg": "Act_hdbg1_sjboss",
+    "buttoncolor": 1,
+    "describe": "黑暗的时代即将来临，强大的深渊领主即将从黑暗中复苏，请勇士们前往击杀！\n\n\n\n|C:0x2eb52d&T:等级28级|\n|C:0x2eb52d&T:每日12:30、19:30开始|",
+    "fbId": 5,
+    "inspire": [
+      {
+        "costs": [
+          {
+            "count": 500000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "times": 5,
+        "type": 1,
+        "value": 10
+      },
+      {
+        "costs": [
+          {
+            "count": 10,
+            "id": 4,
+            "type": 4
+          }
+        ],
+        "times": 5,
+        "type": 2,
+        "value": 10
+      }
+    ],
+    "isCheckTime": 0,
+    "killaward": [
+      {
+        "awards": [
+          {
+            "count": 28,
+            "id": 3,
+            "type": 3
+          },
+          {
+            "count": 1,
+            "id": 390,
+            "type": 0
+          },
+          {
+            "count": 500000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "value": 1
+      }
+    ],
+    "name": "世界BOSS(午场)",
+    "openParam": {
+      "level": 999,
+      "openday": 999
+    },
+    "rankAward": {
+      "1": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 339,
+            "type": 0
+          }
+        ],
+        "rank": "1",
+        "value": 1
+      },
+      "2": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 340,
+            "type": 0
+          }
+        ],
+        "rank": "2",
+        "value": 2
+      },
+      "3": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 341,
+            "type": 0
+          }
+        ],
+        "rank": "3",
+        "value": 3
+      },
+      "4": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 342,
+            "type": 0
+          }
+        ],
+        "rank": "4-5",
+        "value": 5
+      },
+      "5": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 343,
+            "type": 0
+          }
+        ],
+        "rank": "6-10",
+        "value": 10
+      },
+      "6": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 344,
+            "type": 0
+          }
+        ],
+        "rank": "11-30",
+        "value": 30
+      },
+      "7": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 345,
+            "type": 0
+          }
+        ],
+        "rank": "31-500",
+        "value": 500
+      }
+    },
+    "rewardBtn": "进入",
+    "rewards": [
+      {
+        "count": 0,
+        "id": 975,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 13,
+        "type": 13
+      },
+      {
+        "count": 0,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 0,
+        "id": 3,
+        "type": 3
+      },
+      {
+        "count": 0,
+        "id": 421,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 390,
+        "type": 0
+      }
+    ],
+    "ruleID": 39,
+    "showParam": {
+      "level": 999,
+      "openDay": 999
+    },
+    "starttime": 0,
+    "tipsbuttonfunction": {
+      "param1": "app.ActivityCopiesWin",
+      "param2": [
+        2
+      ],
+      "type": 1
+    },
+    "tipsbuttontext": "立即参与",
+    "tipstext": "黑暗的时代即将来临，强大的深渊领主即将从黑暗中复苏，请勇士们前往击杀！",
+    "tipstime": "每日12:30开始",
+    "tipstitleicon": "open_bt_1",
+    "titleIcon": "Act_biaoti_sjboss",
+    "uiType": 1
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "1": {
+    "attr": [
+      {
+        "att": [
+          76,
+          77
+        ],
+        "des": "全职业攻击"
+      },
+      {
+        "att": [
+          5
+        ],
+        "des": "体力上限"
+      },
+      {
+        "att": [
+          21,
+          23
+        ],
+        "des": "物防"
+      },
+      {
+        "att": [
+          25,
+          27
+        ],
+        "des": "魔御"
+      }
+    ],
+    "attrnew": [
+      {
+        "att": [
+          76,
+          77
+        ],
+        "des": "全职业攻击"
+      },
+      {
+        "att": [
+          5
+        ],
+        "des": "体力上限"
+      },
+      {
+        "att": [
+          21,
+          23
+        ],
+        "des": "物防"
+      },
+      {
+        "att": [
+          25,
+          27
+        ],
+        "des": "魔御"
+      }
+    ],
+    "id": 1,
+    "name": [
+      {
+        "equipid": 1,
+        "equippc": {
+          "equipname": "qh_t_wuqi",
+          "equippcid": "qh_icon_wuqi2"
+        }
+      },
+      {
+        "equipid": 2,
+        "equippc": {
+          "equipname": "qh_t_yifu",
+          "equippcid": "qh_icon_yifu2"
+        }
+      },
+      {
+        "equipid": 3,
+        "equippc": {
+          "equipname": "qh_t_yaodai",
+          "equippcid": "qh_icon_yaodai2"
+        }
+      },
+      {
+        "equipid": 4,
+        "equippc": {
+          "equipname": "qh_t_xiezi",
+          "equippcid": "qh_icon_xiezi2"
+        }
+      },
+      {
+        "equipid": 5,
+        "equippc": {
+          "equipname": "qh_t_jiezhi",
+          "equippcid": "qh_icon_jiezhi2"
+        }
+      },
+      {
+        "equipid": 6,
+        "equippc": {
+          "equipname": "qh_t_huwan",
+          "equippcid": "qh_icon_huwan2"
+        }
+      },
+      {
+        "equipid": 7,
+        "equippc": {
+          "equipname": "qh_t_xianglian",
+          "equippcid": "qh_icon_xianglian2"
+        }
+      },
+      {
+        "equipid": 8,
+        "equippc": {
+          "equipname": "qh_t_toukui",
+          "equippcid": "qh_icon_toukui2"
+        }
+      }
+    ]
+  },
+  "2": {
+    "attr": [
+      76,
+      77
+    ],
+    "id": 2
+  },
+  "3": {
+    "attr": [
+      136,
+      138,
+      139,
+      5,
+      65,
+      66,
+      67,
+      68,
+      76,
+      77,
+      21,
+      23,
+      25,
+      27
+    ],
+    "id": 3,
+    "name": [
+      {
+        "ringid": 1,
+        "ringpc": {
+          "ringname": "t_ring",
+          "ringpcid": "icon_ring_1",
+          "routeid": "3",
+          "ruleid": "62"
+        }
+      },
+      {
+        "ringid": 2,
+        "ringpc": {
+          "ringname": "t_ring3",
+          "ringpcid": "icon_ring_3",
+          "routeid": "3",
+          "ruleid": "81"
+        }
+      },
+      {
+        "ringid": 3,
+        "ringpc": {
+          "ringname": "t_ring4",
+          "ringpcid": "icon_ring_4",
+          "routeid": "3",
+          "ruleid": "82"
+        }
+      },
+      {
+        "ringid": 4,
+        "ringpc": {
+          "ringname": "t_ring5",
+          "ringpcid": "icon_ring_5",
+          "routeid": "3",
+          "ruleid": "82"
+        }
+      }
+    ]
+  }
+}

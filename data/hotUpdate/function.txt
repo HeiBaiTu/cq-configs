@@ -1,0 +1,2 @@
+local sVar = System.getStaticVar()
+print(sVar.szBossDigServerCount or 0)

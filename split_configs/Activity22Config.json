@@ -1,0 +1,513 @@
+{
+  "28": {
+    "Id": 28,
+    "Ntipstext_1": "|C:0xeee104&T:活动：跨服竞技大乱斗|",
+    "Ntipstext_2": "活动时间：|C:0x2eb52d&T:每周一、周四 20:10-20:30 |",
+    "Ntipstext_3": "在这里你无法分清对手与朋友，合纵连横出奇制胜！成为最后的幸存者吧",
+    "Ntipstext_4": "|C:0xff7700&T:角色5转开启，所有奖励回到原服时邮件发放，跨服中被击败不会掉落装备、道具|",
+    "buttoncolor": 1,
+    "isCheckTime": 1,
+    "name": "跨服竞技大乱斗",
+    "openParam": {
+      "level": 30,
+      "openDay": 1,
+      "zsLevel": 5
+    },
+    "rewardBtn": "进入跨服",
+    "rewards": [
+      {
+        "count": 0,
+        "id": 1062,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1066,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1018,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 3,
+        "type": 3
+      },
+      {
+        "count": 0,
+        "id": 302,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 0,
+        "id": 853,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 13,
+        "type": 13
+      },
+      {
+        "count": 0,
+        "id": 265,
+        "type": 0
+      }
+    ],
+    "ruleID": 93,
+    "tipsbuttonfunction": {
+      "type": 3
+    },
+    "tipsbuttontext": "前往跨服",
+    "tipstext": "跨服后你无法分清对手与朋友，合纵连横出奇制胜！成为最后的幸存者吧",
+    "tipstime": "20:10~ 20:30",
+    "tipstitleicon": "open_bt_12",
+    "uiType": 1
+  },
+  "29": {
+    "Id": 29,
+    "Ntipstext_1": "|C:0xeee104&T:活动：夜战沃玛三|",
+    "Ntipstext_2": "活动时间：|C:0x2eb52d&T:每周二、周五 20:10-20:30 |",
+    "Ntipstext_3": "在这里你将和你的盟友并肩战斗，去争夺属于你们的奖励！不过请注意盟友是会变的...",
+    "Ntipstext_4": "|C:0xff7700&T:角色5转开启，所有奖励回到原服时邮件发放，跨服中被击败不会掉落装备、道具|",
+    "buttoncolor": 1,
+    "isCheckTime": 1,
+    "name": "跨服夜战沃玛三",
+    "openParam": {
+      "level": 30,
+      "openDay": 1,
+      "zsLevel": 5
+    },
+    "rewardBtn": "进入跨服",
+    "rewards": [
+      {
+        "count": 0,
+        "id": 1062,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1066,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1022,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 4,
+        "type": 4
+      },
+      {
+        "count": 0,
+        "id": 302,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 0,
+        "id": 854,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 13,
+        "type": 13
+      },
+      {
+        "count": 0,
+        "id": 265,
+        "type": 0
+      }
+    ],
+    "ruleID": 92,
+    "tipsbuttonfunction": {
+      "type": 3
+    },
+    "tipsbuttontext": "前往跨服",
+    "tipstext": "跨服后你将和你的盟友并肩战斗，去争夺属于你们的奖励！不过请注意盟友是会变的...",
+    "tipstime": "20:10~ 20:30",
+    "tipstitleicon": "open_bt_13",
+    "uiType": 1
+  },
+  "30": {
+    "Id": 30,
+    "Ntipstext_1": "|C:0xeee104&T:活动：跨服领主|",
+    "Ntipstext_2": "活动时间：|C:0x2eb52d&T:每日12:30-12:45 |",
+    "Ntipstext_3": "击败领主就能获得积分，可更重要的是守住胜利果实，不要被别人抢了！(入场后PK模式固定为和平)\n所有玩家都可获得|C:0xff7700&T:参与奖|\n完成|C:0xe50000&T:最后一击|还将获得额外|C:0xe50000&T:高额奖励|",
+    "Ntipstext_4": "|C:0xff7700&T:角色3转开启，所有奖励回到原服时邮件发放，跨服中被击败不会掉落装备、道具|",
+    "buttoncolor": 1,
+    "isCheckTime": 1,
+    "name": "跨服领主",
+    "openParam": {
+      "level": 30,
+      "openDay": 1,
+      "zsLevel": 3
+    },
+    "rewardBtn": "进入跨服",
+    "rewards": [
+      {
+        "count": 0,
+        "id": 1061,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 13,
+        "type": 13
+      },
+      {
+        "count": 0,
+        "id": 269,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 975,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 249,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 368,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1002,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 380,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 398,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 396,
+        "type": 0
+      }
+    ],
+    "ruleID": 95,
+    "tipsbuttonfunction": {
+      "type": 3
+    },
+    "tipsbuttontext": "前往跨服",
+    "tipstext": "黑暗的时代已经来临，更加强大的深渊领主已经从黑暗中复苏，请集合各处的勇士们前往击杀！",
+    "tipstime": "12:30",
+    "tipstitleicon": "open_bt_9",
+    "uiType": 1
+  },
+  "31": {
+    "Id": 31,
+    "Ntipstext_1": "|C:0xeee104&T:活动：次元首领|",
+    "Ntipstext_2": "活动时间：|C:0x2eb52d&T:每日10:30-10:50、14:30-14:50、20:30-20:50|",
+    "Ntipstext_3": "击败次元首领的归属者，你才能取而代之，战到最后也只有一个归属者。不过不要气馁，只要战斗中获得过归属权，最后失败了也可以获得勇斗奖。\n|C:0xe50000&T:只要参与就有参与宝箱|",
+    "Ntipstext_4": "|C:0xff7700&T:角色3转开启，所有宝箱回到原服时邮件发放，开启宝箱消耗次元钥匙，跨服中被击败不会掉落装备、道具|",
+    "buttoncolor": 1,
+    "isCheckTime": 1,
+    "name": "次元首领",
+    "openParam": {
+      "level": 30,
+      "openDay": 1,
+      "zsLevel": 3
+    },
+    "rewardBtn": "进入跨服",
+    "rewards": [
+      {
+        "count": 0,
+        "id": 1015,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 265,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1061,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 13,
+        "type": 13
+      },
+      {
+        "count": 0,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 0,
+        "id": 380,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 398,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 396,
+        "type": 0
+      }
+    ],
+    "ruleID": 96,
+    "tipsbuttonfunction": {
+      "type": 3
+    },
+    "tipsbuttontext": "前往跨服",
+    "tipstext": "次元首领袭来，请勇士们前往跨服战场迎敌！消灭次元首领，领取丰厚战利品",
+    "tipstime": "10:30、14:30、20:30开启",
+    "tipstitleicon": "open_bt_10",
+    "uiType": 1
+  },
+  "32": {
+    "Id": 32,
+    "Ntipstext_1": "|C:0xeee104&T:活动：跨服沙巴克|",
+    "Ntipstext_2": "活动时间：|C:0x2eb52d&T:每周日 20:10-20:40 |",
+    "Ntipstext_3": "每周日，勇士可以自由创建行会随时享受一场快意恩仇，与来自跨服的陌生人做盟友或是对手都是你的选择！\n除个人积分奖励外，跨服城主、总积分前三行会会长副会长将获得额外限时称号",
+    "Ntipstext_4": "|C:0xff7700&T:开服25天开启，所有奖励回到原服时邮件发放，跨服中被击败不会掉落装备、道具|",
+    "buttoncolor": 1,
+    "czrewards": [
+      {
+        "count": 1,
+        "id": 1111,
+        "type": 0
+      }
+    ],
+    "isCheckTime": 1,
+    "name": "跨服沙巴克",
+    "openParam": {
+      "level": 30,
+      "openDay": 25,
+      "zsLevel": 3
+    },
+    "rewardBtn": "进入跨服",
+    "rewards": [
+      {
+        "count": 0,
+        "id": 1111,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1112,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1113,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 302,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1071,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 368,
+        "type": 0
+      }
+    ],
+    "ruleID": 94,
+    "tipsbuttonfunction": {
+      "type": 3
+    },
+    "tipsbuttontext": "前往跨服",
+    "tipstext": "跨服沙巴克攻城将于周日20:10开始，请勇士们做好准备！",
+    "tipstime": "20:10~ 20:40",
+    "tipstitleicon": "open_bt_11",
+    "uiType": 1
+  },
+  "39": {
+    "Id": 39,
+    "Ntipstext_1": "|C:0xeee104&T:活动：逃脱试炼|",
+    "Ntipstext_2": "活动时间：|C:0x2eb52d&T:每周三、周六 20:10-20:30 |",
+    "Ntipstext_3": "想要逃离可怕的试炼之地，需要300积分。偷袭别人虽是不错的选择，但前提是保护好自己",
+    "Ntipstext_4": "|C:0xff7700&T:角色5转开启，所有奖励回到原服时邮件发放，跨服中被击败不会掉落装备、道具|",
+    "buttoncolor": 1,
+    "isCheckTime": 1,
+    "name": "逃脱试炼",
+    "openParam": {
+      "level": 30,
+      "openDay": 1,
+      "zsLevel": 5
+    },
+    "rewardBtn": "进入跨服",
+    "rewards": [
+      {
+        "count": 0,
+        "id": 1060,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 302,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1228,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1218,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 2,
+        "type": 2
+      }
+    ],
+    "ruleID": 102,
+    "tipsbuttonfunction": {
+      "type": 3
+    },
+    "tipsbuttontext": "前往跨服",
+    "tipstext": "逃脱试炼活动将在每周三，周六晚20:10开启，勇士们准备接受测试吧！",
+    "tipstime": "20:10~ 20:30",
+    "tipstitleicon": "open_bt_14",
+    "uiType": 1
+  },
+  "44": {
+    "Id": 44,
+    "Ntipstext_1": "|C:0xeee104&T:活动：秘境打宝|",
+    "Ntipstext_2": "活动时间：|C:0x2eb52d&T:每日12:45-13:15、20:50-21:20|",
+    "Ntipstext_3": "跨服秘境充满烟瘴，生命回复和吸血能力大幅下降。怪物看似不强，关键你还得提防其他人的偷袭。这里还有奇特的神油，效果超乎你的想象。好好利用这一切多打一些宝箱吧",
+    "Ntipstext_4": "|C:0xff7700&T:开服第25天开启，所有宝箱回到原服时邮件发放。神油、雪莲仅限跨服秘境使用，跨服中被击败不会掉落装备、道具|",
+    "buttoncolor": 1,
+    "isCheckTime": 1,
+    "name": "秘境打宝",
+    "openParam": {
+      "level": 30,
+      "openDay": 25,
+      "zsLevel": 3
+    },
+    "rewardBtn": "进入跨服",
+    "rewards": [
+      {
+        "count": 0,
+        "id": 1346,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1347,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1348,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1335,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1336,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1337,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1338,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1339,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1340,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1341,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1342,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 265,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 5,
+        "type": 5
+      },
+      {
+        "count": 0,
+        "id": 2,
+        "type": 2
+      }
+    ],
+    "ruleID": 111,
+    "tipsbuttonfunction": {
+      "type": 3
+    },
+    "tipsbuttontext": "前往跨服",
+    "tipstext": "秘境怪物来袭，请勇士们前往跨服战场迎敌！消灭怪物，领取丰厚战利品",
+    "tipstime": "12:45、20:50开启",
+    "tipstitleicon": "open_bt_15",
+    "uiType": 1
+  }
+}

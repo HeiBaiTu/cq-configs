@@ -1,0 +1,74 @@
+﻿--人物登录事件（注意：此时部分DB数据可能尚未装载完毕）
+defaultHandlerPlayerLogin = function (pActor,nFirstLogin)
+  
+	if nFirstLogin and nFirstLogin > 0 then
+		
+		if( Actor.isFirstLogin(pActor) ) then  
+
+		end
+	end
+	ProcActorData(pActor) 
+ 	ActorEvnetPlayerLoginAfterDie( pActor )
+  	loadActorData(pActor) 
+	--登录邮件
+
+	SendLoginMail(pActor)
+	PersonalBoss.OnNewDayArrive(pActor,1);
+
+end
+
+--载入玩家的PK模式数据
+function loadPKModeDataFunc(sysarg)
+	local var = Actor.getStaticVar( sysarg )
+	pkmode = var.pkmode
+	if pkmode == nil then 
+	--print("pkmode is nil !!")
+	var.pkmode = {}
+	pkmode = var.pkmode
+		--Actor.setPkMode(sysarg,fpZY)		
+	else	
+	--print("pkmode:"..pkmode[1])
+	if pkmode[1]== nil then pkmode[1] = fpPeaceful end
+		if pkmode[1]~= nil then 
+			Actor.setPkMode(sysarg,pkmode[1])
+			--print("get:"..Actor.getPkMode(sysarg))
+		end
+	end
+end
+  
+--玩家登陆时读取玩家的.[数据参数：玩家的ActorID；]
+function loadActorData(pActor) 
+	local nLast = Actor.getLastLogoutTime(pActor)	--上次下线的时间
+	if (nLast == 0) then
+		Actor.setPkMode(pActor,fpPeaceful)
+  	--else
+	--	if (nLast < System.getToday()) then
+	--	  Actor.removeQuestNewDay(pActor)
+	--	end
+	end
+	loadPKModeDataFunc(pActor)
+end
+
+--人物死亡后登录
+function ActorEvnetPlayerLoginAfterDie( pActor )
+	if Actor.getIntProperty(pActor,PROP_CREATURE_HP) == 0 then
+		Actor.relive(pActor)
+		local maxhp = Actor.getIntProperty(pActor,PROP_CREATURE_MAXHP) 
+		Actor.changeHp(pActor,maxhp*0.3)
+		local actorMp = Actor.getIntProperty(pActor,PROP_CREATURE_MP)
+		local maxmp = Actor.getIntProperty(pActor,PROP_CREATURE_MAXMP)
+		Actor.changeMp(pActor,-(actorMp-maxmp*0.3))		
+	end
+end
+
+--处理玩家数据
+function ProcActorData(pActor) 
+	local lastLogoutTime = Actor.getLastLogoutTime(pActor)	--上次下线的时间
+	if (lastLogoutTime == 0) then							--新注册玩家
+
+	else
+		if lastLogoutTime < System.getToday() then  	--昨天下线的，已经跨天了
+			
+		end
+	end
+end

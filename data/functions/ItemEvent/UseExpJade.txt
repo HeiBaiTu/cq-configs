@@ -1,0 +1,38 @@
+--经验勾玉
+
+--#include "data\functions\ItemEvent\ItemUseCount.txt" once
+--#include "data\functions\GlobalMiscExpand\GlobalMisc.txt" once
+--#include "data\config\item\ExpJade.txt" once
+
+
+function UseExpJadeItem(sysarg, count, itemidx, itemPtr,ItemTable, delType, param)
+	local lastTimes, maxTimes = getItemUseCount(sysarg, itemidx)
+	if lastTimes <= 0 then
+	    local MaxDailyUseTimes = ItemUseCountCfg[itemidx].dailyUseLimit
+		Actor.sendTipmsg( sysarg, OldLang.Script.ExpJade001, ttFlyTip )
+		return
+	end
+	local useCount = count
+	if useCount > lastTimes then
+		useCount = lastTimes
+	end
+	useCount = Actor.removeItemByPtr(sysarg, itemPtr, useCount, true, "ExpJade",221)
+	if useCount > 0 then
+		if AddDailyItemUseCount(sysarg, itemidx, useCount)	then		--次数增加，并发送客户端
+		    local expVal  = Actor.getActivityExp(sysarg, ItemTable.expTab, ItemTable.value, 0) * useCount
+		    Actor.giveAward(sysarg,1,0,expVal,0,0,0,0,221,"ExpJade")
+			Actor.sendTipmsg( sysarg, string.format(OldLang.Script.ExpJade002, expVal, lastTimes-useCount), ttFlyTip )
+		end
+		return true,useCount
+	end
+end
+
+
+function UseExpJadeItemInit(sysarg)
+    for i = 1,table.getn(ExpJadeTable) do
+	    local x = ExpJadeTable[i]
+	    GlobalItemFn[x.item_id] = { func = UseExpJadeItem, params = x }
+    end
+end
+
+table.insert(InitFnTable, UseExpJadeItemInit)

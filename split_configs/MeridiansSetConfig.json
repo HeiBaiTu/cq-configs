@@ -1,0 +1,25 @@
+{
+  "equipOpen": {
+    "openDay": 8
+  },
+  "equipOpen1": {
+    "openDay": 8
+  },
+  "equipOpen2": {
+    "openDay": 8
+  },
+  "equipOpen3": {
+    "openDay": 8
+  },
+  "equipOpen4": {
+    "openDay": 8
+  },
+  "equipOpenBS": {
+    "openDay": 8
+  },
+  "limit": 100,
+  "limitStr": "|C:0xf56f00&T:开服第8天可穿戴内功装备|",
+  "openLimit": {
+    "openDay": 8
+  }
+}

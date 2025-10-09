@@ -1,0 +1,2002 @@
+{
+  "101": {
+    "Resonanceid": 101,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 20
+          }
+        ],
+        "itemid": 1167
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 40
+          }
+        ],
+        "itemid": 1168
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 60
+          }
+        ],
+        "itemid": 1169
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 80
+          }
+        ],
+        "itemid": 1170
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 100
+          }
+        ],
+        "itemid": 1171
+      }
+    ]
+  },
+  "102": {
+    "Resonanceid": 102,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 40
+          }
+        ],
+        "itemid": 1167
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 80
+          }
+        ],
+        "itemid": 1168
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 120
+          }
+        ],
+        "itemid": 1169
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 160
+          }
+        ],
+        "itemid": 1170
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 200
+          }
+        ],
+        "itemid": 1171
+      }
+    ]
+  },
+  "103": {
+    "Resonanceid": 103,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 60
+          }
+        ],
+        "itemid": 1167
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 120
+          }
+        ],
+        "itemid": 1168
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 180
+          }
+        ],
+        "itemid": 1169
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 240
+          }
+        ],
+        "itemid": 1170
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 300
+          }
+        ],
+        "itemid": 1171
+      }
+    ]
+  },
+  "104": {
+    "Resonanceid": 104,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 80
+          }
+        ],
+        "itemid": 1167
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 160
+          }
+        ],
+        "itemid": 1168
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 240
+          }
+        ],
+        "itemid": 1169
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 320
+          }
+        ],
+        "itemid": 1170
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 400
+          }
+        ],
+        "itemid": 1171
+      }
+    ]
+  },
+  "105": {
+    "Resonanceid": 105,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 100
+          }
+        ],
+        "itemid": 1167
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 200
+          }
+        ],
+        "itemid": 1168
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 300
+          }
+        ],
+        "itemid": 1169
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 400
+          }
+        ],
+        "itemid": 1170
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 500
+          }
+        ],
+        "itemid": 1171
+      }
+    ]
+  },
+  "106": {
+    "Resonanceid": 106,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 120
+          }
+        ],
+        "itemid": 1167
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 240
+          }
+        ],
+        "itemid": 1168
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 360
+          }
+        ],
+        "itemid": 1169
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 480
+          }
+        ],
+        "itemid": 1170
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 600
+          }
+        ],
+        "itemid": 1171
+      }
+    ]
+  },
+  "107": {
+    "Resonanceid": 107,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 140
+          }
+        ],
+        "itemid": 1167
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 280
+          }
+        ],
+        "itemid": 1168
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 420
+          }
+        ],
+        "itemid": 1169
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 560
+          }
+        ],
+        "itemid": 1170
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 700
+          }
+        ],
+        "itemid": 1171
+      }
+    ]
+  },
+  "108": {
+    "Resonanceid": 108,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 160
+          }
+        ],
+        "itemid": 1167
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 320
+          }
+        ],
+        "itemid": 1168
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 480
+          }
+        ],
+        "itemid": 1169
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 640
+          }
+        ],
+        "itemid": 1170
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 800
+          }
+        ],
+        "itemid": 1171
+      }
+    ]
+  },
+  "109": {
+    "Resonanceid": 109,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 180
+          }
+        ],
+        "itemid": 1167
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 360
+          }
+        ],
+        "itemid": 1168
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 540
+          }
+        ],
+        "itemid": 1169
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 720
+          }
+        ],
+        "itemid": 1170
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 900
+          }
+        ],
+        "itemid": 1171
+      }
+    ]
+  },
+  "110": {
+    "Resonanceid": 110,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 200
+          }
+        ],
+        "itemid": 1167
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 400
+          }
+        ],
+        "itemid": 1168
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 600
+          }
+        ],
+        "itemid": 1169
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 800
+          }
+        ],
+        "itemid": 1170
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 1000
+          }
+        ],
+        "itemid": 1171
+      }
+    ]
+  },
+  "201": {
+    "Resonanceid": 201,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 20
+          }
+        ],
+        "itemid": 1172
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 40
+          }
+        ],
+        "itemid": 1173
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 60
+          }
+        ],
+        "itemid": 1174
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 80
+          }
+        ],
+        "itemid": 1175
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 100
+          }
+        ],
+        "itemid": 1176
+      }
+    ]
+  },
+  "202": {
+    "Resonanceid": 202,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 40
+          }
+        ],
+        "itemid": 1172
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 80
+          }
+        ],
+        "itemid": 1173
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 120
+          }
+        ],
+        "itemid": 1174
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 160
+          }
+        ],
+        "itemid": 1175
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 200
+          }
+        ],
+        "itemid": 1176
+      }
+    ]
+  },
+  "203": {
+    "Resonanceid": 203,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 60
+          }
+        ],
+        "itemid": 1172
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 120
+          }
+        ],
+        "itemid": 1173
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 180
+          }
+        ],
+        "itemid": 1174
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 240
+          }
+        ],
+        "itemid": 1175
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 300
+          }
+        ],
+        "itemid": 1176
+      }
+    ]
+  },
+  "204": {
+    "Resonanceid": 204,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 80
+          }
+        ],
+        "itemid": 1172
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 160
+          }
+        ],
+        "itemid": 1173
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 240
+          }
+        ],
+        "itemid": 1174
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 320
+          }
+        ],
+        "itemid": 1175
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 400
+          }
+        ],
+        "itemid": 1176
+      }
+    ]
+  },
+  "205": {
+    "Resonanceid": 205,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 100
+          }
+        ],
+        "itemid": 1172
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 200
+          }
+        ],
+        "itemid": 1173
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 300
+          }
+        ],
+        "itemid": 1174
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 400
+          }
+        ],
+        "itemid": 1175
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 500
+          }
+        ],
+        "itemid": 1176
+      }
+    ]
+  },
+  "206": {
+    "Resonanceid": 206,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 120
+          }
+        ],
+        "itemid": 1172
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 240
+          }
+        ],
+        "itemid": 1173
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 360
+          }
+        ],
+        "itemid": 1174
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 480
+          }
+        ],
+        "itemid": 1175
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 600
+          }
+        ],
+        "itemid": 1176
+      }
+    ]
+  },
+  "207": {
+    "Resonanceid": 207,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 140
+          }
+        ],
+        "itemid": 1172
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 280
+          }
+        ],
+        "itemid": 1173
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 420
+          }
+        ],
+        "itemid": 1174
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 560
+          }
+        ],
+        "itemid": 1175
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 700
+          }
+        ],
+        "itemid": 1176
+      }
+    ]
+  },
+  "208": {
+    "Resonanceid": 208,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 160
+          }
+        ],
+        "itemid": 1172
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 320
+          }
+        ],
+        "itemid": 1173
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 480
+          }
+        ],
+        "itemid": 1174
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 640
+          }
+        ],
+        "itemid": 1175
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 800
+          }
+        ],
+        "itemid": 1176
+      }
+    ]
+  },
+  "209": {
+    "Resonanceid": 209,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 180
+          }
+        ],
+        "itemid": 1172
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 360
+          }
+        ],
+        "itemid": 1173
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 540
+          }
+        ],
+        "itemid": 1174
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 720
+          }
+        ],
+        "itemid": 1175
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 900
+          }
+        ],
+        "itemid": 1176
+      }
+    ]
+  },
+  "210": {
+    "Resonanceid": 210,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 200
+          }
+        ],
+        "itemid": 1172
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 400
+          }
+        ],
+        "itemid": 1173
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 600
+          }
+        ],
+        "itemid": 1174
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 800
+          }
+        ],
+        "itemid": 1175
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 1000
+          }
+        ],
+        "itemid": 1176
+      }
+    ]
+  },
+  "301": {
+    "Resonanceid": 301,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 20
+          }
+        ],
+        "itemid": 1177
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 40
+          }
+        ],
+        "itemid": 1178
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 60
+          }
+        ],
+        "itemid": 1179
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 80
+          }
+        ],
+        "itemid": 1180
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 100
+          }
+        ],
+        "itemid": 1181
+      }
+    ]
+  },
+  "302": {
+    "Resonanceid": 302,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 40
+          }
+        ],
+        "itemid": 1177
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 80
+          }
+        ],
+        "itemid": 1178
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 120
+          }
+        ],
+        "itemid": 1179
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 160
+          }
+        ],
+        "itemid": 1180
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 200
+          }
+        ],
+        "itemid": 1181
+      }
+    ]
+  },
+  "303": {
+    "Resonanceid": 303,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 60
+          }
+        ],
+        "itemid": 1177
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 120
+          }
+        ],
+        "itemid": 1178
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 180
+          }
+        ],
+        "itemid": 1179
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 240
+          }
+        ],
+        "itemid": 1180
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 300
+          }
+        ],
+        "itemid": 1181
+      }
+    ]
+  },
+  "304": {
+    "Resonanceid": 304,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 80
+          }
+        ],
+        "itemid": 1177
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 160
+          }
+        ],
+        "itemid": 1178
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 240
+          }
+        ],
+        "itemid": 1179
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 320
+          }
+        ],
+        "itemid": 1180
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 400
+          }
+        ],
+        "itemid": 1181
+      }
+    ]
+  },
+  "305": {
+    "Resonanceid": 305,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 100
+          }
+        ],
+        "itemid": 1177
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 200
+          }
+        ],
+        "itemid": 1178
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 300
+          }
+        ],
+        "itemid": 1179
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 400
+          }
+        ],
+        "itemid": 1180
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 500
+          }
+        ],
+        "itemid": 1181
+      }
+    ]
+  },
+  "306": {
+    "Resonanceid": 306,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 120
+          }
+        ],
+        "itemid": 1177
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 240
+          }
+        ],
+        "itemid": 1178
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 360
+          }
+        ],
+        "itemid": 1179
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 480
+          }
+        ],
+        "itemid": 1180
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 600
+          }
+        ],
+        "itemid": 1181
+      }
+    ]
+  },
+  "307": {
+    "Resonanceid": 307,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 140
+          }
+        ],
+        "itemid": 1177
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 280
+          }
+        ],
+        "itemid": 1178
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 420
+          }
+        ],
+        "itemid": 1179
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 560
+          }
+        ],
+        "itemid": 1180
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 700
+          }
+        ],
+        "itemid": 1181
+      }
+    ]
+  },
+  "308": {
+    "Resonanceid": 308,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 160
+          }
+        ],
+        "itemid": 1177
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 320
+          }
+        ],
+        "itemid": 1178
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 480
+          }
+        ],
+        "itemid": 1179
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 640
+          }
+        ],
+        "itemid": 1180
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 800
+          }
+        ],
+        "itemid": 1181
+      }
+    ]
+  },
+  "309": {
+    "Resonanceid": 309,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 180
+          }
+        ],
+        "itemid": 1177
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 360
+          }
+        ],
+        "itemid": 1178
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 540
+          }
+        ],
+        "itemid": 1179
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 720
+          }
+        ],
+        "itemid": 1180
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 900
+          }
+        ],
+        "itemid": 1181
+      }
+    ]
+  },
+  "310": {
+    "Resonanceid": 310,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 200
+          }
+        ],
+        "itemid": 1177
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 400
+          }
+        ],
+        "itemid": 1178
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 600
+          }
+        ],
+        "itemid": 1179
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 800
+          }
+        ],
+        "itemid": 1180
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 1000
+          }
+        ],
+        "itemid": 1181
+      }
+    ]
+  },
+  "401": {
+    "Resonanceid": 401,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 20
+          }
+        ],
+        "itemid": 1182
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 40
+          }
+        ],
+        "itemid": 1183
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 60
+          }
+        ],
+        "itemid": 1184
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 80
+          }
+        ],
+        "itemid": 1185
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 100
+          }
+        ],
+        "itemid": 1186
+      }
+    ]
+  },
+  "402": {
+    "Resonanceid": 402,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 40
+          }
+        ],
+        "itemid": 1182
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 80
+          }
+        ],
+        "itemid": 1183
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 120
+          }
+        ],
+        "itemid": 1184
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 160
+          }
+        ],
+        "itemid": 1185
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 200
+          }
+        ],
+        "itemid": 1186
+      }
+    ]
+  },
+  "403": {
+    "Resonanceid": 403,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 60
+          }
+        ],
+        "itemid": 1182
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 120
+          }
+        ],
+        "itemid": 1183
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 180
+          }
+        ],
+        "itemid": 1184
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 240
+          }
+        ],
+        "itemid": 1185
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 300
+          }
+        ],
+        "itemid": 1186
+      }
+    ]
+  },
+  "404": {
+    "Resonanceid": 404,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 80
+          }
+        ],
+        "itemid": 1182
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 160
+          }
+        ],
+        "itemid": 1183
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 240
+          }
+        ],
+        "itemid": 1184
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 320
+          }
+        ],
+        "itemid": 1185
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 400
+          }
+        ],
+        "itemid": 1186
+      }
+    ]
+  },
+  "405": {
+    "Resonanceid": 405,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 100
+          }
+        ],
+        "itemid": 1182
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 200
+          }
+        ],
+        "itemid": 1183
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 300
+          }
+        ],
+        "itemid": 1184
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 400
+          }
+        ],
+        "itemid": 1185
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 500
+          }
+        ],
+        "itemid": 1186
+      }
+    ]
+  },
+  "406": {
+    "Resonanceid": 406,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 120
+          }
+        ],
+        "itemid": 1182
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 240
+          }
+        ],
+        "itemid": 1183
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 360
+          }
+        ],
+        "itemid": 1184
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 480
+          }
+        ],
+        "itemid": 1185
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 600
+          }
+        ],
+        "itemid": 1186
+      }
+    ]
+  },
+  "407": {
+    "Resonanceid": 407,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 140
+          }
+        ],
+        "itemid": 1182
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 280
+          }
+        ],
+        "itemid": 1183
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 420
+          }
+        ],
+        "itemid": 1184
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 560
+          }
+        ],
+        "itemid": 1185
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 700
+          }
+        ],
+        "itemid": 1186
+      }
+    ]
+  },
+  "408": {
+    "Resonanceid": 408,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 160
+          }
+        ],
+        "itemid": 1182
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 320
+          }
+        ],
+        "itemid": 1183
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 480
+          }
+        ],
+        "itemid": 1184
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 640
+          }
+        ],
+        "itemid": 1185
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 800
+          }
+        ],
+        "itemid": 1186
+      }
+    ]
+  },
+  "409": {
+    "Resonanceid": 409,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 180
+          }
+        ],
+        "itemid": 1182
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 360
+          }
+        ],
+        "itemid": 1183
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 540
+          }
+        ],
+        "itemid": 1184
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 720
+          }
+        ],
+        "itemid": 1185
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 900
+          }
+        ],
+        "itemid": 1186
+      }
+    ]
+  },
+  "410": {
+    "Resonanceid": 410,
+    "attr": [
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 200
+          }
+        ],
+        "itemid": 1182
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 400
+          }
+        ],
+        "itemid": 1183
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 600
+          }
+        ],
+        "itemid": 1184
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 800
+          }
+        ],
+        "itemid": 1185
+      },
+      {
+        "attr": [
+          {
+            "type": 6,
+            "value": 1000
+          }
+        ],
+        "itemid": 1186
+      }
+    ]
+  }
+}

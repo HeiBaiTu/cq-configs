@@ -1,0 +1,215 @@
+{
+  "22": {
+    "Id": 22,
+    "Ntipstext_1": "|C:0xeee104&T:活动：跨服竞技大乱斗|",
+    "Ntipstext_2": "活动时间：|C:0x2eb52d&T:每周一、周四 20:10-20:30 |",
+    "Ntipstext_3": "跨服后你无法分清对手与朋友，合纵连横出奇制胜！成为最后的幸存者吧",
+    "Ntipstext_4": "|C:0xff7700&T:转生达到5转开启，所有奖励回到原服时邮件发放，跨服中被击败不会掉落装备、道具|",
+    "buttoncolor": 1,
+    "describe": "跨服后你无法分清对手与朋友，合纵连横出奇制胜！成为最后的幸存者吧\n\n\n\n|C:0x2eb52d&T:等级30级|\n|C:0x2eb52d&T:每周一、周四 20:30-20:50|\n|C:0xf56f00&T:开服第32天开启|",
+    "fbId": 20,
+    "firstHalfTime": 600,
+    "isCheckTime": 0,
+    "mailContent1": "恭喜你在跨服大乱斗中取得了第%d名",
+    "mailContent2": "以下是你获得的所有积分奖励",
+    "mailTitle1": "跨服大乱斗排名奖励",
+    "mailTitle2": "跨服大乱斗积分奖励",
+    "name": "跨服竞技大乱斗",
+    "noticeFirstHalf": "跨服竞技大乱斗已经开始，20:20前都可以进入",
+    "noticeSecondHalf": "跨服竞技大乱斗下半场开始，场内玩家每人有4次复活机会",
+    "openParam": {
+      "level": 30,
+      "zsLevel": 5
+    },
+    "phaseAward": {
+      "1": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 1074,
+            "type": 0
+          }
+        ],
+        "value": 100
+      },
+      "2": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 1075,
+            "type": 0
+          }
+        ],
+        "value": 200
+      },
+      "3": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 1076,
+            "type": 0
+          }
+        ],
+        "value": 300
+      },
+      "4": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 1077,
+            "type": 0
+          }
+        ],
+        "value": 400
+      },
+      "5": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 1078,
+            "type": 0
+          }
+        ],
+        "value": 500
+      },
+      "6": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 1079,
+            "type": 0
+          }
+        ],
+        "value": 700
+      },
+      "7": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 1080,
+            "type": 0
+          }
+        ],
+        "value": 1000
+      }
+    },
+    "rankAward": {
+      "1": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 1081,
+            "type": 0
+          }
+        ],
+        "rank": "1-3",
+        "value": 3
+      },
+      "2": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 1082,
+            "type": 0
+          }
+        ],
+        "rank": "4-10",
+        "value": 10
+      },
+      "3": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 1083,
+            "type": 0
+          }
+        ],
+        "rank": "11-30",
+        "value": 30
+      },
+      "4": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 1084,
+            "type": 0
+          }
+        ],
+        "rank": "31-100",
+        "value": 100
+      }
+    },
+    "rewardBtn": "进入",
+    "rewards": [
+      {
+        "count": 0,
+        "id": 1062,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1066,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1018,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 3,
+        "type": 3
+      },
+      {
+        "count": 0,
+        "id": 302,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 0,
+        "id": 853,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 970,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 13,
+        "type": 13
+      },
+      {
+        "count": 0,
+        "id": 265,
+        "type": 0
+      }
+    ],
+    "ruleID": 93,
+    "secondHalfTime": 600,
+    "showFun": "app.Activitie.showFunction",
+    "showParam": {
+      "level": 1,
+      "zsLevel": 3
+    },
+    "tipsbuttonfunction": {
+      "param1": "app.CrossServerWin",
+      "param2": [
+        1
+      ],
+      "type": 1
+    },
+    "tipsbuttontext": "立即参与",
+    "tipstext": "跨服后你无法分清对手与朋友，合纵连横出奇制胜！成为最后的幸存者吧",
+    "tipstime": "20:10~20:30",
+    "tipstitleicon": "open_bt_12",
+    "uiType": 1
+  }
+}

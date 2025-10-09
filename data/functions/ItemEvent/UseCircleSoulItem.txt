@@ -1,0 +1,41 @@
+--英魂道具
+
+--#include "data\functions\ItemEvent\ItemUseCount.txt" once
+--#include "data\functions\GlobalMiscExpand\GlobalMisc.txt" once
+--#include "data\config\item\CircleSoulItem.txt" once
+
+
+function UseCircleSoulItem(sysarg, count, itemidx, itemPtr,ItemTable, delType, param)
+	local lastTimes, maxTimes = getItemUseCount(sysarg, itemidx)
+	if lastTimes <= 0 then
+	    local MaxDailyUseCircleSoulItemTimes = ItemUseCountCfg[itemidx].dailyUseLimit
+		Actor.sendTipmsg( sysarg, OldLang.Script.CircleSoul001, ttFlyTip )
+		return
+	end
+	local useCount = count
+	if useCount > lastTimes then
+		useCount = lastTimes
+	end
+	useCount = Actor.removeItemByPtr(sysarg, itemPtr, useCount, true, "CircleSoule", 133)
+	if useCount > 0 then
+		if AddDailyItemUseCount(sysarg, itemidx, useCount)	then		--次数增加，并发送客户端
+			local nValue = ItemTable.value*useCount
+		    Actor.giveAward(sysarg,14,0,nValue,0,0,0,0,133,"CircleItem")
+			Actor.sendTipmsg( sysarg, string.format(OldLang.Script.CircleSoul002,  nValue, lastTimes-useCount), ttFlyTip )
+			AddDailyActivityDoneNum(sysarg, enDailyActId_UseCircleSoulItem, useCount)		--领取英魂道具一次1次
+		end
+		return true,useCount
+	end
+
+end
+
+
+
+function UseCircleSoulItemInit(sysarg)
+    for i = 1,table.getn(CircleSoulItem) do
+	    local x = CircleSoulItem[i]
+	    GlobalItemFn[x.item_id] = { func = UseCircleSoulItem, params = x }
+    end
+end
+
+table.insert(InitFnTable, UseCircleSoulItemInit)

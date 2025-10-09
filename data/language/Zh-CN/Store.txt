@@ -1,0 +1,39 @@
+﻿--商城相关的文字
+Store = 
+{
+
+	title001 = "元宝商城",
+	title002 = "绑元商城",
+	title003 = "超值购",
+	title004 = "宗师商店",
+
+	desc001 = "元宝购买商品",
+	desc002 = "绑定元宝购买商品",
+	desc003 = "超值购商城",
+	desc004 = "斗魂购买商品",
+	
+	--NPC商店标签页
+	npcStore001 = "背包商店",
+	npcStore002 = "武器",
+	npcStore003 = "药店",
+	npcStore004 = "书店",
+	npcStore005 = "杂货",
+
+	--NPC商店 对话框选项描述字符串
+	--@NPCTradeInfoToClient,param1> param1:NPCStore里的npcStoreId
+	NpcStoreDlgStr001 = "<#BL武器商店/@NPCTradeInfoToClient,2>",
+	NpcStoreDlgStr002 = "<#BL药店/@NPCTradeInfoToClient,3>",
+	NpcStoreDlgStr003 = "<#BL书店/@NPCTradeInfoToClient,4>",
+	NpcStoreDlgStr004 = "<#BL杂货商/@NPCTradeInfoToClient,5>",
+
+	mysticalShop001 = "此神秘商品没有被刷出，不能购买",
+	mysticalShop002 = "此神秘商品已经购买了，再次刷新后才能购买",
+	mysticalShop003 = "此神秘商品不存在，不能购买",
+	mysticalShop004 = "今日剩余刷新次数为0，<(c0xFF21EDFF)成为vip>可增加每日刷新次数",
+	mysticalShop005 = "元宝不足，不能刷新神秘商店",
+
+	mysticalShop011 = "刷新商城的神秘商店扣道具",			--for log
+	mysticalShop012 = "刷新商城的神秘商店扣元宝",			--for log
+	mysticalShop013 = "购买神秘商店商品的数量",				--for log
+	mysticalShop014 = "购买神秘商店商品的费用",				--for log
+}

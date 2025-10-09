@@ -1,0 +1,115 @@
+{
+  "3": {
+    "1": {
+      "activityId": 3,
+      "frequency": 3,
+      "gexp": 800000,
+      "gold": [
+        {
+          "count": 0,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "id": 1,
+      "iscostfree": 0,
+      "mexp": 100000000,
+      "number": [
+        {
+          "count": 1,
+          "id": 302,
+          "type": 0
+        }
+      ],
+      "serveropenday": {
+        "level": 999,
+        "openDay": 999
+      },
+      "tips": "可获得80万多倍经验",
+      "title": "超值鉴定"
+    },
+    "2": {
+      "activityId": 3,
+      "frequency": 5,
+      "gexp": 800000,
+      "gold": [
+        {
+          "count": 1000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "id": 2,
+      "iscostfree": 1,
+      "mexp": 100000000,
+      "number": [
+        {
+          "count": 2,
+          "id": 302,
+          "type": 0
+        }
+      ],
+      "serveropenday": {
+        "level": 999,
+        "openDay": 999
+      },
+      "tips": "可获得80万多倍经验",
+      "title": "消耗2水晶鉴定"
+    },
+    "3": {
+      "activityId": 3,
+      "frequency": 5,
+      "gexp": 800000,
+      "gold": [
+        {
+          "count": 2000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "id": 3,
+      "iscostfree": 1,
+      "mexp": 100000000,
+      "number": [
+        {
+          "count": 3,
+          "id": 302,
+          "type": 0
+        }
+      ],
+      "serveropenday": {
+        "level": 999,
+        "openDay": 999
+      },
+      "tips": "可获得80万多倍经验",
+      "title": "消耗3水晶鉴定"
+    },
+    "4": {
+      "activityId": 3,
+      "frequency": -1,
+      "gexp": 800000,
+      "gold": [
+        {
+          "count": 5000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "id": 4,
+      "mexp": 100000000,
+      "number": [
+        {
+          "count": 5,
+          "id": 302,
+          "type": 0
+        }
+      ],
+      "serveropenday": {
+        "level": 999,
+        "openDay": 999
+      },
+      "tips": "可获得80万多倍经验",
+      "title": "消耗5水晶鉴定"
+    }
+  }
+}

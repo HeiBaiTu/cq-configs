@@ -1,0 +1,727 @@
+{
+  "1": {
+    "1": {
+      "id": 1,
+      "idx": 1,
+      "itemlevel": 101,
+      "name": "沃玛装备",
+      "optionid": 1,
+      "showQuality": 0,
+      "tips": "回收背包中所有沃玛装备，推荐勾选",
+      "title": "装备回收",
+      "value": 0
+    },
+    "2": {
+      "id": 1,
+      "idx": 2,
+      "itemlevel": 102,
+      "name": "祖玛装备",
+      "optionid": 2,
+      "showQuality": 0,
+      "tips": "回收背包中所有祖玛装备，推荐勾选",
+      "title": "装备回收",
+      "value": 0
+    },
+    "3": {
+      "id": 1,
+      "idx": 3,
+      "itemlevel": 103,
+      "name": "炎之祖玛",
+      "optionid": 3,
+      "showQuality": 1,
+      "tips": "回收背包中所有炎之祖玛装备",
+      "title": "装备回收",
+      "value": 0
+    },
+    "4": {
+      "id": 1,
+      "idx": 4,
+      "itemlevel": 104,
+      "name": "赤月装备",
+      "optionid": 4,
+      "showQuality": 1,
+      "tips": "回收背包中所有赤月装备",
+      "title": "装备回收",
+      "value": 0
+    },
+    "5": {
+      "id": 1,
+      "idx": 5,
+      "itemlevel": 105,
+      "name": "炎之赤月",
+      "optionid": 5,
+      "showQuality": 1,
+      "tips": "回收背包中所有炎之赤月装备",
+      "title": "装备回收",
+      "value": 0
+    },
+    "6": {
+      "id": 1,
+      "idx": 6,
+      "itemlevel": 106,
+      "name": "魔龙装备",
+      "optionid": 6,
+      "showQuality": 2,
+      "tips": "回收背包中所有魔龙装备",
+      "title": "装备回收",
+      "value": 0
+    },
+    "7": {
+      "id": 1,
+      "idx": 7,
+      "itemlevel": 107,
+      "name": "炎之魔龙",
+      "optionid": 7,
+      "showQuality": 2,
+      "tips": "回收背包中所有炎之魔龙装备",
+      "title": "装备回收",
+      "value": 0
+    },
+    "8": {
+      "id": 1,
+      "idx": 8,
+      "itemlevel": 108,
+      "name": "强化魔龙",
+      "optionid": 8,
+      "showQuality": 2,
+      "tips": "回收背包中所有强化魔龙装备",
+      "title": "装备回收",
+      "value": 0
+    },
+    "9": {
+      "id": 1,
+      "idx": 9,
+      "itemlevel": 109,
+      "name": "炎之强魔",
+      "optionid": 9,
+      "showQuality": 2,
+      "tips": "回收背包中所有炎之强化魔龙装备",
+      "title": "装备回收",
+      "value": 0
+    },
+    "10": {
+      "id": 1,
+      "idx": 10,
+      "itemlevel": 110,
+      "name": "战神装备",
+      "optionid": 10,
+      "showQuality": 3,
+      "tips": "回收背包中所有战神装备",
+      "title": "装备回收",
+      "value": 0
+    },
+    "11": {
+      "id": 1,
+      "idx": 11,
+      "itemlevel": 111,
+      "name": "炎之战神",
+      "optionid": 11,
+      "showQuality": 3,
+      "tips": "回收背包中所有炎之战神装备",
+      "title": "装备回收",
+      "value": 0
+    },
+    "12": {
+      "id": 1,
+      "idx": 12,
+      "itemlevel": 97,
+      "name": "1阶魔器",
+      "optionid": 12,
+      "showQuality": 3,
+      "tips": "回收背包中所有1阶魔器",
+      "title": "装备回收",
+      "value": 0
+    },
+    "13": {
+      "ShowLimit": {
+        "zsLevel": 6
+      },
+      "id": 1,
+      "idx": 13,
+      "itemlevel": 112,
+      "name": "星王首饰",
+      "optionid": 58,
+      "showQuality": 4,
+      "tips": "回收背包中所有星王级首饰(不包括武器衣服)",
+      "title": "装备回收",
+      "value": 0
+    },
+    "14": {
+      "ShowLimit": {
+        "zsLevel": 6
+      },
+      "id": 1,
+      "idx": 14,
+      "itemlevel": 98,
+      "name": "2阶魔器",
+      "optionid": 59,
+      "showQuality": 4,
+      "tips": "回收背包中所有2阶魔器",
+      "title": "装备回收",
+      "value": 0
+    },
+    "15": {
+      "ShowLimit": {
+        "zsLevel": 7
+      },
+      "id": 1,
+      "idx": 15,
+      "itemlevel": 113,
+      "name": "炎之星王",
+      "optionid": 60,
+      "showQuality": 4,
+      "tips": "回收背包中所有炎之星王首饰(不包括武器衣服)",
+      "title": "装备回收",
+      "value": 0
+    },
+    "16": {
+      "ShowLimit": {
+        "zsLevel": 7
+      },
+      "id": 1,
+      "idx": 16,
+      "itemlevel": 99,
+      "name": "3阶魔器",
+      "optionid": 61,
+      "showQuality": 4,
+      "tips": "回收背包中所有3阶魔器",
+      "title": "装备回收",
+      "value": 0
+    }
+  },
+  "2": {
+    "1": {
+      "id": 2,
+      "idx": 1,
+      "itemlevel": 65,
+      "name": "30级神装",
+      "optionid": 13,
+      "showQuality": 0,
+      "tips": "回收背包中所有30级神装",
+      "title": "神装",
+      "value": 0
+    },
+    "2": {
+      "id": 2,
+      "idx": 2,
+      "itemlevel": 66,
+      "name": "40级神装",
+      "optionid": 14,
+      "showQuality": 0,
+      "tips": "回收背包中所有40级神装",
+      "title": "神装",
+      "value": 0
+    },
+    "3": {
+      "id": 2,
+      "idx": 3,
+      "itemlevel": 67,
+      "name": "50级神装",
+      "optionid": 15,
+      "showQuality": 1,
+      "tips": "回收背包中所有50级神装",
+      "title": "神装",
+      "value": 0
+    },
+    "4": {
+      "id": 2,
+      "idx": 4,
+      "itemlevel": 68,
+      "name": "1转神装",
+      "optionid": 16,
+      "showQuality": 1,
+      "tips": "回收背包中所有1转神装",
+      "title": "神装",
+      "value": 0
+    },
+    "5": {
+      "id": 2,
+      "idx": 5,
+      "itemlevel": 69,
+      "name": "2转神装",
+      "optionid": 17,
+      "showQuality": 2,
+      "tips": "回收背包中所有2转神装",
+      "title": "神装",
+      "value": 0
+    },
+    "6": {
+      "id": 2,
+      "idx": 6,
+      "itemlevel": 70,
+      "name": "3转神装",
+      "optionid": 18,
+      "showQuality": 2,
+      "tips": "回收背包中所有3转神装",
+      "title": "神装",
+      "value": 0
+    },
+    "7": {
+      "id": 2,
+      "idx": 7,
+      "itemlevel": 71,
+      "name": "4转神装",
+      "optionid": 19,
+      "showQuality": 2,
+      "tips": "回收背包中所有4转神装",
+      "title": "神装",
+      "value": 0
+    },
+    "8": {
+      "id": 2,
+      "idx": 8,
+      "itemlevel": 72,
+      "name": "5转神装",
+      "optionid": 20,
+      "showQuality": 3,
+      "tips": "回收背包中所有5转神装",
+      "title": "神装",
+      "value": 0
+    },
+    "9": {
+      "ShowLimit": {
+        "openDay": 70
+      },
+      "id": 2,
+      "idx": 9,
+      "itemlevel": 200,
+      "name": "一念内装",
+      "optionid": 55,
+      "showQuality": 3,
+      "tips": "回收背包中所有一念内装(包括银针[一念]、心决[一念]、金印[一念]、檀珠[一念])",
+      "title": "神装",
+      "value": 0
+    },
+    "10": {
+      "ShowLimit": {
+        "openDay": 70
+      },
+      "id": 2,
+      "idx": 10,
+      "itemlevel": 201,
+      "name": "无双内装",
+      "optionid": 56,
+      "showQuality": 3,
+      "tips": "回收背包中所有无双内装(包括银针[无双]、心决[无双]、金印[无双]、檀珠[无双])",
+      "title": "神装",
+      "value": 0
+    },
+    "11": {
+      "ShowLimit": {
+        "openDay": 70
+      },
+      "id": 2,
+      "idx": 11,
+      "itemlevel": 202,
+      "name": "三清内装",
+      "optionid": 57,
+      "showQuality": 4,
+      "tips": "回收背包中所有三清内装(包括银针[三清]、心决[三清]、金印[三清]、檀珠[三清])",
+      "title": "神装",
+      "value": 0
+    }
+  },
+  "3": {
+    "1": {
+      "id": 3,
+      "idx": 1,
+      "itemlevel": 33,
+      "name": "1品魂玉",
+      "optionid": 22,
+      "showQuality": 1,
+      "tips": "回收背包中所有1品魂玉",
+      "title": "合成装备",
+      "value": 0
+    },
+    "2": {
+      "id": 3,
+      "idx": 2,
+      "itemlevel": 34,
+      "name": "2品魂玉",
+      "optionid": 23,
+      "showQuality": 1,
+      "tips": "回收背包中所有2品魂玉",
+      "title": "合成装备",
+      "value": 0
+    },
+    "3": {
+      "id": 3,
+      "idx": 3,
+      "itemlevel": 35,
+      "name": "3品魂玉",
+      "optionid": 24,
+      "showQuality": 2,
+      "tips": "回收背包中所有3品魂玉",
+      "title": "合成装备",
+      "value": 0
+    },
+    "4": {
+      "id": 3,
+      "idx": 4,
+      "itemlevel": 36,
+      "name": "4品魂玉",
+      "optionid": 25,
+      "showQuality": 2,
+      "tips": "回收背包中所有4品魂玉",
+      "title": "合成装备",
+      "value": 0
+    },
+    "5": {
+      "id": 3,
+      "idx": 5,
+      "itemlevel": 44,
+      "name": "1阶勋章",
+      "optionid": 26,
+      "showQuality": 1,
+      "tips": "回收背包中所有1阶勋章",
+      "title": "合成装备",
+      "value": 0
+    },
+    "6": {
+      "id": 3,
+      "idx": 6,
+      "itemlevel": 45,
+      "name": "2阶勋章",
+      "optionid": 27,
+      "showQuality": 1,
+      "tips": "回收背包中所有2阶勋章",
+      "title": "合成装备",
+      "value": 0
+    },
+    "7": {
+      "id": 3,
+      "idx": 7,
+      "itemlevel": 46,
+      "name": "3阶勋章",
+      "optionid": 28,
+      "showQuality": 2,
+      "tips": "回收背包中所有3阶勋章",
+      "title": "合成装备",
+      "value": 0
+    },
+    "8": {
+      "id": 3,
+      "idx": 8,
+      "itemlevel": 47,
+      "name": "4阶勋章",
+      "optionid": 29,
+      "showQuality": 2,
+      "tips": "回收背包中所有4阶勋章",
+      "title": "合成装备",
+      "value": 0
+    },
+    "9": {
+      "id": 3,
+      "idx": 9,
+      "itemlevel": 55,
+      "name": "1级宝珠",
+      "optionid": 30,
+      "showQuality": 1,
+      "tips": "回收背包中所有1级治疗宝玉",
+      "title": "合成装备",
+      "value": 0
+    },
+    "10": {
+      "id": 3,
+      "idx": 10,
+      "itemlevel": 56,
+      "name": "2级宝珠",
+      "optionid": 31,
+      "showQuality": 1,
+      "tips": "回收背包中所有2级治疗宝玉",
+      "title": "合成装备",
+      "value": 0
+    },
+    "11": {
+      "id": 3,
+      "idx": 11,
+      "itemlevel": 57,
+      "name": "3级宝珠",
+      "optionid": 32,
+      "showQuality": 2,
+      "tips": "回收背包中所有3级治疗宝玉",
+      "title": "合成装备",
+      "value": 0
+    },
+    "12": {
+      "id": 3,
+      "idx": 12,
+      "itemlevel": 58,
+      "name": "4级宝珠",
+      "optionid": 33,
+      "showQuality": 2,
+      "tips": "回收背包中所有4级治疗宝玉",
+      "title": "合成装备",
+      "value": 0
+    },
+    "13": {
+      "id": 3,
+      "idx": 13,
+      "itemlevel": 85,
+      "name": "普通佩饰",
+      "optionid": 34,
+      "showQuality": 2,
+      "tips": "回收背包中所有普通佩饰",
+      "title": "合成装备",
+      "value": 0
+    },
+    "14": {
+      "id": 3,
+      "idx": 14,
+      "itemlevel": 86,
+      "name": "两仪佩饰",
+      "optionid": 35,
+      "showQuality": 3,
+      "tips": "回收背包中所有两仪佩饰",
+      "title": "合成装备",
+      "value": 0
+    },
+    "15": {
+      "id": 3,
+      "idx": 15,
+      "itemlevel": 87,
+      "name": "四象佩饰",
+      "optionid": 36,
+      "showQuality": 4,
+      "tips": "回收背包中所有四象佩饰",
+      "title": "合成装备",
+      "value": 0
+    }
+  },
+  "4": {
+    "1": {
+      "Titletips": "绿卡会员可开启该道具一键回收",
+      "VipLV": 2,
+      "id": 4,
+      "idx": 1,
+      "itemlevel": 29,
+      "name": "太阳水",
+      "optionid": 37,
+      "showQuality": 0,
+      "tips": "一键回收太阳水，需要绿卡会员",
+      "title": "材料及药品(绿卡特权)",
+      "value": 0
+    },
+    "2": {
+      "Titletips": "绿卡会员可开启该道具一键回收",
+      "VipLV": 2,
+      "id": 4,
+      "idx": 2,
+      "itemlevel": 23,
+      "name": "强效金创药",
+      "optionid": 38,
+      "showQuality": 0,
+      "tips": "一键回收强效金创药，需要绿卡会员",
+      "title": "材料及药品(绿卡特权)",
+      "value": 0
+    },
+    "3": {
+      "Titletips": "绿卡会员可开启该道具一键回收",
+      "VipLV": 2,
+      "id": 4,
+      "idx": 3,
+      "itemlevel": 30,
+      "name": "强效太阳水",
+      "optionid": 39,
+      "showQuality": 0,
+      "tips": "一键回收强效太阳水，需要绿卡会员",
+      "title": "材料及药品(绿卡特权)",
+      "value": 0
+    },
+    "4": {
+      "Titletips": "绿卡会员可开启该道具一键回收",
+      "VipLV": 2,
+      "id": 4,
+      "idx": 4,
+      "itemlevel": 31,
+      "name": "万年雪霜",
+      "optionid": 40,
+      "showQuality": 0,
+      "tips": "一键回收万年雪霜，需要绿卡会员",
+      "title": "材料及药品(绿卡特权)",
+      "value": 0
+    },
+    "5": {
+      "Titletips": "绿卡会员可开启该道具一键回收",
+      "VipLV": 2,
+      "id": 4,
+      "idx": 5,
+      "itemlevel": 75,
+      "name": "1转材料",
+      "optionid": 41,
+      "showQuality": 1,
+      "tips": "一键回收1转魂火和曜石，需要绿卡会员",
+      "title": "材料及药品(绿卡特权)",
+      "value": 0
+    },
+    "6": {
+      "Titletips": "绿卡会员可开启该道具一键回收",
+      "VipLV": 2,
+      "id": 4,
+      "idx": 6,
+      "itemlevel": 76,
+      "name": "2转材料",
+      "optionid": 42,
+      "showQuality": 1,
+      "tips": "一键回收2转魂火和曜石，需要绿卡会员",
+      "title": "材料及药品(绿卡特权)",
+      "value": 0
+    },
+    "7": {
+      "Titletips": "绿卡会员可开启该道具一键回收",
+      "VipLV": 2,
+      "id": 4,
+      "idx": 7,
+      "itemlevel": 77,
+      "name": "3转材料",
+      "optionid": 43,
+      "showQuality": 1,
+      "tips": "一键回收3转魂火和曜石，需要绿卡会员",
+      "title": "材料及药品(绿卡特权)",
+      "value": 0
+    },
+    "8": {
+      "Titletips": "绿卡会员可开启该道具一键回收",
+      "VipLV": 2,
+      "id": 4,
+      "idx": 8,
+      "itemlevel": 78,
+      "name": "4转材料",
+      "optionid": 44,
+      "showQuality": 2,
+      "tips": "一键回收4转魂火和曜石，需要绿卡会员",
+      "title": "材料及药品(绿卡特权)",
+      "value": 0
+    },
+    "9": {
+      "Titletips": "绿卡会员可开启该道具一键回收",
+      "VipLV": 2,
+      "id": 4,
+      "idx": 9,
+      "itemlevel": 79,
+      "name": "5转材料",
+      "optionid": 45,
+      "showQuality": 3,
+      "tips": "一键回收5转魂火和曜石，需要绿卡会员",
+      "title": "材料及药品(绿卡特权)",
+      "value": 0
+    },
+    "10": {
+      "Titletips": "绿卡会员可开启该道具一键回收",
+      "VipLV": 2,
+      "id": 4,
+      "idx": 10,
+      "itemlevel": 80,
+      "name": "6转材料",
+      "optionid": 46,
+      "showQuality": 4,
+      "tips": "一键回收6转魂火和曜石，需要绿卡会员",
+      "title": "材料及药品(绿卡特权)",
+      "value": 0
+    },
+    "11": {
+      "Titletips": "绿卡会员可开启该道具一键回收",
+      "VipLV": 2,
+      "id": 4,
+      "idx": 11,
+      "itemlevel": 89,
+      "name": "9品证明",
+      "optionid": 47,
+      "showQuality": 1,
+      "tips": "一键回收9品证明，需要绿卡会员",
+      "title": "材料及药品(绿卡特权)",
+      "value": 0
+    },
+    "12": {
+      "Titletips": "绿卡会员可开启该道具一键回收",
+      "VipLV": 2,
+      "id": 4,
+      "idx": 12,
+      "itemlevel": 90,
+      "name": "8品证明",
+      "optionid": 48,
+      "showQuality": 1,
+      "tips": "一键回收8品证明，需要绿卡会员",
+      "title": "材料及药品(绿卡特权)",
+      "value": 0
+    },
+    "13": {
+      "Titletips": "绿卡会员可开启该道具一键回收",
+      "VipLV": 2,
+      "id": 4,
+      "idx": 13,
+      "itemlevel": 91,
+      "name": "7品证明",
+      "optionid": 49,
+      "showQuality": 2,
+      "tips": "一键回收7品证明，需要绿卡会员",
+      "title": "材料及药品(绿卡特权)",
+      "value": 0
+    },
+    "14": {
+      "Titletips": "绿卡会员可开启该道具一键回收",
+      "VipLV": 2,
+      "id": 4,
+      "idx": 14,
+      "itemlevel": 92,
+      "name": "6品证明",
+      "optionid": 50,
+      "showQuality": 2,
+      "tips": "一键回收6品证明，需要绿卡会员",
+      "title": "材料及药品(绿卡特权)",
+      "value": 0
+    },
+    "15": {
+      "Titletips": "绿卡会员可开启该道具一键回收",
+      "VipLV": 2,
+      "id": 4,
+      "idx": 15,
+      "itemlevel": 93,
+      "name": "5品证明",
+      "optionid": 51,
+      "showQuality": 3,
+      "tips": "一键回收5品证明，需要绿卡会员",
+      "title": "材料及药品(绿卡特权)",
+      "value": 0
+    },
+    "16": {
+      "Titletips": "绿卡会员可开启该道具一键回收",
+      "VipLV": 2,
+      "id": 4,
+      "idx": 16,
+      "itemlevel": 94,
+      "name": "4品证明",
+      "optionid": 52,
+      "showQuality": 3,
+      "tips": "一键回收4品证明，需要绿卡会员",
+      "title": "材料及药品(绿卡特权)",
+      "value": 0
+    },
+    "17": {
+      "Titletips": "绿卡会员可开启该道具一键回收",
+      "VipLV": 2,
+      "id": 4,
+      "idx": 17,
+      "itemlevel": 95,
+      "name": "3品证明",
+      "optionid": 53,
+      "showQuality": 4,
+      "tips": "一键回收3品证明，需要绿卡会员",
+      "title": "材料及药品(绿卡特权)",
+      "value": 0
+    },
+    "18": {
+      "Titletips": "绿卡会员可开启该道具一键回收",
+      "VipLV": 2,
+      "id": 4,
+      "idx": 18,
+      "itemlevel": 96,
+      "name": "2品证明",
+      "optionid": 54,
+      "showQuality": 5,
+      "tips": "一键回收2品证明，需要绿卡会员",
+      "title": "材料及药品(绿卡特权)",
+      "value": 0
+    }
+  }
+}

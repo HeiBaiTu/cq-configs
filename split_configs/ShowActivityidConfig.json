@@ -1,0 +1,44 @@
+{
+  "1": {
+    "actID": 1,
+    "actIDArr": [
+      7
+    ],
+    "btnName": "送宝"
+  },
+  "2": {
+    "actID": 2,
+    "actIDArr": [
+      7
+    ],
+    "btnName": "领取夺宝战宝箱"
+  },
+  "3": {
+    "actID": 3,
+    "actIDArr": [
+      8
+    ],
+    "btnName": "送宝"
+  },
+  "4": {
+    "actID": 4,
+    "actIDArr": [
+      8
+    ],
+    "btnName": "领取夺宝战宝箱"
+  },
+  "5": {
+    "actID": 5,
+    "actIDArr": [
+      12
+    ],
+    "btnName": "领取独闯天涯礼包"
+  },
+  "6": {
+    "actID": 6,
+    "actIDArr": [
+      12
+    ],
+    "btnName": "领取神速礼包"
+  }
+}

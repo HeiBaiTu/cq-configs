@@ -1,0 +1,4 @@
+﻿--角色跨天事件
+defaultHandleActorNewDay = function (pActor,args)
+	
+end

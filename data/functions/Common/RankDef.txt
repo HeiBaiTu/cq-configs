@@ -1,0 +1,119 @@
+--所有排行榜的定义放在这里
+--排行榜的ID 2000-2999
+
+
+RANK_DEFINE_ACTIVITY3 	= 1001			--活动类型3 竞技大乱斗排行榜
+RANK_DEFINE_ACTIVITY4 	= 1002			--活动类型4 世界boss排行榜
+RANK_DEFINE_ACTIVITY11 	= 1003			--活动类型11 夜战沃玛三排行榜
+RANK_DEFINE_ACTIVITY16 	= 1004			--活动类型16 捐献排行
+RANK_DEFINE_ACTIVITY20 	= 10020			--活动类型20 沙巴克玩家积分排行
+RANK_DEFINE_ACTIVITY21 	= 10021			--活动类型20 沙巴克积分排行
+RANK_DEFINE_ACTIVITY17 	= 1005			--活动类型17 跨服竞技大乱斗 
+RANK_DEFINE_ACTIVITY24 	= 1006			--活动类型24 跨服首领排行
+RANK_DEFINE_ACTIVITY23 	= 1007			--活动类型23 跨服夜战沃玛三排行
+RANK_DEFINE_ACTIVITY26 	= 1008			--活动类型26 跨服逃脱试炼排行
+RANK_DEFINE_ACTIVITY10033 = 1009		--活动类型10033 区服冠名 
+RankList = 
+{	
+	[RANK_DEFINE_ACTIVITY3] = {			--排行榜的Id
+		nMaxRecord = 100,				--最大多少条记录
+		strName = "Activity3",			--排行榜的名字
+		tabColumn =
+		{								--列名字(如果没有就留空表{})	
+			{"name"},					--行名字								
+			{0     },					--默认值
+		},																
+	},
+	[RANK_DEFINE_ACTIVITY4] = {			--排行榜的Id
+		nMaxRecord = 100,				--最大多少条记录
+		strName = "Activity4",			--排行榜的名字
+		tabColumn =
+		{								--列名字(如果没有就留空表{})	
+			{"name"},					--行名字								
+			{0     },					--默认值
+		},																
+	},
+	[RANK_DEFINE_ACTIVITY11] = {			--排行榜的Id
+		nMaxRecord = 100,				--最大多少条记录
+		strName = "Activity11",			--排行榜的名字
+		tabColumn =
+		{								--列名字(如果没有就留空表{})	
+			{"name"},					--行名字								
+			{0     },					--默认值
+		},																
+	},
+	[RANK_DEFINE_ACTIVITY16] = {			--排行榜的Id
+		nMaxRecord = 10,				--最大多少条记录
+		strName = "Activity16",			--排行榜的名字
+		tabColumn =
+		{								--列名字(如果没有就留空表{})	
+			{"name"},					--行名字								
+			{0     },					--默认值
+		},																
+	},
+	[RANK_DEFINE_ACTIVITY20] = {			--排行榜的Id
+		nMaxRecord = 100,				--最大多少条记录
+		strName = "Activity20",			--排行榜的名字
+		tabColumn =
+		{								--列名字(如果没有就留空表{})	
+			{"name"},					--行名字								
+			{0     },					--默认值
+		},																
+	},
+	[RANK_DEFINE_ACTIVITY21] = {			--排行榜的Id
+		nMaxRecord = 100,				--最大多少条记录
+		strName = "Activity21",			--排行榜的名字
+		tabColumn =
+		{								--列名字(如果没有就留空表{})	
+			{"name"},					--行名字								
+			{0     },					--默认值
+		},																
+	},
+	[RANK_DEFINE_ACTIVITY17] = {		--排行榜的Id
+		nMaxRecord = 10,				--最大多少条记录
+		strName = "Activity17",			--排行榜的名字
+		tabColumn =
+		{								--列名字(如果没有就留空表{})	
+			{"name"},					--行名字								
+			{0     },					--默认值
+		},																
+	}, 
+	
+	[RANK_DEFINE_ACTIVITY24] = {		--跨服首领排行Id
+		nMaxRecord = 10,				--最大多少条记录
+		strName = "Activity18",			--排行榜的名字
+		tabColumn =
+		{								--列名字(如果没有就留空表{})	
+			{"name"},					--行名字								
+			{0     },					--默认值
+		},																
+	},
+	[RANK_DEFINE_ACTIVITY23] = {		--跨服夜战沃玛三排行Id
+		nMaxRecord = 10,				--最大多少条记录
+		strName = "Activity19",			--排行榜的名字
+		tabColumn =
+		{								--列名字(如果没有就留空表{})	
+			{"name"},					--行名字								
+			{0     },					--默认值
+		},																
+	}, 
+	[RANK_DEFINE_ACTIVITY26] = {		--跨服逃脱试炼排行Id
+		nMaxRecord = 10,				--最大多少条记录
+		strName = "Activity26",			--排行榜的名字
+		tabColumn =
+		{								--列名字(如果没有就留空表{})	
+			{"name"},					--行名字								
+			{0     },					--默认值
+		},																
+	}, 
+	[RANK_DEFINE_ACTIVITY10033] = {		--区服冠名Id
+		nMaxRecord = 10,				--最大多少条记录
+		strName = "Activity10033",		--排行榜的名字
+		tabColumn =
+		{								--列名字(如果没有就留空表{})	
+			{"name"},					--行名字								
+			{0     },					--默认值
+		},																
+	}, 
+}
+

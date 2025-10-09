@@ -1,0 +1,70 @@
+{
+  "1": {
+    "costtype": [
+      {
+        "id": 0,
+        "type": 3
+      },
+      {
+        "id": 0,
+        "type": 4
+      },
+      {
+        "id": 0,
+        "type": 2
+      }
+    ],
+    "shopname": "商城",
+    "shoptype": 1
+  },
+  "2": {
+    "costtype": [
+      {
+        "id": 0,
+        "type": 10
+      }
+    ],
+    "shopname": "行会商店",
+    "shoptype": 2
+  },
+  "3": {
+    "costtype": [
+      {
+        "id": 0,
+        "type": 2
+      }
+    ],
+    "shopname": "购买物品",
+    "shoptype": 3
+  },
+  "4": {
+    "costtype": [
+      {
+        "id": 0,
+        "type": 2
+      }
+    ],
+    "shopname": "购买药品和卷轴",
+    "shoptype": 4
+  },
+  "5": {
+    "costtype": [
+      {
+        "id": 12,
+        "type": 12
+      }
+    ],
+    "shopname": "活跃商城",
+    "shoptype": 5
+  },
+  "6": {
+    "costtype": [
+      {
+        "id": 20,
+        "type": 20
+      }
+    ],
+    "shopname": "战令商店",
+    "shoptype": 6
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "Id": 26,
+  "Ntipstext_1": "|C:0xeee104&T:活动：跨服沙巴克|",
+  "Ntipstext_2": "|C:0xf56f00&T:活动时间：||C:0x2eb52d&T:开服第25天起，每周日20:10-20:40跨服|",
+  "Ntipstext_3": "每周日，勇士可以自由创建行会随时享受一场快意恩仇，与来自跨服的陌生人做盟友或是对手都是你的选择！\n\n|C:0xf56f00&T:活动规则：|\n1.  |C:0x2eb52d&T:20:35|开始，开放沙巴克皇宫占领，若|C:0x2eb52d&T:皇宫|地图内有且|C:0x2eb52d&T:只有同一个行会|的成员，则该行会|C:0x2eb52d&T:占领沙巴克|\n2.  |C:0x2eb52d&T:20:40|截止时占领皇宫的行会即为最终的沙巴克行会\n3.  皇宫正门的传送点（紫色传送阵）仅限沙巴克成员进入\n4.  活动期间沙城区域在线、击败敌人、助攻、被击败都能获得积分，积分达到领取个人奖励。总积分前三行会会长、副会长有优秀会长奖励\n5.  跨服中爆落的装备会在回到原服后恢复，勇士们尽情PK吧",
+  "Ntipstext_4": "前往路径：|C:0x28ee01&T:公告牌||C:0xf56f00&T:(盟重223:150)|→|C:0xf56f00&T:沙城门口、沙城通道|",
+  "bg": "Act_hdbg1_sbkgc",
+  "buttoncolor": 2,
+  "czrewards": [
+    {
+      "count": 1,
+      "id": 1111,
+      "type": 0
+    }
+  ],
+  "czrewardsMailCT": "恭喜你获得沙巴克城主奖励",
+  "czrewardsMailTT": "跨服沙巴克城主",
+  "describe": "每个踏入玛法大陆的冒险者，内心深处都藏有战斗的疯狂和嗜血的渴望，战胜恶魔之后，人类必将迎来勇士之间的比拼，沙巴克攻城战正是为此而生！\n\n|C:0x2eb52d&T:每日 20:30-21:00|\n|C:0xf56f00&T:开服第7天开启|",
+  "description": "|C:0x0ffff00&T:前往沙巴克路径：|\n|C:0x2eb52d&T:公告牌(223:150)|→|C:0xf56f00&T:沙城门口、沙城通道|\n飞鞋→其它传送-沙城门口、沙城通道\n",
+  "idx": 1,
+  "isCheckTime": 0,
+  "name": "跨服沙巴克",
+  "openParam": {
+    "level": 30,
+    "zsLevel": 3
+  },
+  "openView": "app.ActivityCommonView",
+  "phaseAward": {
+    "1": {
+      "awards": [
+        {
+          "count": 1,
+          "id": 1107,
+          "type": 0
+        }
+      ],
+      "value": 50
+    },
+    "2": {
+      "awards": [
+        {
+          "count": 1,
+          "id": 1108,
+          "type": 0
+        }
+      ],
+      "value": 150
+    },
+    "3": {
+      "awards": [
+        {
+          "count": 1,
+          "id": 1109,
+          "type": 0
+        }
+      ],
+      "value": 300
+    },
+    "4": {
+      "awards": [
+        {
+          "count": 1,
+          "id": 1110,
+          "type": 0
+        }
+      ],
+      "value": 500
+    }
+  },
+  "phaseAwardMailCT": "恭喜你在跨服沙巴克中获得%d积分的奖励",
+  "phaseAwardMailTT": "跨服沙巴克积分",
+  "rankAward": [
+    {
+      "awards": [
+        {
+          "count": 1,
+          "id": 1112,
+          "type": 0
+        }
+      ],
+      "rank": "1",
+      "value": 1
+    },
+    {
+      "awards": [
+        {
+          "count": 1,
+          "id": 1112,
+          "type": 0
+        }
+      ],
+      "rank": "2",
+      "value": 2
+    },
+    {
+      "awards": [
+        {
+          "count": 1,
+          "id": 1112,
+          "type": 0
+        }
+      ],
+      "rank": "3",
+      "value": 3
+    }
+  ],
+  "rankAwardMailCT": "恭喜你在跨服沙巴克优秀会长奖励",
+  "rankAwardMailTT": "跨服沙巴克荣耀奖励",
+  "rewards": [
+    {
+      "count": 0,
+      "id": 1112,
+      "type": 0
+    },
+    {
+      "count": 0,
+      "id": 1113,
+      "type": 0
+    },
+    {
+      "count": 0,
+      "id": 302,
+      "type": 0
+    },
+    {
+      "count": 0,
+      "id": 1071,
+      "type": 0
+    },
+    {
+      "count": 0,
+      "id": 368,
+      "type": 0
+    }
+  ],
+  "ruleID": 94,
+  "showParam": {
+    "level": 1,
+    "zsLevel": 3
+  },
+  "starttime": 0,
+  "timeDescribe": "周日跨服\n20:10-20:40",
+  "tipsbuttonfunction": {
+    "param1": "app.ShaChengStarcraftWin",
+    "type": 1
+  },
+  "tipsbuttontext": "立即参与",
+  "tipstext": "跨服沙巴克攻城将于周日20:10开始，请勇士们做好准备！",
+  "tipstime": "20:10~20:40",
+  "tipstitleicon": "open_bt_11",
+  "titleIcon": "Act_biaoti_sbkgc",
+  "toflyid": {
+    "FlyTable": 5,
+    "Flyid": 69
+  },
+  "uiType": 1
+}

@@ -1,0 +1,75 @@
+{
+  "ClientReward": [
+    {
+      "count": 10,
+      "id": 247,
+      "type": 0
+    },
+    {
+      "count": 5,
+      "id": 7,
+      "type": 7
+    },
+    {
+      "count": 10,
+      "id": 261,
+      "type": 0
+    },
+    {
+      "count": 20000,
+      "id": 2,
+      "type": 2
+    }
+  ],
+  "IdentityReward": [
+    {
+      "count": 1,
+      "id": 365,
+      "type": 0
+    },
+    {
+      "count": 10,
+      "id": 261,
+      "type": 0
+    },
+    {
+      "count": 1,
+      "id": 300,
+      "type": 0
+    },
+    {
+      "count": 50000,
+      "id": 2,
+      "type": 2
+    }
+  ],
+  "PhoneReward": [
+    {
+      "count": 1,
+      "id": 351,
+      "type": 0
+    },
+    {
+      "count": 5,
+      "id": 421,
+      "type": 0
+    },
+    {
+      "count": 1,
+      "id": 302,
+      "type": 0
+    },
+    {
+      "count": 30000,
+      "id": 2,
+      "type": 2
+    }
+  ],
+  "WechatRewardGift": [
+    {
+      "count": 1,
+      "id": 1294,
+      "type": 0
+    }
+  ]
+}

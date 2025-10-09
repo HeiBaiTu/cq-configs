@@ -1,0 +1,410 @@
+{
+  "1": {
+    "1": {
+      "PetName": "多角虫",
+      "PetStr": "自动拾取范围：7*7",
+      "PetTime": 259200,
+      "attr": [
+        {
+          "type": 21,
+          "value": 0
+        },
+        {
+          "type": 23,
+          "value": 1
+        },
+        {
+          "type": 25,
+          "value": 0
+        },
+        {
+          "type": 27,
+          "value": 1
+        }
+      ],
+      "icon": "pet006",
+      "id": 1,
+      "nDropPetLootDistance": 3,
+      "nameIcon": "pet006_name",
+      "type": 1
+    },
+    "5": {
+      "PetName": "多角虫",
+      "PetStr": "自动拾取范围：7*7",
+      "PetTime": 604800,
+      "attr": [
+        {
+          "type": 21,
+          "value": 0
+        },
+        {
+          "type": 23,
+          "value": 1
+        },
+        {
+          "type": 25,
+          "value": 0
+        },
+        {
+          "type": 27,
+          "value": 1
+        }
+      ],
+      "icon": "pet006",
+      "id": 5,
+      "nDropPetLootDistance": 3,
+      "nameIcon": "pet006_name",
+      "type": 1
+    },
+    "9": {
+      "PetName": "多角虫",
+      "PetStr": "自动拾取范围：7*7",
+      "PetTime": 86400,
+      "attr": [
+        {
+          "type": 21,
+          "value": 0
+        },
+        {
+          "type": 23,
+          "value": 1
+        },
+        {
+          "type": 25,
+          "value": 0
+        },
+        {
+          "type": 27,
+          "value": 1
+        }
+      ],
+      "icon": "pet006",
+      "id": 9,
+      "nDropPetLootDistance": 3,
+      "nameIcon": "pet006_name",
+      "type": 1
+    },
+    "13": {
+      "PetName": "多角虫",
+      "PetStr": "自动拾取范围：7*7",
+      "PetTime": 3600,
+      "attr": [
+        {
+          "type": 21,
+          "value": 0
+        },
+        {
+          "type": 23,
+          "value": 1
+        },
+        {
+          "type": 25,
+          "value": 0
+        },
+        {
+          "type": 27,
+          "value": 1
+        }
+      ],
+      "icon": "pet006",
+      "id": 13,
+      "nDropPetLootDistance": 3,
+      "nameIcon": "pet006_name",
+      "type": 1
+    },
+    "17": {
+      "PetName": "多角虫",
+      "PetStr": "自动拾取范围：7*7",
+      "PetTime": 10800,
+      "attr": [
+        {
+          "type": 21,
+          "value": 0
+        },
+        {
+          "type": 23,
+          "value": 1
+        },
+        {
+          "type": 25,
+          "value": 0
+        },
+        {
+          "type": 27,
+          "value": 1
+        }
+      ],
+      "icon": "pet006",
+      "id": 17,
+      "nDropPetLootDistance": 3,
+      "nameIcon": "pet006_name",
+      "type": 1
+    }
+  },
+  "2": {
+    "2": {
+      "PetName": "雪狼",
+      "PetStr": "自动拾取范围：7*7",
+      "PetTime": 259200,
+      "attr": [
+        {
+          "type": 140,
+          "value": 500
+        }
+      ],
+      "icon": "pet007",
+      "id": 2,
+      "nDropPetLootDistance": 3,
+      "nameIcon": "pet007_name",
+      "type": 2
+    },
+    "6": {
+      "PetName": "雪狼",
+      "PetStr": "自动拾取范围：7*7",
+      "PetTime": 604800,
+      "attr": [
+        {
+          "type": 140,
+          "value": 500
+        }
+      ],
+      "icon": "pet007",
+      "id": 6,
+      "nDropPetLootDistance": 3,
+      "nameIcon": "pet007_name",
+      "type": 2
+    },
+    "10": {
+      "PetName": "雪狼",
+      "PetStr": "自动拾取范围：7*7",
+      "PetTime": 86400,
+      "attr": [
+        {
+          "type": 140,
+          "value": 500
+        }
+      ],
+      "icon": "pet007",
+      "id": 10,
+      "nDropPetLootDistance": 3,
+      "nameIcon": "pet007_name",
+      "type": 2
+    },
+    "14": {
+      "PetName": "雪狼",
+      "PetStr": "自动拾取范围：7*7",
+      "PetTime": 3600,
+      "attr": [
+        {
+          "type": 140,
+          "value": 500
+        }
+      ],
+      "icon": "pet007",
+      "id": 14,
+      "nDropPetLootDistance": 3,
+      "nameIcon": "pet007_name",
+      "type": 2
+    },
+    "18": {
+      "PetName": "雪狼",
+      "PetStr": "自动拾取范围：7*7",
+      "PetTime": 10800,
+      "attr": [
+        {
+          "type": 140,
+          "value": 500
+        }
+      ],
+      "icon": "pet007",
+      "id": 18,
+      "nDropPetLootDistance": 3,
+      "nameIcon": "pet007_name",
+      "type": 2
+    }
+  },
+  "3": {
+    "3": {
+      "PetName": "大眼鹰",
+      "PetStr": "自动拾取范围：7*7",
+      "PetTime": 259200,
+      "attr": [
+        {
+          "type": 76,
+          "value": 1
+        },
+        {
+          "type": 77,
+          "value": 3
+        }
+      ],
+      "icon": "pet001",
+      "id": 3,
+      "nDropPetLootDistance": 3,
+      "nameIcon": "pet001_name",
+      "type": 3
+    },
+    "7": {
+      "PetName": "大眼鹰",
+      "PetStr": "自动拾取范围：7*7",
+      "PetTime": 604800,
+      "attr": [
+        {
+          "type": 76,
+          "value": 1
+        },
+        {
+          "type": 77,
+          "value": 3
+        }
+      ],
+      "icon": "pet001",
+      "id": 7,
+      "nDropPetLootDistance": 3,
+      "nameIcon": "pet001_name",
+      "type": 3
+    },
+    "11": {
+      "PetName": "大眼鹰",
+      "PetStr": "自动拾取范围：7*7",
+      "PetTime": 86400,
+      "attr": [
+        {
+          "type": 76,
+          "value": 1
+        },
+        {
+          "type": 77,
+          "value": 3
+        }
+      ],
+      "icon": "pet001",
+      "id": 11,
+      "nDropPetLootDistance": 3,
+      "nameIcon": "pet001_name",
+      "type": 3
+    },
+    "15": {
+      "PetName": "大眼鹰",
+      "PetStr": "自动拾取范围：7*7",
+      "PetTime": 3600,
+      "attr": [
+        {
+          "type": 76,
+          "value": 1
+        },
+        {
+          "type": 77,
+          "value": 3
+        }
+      ],
+      "icon": "pet001",
+      "id": 15,
+      "nDropPetLootDistance": 3,
+      "nameIcon": "pet001_name",
+      "type": 3
+    },
+    "19": {
+      "PetName": "大眼鹰",
+      "PetStr": "自动拾取范围：7*7",
+      "PetTime": 10800,
+      "attr": [
+        {
+          "type": 76,
+          "value": 1
+        },
+        {
+          "type": 77,
+          "value": 3
+        }
+      ],
+      "icon": "pet001",
+      "id": 19,
+      "nDropPetLootDistance": 3,
+      "nameIcon": "pet001_name",
+      "type": 3
+    }
+  },
+  "4": {
+    "4": {
+      "PetName": "小火灵",
+      "PetStr": "自动拾取范围：7*7",
+      "PetTime": 259200,
+      "attr": [
+        {
+          "type": 54,
+          "value": 100
+        }
+      ],
+      "icon": "pet004",
+      "id": 4,
+      "nDropPetLootDistance": 3,
+      "nameIcon": "pet004_name",
+      "type": 4
+    },
+    "8": {
+      "PetName": "小火灵",
+      "PetStr": "自动拾取范围：7*7",
+      "PetTime": 604800,
+      "attr": [
+        {
+          "type": 54,
+          "value": 100
+        }
+      ],
+      "icon": "pet004",
+      "id": 8,
+      "nDropPetLootDistance": 3,
+      "nameIcon": "pet004_name",
+      "type": 4
+    },
+    "12": {
+      "PetName": "小火灵",
+      "PetStr": "自动拾取范围：7*7",
+      "PetTime": 86400,
+      "attr": [
+        {
+          "type": 54,
+          "value": 100
+        }
+      ],
+      "icon": "pet004",
+      "id": 12,
+      "nDropPetLootDistance": 3,
+      "nameIcon": "pet004_name",
+      "type": 4
+    },
+    "16": {
+      "PetName": "小火灵",
+      "PetStr": "自动拾取范围：7*7",
+      "PetTime": 3600,
+      "attr": [
+        {
+          "type": 54,
+          "value": 100
+        }
+      ],
+      "icon": "pet004",
+      "id": 16,
+      "nDropPetLootDistance": 3,
+      "nameIcon": "pet004_name",
+      "type": 4
+    },
+    "20": {
+      "PetName": "小火灵",
+      "PetStr": "自动拾取范围：7*7",
+      "PetTime": 10800,
+      "attr": [
+        {
+          "type": 54,
+          "value": 100
+        }
+      ],
+      "icon": "pet004",
+      "id": 20,
+      "nDropPetLootDistance": 3,
+      "nameIcon": "pet004_name",
+      "type": 4
+    }
+  }
+}

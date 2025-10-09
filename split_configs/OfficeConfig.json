@@ -1,0 +1,1237 @@
+{
+  "1": {
+    "attribute": [
+      {
+        "type": 5,
+        "value": 20
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 1
+      },
+      {
+        "type": 141,
+        "value": 100
+      }
+    ],
+    "circle": 0,
+    "consume": [
+      {
+        "count": 1000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 5,
+        "id": 994,
+        "type": 0
+      }
+    ],
+    "levellimit": 30,
+    "officelevel": 1,
+    "show": "[九品将仕郎]"
+  },
+  "2": {
+    "attribute": [
+      {
+        "type": 5,
+        "value": 45
+      },
+      {
+        "type": 76,
+        "value": 0
+      },
+      {
+        "type": 77,
+        "value": 2
+      },
+      {
+        "type": 141,
+        "value": 200
+      }
+    ],
+    "circle": 1,
+    "consume": [
+      {
+        "count": 5000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 6,
+        "id": 995,
+        "type": 0
+      }
+    ],
+    "levellimit": 40,
+    "notice": 1,
+    "officelevel": 2,
+    "show": "[八品骑士]"
+  },
+  "3": {
+    "attribute": [
+      {
+        "type": 5,
+        "value": 75
+      },
+      {
+        "type": 76,
+        "value": 1
+      },
+      {
+        "type": 77,
+        "value": 3
+      },
+      {
+        "type": 141,
+        "value": 300
+      }
+    ],
+    "circle": 2,
+    "consume": [
+      {
+        "count": 10000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 7,
+        "id": 996,
+        "type": 0
+      }
+    ],
+    "levellimit": 50,
+    "notice": 1,
+    "officelevel": 3,
+    "show": "[七品前锋]"
+  },
+  "4": {
+    "attribute": [
+      {
+        "type": 5,
+        "value": 110
+      },
+      {
+        "type": 76,
+        "value": 2
+      },
+      {
+        "type": 77,
+        "value": 4
+      },
+      {
+        "type": 141,
+        "value": 500
+      }
+    ],
+    "circle": 2,
+    "consume": [
+      {
+        "count": 20000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 8,
+        "id": 997,
+        "type": 0
+      }
+    ],
+    "levellimit": 60,
+    "notice": 1,
+    "officelevel": 4,
+    "show": "[六品护卫]"
+  },
+  "5": {
+    "attribute": [
+      {
+        "type": 5,
+        "value": 150
+      },
+      {
+        "type": 76,
+        "value": 2
+      },
+      {
+        "type": 77,
+        "value": 6
+      },
+      {
+        "type": 141,
+        "value": 700
+      }
+    ],
+    "circle": 3,
+    "consume": [
+      {
+        "count": 30000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 9,
+        "id": 998,
+        "type": 0
+      },
+      {
+        "count": 3,
+        "id": 838,
+        "type": 0
+      }
+    ],
+    "levellimit": 70,
+    "notice": 1,
+    "officelevel": 5,
+    "show": "[五品佐领]"
+  },
+  "6": {
+    "attribute": [
+      {
+        "type": 5,
+        "value": 195
+      },
+      {
+        "type": 76,
+        "value": 2
+      },
+      {
+        "type": 77,
+        "value": 8
+      },
+      {
+        "type": 141,
+        "value": 900
+      }
+    ],
+    "circle": 3,
+    "consume": [
+      {
+        "count": 40000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 10,
+        "id": 999,
+        "type": 0
+      },
+      {
+        "count": 10,
+        "id": 838,
+        "type": 0
+      }
+    ],
+    "levellimit": 80,
+    "notice": 1,
+    "officelevel": 6,
+    "show": "[四品参将]"
+  },
+  "7": {
+    "attribute": [
+      {
+        "type": 5,
+        "value": 245
+      },
+      {
+        "type": 76,
+        "value": 3
+      },
+      {
+        "type": 77,
+        "value": 10
+      },
+      {
+        "type": 141,
+        "value": 1100
+      }
+    ],
+    "circle": 4,
+    "consume": [
+      {
+        "count": 50000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 10,
+        "id": 1000,
+        "type": 0
+      },
+      {
+        "count": 30,
+        "id": 838,
+        "type": 0
+      }
+    ],
+    "levellimit": 90,
+    "notice": 1,
+    "officelevel": 7,
+    "show": "【三品大将】"
+  },
+  "8": {
+    "attribute": [
+      {
+        "type": 5,
+        "value": 300
+      },
+      {
+        "type": 76,
+        "value": 4
+      },
+      {
+        "type": 77,
+        "value": 12
+      },
+      {
+        "type": 141,
+        "value": 1300
+      }
+    ],
+    "circle": 4,
+    "consume": [
+      {
+        "count": 60000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 10,
+        "id": 1001,
+        "type": 0
+      },
+      {
+        "count": 50,
+        "id": 838,
+        "type": 0
+      }
+    ],
+    "levellimit": 100,
+    "notice": 1,
+    "officelevel": 8,
+    "show": "【二品将军】"
+  },
+  "9": {
+    "attribute": [
+      {
+        "type": 5,
+        "value": 360
+      },
+      {
+        "type": 76,
+        "value": 5
+      },
+      {
+        "type": 77,
+        "value": 14
+      },
+      {
+        "type": 141,
+        "value": 1400
+      },
+      {
+        "type": 84,
+        "value": 100
+      }
+    ],
+    "circle": 5,
+    "consume": [
+      {
+        "count": 100000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 5,
+        "id": 1002,
+        "type": 0
+      },
+      {
+        "count": 2,
+        "id": 840,
+        "type": 0
+      }
+    ],
+    "levellimit": 110,
+    "notice": 1,
+    "officelevel": 9,
+    "show": "【一品统帅】"
+  },
+  "10": {
+    "attribute": [
+      {
+        "type": 5,
+        "value": 430
+      },
+      {
+        "type": 76,
+        "value": 6
+      },
+      {
+        "type": 77,
+        "value": 16
+      },
+      {
+        "type": 141,
+        "value": 1500
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "circle": 5,
+    "consume": [
+      {
+        "count": 200000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 8,
+        "id": 1002,
+        "type": 0
+      },
+      {
+        "count": 4,
+        "id": 840,
+        "type": 0
+      }
+    ],
+    "levellimit": 120,
+    "notice": 1,
+    "officelevel": 10,
+    "show": "【大将军】"
+  },
+  "11": {
+    "attribute": [
+      {
+        "type": 5,
+        "value": 510
+      },
+      {
+        "type": 76,
+        "value": 7
+      },
+      {
+        "type": 77,
+        "value": 18
+      },
+      {
+        "type": 141,
+        "value": 1600
+      },
+      {
+        "type": 84,
+        "value": 300
+      }
+    ],
+    "circle": 6,
+    "consume": [
+      {
+        "count": 300000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 10,
+        "id": 1002,
+        "type": 0
+      },
+      {
+        "count": 6,
+        "id": 840,
+        "type": 0
+      }
+    ],
+    "levellimit": 120,
+    "notice": 1,
+    "officelevel": 11,
+    "show": "【光禄大夫】"
+  },
+  "12": {
+    "attribute": [
+      {
+        "type": 5,
+        "value": 600
+      },
+      {
+        "type": 76,
+        "value": 8
+      },
+      {
+        "type": 77,
+        "value": 20
+      },
+      {
+        "type": 141,
+        "value": 1700
+      },
+      {
+        "type": 84,
+        "value": 400
+      }
+    ],
+    "circle": 6,
+    "consume": [
+      {
+        "count": 400000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 15,
+        "id": 1002,
+        "type": 0
+      },
+      {
+        "count": 8,
+        "id": 840,
+        "type": 0
+      }
+    ],
+    "levellimit": 120,
+    "notice": 1,
+    "officelevel": 12,
+    "show": "【上大夫】"
+  },
+  "13": {
+    "attribute": [
+      {
+        "type": 5,
+        "value": 700
+      },
+      {
+        "type": 76,
+        "value": 9
+      },
+      {
+        "type": 77,
+        "value": 22
+      },
+      {
+        "type": 141,
+        "value": 1800
+      },
+      {
+        "type": 84,
+        "value": 500
+      }
+    ],
+    "circle": 7,
+    "consume": [
+      {
+        "count": 500000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 20,
+        "id": 1002,
+        "type": 0
+      },
+      {
+        "count": 10,
+        "id": 840,
+        "type": 0
+      }
+    ],
+    "levellimit": 120,
+    "notice": 1,
+    "officelevel": 13,
+    "show": "【上卿】"
+  },
+  "14": {
+    "attribute": [
+      {
+        "type": 5,
+        "value": 810
+      },
+      {
+        "type": 76,
+        "value": 10
+      },
+      {
+        "type": 77,
+        "value": 24
+      },
+      {
+        "type": 141,
+        "value": 1900
+      },
+      {
+        "type": 84,
+        "value": 600
+      }
+    ],
+    "circle": 7,
+    "consume": [
+      {
+        "count": 600000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 25,
+        "id": 1002,
+        "type": 0
+      },
+      {
+        "count": 12,
+        "id": 840,
+        "type": 0
+      }
+    ],
+    "levellimit": 120,
+    "notice": 1,
+    "officelevel": 14,
+    "show": "◆辅国公◆"
+  },
+  "15": {
+    "attribute": [
+      {
+        "type": 5,
+        "value": 930
+      },
+      {
+        "type": 76,
+        "value": 11
+      },
+      {
+        "type": 77,
+        "value": 26
+      },
+      {
+        "type": 141,
+        "value": 2000
+      },
+      {
+        "type": 84,
+        "value": 700
+      }
+    ],
+    "circle": 8,
+    "consume": [
+      {
+        "count": 700000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 30,
+        "id": 1002,
+        "type": 0
+      },
+      {
+        "count": 14,
+        "id": 840,
+        "type": 0
+      }
+    ],
+    "levellimit": 120,
+    "notice": 1,
+    "officelevel": 15,
+    "show": "◆大都督◆"
+  },
+  "16": {
+    "attribute": [
+      {
+        "type": 5,
+        "value": 1060
+      },
+      {
+        "type": 76,
+        "value": 12
+      },
+      {
+        "type": 77,
+        "value": 28
+      },
+      {
+        "type": 141,
+        "value": 2100
+      },
+      {
+        "type": 84,
+        "value": 800
+      }
+    ],
+    "circle": 8,
+    "consume": [
+      {
+        "count": 800000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 35,
+        "id": 1002,
+        "type": 0
+      },
+      {
+        "count": 16,
+        "id": 840,
+        "type": 0
+      }
+    ],
+    "levellimit": 120,
+    "notice": 1,
+    "officelevel": 16,
+    "show": "◆冠绝一世◆"
+  },
+  "17": {
+    "attribute": [
+      {
+        "type": 5,
+        "value": 1200
+      },
+      {
+        "type": 76,
+        "value": 13
+      },
+      {
+        "type": 77,
+        "value": 30
+      },
+      {
+        "type": 141,
+        "value": 2200
+      },
+      {
+        "type": 84,
+        "value": 900
+      }
+    ],
+    "circle": 9,
+    "consume": [
+      {
+        "count": 900000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 40,
+        "id": 1002,
+        "type": 0
+      },
+      {
+        "count": 18,
+        "id": 840,
+        "type": 0
+      }
+    ],
+    "levellimit": 120,
+    "notice": 1,
+    "officelevel": 17,
+    "show": "◆群雄逐鹿◆"
+  },
+  "18": {
+    "attribute": [
+      {
+        "type": 5,
+        "value": 1350
+      },
+      {
+        "type": 76,
+        "value": 14
+      },
+      {
+        "type": 77,
+        "value": 32
+      },
+      {
+        "type": 141,
+        "value": 2300
+      },
+      {
+        "type": 84,
+        "value": 1100
+      }
+    ],
+    "circle": 10,
+    "consume": [
+      {
+        "count": 1000000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 50,
+        "id": 1002,
+        "type": 0
+      },
+      {
+        "count": 20,
+        "id": 840,
+        "type": 0
+      }
+    ],
+    "levellimit": 120,
+    "notice": 1,
+    "officelevel": 18,
+    "show": "◆雄霸天下◆"
+  },
+  "19": {
+    "attribute": [
+      {
+        "type": 5,
+        "value": 1450
+      },
+      {
+        "type": 76,
+        "value": 15
+      },
+      {
+        "type": 77,
+        "value": 34
+      },
+      {
+        "type": 141,
+        "value": 2400
+      },
+      {
+        "type": 84,
+        "value": 1150
+      }
+    ],
+    "circle": 10,
+    "consume": [
+      {
+        "count": 1000000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 60,
+        "id": 1002,
+        "type": 0
+      },
+      {
+        "count": 5,
+        "id": 841,
+        "type": 0
+      }
+    ],
+    "levellimit": 120,
+    "notice": 1,
+    "officelevel": 19,
+    "show": "◆单珠亲王◆"
+  },
+  "20": {
+    "attribute": [
+      {
+        "type": 5,
+        "value": 1550
+      },
+      {
+        "type": 76,
+        "value": 16
+      },
+      {
+        "type": 77,
+        "value": 36
+      },
+      {
+        "type": 141,
+        "value": 2500
+      },
+      {
+        "type": 84,
+        "value": 1200
+      }
+    ],
+    "circle": 10,
+    "consume": [
+      {
+        "count": 1000000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 70,
+        "id": 1002,
+        "type": 0
+      },
+      {
+        "count": 10,
+        "id": 841,
+        "type": 0
+      }
+    ],
+    "levellimit": 120,
+    "notice": 1,
+    "officelevel": 20,
+    "show": "◆双珠亲王◆"
+  },
+  "21": {
+    "attribute": [
+      {
+        "type": 5,
+        "value": 1650
+      },
+      {
+        "type": 76,
+        "value": 17
+      },
+      {
+        "type": 77,
+        "value": 38
+      },
+      {
+        "type": 141,
+        "value": 2600
+      },
+      {
+        "type": 84,
+        "value": 1250
+      }
+    ],
+    "circle": 10,
+    "consume": [
+      {
+        "count": 1000000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 80,
+        "id": 1002,
+        "type": 0
+      },
+      {
+        "count": 15,
+        "id": 841,
+        "type": 0
+      }
+    ],
+    "levellimit": 120,
+    "notice": 1,
+    "officelevel": 21,
+    "show": "◆三珠亲王◆"
+  },
+  "22": {
+    "attribute": [
+      {
+        "type": 5,
+        "value": 1750
+      },
+      {
+        "type": 76,
+        "value": 18
+      },
+      {
+        "type": 77,
+        "value": 40
+      },
+      {
+        "type": 141,
+        "value": 2700
+      },
+      {
+        "type": 84,
+        "value": 1300
+      }
+    ],
+    "circle": 10,
+    "consume": [
+      {
+        "count": 1000000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 90,
+        "id": 1002,
+        "type": 0
+      },
+      {
+        "count": 20,
+        "id": 841,
+        "type": 0
+      }
+    ],
+    "levellimit": 120,
+    "notice": 1,
+    "officelevel": 22,
+    "show": "◆四珠亲王◆"
+  },
+  "23": {
+    "attribute": [
+      {
+        "type": 5,
+        "value": 1850
+      },
+      {
+        "type": 76,
+        "value": 19
+      },
+      {
+        "type": 77,
+        "value": 42
+      },
+      {
+        "type": 141,
+        "value": 2800
+      },
+      {
+        "type": 84,
+        "value": 1350
+      }
+    ],
+    "circle": 10,
+    "consume": [
+      {
+        "count": 1000000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 100,
+        "id": 1002,
+        "type": 0
+      },
+      {
+        "count": 25,
+        "id": 841,
+        "type": 0
+      }
+    ],
+    "levellimit": 120,
+    "notice": 1,
+    "officelevel": 23,
+    "show": "◆五珠亲王◆"
+  },
+  "24": {
+    "attribute": [
+      {
+        "type": 5,
+        "value": 1950
+      },
+      {
+        "type": 76,
+        "value": 20
+      },
+      {
+        "type": 77,
+        "value": 44
+      },
+      {
+        "type": 141,
+        "value": 2900
+      },
+      {
+        "type": 84,
+        "value": 1400
+      }
+    ],
+    "circle": 10,
+    "consume": [
+      {
+        "count": 1000000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 110,
+        "id": 1002,
+        "type": 0
+      },
+      {
+        "count": 30,
+        "id": 841,
+        "type": 0
+      }
+    ],
+    "levellimit": 120,
+    "notice": 1,
+    "officelevel": 24,
+    "show": "◆六珠亲王◆"
+  },
+  "25": {
+    "attribute": [
+      {
+        "type": 5,
+        "value": 2050
+      },
+      {
+        "type": 76,
+        "value": 21
+      },
+      {
+        "type": 77,
+        "value": 46
+      },
+      {
+        "type": 141,
+        "value": 3000
+      },
+      {
+        "type": 84,
+        "value": 1450
+      }
+    ],
+    "circle": 10,
+    "consume": [
+      {
+        "count": 1000000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 120,
+        "id": 1002,
+        "type": 0
+      },
+      {
+        "count": 35,
+        "id": 841,
+        "type": 0
+      }
+    ],
+    "levellimit": 120,
+    "notice": 1,
+    "officelevel": 25,
+    "show": "◆七珠亲王◆"
+  },
+  "26": {
+    "attribute": [
+      {
+        "type": 5,
+        "value": 2150
+      },
+      {
+        "type": 76,
+        "value": 22
+      },
+      {
+        "type": 77,
+        "value": 48
+      },
+      {
+        "type": 141,
+        "value": 3100
+      },
+      {
+        "type": 84,
+        "value": 1500
+      }
+    ],
+    "circle": 10,
+    "consume": [
+      {
+        "count": 1000000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 130,
+        "id": 1002,
+        "type": 0
+      },
+      {
+        "count": 40,
+        "id": 841,
+        "type": 0
+      }
+    ],
+    "levellimit": 120,
+    "notice": 1,
+    "officelevel": 26,
+    "show": "◆八珠亲王◆"
+  },
+  "27": {
+    "attribute": [
+      {
+        "type": 5,
+        "value": 2250
+      },
+      {
+        "type": 76,
+        "value": 23
+      },
+      {
+        "type": 77,
+        "value": 50
+      },
+      {
+        "type": 141,
+        "value": 3200
+      },
+      {
+        "type": 84,
+        "value": 1550
+      }
+    ],
+    "circle": 10,
+    "consume": [
+      {
+        "count": 1000000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 140,
+        "id": 1002,
+        "type": 0
+      },
+      {
+        "count": 45,
+        "id": 841,
+        "type": 0
+      }
+    ],
+    "levellimit": 120,
+    "notice": 1,
+    "officelevel": 27,
+    "show": "◆九珠亲王◆"
+  },
+  "28": {
+    "attribute": [
+      {
+        "type": 5,
+        "value": 2350
+      },
+      {
+        "type": 76,
+        "value": 24
+      },
+      {
+        "type": 77,
+        "value": 52
+      },
+      {
+        "type": 141,
+        "value": 3300
+      },
+      {
+        "type": 84,
+        "value": 1600
+      }
+    ],
+    "circle": 10,
+    "consume": [
+      {
+        "count": 1000000,
+        "id": 2,
+        "type": 2
+      },
+      {
+        "count": 150,
+        "id": 1002,
+        "type": 0
+      },
+      {
+        "count": 50,
+        "id": 841,
+        "type": 0
+      }
+    ],
+    "levellimit": 120,
+    "notice": 1,
+    "officelevel": 28,
+    "show": "◆十珠亲王◆"
+  }
+}

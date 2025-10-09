@@ -1,0 +1,55 @@
+﻿--[[File:include.txt]]
+
+local thisNPC = nil
+GlobalItemFn = {}
+
+local InitFnTable = {}
+local FinaFnTable = {}
+
+local LocalDT = {}
+local EventCallDispatcher = {}
+
+--#include "ItemEvent\RollItem.txt" once     		--爆率物品
+--#include "ItemEvent\ProabilityItem.txt" once    	--爆率物品
+--#include "ItemEvent\UseNormalItem.txt" once 		--常用物品(回城卷，经验丹, 祝福油，战神油，体力物品)
+--#include "ItemEvent\UseSkillBook.txt"  once 		--技能书
+--#include "ItemEvent\UseExpBox.txt"  once 			--经验魔盒（经验玉）
+--#include "ItemEvent\UseCircleSoulItem.txt"  once 	--英魂
+--#include "ItemEvent\UseExpJade.txt"  once 	    --经验勾玉
+--#include "ItemEvent\UseConcVipItem.txt"  once 	--并行VIP(钻石贵族)
+--#include "ItemEvent\UseJieBiaoBox.txt"  once    	--劫镖BOX
+--#include "ItemEvent\UseHeroExp.txt"  once         --英雄经验丹
+--#include "ItemEvent\UseBossToken.txt"	once		--boss令
+--#include "ItemEvent\UseRedNameMedical.txt" once	--红名药水
+--#include "ItemEvent\UseHeroForce.txt" once        --英雄体力丹
+function OnItemEvent(sysarg, useCount, itemId, itemPtr, delType, param)
+	local fnt = GlobalItemFn[itemId]
+	if fnt then
+		local result,useCount = fnt.func(sysarg, useCount, itemId, itemPtr, fnt.params, delType, param) 
+		if result then
+			if useCount then
+				return true, useCount
+			end
+			return true
+		end
+	else
+	--print(string.format("not function reged:%d", itemId))
+	end	
+	return false
+end
+
+--[[初始化函数]]--
+function initialization(npcobj)
+	thisNPC = npcobj
+	for k, v in ipairs(InitFnTable) do
+		v( npcobj )
+	end
+end
+
+--[[析构化函数]]--
+function finalization(npcobj)
+	for k, v in ipairs(FinaFnTable) do
+		v( npcobj )
+	end
+	thisNPC = nil
+end

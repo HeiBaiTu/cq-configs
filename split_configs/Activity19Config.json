@@ -1,0 +1,183 @@
+{
+  "24": {
+    "Id": 24,
+    "Ntipstext_1": "|C:0xeee104&T:活动：跨服领主|",
+    "Ntipstext_2": "活动时间：|C:0x2eb52d&T:每日 12:30-12:45 |",
+    "Ntipstext_3": "攻击领主就能获得积分，勇士们速速前往击杀！\n所有攻击者都可获得|C:0xff7700&T:参与奖|\n完成|C:0xe50000&T:最后一击|还将获得额外|C:0xe50000&T:高额奖励|",
+    "Ntipstext_4": "|C:0xff7700&T:所有奖励回到原服时邮件发放，跨服中被击败不会掉落装备、道具|",
+    "Plunderratio": 0,
+    "buttoncolor": 1,
+    "describe": "黑暗的时代已经来临，更加强大的深渊领主已经从黑暗中复苏，请集合各处的勇士们前往击杀！\n\n\n\n|C:0x2eb52d&T:等级28级|\n|C:0x2eb52d&T:开服32天后12:30开始|",
+    "fbId": 22,
+    "inspire": [],
+    "isCheckTime": 0,
+    "killaward": [
+      {
+        "awards": [
+          {
+            "count": 1,
+            "id": 249,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 368,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 1002,
+            "type": 0
+          }
+        ],
+        "value": 1
+      }
+    ],
+    "killtips": "恭喜%s击杀了跨服领主，获得了大量奖励",
+    "leveltips": "跨服领主当前等级：%d",
+    "mailContent1": "恭喜你击杀了跨服领主，拿到了最后一击奖励",
+    "mailContent2": "恭喜你在跨服领主活动中取得了第%d名",
+    "mailTitle1": "跨服领主最后一击奖励",
+    "mailTitle2": "跨服领主排名奖励",
+    "name": "跨服领主",
+    "openParam": {
+      "level": 30,
+      "zsLevel": 3
+    },
+    "rankAward": {
+      "1": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 1088,
+            "type": 0
+          }
+        ],
+        "rank": "1",
+        "value": 1
+      },
+      "2": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 1089,
+            "type": 0
+          }
+        ],
+        "rank": "2",
+        "value": 2
+      },
+      "3": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 1090,
+            "type": 0
+          }
+        ],
+        "rank": "3",
+        "value": 3
+      },
+      "4": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 1091,
+            "type": 0
+          }
+        ],
+        "rank": "4-5",
+        "value": 5
+      },
+      "5": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 1092,
+            "type": 0
+          }
+        ],
+        "rank": "6-10",
+        "value": 10
+      },
+      "6": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 1093,
+            "type": 0
+          }
+        ],
+        "rank": "11-30",
+        "value": 30
+      },
+      "7": {
+        "awards": [
+          {
+            "count": 1,
+            "id": 1094,
+            "type": 0
+          }
+        ],
+        "rank": "31-500",
+        "value": 500
+      }
+    },
+    "rewardBtn": "进入",
+    "rewards": [
+      {
+        "count": 0,
+        "id": 1061,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 13,
+        "type": 13
+      },
+      {
+        "count": 0,
+        "id": 269,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 975,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 249,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 368,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 1002,
+        "type": 0
+      }
+    ],
+    "ruleID": 95,
+    "showParam": {
+      "level": 1,
+      "zsLevel": 2
+    },
+    "starttime": 0,
+    "tipsbuttonfunction": {
+      "param1": "app.CrossServerWin",
+      "param2": [
+        1
+      ],
+      "type": 1
+    },
+    "tipsbuttontext": "立即参与",
+    "tipstext": "黑暗的时代已经来临，更加强大的深渊领主已经从黑暗中复苏，请集合各处的勇士们前往击杀！",
+    "tipstime": "12:30",
+    "tipstitleicon": "open_bt_9",
+    "uiType": 1
+  }
+}

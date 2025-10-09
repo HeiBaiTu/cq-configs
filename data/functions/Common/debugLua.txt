@@ -1,0 +1,50 @@
+--调试脚本用,支持二个参数
+
+--[[功能自定义编号]]
+	
+DEBUG_ACTIVITY_AsyncWork = 1000
+DEBUG_ACTIVITY_EnterFuBen = 1001
+DEBUG_ACTIVITY_ExitFuBen = 1002
+DEBUG_ACTIVITY_SendMial = 1003
+DEBUG_CDKEY	= 1004
+
+function TestAsyncWork(paramPack,ret,str)
+	local expect = paramPack.expect
+	if ret == expect then
+		print("AsyncWorker Test OK!")
+		print("AsyncWorker ret="..ret.." str="..str)
+	end
+end
+
+function TestCDKEY(paramPack,ret,numb)
+
+	print("CDKey Test OK!")
+	print("CDKey str="..ret)
+	print("CDKey numb="..numb)
+
+end
+
+-- 例子 @DebugLua 1000 1 1
+function DOGMDebugLua(pActor, arg1, arg2, arg3)
+	if arg1 == DEBUG_ACTIVITY_AsyncWork then
+		AsyncWorkDispatcher.Add({'Test',arg2,arg3},TestAsyncWork,{expect=arg2+arg3})
+	elseif arg1 == DEBUG_ACTIVITY_EnterFuBen then
+		local atvId = tonumber(arg2)
+		local Conf = Activity1Config[atvId]
+		ActivityType1.operaEnterFuben(pActor,atvId,Conf)
+	elseif arg1 == DEBUG_ACTIVITY_ExitFuBen then
+		local atvId = tonumber(arg2)
+		local Conf = Activity1Config[atvId]
+		ActivityType1.operaExitFuben(pActor,atvId,Conf)
+	elseif arg1 == DEBUG_ACTIVITY_SendMial then
+		ActivityType3.SendRankAward(4)
+	elseif arg1 == DEBUG_CDKEY then
+		-- AsyncWorkDispatcher.Add(
+		-- 	{'GetHttpContent','fgtest.biggerking.cn','80','/H5CQ/develop/CheckGiftCode.php?pfid=4399&cdkey=4399baabih4qa2ee&aid=1&sid=11&account=abc'},
+		-- 	TestCDKEY,
+		-- 	{}
+		-- )
+		UseCDKey(pActor,'wyi2baabn7BLa1iiLzcmpXee')
+	end
+end
+

@@ -1,0 +1,78 @@
+{
+  "10007": {
+    "Id": 10007,
+    "bg": "yk_icon2",
+    "buttontxt": "280元宝购买",
+    "countdown": 1,
+    "name": [
+      [
+        "|C:0xffffff&T:立即获得||C:0x2eb52d&T:精力水晶*8|"
+      ],
+      [
+        "|C:0xffffff&T:立即获得||C:0x2eb52d&T:金条*1|"
+      ],
+      [
+        "|C:0xffffff&T:每日领取||C:0xFFE500&T:精力水晶*1、祝福油*1、初阶秘籍*5|"
+      ]
+    ],
+    "titleIcon": "yk_biaoqian_2",
+    "type": 2
+  },
+  "10008": {
+    "Id": 10008,
+    "bg": "yk_icon1",
+    "buttontxt": "1万绑金购买",
+    "countdown": 0,
+    "name": [
+      [
+        "|C:0xffffff&T:立即获得限时称号||C:0x2eb52d&T:嘟嘟新秀||C:0xffffff&T:（限时6天，攻魔道1-0）|"
+      ],
+      [
+        "|C:0xffffff&T:开启特权||C:0x318aff&T:智能回收||C:0xffffff&T:（设置-回收界面可勾选）|"
+      ],
+      [
+        "|C:0xffffff&T:登录自动进行||C:0x318aff&T:每日签到|"
+      ]
+    ],
+    "titleIcon": "yk_biaoqian_1",
+    "type": 1
+  },
+  "10009": {
+    "Id": 10009,
+    "bg": "yk_icon3",
+    "buttontxt": "1000元宝购买",
+    "countdown": 1,
+    "name": [
+      [
+        "|C:0xffffff&T:立即获得||C:0x2eb52d&T:66银两|"
+      ],
+      [
+        "|C:0xffffff&T:立即获得||C:0x2eb52d&T:声望*5|"
+      ],
+      [
+        "|C:0xffffff&T:每日领取||C:0xFFE500&T:大药凭证*1|"
+      ]
+    ],
+    "titleIcon": "yk_biaoqian_3",
+    "type": 3
+  },
+  "10010": {
+    "Id": 10010,
+    "bg": "yk_icon4",
+    "buttontxt": "1580元宝购买",
+    "countdown": 0,
+    "name": [
+      [
+        "|C:0xffffff&T:立即获得||C:0x2eb52d&T:5倍挂机卷(大)*1|"
+      ],
+      [
+        "|C:0xffffff&T:立即获得永久称号||C:0x2eb52d&T:嘟嘟贵族||C:0xffffff&T:（暴击率+60）|"
+      ],
+      [
+        "|C:0xffffff&T:每日领取||C:0xFFE500&T:飞鞋点数*10、20万绑定金币|"
+      ]
+    ],
+    "titleIcon": "yk_biaoqian_4",
+    "type": 4
+  }
+}

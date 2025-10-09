@@ -1,0 +1,92 @@
+FUNCTION                                 MIN      MAX      COUNT    AVG      SOURCE
+Lua::<NA>                                0        11       18556    0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:375
++--Lua:local:func                        1        1        1        1        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:90
+|  +--Lua:field:GetCacheData             1        1        1        1        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  
++--Lua:local:func                        1        1        3        1        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:289
+|  +--C:field:sendActivityData           1        1        3        1        
+|  |  +--Lua::<NA>                       1        1        3        1        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:375
+|  |  |  +--Lua:global:CheckReqData      1        1        3        1        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:357
+|  |  |  |  +--Lua:local:func            1        1        3        1        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:149
+|  |  |  |  |  +--Lua:global:GetBitData  0        1        27       0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:109
+|  |  |  |  |  |  +--Lua:field:GetActorData 0        1        27       0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  |  |  |  |  |  
+|  |  |  |  |  +--Lua:global:DealClearAtvData 0        1        3        0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:191
+|  |  |  |  |  |  +--Lua:global:GetBitData 0        1        27       0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:109
+|  |  |  |  |  |  |  +--Lua:field:GetActorData 0        1        27       0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  
++--Lua:local:func                        0        1        650      0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:251
+|  +--C:field:getActorById               0        1        644      0        
+|  |  
+|  +--Lua:field:GetGlobalData            0        1        650      0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:110
+|  |  +--C::<NA>                         0        1        3250     0        
+|  |  
+|  +--C:local:(for generator)            0        1        1294     0        
+|  |  
+|  +--Lua:field:GetActorData             0        1        640      0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  +--C::<NA>                         0        1        3200     0        
+|  |  |  
+|  |  +--C:field:getStaticVar            0        1        640      0        
+|  |  
+|  +--C::<NA>                            0        1        4116     0        
+|  
++--Lua:global:CheckReqData               0        11       38       0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:357
+|  +--Lua:field:?                        0        1        7        0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:222
+|  |  +--C::<NA>                         0        1        145      0        
+|  |  
+|  +--Lua:local:func                     0        11       7        2        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:149
+|  |  +--Lua:global:GetBitData           0        1        351      0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:109
+|  |  |  +--Lua:field:GetActorData       0        1        351      0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  +--C::<NA>                   0        1        1755     0        
+|  |  |  |  
+|  |  |  +--C::<NA>                      0        1        1315     0        
+|  |  |  
+|  |  +--Lua:global:DealClearAtvData     0        5        7        0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:191
+|  |  |  +--Lua:global:GetBitData        0        1        351      0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:109
+|  |  |  |  +--Lua:field:GetActorData    0        1        351      0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  |  +--C::<NA>                0        1        1755     0        
+|  |  |  |  |  |  
+|  |  |  |  |  +--C:field:getStaticVar   0        1        351      0        
+|  |  
+|  +--Lua:local:func                     0        1        3        0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:110
+|  |  +--Lua:global:getUseTimes          0        1        16       0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:68
+|  |  |  +--Lua:field:GetActorData       0        1        16       0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  +--C::<NA>                   0        1        80       0        
+|  |  
+|  +--Lua:local:func                     0        1        15       0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:156
+|  |  +--Lua:global:GetBitData           0        1        72       0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:116
+|  |  |  +--Lua:field:GetActorData       0        1        72       0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  
++--Lua:local:func                        0        1        650      0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  +--Lua:global:nextMonthClear          0        1        650      0        /data/yfbx_server/s1/LogicServer/data/language/LangCode.txt:16
+|  |  +--Lua:field:GetGlobalData         0        1        650      0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:110
+|  |  |  +--C::<NA>                      0        1        3250     0        
+|  |  |  
+|  |  +--C::<NA>                         0        1        1950     0        
+|  
++--Lua:local:func                        0        1        650      0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:371
+|  +--Lua:global:dealPaodianExp          0        1        650      0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:254
+|  |  +--Lua:field:GetCacheData          0        1        650      0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:143
+|  |  |  +--C::<NA>                      0        1        3250     0        
+|  |  |  
+|  |  +--C::<NA>                         0        1        1561     0        
+|  |  
+|  +--Lua:field:GetCacheData             0        1        650      0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:143
+|  |  +--C:field:getDyanmicVar           0        1        650      0        
+|  |  |  
+|  |  +--C::<NA>                         0        1        3252     0        
+|  |  
+|  +--Lua:global:DealAtvAreaAttr         0        1        650      0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:190
+|  |  +--Lua:field:GetCacheData          0        1        650      0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:143
+|  |  |  +--C:field:getDyanmicVar        0        1        650      0        
+|  |  |  |  
+|  |  |  +--C::<NA>                      0        1        3250     0        
+|  |  |  
+|  |  +--C:field:getRunningActivityStartTime 0        1        650      0        
+|  |  
+|  +--Lua:global:AutoBigTreasure         0        1        650      0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:156
+|  |  +--C:field:isReachSecondBeforeActivityEnd 0        1        650      0        
+
+ 
+ 
+ 

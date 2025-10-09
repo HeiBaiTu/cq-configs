@@ -1,0 +1,35 @@
+{
+  "1": {
+    "Address": "/microClient/yfbx.rar",
+    "BgPicture": "Client-youximao_png",
+    "ButtonName": "button1",
+    "ButtonTips": "地址复制成功",
+    "IsShow": 1,
+    "id": 1,
+    "name": "PC微端"
+  },
+  "2": {
+    "Address": "/play",
+    "BgPicture": "Page-c601_png",
+    "ButtonName": "button1",
+    "ButtonPos": {
+      "y": 480
+    },
+    "ButtonTips": "地址复制成功",
+    "IsShow": 1,
+    "id": 2,
+    "name": "网页版"
+  },
+  "3": {
+    "BgPicture": "Android-c601_png",
+    "IsShow": 1,
+    "id": 3,
+    "name": "安卓Android"
+  },
+  "4": {
+    "BgPicture": "IOS-honghu_png",
+    "IsShow": 1,
+    "id": 4,
+    "name": "苹果IOS"
+  }
+}

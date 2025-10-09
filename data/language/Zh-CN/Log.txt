@@ -1,0 +1,106 @@
+﻿Log=
+{  
+    --物品使用
+	UserItem001  = "使用回城券",
+	UserItem002  = "使用经验丹",
+	
+	--npc商店,背包商店
+	npctrade001 = "npc商店买",
+	npctrade002 = "NPC商店出售",
+	npctrade003 = "回购物品",
+
+	--装备修理
+	repair001 = "装备修理",
+	
+	--复活
+	relive0001 = "回魂丹复活", 
+	relive0002 = "元宝复活",
+
+	quetCommonLog1 = "额外多接任务",
+
+	--兵魂
+	soldierSoulLog001 = "解锁兵魂",
+	soldierSoulLog002 = "升级兵魂技能",
+	soldierSoulLog003 = "激活兵魂星星",
+	soldierSoulLog004 = "附身兵魂",
+	soldierSoulLog005 = "卸下兵魂",
+
+	--座驾
+	ride001	= "座驾提升扣除道具",		
+	ride002	= "座驾提升扣除元宝",
+	ride003 = "激活时效坐骑",
+	ride004 = "续费时效坐骑",
+	ride005 = "坐骑突破",
+
+	yb029 = "降低PK值",
+	
+	UseSkillBook = "使用技能书",
+	PersonBoss = "个人BOSS",
+    PersonBossSweep = "个人BOSS扫荡",
+
+	LogItemRecover = "装备回收",
+	EquipComposite = "装备合成",
+	EquipStar = "装备升星",
+	
+	l00093 = "NPC传送",
+	
+	LogWingActivation = "翅膀吞噬材料",
+	l00111 = "修理装备",
+	
+	LogclOnAsyncOpResultFunc = "激活码礼包",
+	LogWorkDayAward = "资源找回",
+	LogOutExp = "领取离线经验消耗",	
+	GuildSiegeLog001 = "攻城获得玉玺",
+	GuildSiegeLog002 = "删除玉玺",
+	GuildSiegeLog003 = "英雄城职位福利",
+	GuildSiegeLog004 = "攻城召唤弓箭守卫",
+	GuildSiegeLog005 = "英雄城雕像膜拜",
+	GuildSiegeLog006 = "英雄城雕像贴金抹黑",
+	GuildCoinTreeLog = "行会神树",
+	GuildCoinMainLv = "主殿升级",
+	GuildCoinSiegeCmd= "攻城指令",
+	OpenServerActLog001 = "开服活动赚Yb",
+	OpenServerActLog002 = "开服活动领取奖励",
+	LogUseInnerItem01 = "内劲系统消耗道具",
+	LoglGetOnlineReward = "在线奖励",
+	LogclOnCheckSignIn = "签到",
+	LogThings = "魔灵秘宝",
+	LogDragonBallRecover = "龙珠分解",
+	OpenServerDailyCharge001= "开服每日充值",
+	LogBloodyFlames = "火域混战",
+	RedPacket001 = "发送红包",
+	RedPacket002 = "抢到红包",
+	TotalCharge001 = "累计充值奖励",
+	FirstCharge001 = "首充奖励",
+	Escort = "极速押运",
+	TeamPaTaPassAward = "团队爬塔通关奖励",
+	PersonPaTaPassAward = "个人爬塔通关奖励",
+	OpenServerGift = "开服大礼包",
+	SellBox = "售卖箱子",
+	ExpRefine = "经验炼制",
+	ExpCell = "经验密室",
+	LogMicronesia = "创世密境",
+	LogUseWingItem = "使用道具获得羽魂",
+	SkillBook = "消耗货币技能书",
+	LogRecommendedUpgrade = "推荐练级传送",
+	MoneyTree = "摇钱树",
+	GodStove001 = "神炉装备获得",
+	GodStove002 = "神炉装备升级",
+    SoulExp = "修为兑换经验",
+	LogAllDay = "闯天关",
+	LogAllDaySweep = "闯天关扫荡",
+	BossjfExhcang = "Boss积分兑换",
+	LogMeritoriousAward = "功勋系统奖励",
+	vip001 = "vip礼包",
+	yyPurpleDiamondLog = "yy紫钻礼包领取",
+	LogGetYYGiftAward = "YY大厅特权领取礼包",
+	
+	GRBossAward = "个人BOSS单倍奖励",
+	GRBossDoubleAward = "个人BOSS双倍奖励",
+
+	RedNameMedical = "红名药水使用",
+	PackItem = "装备打捆",
+	DayMatch = "每日竞技",
+	ComboServer = "合服活动",
+	OpenServerBoss = "全民BOSS",
+}

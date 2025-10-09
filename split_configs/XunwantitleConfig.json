@@ -1,0 +1,82 @@
+{
+  "1": {
+    "description": [
+      {
+        "index": 1,
+        "itemDesc": "|C:0xffffff&T:称号疾风迅雷\n暴击率+15|",
+        "ldsDesc": "会员达到白金会员",
+        "title": "|C:0xffffff&T:会员专属称号|",
+        "titleImg": "ch_show_0075"
+      }
+    ],
+    "id": 1,
+    "titleReward": [
+      {
+        "count": 1,
+        "id": 1331,
+        "type": 0
+      }
+    ],
+    "vipLevel": 1
+  },
+  "2": {
+    "description": [
+      {
+        "index": 1,
+        "itemDesc": "|C:0xffffff&T:称号雷厉风行\n暴击率+20|",
+        "ldsDesc": "会员达到超级会员",
+        "title": "|C:0xffffff&T:会员专属称号|",
+        "titleImg": "ch_show_0076"
+      }
+    ],
+    "id": 2,
+    "titleReward": [
+      {
+        "count": 1,
+        "id": 1332,
+        "type": 0
+      }
+    ],
+    "vipLevel": 2
+  },
+  "3": {
+    "description": [
+      {
+        "index": 1,
+        "itemDesc": "|C:0xffffff&T:称号铁血雷鸣\n物防0-1\n魔御0-1|",
+        "ldsDesc": "会员达到白金年费会员",
+        "title": "|C:0xffffff&T:会员专属称号|",
+        "titleImg": "ch_show_0077"
+      }
+    ],
+    "id": 3,
+    "titleReward": [
+      {
+        "count": 1,
+        "id": 1333,
+        "type": 0
+      }
+    ],
+    "vipLevel": 3
+  },
+  "4": {
+    "description": [
+      {
+        "index": 1,
+        "itemDesc": "|C:0xffffff&T:称号雷霆之主\n物防1-1\n魔御1-1|",
+        "ldsDesc": "会员达到超级年费会员",
+        "title": "|C:0xffffff&T:会员专属称号|",
+        "titleImg": "ch_show_0078"
+      }
+    ],
+    "id": 4,
+    "titleReward": [
+      {
+        "count": 1,
+        "id": 1334,
+        "type": 0
+      }
+    ],
+    "vipLevel": 4
+  }
+}

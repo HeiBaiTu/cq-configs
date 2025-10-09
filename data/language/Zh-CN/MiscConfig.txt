@@ -1,0 +1,361 @@
+﻿MiscConfig=
+{  
+	--货币提示功能
+	--金币
+	MoneyTitle001 = "元宝商城", 
+	MoneyTip001 = "<(c0xFFFFFFFF) 商城购买需消耗元宝!>",
+	MoneyGet001  = "@@showWin,GameShopModule,0",
+
+	MoneyTitle002 = "元宝充值", 
+	MoneyTip002 = "<(c0xFFFFFFFF) 1元RMB = 100元宝、1元宝=1绑元.>",
+	MoneyGet002  = "@@chargelink",
+	
+	MoneyTitle003 = "摇钱树", 
+	MoneyTip003 = "<(c0xFFFFFFFF) 每日可通过摇钱树直接获得大量金币,提供您每日各类消耗.>",
+	MoneyGet003  = "@@showWin,GameMoneyTreeModule",
+
+	MoneyTitle004 = "材料副本", 
+	MoneyTip004 = "<(c0xFFFFFFFF) 完成材料副本可获得神炉材料.>",
+	MoneyGet004  = "M英雄遗迹:0:0:材料副本",
+
+	MoneyTitle005 = "BOSS来袭", 
+	MoneyTip005 = "<(c0xFFFFFFFF) 每周一、三、五海量经验,BOSS爆宝.>",
+	MoneyGet005  = "@@showWin,GameActivityModule",
+
+	MoneyTitle006 = "闯天关", 
+	MoneyTip006 = "<(c0xFFFFFFFF) 完美通关，获取完美奖励.>",
+	MoneyGet006  = "@@showWin,GameChuangTianGuanModule",
+
+	MoneyTitle007 = "寻宝", 
+	MoneyTip007 = "<(c0xFFFFFFFF) 珍稀道具，应有尽有.>",
+	MoneyGet007  = "@@showWin,GameTreasureModule",
+
+	MoneyTitle008 = "职业宗师", 
+	MoneyTip008 = "<(c0xFFFFFFFF) 宗师挑战，谁强谁上.>",
+	MoneyGet008  = "@@showWin,GameJobMasterModule",
+
+	MoneyTitle009 = "英雄城战", 
+	MoneyTip009 = "<(c0xFFFFFFFF) 英雄城战,王者荣誉.>",
+	MoneyGet009  = "@@showWin,GameSBKModule",
+
+	MoneyTitle010= "宝藏传说", 
+	MoneyTip010 = "<(c0xFFFFFFFF) 寻找盗贼,夺回宝物.>",
+	MoneyGet010 = "M英雄遗迹:0:0:宝藏猎人",
+
+	MoneyTitle011 = "火域混战", 
+	MoneyTip011 = "<(c0xFFFFFFFF) 避开火灵，技巧pk.>",
+	MoneyGet011  = "M英雄遗迹:0:0:火域使者",
+
+	MoneyTitle012 = "雪原争夺", 
+	MoneyTip012 = "<(c0xFFFFFFFF) 阵营运粮,胜者为王.>",
+	MoneyGet012  = "M英雄遗迹:0:0:阵营粮官",
+
+	MoneyTitle013 = "魔灵秘宝", 
+	MoneyTip013 = "<(c0xFFFFFFFF) 守护秘宝,抢夺奖励.>",
+	MoneyGet013  = "M英雄遗迹:0:0:摸金校尉",
+
+	MoneyTitle014 = "神炉", 
+	MoneyTip014 = "<(c0xFFFFFFFF) 神炉装备,高端配备.>",
+	MoneyGet014  = "@@showWin,GameGodFurnaceModule",
+
+	MoneyTitle015 = "绑元商城", 
+	MoneyTip015 = "<(c0xFFFFFFFF) 商城购买需消耗元宝或绑定元宝!>",
+	MoneyGet015  = "@@showWin,GameShopModule,1",
+
+	MoneyTitle016 = "超值购", 
+	MoneyTip016 = "<(c0xFFFFFFFF) 商品最低1折起，买东西还能用金币！>",
+	MoneyGet016  = "@@showWin,GameOneMoneyBuyModule",
+
+	MoneyTitle017 = "积分商城", 
+	MoneyTip017 = "<(c0xFFFFFFFF) 神兵神甲，包罗万有！>",
+	MoneyGet017  = "@@showWin,GameTreasureShopModule,3",
+
+	MoneyTitle018 = "锁妖塔", 
+	MoneyTip018 = "<(c0xFFFFFFFF) 层数越高，掉落越好！>",
+	MoneyGet018  = "M英雄遗迹:0:0:锁妖塔",
+
+	MoneyTitle019 = "行会魔窟", 
+	MoneyTip019 = "<(c0xFFFFFFFF) 齐心协力，奖励丰厚！>",
+	MoneyGet019  = "M英雄遗迹:0:0:行会使者",
+
+	MoneyTitle020 = "圣兽幽谷", 
+	MoneyTip020 = "<(c0xFFFFFFFF) 挑战圣兽，掉落稀有！>",
+	MoneyGet020  = "M英雄遗迹:0:0:圣兽使者",
+
+	MoneyTitle021 = "功勋系统", 
+	MoneyTip021 = "<(c0xFFFFFFFF) 属性官职，丰富奖励！>",
+	MoneyGet021  = "@@showWin,GameExploitModule",
+
+	MoneyTitle022 = "激战BOSS", 
+	MoneyTip022 = "<(c0xFFFFFFFF) 击杀BOSS，装备、道具随你捡！>",
+	MoneyGet022  = "@@showWin,GameBossModule",
+
+	MoneyTitle023 = "个人试炼", 
+	MoneyTip023 = "<(c0xFFFFFFFF) 一个人的战斗，实力的体现！>",
+	MoneyGet023  = "M英雄遗迹:0:0:试炼关主",
+
+	MoneyTitle024 = "在线奖励", 
+	MoneyTip024 = "<(c0xFFFFFFFF) 给你些奖励，不成敬意！>",
+	MoneyGet024  = "@@showWin,GameOnlineAwardModule",
+
+
+
+	--BOSS
+	MoneyTitle301 = "蝠翼蛇",
+	MoneyTip301 = " ",
+	MoneyGet301  = "@@showWin,GameBossModule",
+
+	MoneyTitle302 = "腐毒魔人",
+	MoneyTip302 = " ",
+	MoneyGet302  = "@@showWin,GameBossModule",
+
+	MoneyTitle303 = "血眼毒蜥",
+	MoneyTip303 = " ",
+	MoneyGet303  = "@@showWin,GameBossModule",
+
+	MoneyTitle304 = "莽荒兽王",
+	MoneyTip304 = " ",
+	MoneyGet304  = "@@showWin,GameBossModule",
+
+	MoneyTitle305 = "翼族离镜",
+	MoneyTip305 = " ",
+	MoneyGet305  = "@@showWin,GameBossModule",
+
+	MoneyTitle306 = "阎凶邪龙",
+	MoneyTip306 = " ",
+	MoneyGet306  = "@@showWin,GameBossModule",
+
+	MoneyTitle307 = "暗化猪王",
+	MoneyTip307 = " ",
+	MoneyGet307  = "@@showWin,GameBossModule",
+
+	MoneyTitle308 = "星牙角王",
+	MoneyTip308 = " ",
+	MoneyGet308  = "@@showWin,GameBossModule",
+
+	MoneyTitle309 = "魔化司命",
+	MoneyTip309 = " ",
+	MoneyGet309  = "@@showWin,GameBossModule",
+
+	MoneyTitle310 = "忌乱之主",
+	MoneyTip310 = " ",
+	MoneyGet310  = "@@showWin,GameBossModule",
+
+	MoneyTitle311 = "翼族离怨",
+	MoneyTip311 = " ",
+	MoneyGet311  = "@@showWin,GameBossModule",
+
+	MoneyTitle312 = "万妖之母",
+	MoneyTip312 = " ",
+	MoneyGet312  = "@@showWin,GameBossModule",
+
+	MoneyTitle313 = "寒冰魔人",
+	MoneyTip313 = " ",
+	MoneyGet313  = "@@showWin,GameBossModule",
+
+	MoneyTitle314 = "劫火魔人",
+	MoneyTip314 = " ",
+	MoneyGet314  = "@@showWin,GameBossModule",
+
+	MoneyTitle315 = "天牛魔神",
+	MoneyTip315 = " ",
+	MoneyGet315  = "@@showWin,GameBossModule",
+
+	MoneyTitle316 = "荒冥邪虫",
+	MoneyTip316 = " ",
+	MoneyGet316  = "@@showWin,GameBossModule",
+
+	MoneyTitle317 = "青丘白浅",
+	MoneyTip317 = " ",
+	MoneyGet317  = "@@showWin,GameBossModule",
+
+	MoneyTitle318 = "八岐大蛇",
+	MoneyTip318 = " ",
+	MoneyGet318  = "@@showWin,GameBossModule",
+
+	MoneyTitle319 = "翼族擎苍",
+	MoneyTip319 = " ",
+	MoneyGet319  = "@@showWin,GameBossModule",
+
+	MoneyTitle320 = "始祸炎龙",
+	MoneyTip320 = " ",
+	MoneyGet320  = "@@showWin,GameBossModule",
+
+	MoneyTitle321 = "远神雕像",
+	MoneyTip321 = " ",
+	MoneyGet321  = "@@showWin,GameBossModule",
+
+	MoneyTitle322 = "青丘凤九",
+	MoneyTip322 = " ",
+	MoneyGet322  = "@@showWin,GameBossModule",
+
+	MoneyTitle323 = "天魔守卫",
+	MoneyTip323 = " ",
+	MoneyGet323  = "@@showWin,GameBossModule",
+
+	MoneyTitle324 = "黑蛇夜华",
+	MoneyTip324 = " ",
+	MoneyGet324  = "@@showWin,GameBossModule",
+
+	MoneyTitle325 = "青丘父神",
+	MoneyTip325 = " ",
+	MoneyGet325  = "@@showWin,GameBossModule",
+
+	MoneyTitle326 = "赤炎金猊兽",
+	MoneyTip326 = " ",
+	MoneyGet326  = "@@showWin,GameBossModule",
+
+	MoneyTitle327 = "兽王之影",
+	MoneyTip327 = " ",
+	MoneyGet327  = "@@showWin,GameBossModule",
+
+	MoneyTitle328 = "邪龙之影",
+	MoneyTip328 = " ",
+	MoneyGet328  = "@@showWin,GameBossModule",
+
+	MoneyTitle329 = "角王之影",
+	MoneyTip329 = " ",
+	MoneyGet329  = "@@showWin,GameBossModule",
+
+	MoneyTitle330 = "魔主之影",
+	MoneyTip330 = " ",
+	MoneyGet330  = "@@showWin,GameBossModule",
+
+	MoneyTitle331 = "妖母之影",
+	MoneyTip331 = " ",
+	MoneyGet331  = "@@showWin,GameBossModule",
+
+
+
+
+	
+	
+	--BOSS
+	MoneyTitle401 = "蝠翼蛇", 
+	MoneyTip401 = "<(c0xFFFFFFFF) 点击跳转商城直接购买体力药水,使用后立刻恢复体力!>",
+	MoneyGet401  = "@@showWin,GameShopModule,2,867",
+	
+	MoneyTitle401 = "蝠翼蛇", 
+	MoneyTip401 = "<(c0xFFFFFFFF) 点击跳转商城直接购买体力药水,使用后立刻恢复体力!>",
+	MoneyGet401  = "@@showWin,GameShopModule,2,867",
+	
+	
+	--练级点传送
+	connect001 = "<石墓练级点/f3:11:1>",
+	connect002 = "<三圣练级点/f3:10:1>",
+	connect003 = "<三圣练级点/f3:9:1>",
+	connect004 = "<月魔练级点/f3:8:1>",
+	connect005 = "<月魔练级点/f3:7:1>",
+	connect006 = "<牛魔练级点/f3:6:1>",
+	connect007 = "<牛魔练级点/f3:5:1>",
+	connect008 = "<狐妖练级点/f3:4:1>",
+	connect009 = "<狐妖练级点/f3:3:1>",
+	connect010 = "<火龙练级点/f3:2:1>",
+	connect011 = "<火龙练级点/f3:1:1>",
+	
+	xianshi001 = "65-70级", 
+	xianshi002 = "70-80级", 
+	xianshi003 = "70-80级", 
+	xianshi004 = "80-90级", 
+	xianshi005 = "80-90级", 
+	xianshi006 = "85-95级", 
+	xianshi007 = "85-95级", 
+	xianshi008 = "95-105级", 
+	xianshi009 = "95-105级", 
+	xianshi010 = "105-120级", 
+	xianshi011 = "105-120级", 
+	
+	vipName001 = "BOSS之家",
+	vipName002 = "自动签到",
+	vipName003 = "杀怪经验加成",
+	vipName004 = "金砖道具使用次数增加",
+	vipName005 = "经验道具使用次数增加",
+	vipName006 = "功勋令牌使用次数增加",
+	vipName007 = "魔神令使用次数增加",
+	vipName008 = "免费原地复活次数",
+	vipName009 = "超值购刷新次数增加",
+	vipName010 = "自动买药",
+	vipName011 = "回收装备经验增加",
+	vipName012 = "快捷回收装备",
+	vipName013 = "挂机自动回收装备",
+	vipName014 = "扫荡材料副本",
+	vipName015 = "经验副本多倍领取",
+	vipBossHome001= "一层",
+	vipBossHome002= "二层",
+	vipBossHome003= "三层",
+	vipbuff001= "1%%",
+	vipbuff002= "2%%",
+	vipbuff003= "3%%",
+	vipbuff004= "6%%",
+	vipbuff005= "8%%",
+	vipbuff006= "10%%",
+	vipbuff007= "15%%",
+	vipbuff008= "18%%",
+	vipbuff009= "21%%",
+	vipbuff010= "30%%",
+	vipbuff011= "34%%",
+	vipbuff012= "38%%",
+	vipRecover001= "1千万",
+	vipRecover002= "2千万",
+	vipRecover003= "3千万",
+	vipRecover004= "4千万",
+	vipRecover005= "5千万",
+	vipRecover006= "6千万",
+	vipRecover007= "7千万",
+	vipRecover008= "8千万",
+	vipRecover009= "9千万",
+	vipRecover010= "1亿",
+	vipRecover011= "1.5亿",
+	vipRecover012= "2亿",
+	vipShaozhu001= "2倍",
+	vipShaozhu002= "3倍",
+	vipShaozhu003= "4倍",
+	vipShaozhu004= "6倍",
+	vipShaozhu005= "8倍",
+	vipShaozhu006= "10倍",
+	
+	DayMatchdesc001="<获得装备/@@showWin,GameTreasureModule>|<强化装备/@@showWin,GameFoundryModule>|<升级神炉/@@showWin,GameGodFurnaceModule>|<升级翅膀/@@showWin,GamePropertyRoleModule,1>|<提升座驾/@@showWin,GameCarModule>|<升级技能/@@showWin,GameSkillModule>",
+	DayMatchdesc002="<获得装备/@@showWin,GameTreasureModule>|<强化装备/@@showWin,GameFoundryModule>|<升级神炉/@@showWin,GameGodFurnaceModule>|<升级翅膀/@@showWin,GamePropertyRoleModule,1>|<提升座驾/@@showWin,GameCarModule>|<升级技能/@@showWin,GameSkillModule>",
+	DayMatchdesc003="<获得装备/@@showWin,GameTreasureModule>|<职业宗师/@@showWin,GameJobMasterModule>|<获得金币/@@showWin,GameMoneyTreeModule>|<功勋奖励/@@showWin,GameExploitModule>",
+	DayMatchdesc004="<材料副本/M英雄遗迹:0:0:材料副本>|<职业宗师/@@showWin,GameJobMasterModule>|<绑元商城/@@showWin,GameShopModule,1>|<积分商城/@@showWin,GameTreasureShopModule,3>|<一元商店/@@showWin,GameOneMoneyBuyModule>",
+	DayMatchdesc005="<职业宗师/@@showWin,GameJobMasterModule>|<商城购买/@@showWin,GameShopModule>|<一元商店/@@showWin,GameOneMoneyBuyModule>|<轻松寻宝/@@showWin,GameTreasureModule>",
+	DayMatchdesc006="<商城购买/@@showWin,GameShopModule>|<职业宗师/@@showWin,GameJobMasterModule>|<一元商店/@@showWin,GameOneMoneyBuyModule>|<勇闯天关/@@showWin,GameChuangTianGuanModule>",
+	DayMatchdesc007="<获得装备/@@showWin,GameTreasureModule>|<强化装备/@@showWin,GameFoundryModule>|<升级神炉/@@showWin,GameGodFurnaceModule>|<升级翅膀/@@showWin,GamePropertyRoleModule,1>|<提升座驾/@@showWin,GameCarModule>|<获取官职/@@showWin,GameExploitModule>",
+	
+--[[	
+	MoneyTip021 = "<(c0xFFFFFF00)1.每天在线奖励领取>",
+	MoneyTip022 = "<(c0xFFFFFF00)2.每天活跃度奖励获得>",
+	MoneyTip023 = "<(c0xFFFFFF00)3.每周工资奖励领取>",
+	MoneyTip024 = "<(c0xFFFFFF00)4.天降异宝活动奖励>",
+
+	MoneyGet021 = "<领取/@@showWin,33,0>",
+	MoneyGet022 = "<领取/@@showWin,35,0>",
+	MoneyGet023 = "<领取/@@showWin,35,1>",
+	MoneyGet024 = "<参加/@@showWin,187,0>",
+
+	--元宝
+	MoneyTip031 = "<(c0xFFFFFF00)1.充值获得元宝>",
+	MoneyTip032 = "<(c0xFFFFFF00)2.通过求购店出售商品>",
+	MoneyTip033 = "<(c0xFFFFFF00)3.摆摊出售商品>",
+
+	MoneyGet031 = "<充值/@@chargelink>",
+	MoneyGet032 = "<出售/@@showWin,16,1>",
+	MoneyGet033 = "<前往/M王城:154:153> <(x王城:154:153)>",
+	MoneyGet034 = "<开箱/@@showWin,37,1>",
+
+	MoneyTitle031 = "元宝title1",
+
+	--体力
+	MoneyTip041 = "<(c0xFFFFFF00)1.膜拜君主获得体力>",
+	MoneyTip042 = "<(c0xFFFFFF00)2.体力药水获得体力>",
+
+	MoneyGet041 = "<膜拜/@@chargelink>",
+	MoneyGet042 = "<体力药水/@@showWin,16,1>",
+
+	MoneyTitle041 = "体力title1",
+	MoneyTitle042 = "体力title2",
+
+    --女王券
+	MoneyTip034 = "<(c0xFFFFFF00)通过女王宝箱获取>",
+	]]
+}

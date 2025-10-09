@@ -1,0 +1,274 @@
+--#include "data\config\mail\MailEventConfig.txt" once 	--触发事件发邮件
+
+
+--邮件通用接口
+--nActorId 玩家Id
+--sTitle 	标题
+--sContent	内容
+--awardTable 奖励表  
+   --[[
+   awardTable = 
+   		{
+			{type = 0, id = 1, count = 1, quality = 1, qualityDataIndex = 1, strong = 1, bind = 1,}
+		}
+	]]--
+mailAttachCount = 5
+function SendMail(nActorId, sTitle,sContent,awardTable)
+	if nActorId == 0 then
+		print("SendMail error,nActorId =0")
+		return
+	end
+	if not sTitle or not sContent then
+		print("SendMail error,sTitle or sContent = nil")
+		return
+	end
+	if not awardTable or type(awardTable) ~= "table" then
+		System.sendSysMail(nActorId, sTitle, sContent)
+		--print("SendMail error,awardTable nil or not a table")
+		return
+	end
+	local nAwardCount = #awardTable
+	local nCurCount = 0
+	local splitTable = {}
+	if nAwardCount == 0 or nAwardCount < mailAttachCount then
+		System.sendSysMail(nActorId, sTitle, sContent, awardTable)
+	else
+		for i=1,nAwardCount do
+			nCurCount = nCurCount + 1
+			table.insert(splitTable, awardTable[i])
+			if i == nAwardCount or nCurCount >= mailAttachCount then --超过5个附件分开发
+				System.sendSysMail(nActorId, sTitle, sContent, splitTable)
+				nCurCount = 0
+				splitTable = {}
+			end
+		end	
+	end
+end
+--跨服邮件
+function SendCrossServerMail(nActorId,sTitle,sContent,awardTable)
+	if not sTitle or not sContent then
+		print("SendMail error,sTitle or sContent = nil")
+		return
+	end
+	if not awardTable or type(awardTable) ~= "table" then
+		System.sendCrossServerMail(nActorId, sTitle, sContent)
+		--print("SendMail error,awardTable nil or not a table")
+		return
+	end
+	local nAwardCount = #awardTable
+	local nCurCount = 0
+	local splitTable = {}
+	if nAwardCount == 0 or nAwardCount < mailAttachCount then
+		System.sendCrossServerMail(nActorId, sTitle, sContent, awardTable)
+	else
+		for i=1,nAwardCount do
+			nCurCount = nCurCount + 1
+			table.insert(splitTable, awardTable[i])
+			if i == nAwardCount or nCurCount >= mailAttachCount then --超过5个附件分开发
+				System.sendCrossServerMail(nActorId, sTitle, sContent, splitTable)
+				nCurCount = 0
+				splitTable = {}
+			end
+		end	
+	end
+end
+--在线发邮件，可带职业，性别等筛选条件
+function SendMailEx(sysarg, sTitle, sContent, awardTable)
+	local nActorId = Actor.getActorId(sysarg)
+	local useAwardTable = {}
+	for i,v in ipairs(awardTable) do
+		local isUse = true
+		if v.sex ~= nil and v.sex ~= -1 and v.sex ~= Actor.getIntProperty(sysarg,PROP_ACTOR_SEX) then  --有性别要求
+			isUse = false
+		end
+		if v.job ~= nil and v.job ~= 0 and v.job ~= Actor.getIntProperty(sysarg, PROP_ACTOR_VOCATION) then --有职业要求
+			isUse = false
+		end
+		if isUse then
+			table.insert(useAwardTable,v)
+		end
+	end
+	SendMail(nActorId, sTitle, sContent, useAwardTable)
+end
+
+
+function TestMail(sysarg,mailCount)
+	local mailCount = tonumber(mailCount) or 1
+	local nActorId = Actor.getActorId(sysarg)
+	local sTitle1 = "标题"
+	local sContent1 = "内容"
+
+	for i=1,mailCount do
+		local awardTable = 
+		{
+			{type = 0, id = 281 , count = 1, sex = 0},
+			{type = 0, id = 281 , count = 2, sex =1},
+			{type = 11, id = 0 , count = 100*i, job=1 },
+			{type = 21, id = 0 , count = 100*i, job=2},
+			{type = 31, id = 0 , count = 100*i, job=3},
+		}
+		local sTitle = sTitle1..i
+		local sContent = sContent1 ..i
+		SendMailEx(sysarg, sTitle, sContent, awardTable)
+	end
+end
+
+
+--触发邮件事件
+function OnMailEvent( sysarg, mailEventId, value1, value2 )
+	--print("OnMailEvent, mailEventId="..mailEventId..", value1="..value1..", value2="..value2)
+	local eventcfg = MailEventCfg[mailEventId]
+	if not eventcfg then    			--无此事件的配置
+		return
+	end
+
+	if not eventcfg.isUse then 		--此事件不使用了
+		return
+	end
+
+	local mailCfg = GetElemMatch2Cond(eventcfg.mails, value1, value2)   --搜索匹配的事件配置
+	if mailCfg then
+		SendMail( Actor.getActorId(sysarg), mailCfg.title, mailCfg.content, mailCfg.awards )
+	end 
+end
+
+
+
+--[[
+	离线玩家邮件
+    GlobalMailData[AtvId]
+    {
+		maxId ,--邮件id
+        offlineMail[1...]
+		{
+			sTitle --邮件标题
+			content -- 邮件内容
+			awards[] 
+			{
+				type, --类型
+				id,  --id
+				count, --数量
+			}
+		}
+    }
+]]--
+--获取玩家数据
+function GetGlobalMailData(nActorId)
+    if nActorId == nil then
+        assert(false)
+    end
+    local var = System.getStaticVar();
+    if var.GlobalMailData == nil then
+        var.GlobalMailData = {}
+    end
+
+    if var.GlobalMailData[nActorId] == nil then
+        var.GlobalMailData[nActorId] = {}
+    end
+
+    return var.GlobalMailData[nActorId]
+end
+
+
+--发送usedata 类型的奖励
+function SendUserDataMail(nActorId, sTitle,sContent,useDataTable)
+	if nActorId == 0 then
+		print("SendMail error,nActorId =0")
+		return
+	end
+	if not sTitle or not sContent then
+		print("SendMail error,sTitle or sContent = nil")
+		return
+	end
+	if not useDataTable then
+		print("SendMail error,useDataTable = nil")
+		return
+	end
+	local awardTable = {}
+	for v, _ in Ipairs(useDataTable) do
+		local mail  ={}
+		mail.type = useDataTable[v].type
+		mail.id =useDataTable[v].id
+		mail.count =useDataTable[v].count
+		table.insert(awardTable, mail)
+	end
+	
+	local nAwardCount = #awardTable
+	local nCurCount = 0
+	local splitTable = {}
+	if nAwardCount == 0 or nAwardCount < mailAttachCount then
+		System.sendSysMail(nActorId, sTitle, sContent, awardTable)
+	else
+		for i=1,nAwardCount do
+			nCurCount = nCurCount + 1
+			table.insert(splitTable, awardTable[i])
+			if i == nAwardCount or nCurCount >= mailAttachCount then --超过5个附件分开发
+				System.sendSysMail(nActorId, sTitle, sContent, splitTable)
+				nCurCount = 0
+				splitTable = {}
+			end
+		end	
+	end
+end
+
+--触发邮件
+function LoginCheckMail( sysarg)
+	local actorid = Actor.getActorId(sysarg);
+	local maildata = GetGlobalMailData(actorid);
+	if maildata.offlineMail == nil then
+		return
+	end
+	for v, infos in Ipairs(maildata.offlineMail) do
+		--print("infos.."..v);
+		local mail = maildata.offlineMail[v]
+		if mail then
+			print("LoginCheckMail, nActorId="..actorid..", title="..(mail.sTitle or 0)..", Content="..(mail.content or 0))
+			if mail.sTitle and mail.content then
+				SendUserDataMail( actorid, mail.sTitle, mail.content, mail.awards ) 
+			end
+		end
+	end
+	maildata.offlineMail = nil;--清空 
+end
+
+
+--触发邮件
+function AddOfflineMail( nActorId, title, Content, nCount,...)
+	print("AddOfflineMail, nActorId="..nActorId..", title="..title..", Content="..Content," nCount="..nCount)
+	local maildata = GetGlobalMailData(nActorId);
+	if maildata.offlineMail == nil then
+		maildata.offlineMail = {}
+	end
+
+	if maildata.offlineMail.maxId == nil then
+		maildata.offlineMail.maxId = 0
+	end
+
+	maildata.offlineMail.maxId = maildata.offlineMail.maxId + 1
+
+	local maxId = maildata.offlineMail.maxId;
+
+	maildata.offlineMail[maxId] = {}
+	--print("maxId"..maxId);
+
+	local offline = maildata.offlineMail[maxId];
+	offline.sTitle = title;
+	offline.content = Content;
+	offline.awards = {};
+	local arg={...}
+	for i,v in ipairs(arg) do
+		local index = i % 3;
+		local inType = math.ceil(i / 3);
+		if offline.awards[inType] == nil then
+			offline.awards[inType] = {}
+		end
+		--print("vv.."..v.."..inType.."..inType)
+		if index == 1 then
+			offline.awards[inType].type = v; --类型
+		elseif index == 2 then
+			offline.awards[inType].id = v;
+		else
+			offline.awards[inType].count = v;
+		end
+	end
+end

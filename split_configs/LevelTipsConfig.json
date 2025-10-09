@@ -1,0 +1,116 @@
+{
+  "1": {
+    "35": {
+      "desc": "35级开启",
+      "functionImg": "lvup_t_25",
+      "icon": "lvup_icon_25",
+      "job": 1,
+      "level": 35,
+      "ruleId": 49,
+      "specialeffects": 1
+    },
+    "47": {
+      "desc": "47级开启",
+      "functionImg": "lvup_t_29",
+      "icon": "lvup_icon_29",
+      "job": 1,
+      "level": 47,
+      "ruleId": 50,
+      "specialeffects": 1
+    },
+    "50": {
+      "desc": "50级开启",
+      "functionImg": "lvup_t_32",
+      "icon": "lvup_icon_32",
+      "job": 1,
+      "level": 50,
+      "ruleId": 51,
+      "specialeffects": 0
+    },
+    "55": {
+      "desc": "55级角色二转",
+      "functionImg": "lvup_t_32",
+      "icon": "lvup_icon_32",
+      "job": 1,
+      "level": 55,
+      "ruleId": 51,
+      "specialeffects": 0
+    }
+  },
+  "2": {
+    "35": {
+      "desc": "35级开启",
+      "functionImg": "lvup_t_26",
+      "icon": "lvup_icon_26",
+      "job": 2,
+      "level": 35,
+      "ruleId": 49,
+      "specialeffects": 1
+    },
+    "47": {
+      "desc": "47级开启",
+      "functionImg": "lvup_t_30",
+      "icon": "lvup_icon_30",
+      "job": 2,
+      "level": 47,
+      "ruleId": 50,
+      "specialeffects": 1
+    },
+    "50": {
+      "desc": "50级开启",
+      "functionImg": "lvup_t_32",
+      "icon": "lvup_icon_32",
+      "job": 2,
+      "level": 50,
+      "ruleId": 51,
+      "specialeffects": 0
+    },
+    "55": {
+      "desc": "55级开2转",
+      "functionImg": "lvup_t_32",
+      "icon": "lvup_icon_32",
+      "job": 2,
+      "level": 55,
+      "ruleId": 51,
+      "specialeffects": 0
+    }
+  },
+  "3": {
+    "35": {
+      "desc": "35级开启",
+      "functionImg": "lvup_t_27",
+      "icon": "lvup_icon_27",
+      "job": 3,
+      "level": 35,
+      "ruleId": 49,
+      "specialeffects": 1
+    },
+    "47": {
+      "desc": "47级开启",
+      "functionImg": "lvup_t_31",
+      "icon": "lvup_icon_31",
+      "job": 3,
+      "level": 47,
+      "ruleId": 50,
+      "specialeffects": 1
+    },
+    "50": {
+      "desc": "50级开启",
+      "functionImg": "lvup_t_32",
+      "icon": "lvup_icon_32",
+      "job": 3,
+      "level": 50,
+      "ruleId": 51,
+      "specialeffects": 0
+    },
+    "55": {
+      "desc": "55级角色二转",
+      "functionImg": "lvup_t_32",
+      "icon": "lvup_icon_32",
+      "job": 3,
+      "level": 55,
+      "ruleId": 51,
+      "specialeffects": 0
+    }
+  }
+}

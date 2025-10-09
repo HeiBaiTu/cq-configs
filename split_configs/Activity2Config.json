@@ -1,0 +1,35 @@
+{
+  "3": {
+    "Id": 3,
+    "Ntipstext_1": "|C:0xeee104&T:活动：水晶鉴定|",
+    "Ntipstext_2": "活动时间：|C:0x2eb52d&T:每日|",
+    "Ntipstext_3": "鉴定精力水晶，获得80万多倍经验。多倍经验使用期间，打怪经验超级翻倍\n\n\n|",
+    "Ntipstext_4": "需要等级：|C:0x28ee01&T:20级",
+    "bg": "Act_hdbg2_sjjd",
+    "count": 5,
+    "describe": "鉴定精力水晶，获得80万多倍经验。多倍经验使用期间，打怪超级翻倍\n\n\n|C:0x2eb52d&T:等级20级|",
+    "isCheckTime": 0,
+    "name": "水晶鉴定",
+    "openParam": {
+      "level": 999,
+      "openDay": 999
+    },
+    "openView": "app.CrystalIdentifyWin",
+    "rewardBtn": "进入",
+    "rewards": [
+      {
+        "count": 0,
+        "id": 0,
+        "type": 13
+      }
+    ],
+    "ruleID": 31,
+    "showParam": {
+      "level": 999,
+      "openDay": 999
+    },
+    "titleIcon": "Act_biaoti_sjjd",
+    "type": 3,
+    "uiType": 2
+  }
+}

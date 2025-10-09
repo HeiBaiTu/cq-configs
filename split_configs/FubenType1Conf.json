@@ -1,0 +1,159 @@
+{
+  "1": {
+    "fbEnterLimit": [
+      {
+        "param1": 28,
+        "type": 2
+      }
+    ],
+    "fbEnterPass": [
+      {
+        "param1": 1,
+        "type": 1
+      },
+      {
+        "param1": 2,
+        "type": 1
+      }
+    ],
+    "fbId": 1,
+    "fbRefresh": {
+      "1": {
+        "count": 15,
+        "entityid": 157,
+        "range": 4,
+        "x": 17,
+        "y": 18
+      },
+      "2": {
+        "count": 15,
+        "entityid": 158,
+        "range": 4,
+        "x": 17,
+        "y": 18
+      },
+      "3": {
+        "count": 15,
+        "entityid": 159,
+        "range": 4,
+        "x": 17,
+        "y": 18
+      },
+      "4": {
+        "count": 5,
+        "entityid": 160,
+        "range": 4,
+        "x": 17,
+        "y": 18
+      }
+    }
+  },
+  "14": {
+    "fbEnterLimit": [
+      {
+        "param1": 15,
+        "type": 1
+      }
+    ],
+    "fbId": 14,
+    "fbRefresh": [
+      {
+        "count": 10,
+        "entityid": 187,
+        "range": 10,
+        "x": 15,
+        "y": 12
+      }
+    ]
+  },
+  "15": {
+    "fbEnterLimit": [
+      {
+        "param1": 16,
+        "type": 1
+      }
+    ],
+    "fbId": 15,
+    "fbRefresh": [
+      {
+        "count": 10,
+        "entityid": 188,
+        "range": 10,
+        "x": 16,
+        "y": 11
+      }
+    ]
+  },
+  "16": {
+    "fbEnterLimit": [
+      {
+        "param1": 25,
+        "type": 2
+      }
+    ],
+    "fbId": 16,
+    "fbRefresh": [
+      {
+        "count": 1,
+        "entityid": 189,
+        "range": 3,
+        "x": 11,
+        "y": 6
+      }
+    ]
+  },
+  "17": {
+    "fbEnterLimit": [
+      {
+        "param1": 45,
+        "type": 2
+      }
+    ],
+    "fbId": 17,
+    "fbRefresh": [
+      {
+        "count": 1,
+        "entityid": 190,
+        "range": 1,
+        "x": 16,
+        "y": 10
+      }
+    ]
+  },
+  "18": {
+    "fbEnterLimit": [
+      {
+        "param1": 70,
+        "type": 2
+      }
+    ],
+    "fbId": 18,
+    "fbRefresh": [
+      {
+        "count": 1,
+        "entityid": 191,
+        "range": 3,
+        "x": 15,
+        "y": 13
+      }
+    ]
+  },
+  "19": {
+    "fbEnterLimit": [
+      {
+        "param1": 99,
+        "type": 2
+      }
+    ],
+    "fbId": 19,
+    "fbRefresh": [
+      {
+        "count": 1,
+        "entityid": 192,
+        "range": 3,
+        "x": 10,
+        "y": 6
+      }
+    ]
+  }
+}

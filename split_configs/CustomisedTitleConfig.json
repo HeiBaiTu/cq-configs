@@ -1,0 +1,8062 @@
+{
+  "1": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 5,
+        "value": 100
+      },
+      {
+        "type": 76,
+        "value": 2
+      },
+      {
+        "type": 77,
+        "value": 2
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao023",
+    "id": 1,
+    "titleDesc": "宝剑锋从磨砺出",
+    "titleName": "宝剑锋从磨砺出",
+    "titleTime": 0
+  },
+  "2": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 5,
+        "value": 100
+      },
+      {
+        "type": 76,
+        "value": 2
+      },
+      {
+        "type": 77,
+        "value": 2
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao024",
+    "id": 2,
+    "titleDesc": "皇图霸业谈笑中",
+    "titleName": "皇图霸业谈笑中",
+    "titleTime": 0
+  },
+  "3": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 5,
+        "value": 100
+      },
+      {
+        "type": 76,
+        "value": 2
+      },
+      {
+        "type": 77,
+        "value": 2
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao025",
+    "id": 3,
+    "titleDesc": "江山多娇竞折腰",
+    "titleName": "江山多娇竞折腰",
+    "titleTime": 0
+  },
+  "4": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 81,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao026",
+    "id": 4,
+    "titleDesc": "游戏人生",
+    "titleName": "游戏人生",
+    "titleTime": 0
+  },
+  "5": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 9
+      },
+      {
+        "type": 77,
+        "value": 18
+      },
+      {
+        "type": 6,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao026",
+    "id": 5,
+    "titleDesc": "游戏人生",
+    "titleName": "游戏人生",
+    "titleTime": 0
+  },
+  "6": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 54,
+        "value": 100
+      },
+      {
+        "type": 80,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao026",
+    "id": 6,
+    "titleDesc": "游戏人生",
+    "titleName": "游戏人生",
+    "titleTime": 0
+  },
+  "7": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 81,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao027",
+    "id": 7,
+    "titleDesc": "为我独尊",
+    "titleName": "为我独尊",
+    "titleTime": 0
+  },
+  "8": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 9
+      },
+      {
+        "type": 77,
+        "value": 18
+      },
+      {
+        "type": 6,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao027",
+    "id": 8,
+    "titleDesc": "为我独尊",
+    "titleName": "为我独尊",
+    "titleTime": 0
+  },
+  "9": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 54,
+        "value": 100
+      },
+      {
+        "type": 80,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao027",
+    "id": 9,
+    "titleDesc": "为我独尊",
+    "titleName": "为我独尊",
+    "titleTime": 0
+  },
+  "10": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 81,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao028",
+    "id": 10,
+    "titleDesc": "逍遥天帝",
+    "titleName": "逍遥天帝",
+    "titleTime": 0
+  },
+  "11": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 9
+      },
+      {
+        "type": 77,
+        "value": 18
+      },
+      {
+        "type": 6,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao028",
+    "id": 11,
+    "titleDesc": "逍遥天帝",
+    "titleName": "逍遥天帝",
+    "titleTime": 0
+  },
+  "12": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 54,
+        "value": 100
+      },
+      {
+        "type": 80,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao028",
+    "id": 12,
+    "titleDesc": "逍遥天帝",
+    "titleName": "逍遥天帝",
+    "titleTime": 0
+  },
+  "13": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 81,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao030",
+    "id": 13,
+    "titleDesc": "怒斩屠龙",
+    "titleName": "怒斩屠龙",
+    "titleTime": 0
+  },
+  "14": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 9
+      },
+      {
+        "type": 77,
+        "value": 18
+      },
+      {
+        "type": 6,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao030",
+    "id": 14,
+    "titleDesc": "怒斩屠龙",
+    "titleName": "怒斩屠龙",
+    "titleTime": 0
+  },
+  "15": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 54,
+        "value": 100
+      },
+      {
+        "type": 80,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao030",
+    "id": 15,
+    "titleDesc": "怒斩屠龙",
+    "titleName": "怒斩屠龙",
+    "titleTime": 0
+  },
+  "16": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao042",
+    "id": 16,
+    "titleDesc": "万人敬仰",
+    "titleName": "万人敬仰",
+    "titleTime": 0
+  },
+  "17": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 147,
+        "value": 1500
+      },
+      {
+        "type": 84,
+        "value": 400
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao041",
+    "id": 17,
+    "titleDesc": "勇敢牛牛",
+    "titleName": "勇敢牛牛",
+    "titleTime": 0
+  },
+  "18": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 138,
+        "value": 200
+      },
+      {
+        "type": 84,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao043",
+    "id": 18,
+    "titleDesc": "不怕困难",
+    "titleName": "不怕困难",
+    "titleTime": 0
+  },
+  "19": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 138,
+        "value": 200
+      },
+      {
+        "type": 54,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao049",
+    "id": 19,
+    "titleDesc": "牛气冲天",
+    "titleName": "牛气冲天",
+    "titleTime": 0
+  },
+  "20": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 138,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao050",
+    "id": 20,
+    "titleDesc": "牛飞千里",
+    "titleName": "牛飞千里",
+    "titleTime": 0
+  },
+  "21": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 147,
+        "value": 1500
+      },
+      {
+        "type": 84,
+        "value": 400
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao040",
+    "id": 21,
+    "titleDesc": "奥山",
+    "titleName": "奥山",
+    "titleTime": 0
+  },
+  "22": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 138,
+        "value": 200
+      },
+      {
+        "type": 84,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao044",
+    "id": 22,
+    "titleDesc": "战歌",
+    "titleName": "战歌",
+    "titleTime": 0
+  },
+  "23": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 138,
+        "value": 200
+      },
+      {
+        "type": 54,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao048",
+    "id": 23,
+    "titleDesc": "阿拉希",
+    "titleName": "阿拉希",
+    "titleTime": 0
+  },
+  "24": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 138,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao051",
+    "id": 24,
+    "titleDesc": "风暴",
+    "titleName": "风暴",
+    "titleTime": 0
+  },
+  "25": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 59,
+        "value": 100
+      },
+      {
+        "type": 6,
+        "value": 150
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao039",
+    "id": 25,
+    "titleDesc": "一穷二白",
+    "titleName": "一穷二白",
+    "titleTime": 0
+  },
+  "26": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 59,
+        "value": 100
+      },
+      {
+        "type": 6,
+        "value": 150
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao038",
+    "id": 26,
+    "titleDesc": "冷锋冷峰",
+    "titleName": "冷锋冷峰",
+    "titleTime": 0
+  },
+  "27": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 5
+      },
+      {
+        "type": 77,
+        "value": 5
+      },
+      {
+        "type": 5,
+        "value": 1000
+      },
+      {
+        "type": 59,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao056",
+    "id": 27,
+    "titleDesc": "吊打全服",
+    "titleName": "吊打全服",
+    "titleTime": 0
+  },
+  "28": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 84,
+        "value": 200
+      },
+      {
+        "type": 80,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao047",
+    "id": 28,
+    "titleDesc": "烈火点烟",
+    "titleName": "烈火点烟",
+    "titleTime": 0
+  },
+  "29": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 84,
+        "value": 200
+      },
+      {
+        "type": 80,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao052",
+    "id": 29,
+    "titleDesc": "得瑟削你",
+    "titleName": "得瑟削你",
+    "titleTime": 0
+  },
+  "30": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 84,
+        "value": 300
+      },
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 6,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao057",
+    "id": 30,
+    "titleDesc": "習慣ㄋ一個人",
+    "titleName": "習慣ㄋ一個人",
+    "titleTime": 0
+  },
+  "31": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 54,
+        "value": 200
+      },
+      {
+        "type": 84,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao053",
+    "id": 31,
+    "titleDesc": "最爱宇凌",
+    "titleName": "最爱宇凌",
+    "titleTime": 0
+  },
+  "32": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 147,
+        "value": 1000
+      },
+      {
+        "type": 138,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao036",
+    "id": 32,
+    "titleDesc": "戰神殿",
+    "titleName": "戰神殿",
+    "titleTime": 0
+  },
+  "33": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 147,
+        "value": 1000
+      },
+      {
+        "type": 138,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao062",
+    "id": 33,
+    "titleDesc": "戰灬千秋",
+    "titleName": "戰灬千秋",
+    "titleTime": 0
+  },
+  "34": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 149,
+        "value": 1000
+      },
+      {
+        "type": 138,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao063",
+    "id": 34,
+    "titleDesc": "戰灬小人物",
+    "titleName": "戰灬小人物",
+    "titleTime": 0
+  },
+  "35": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 149,
+        "value": 1000
+      },
+      {
+        "type": 138,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao037",
+    "id": 35,
+    "titleDesc": "戰神殿",
+    "titleName": "戰神殿",
+    "titleTime": 0
+  },
+  "36": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 149,
+        "value": 1000
+      },
+      {
+        "type": 138,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao035",
+    "id": 36,
+    "titleDesc": "亲爱的瞳宝宝",
+    "titleName": "亲爱的瞳宝宝",
+    "titleTime": 0
+  },
+  "37": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 9
+      },
+      {
+        "type": 77,
+        "value": 9
+      },
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 147,
+        "value": 2000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao071",
+    "id": 37,
+    "titleDesc": "终极绝对防爆",
+    "titleName": "终极绝对防爆",
+    "titleTime": 0
+  },
+  "38": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 9
+      },
+      {
+        "type": 77,
+        "value": 9
+      },
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 147,
+        "value": 2000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao083",
+    "id": 38,
+    "titleDesc": "多情剑客",
+    "titleName": "多情剑客",
+    "titleTime": 0
+  },
+  "39": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao033",
+    "id": 39,
+    "titleDesc": "金枪不倒",
+    "titleName": "金枪不倒",
+    "titleTime": 0
+  },
+  "40": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      },
+      {
+        "type": 64,
+        "value": 400
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao077",
+    "id": 40,
+    "titleDesc": "真神降临",
+    "titleName": "真神降临",
+    "titleTime": 0
+  },
+  "41": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 9
+      },
+      {
+        "type": 77,
+        "value": 9
+      },
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 5,
+        "value": 2000
+      },
+      {
+        "type": 6,
+        "value": 600
+      },
+      {
+        "type": 81,
+        "value": 800
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao072",
+    "id": 41,
+    "titleDesc": "十方小和尚",
+    "titleName": "十方小和尚",
+    "titleTime": 0
+  },
+  "42": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      },
+      {
+        "type": 64,
+        "value": 400
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao078",
+    "id": 42,
+    "titleDesc": "石皇奇遇记",
+    "titleName": "石皇奇遇记",
+    "titleTime": 0
+  },
+  "43": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 5,
+        "value": 1500
+      },
+      {
+        "type": 6,
+        "value": 450
+      },
+      {
+        "type": 81,
+        "value": 600
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao073",
+    "id": 43,
+    "titleDesc": "八方老尼姑",
+    "titleName": "八方老尼姑",
+    "titleTime": 0
+  },
+  "44": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      },
+      {
+        "type": 64,
+        "value": 400
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao081",
+    "id": 44,
+    "titleDesc": "大郎推粪球",
+    "titleName": "大郎推粪球",
+    "titleTime": 0
+  },
+  "45": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 136,
+        "value": 600
+      },
+      {
+        "type": 54,
+        "value": 300
+      },
+      {
+        "type": 84,
+        "value": 400
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao082",
+    "id": 45,
+    "titleDesc": "战无不胜",
+    "titleName": "战无不胜",
+    "titleTime": 0
+  },
+  "46": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 9
+      },
+      {
+        "type": 77,
+        "value": 9
+      },
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 147,
+        "value": 2000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao079",
+    "id": 46,
+    "titleDesc": "神豪定制",
+    "titleName": "神豪定制",
+    "titleTime": 0
+  },
+  "47": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 9
+      },
+      {
+        "type": 77,
+        "value": 9
+      },
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 147,
+        "value": 2000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao080",
+    "id": 47,
+    "titleDesc": "多情剑客无情伤",
+    "titleName": "多情剑客无情伤",
+    "titleTime": 0
+  },
+  "48": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 138,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao058",
+    "id": 48,
+    "titleDesc": "传奇岁月",
+    "titleName": "传奇岁月",
+    "titleTime": 0
+  },
+  "49": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 9
+      },
+      {
+        "type": 77,
+        "value": 9
+      },
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 147,
+        "value": 2000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao074",
+    "id": 49,
+    "titleDesc": "国泰民安",
+    "titleName": "国泰民安",
+    "titleTime": 0
+  },
+  "50": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 5
+      },
+      {
+        "type": 77,
+        "value": 5
+      },
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 136,
+        "value": 400
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao046",
+    "id": 50,
+    "titleDesc": "神力护身",
+    "titleName": "神力护身",
+    "titleTime": 0
+  },
+  "51": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 9
+      },
+      {
+        "type": 77,
+        "value": 9
+      },
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 147,
+        "value": 2000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao075",
+    "id": 51,
+    "titleDesc": "多情剑客无情泪",
+    "titleName": "多情剑客无情泪",
+    "titleTime": 0
+  },
+  "52": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 5
+      },
+      {
+        "type": 77,
+        "value": 5
+      },
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 138,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao076",
+    "id": 52,
+    "titleDesc": "多情剑客",
+    "titleName": "多情剑客",
+    "titleTime": 0
+  },
+  "53": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao059",
+    "id": 53,
+    "titleDesc": "极品人渣",
+    "titleName": "极品人渣",
+    "titleTime": 0
+  },
+  "54": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao054",
+    "id": 54,
+    "titleDesc": "混世流氓",
+    "titleName": "混世流氓",
+    "titleTime": 0
+  },
+  "55": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 138,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao066",
+    "id": 55,
+    "titleDesc": "难得糊涂",
+    "titleName": "难得糊涂",
+    "titleTime": 0
+  },
+  "56": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 138,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao067",
+    "id": 56,
+    "titleDesc": "匹夫不可夺志",
+    "titleName": "匹夫不可夺志",
+    "titleTime": 0
+  },
+  "57": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 81,
+        "value": 400
+      },
+      {
+        "type": 147,
+        "value": 1000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao032",
+    "id": 57,
+    "titleDesc": "御剑听雪",
+    "titleName": "御剑听雪",
+    "titleTime": 0
+  },
+  "58": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 81,
+        "value": 600
+      },
+      {
+        "type": 84,
+        "value": 400
+      },
+      {
+        "type": 149,
+        "value": 1500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao055",
+    "id": 58,
+    "titleDesc": "梵神的刀快准狠",
+    "titleName": "梵神的刀快准狠",
+    "titleTime": 0
+  },
+  "59": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 84,
+        "value": 400
+      },
+      {
+        "type": 147,
+        "value": 1500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao068",
+    "id": 59,
+    "titleDesc": "一刀破苍穹",
+    "titleName": "一刀破苍穹",
+    "titleTime": 0
+  },
+  "60": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 138,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao060",
+    "id": 60,
+    "titleDesc": "我行我素",
+    "titleName": "我行我素",
+    "titleTime": 0
+  },
+  "61": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 138,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao069",
+    "id": 61,
+    "titleDesc": "至尊亮神",
+    "titleName": "至尊亮神",
+    "titleTime": 0
+  },
+  "62": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 138,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao064",
+    "id": 62,
+    "titleDesc": "虚无飘妙",
+    "titleName": "虚无飘妙",
+    "titleTime": 0
+  },
+  "63": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 138,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao061",
+    "id": 63,
+    "titleDesc": "一拳超人",
+    "titleName": "一拳超人",
+    "titleTime": 0
+  },
+  "64": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 138,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao065",
+    "id": 64,
+    "titleDesc": "大鱼海棠",
+    "titleName": "大鱼海棠",
+    "titleTime": 0
+  },
+  "65": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 138,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao070",
+    "id": 65,
+    "titleDesc": "剁椒鱼头",
+    "titleName": "剁椒鱼头",
+    "titleTime": 0
+  },
+  "66": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 5
+      },
+      {
+        "type": 77,
+        "value": 5
+      },
+      {
+        "type": 138,
+        "value": 200
+      },
+      {
+        "type": 59,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao031",
+    "id": 66,
+    "titleDesc": "猴哥无双",
+    "titleName": "猴哥无双",
+    "titleTime": 0
+  },
+  "67": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 5
+      },
+      {
+        "type": 77,
+        "value": 5
+      },
+      {
+        "type": 138,
+        "value": 200
+      },
+      {
+        "type": 59,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao045",
+    "id": 67,
+    "titleDesc": "盖世无猴",
+    "titleName": "盖世无猴",
+    "titleTime": 0
+  },
+  "68": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 138,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao034",
+    "id": 68,
+    "titleDesc": "来打我撒",
+    "titleName": "来打我撒",
+    "titleTime": 0
+  },
+  "69": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 81,
+        "value": 800
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      },
+      {
+        "type": 64,
+        "value": 400
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao084",
+    "id": 69,
+    "titleDesc": "独占天下第一香",
+    "titleName": "独占天下第一香",
+    "titleTime": 0
+  },
+  "70": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 84,
+        "value": 400
+      },
+      {
+        "type": 64,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao085",
+    "id": 70,
+    "titleDesc": "你不配看我一眼",
+    "titleName": "你不配看我一眼",
+    "titleTime": 0
+  },
+  "71": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 6,
+        "value": 150
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao086",
+    "id": 71,
+    "titleDesc": "前程似锦",
+    "titleName": "前程似锦",
+    "titleTime": 0
+  },
+  "72": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao087",
+    "id": 72,
+    "titleDesc": "无敌众将会惧谁",
+    "titleName": "无敌众将会惧谁",
+    "titleTime": 0
+  },
+  "73": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 81,
+        "value": 800
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 84,
+        "value": 500
+      },
+      {
+        "type": 64,
+        "value": 400
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao088",
+    "id": 73,
+    "titleDesc": "神一样的欢欢",
+    "titleName": "神一样的欢欢",
+    "titleTime": 0
+  },
+  "74": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 81,
+        "value": 800
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 84,
+        "value": 500
+      },
+      {
+        "type": 64,
+        "value": 400
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao089",
+    "id": 74,
+    "titleDesc": "魔魔魔魔",
+    "titleName": "魔魔魔魔",
+    "titleTime": 0
+  },
+  "75": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 54,
+        "value": 300
+      },
+      {
+        "type": 84,
+        "value": 400
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao090",
+    "id": 75,
+    "titleDesc": "我命由我不由天",
+    "titleName": "我命由我不由天",
+    "titleTime": 0
+  },
+  "76": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 54,
+        "value": 300
+      },
+      {
+        "type": 84,
+        "value": 400
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao091",
+    "id": 76,
+    "titleDesc": "不是猛龙不过江",
+    "titleName": "不是猛龙不过江",
+    "titleTime": 0
+  },
+  "77": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao092",
+    "id": 77,
+    "titleDesc": "我是个好人",
+    "titleName": "我是个好人",
+    "titleTime": 0
+  },
+  "78": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 138,
+        "value": 200
+      },
+      {
+        "type": 54,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao094",
+    "id": 78,
+    "titleDesc": "我是大洋哥",
+    "titleName": "我是大洋哥",
+    "titleTime": 0
+  },
+  "79": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 6,
+        "value": 600
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      },
+      {
+        "type": 149,
+        "value": 2000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao093",
+    "id": 79,
+    "titleDesc": "霸气侧漏大洋哥",
+    "titleName": "霸气侧漏大洋哥",
+    "titleTime": 0
+  },
+  "80": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 138,
+        "value": 200
+      },
+      {
+        "type": 84,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao096",
+    "id": 80,
+    "titleDesc": "洋哥教你做人",
+    "titleName": "洋哥教你做人",
+    "titleTime": 0
+  },
+  "81": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 138,
+        "value": 200
+      },
+      {
+        "type": 84,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao097",
+    "id": 81,
+    "titleDesc": "你服不服",
+    "titleName": "你服不服",
+    "titleTime": 0
+  },
+  "82": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 138,
+        "value": 200
+      },
+      {
+        "type": 84,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao095",
+    "id": 82,
+    "titleDesc": "洋哥问你愁啥",
+    "titleName": "洋哥问你愁啥",
+    "titleTime": 0
+  },
+  "83": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 138,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao098",
+    "id": 83,
+    "titleDesc": "怒斩乾坤",
+    "titleName": "怒斩乾坤",
+    "titleTime": 0
+  },
+  "84": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 138,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao147",
+    "id": 84,
+    "titleDesc": "弑魂岁月",
+    "titleName": "弑魂岁月",
+    "titleTime": 0
+  },
+  "85": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 138,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao148",
+    "id": 85,
+    "titleDesc": "弑魂岁月",
+    "titleName": "弑魂岁月",
+    "titleTime": 0
+  },
+  "86": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 81,
+        "value": 800
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      },
+      {
+        "type": 64,
+        "value": 400
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao169",
+    "id": 86,
+    "titleDesc": "弑魂奥利给",
+    "titleName": "弑魂奥利给",
+    "titleTime": 0
+  },
+  "87": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 54,
+        "value": 300
+      },
+      {
+        "type": 84,
+        "value": 400
+      },
+      {
+        "type": 64,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao149",
+    "id": 87,
+    "titleDesc": "弑魂奥利给",
+    "titleName": "弑魂奥利给",
+    "titleTime": 0
+  },
+  "88": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 54,
+        "value": 300
+      },
+      {
+        "type": 84,
+        "value": 400
+      },
+      {
+        "type": 64,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao150",
+    "id": 88,
+    "titleDesc": "弑魂奥利给",
+    "titleName": "弑魂奥利给",
+    "titleTime": 0
+  },
+  "89": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 6,
+        "value": 600
+      },
+      {
+        "type": 81,
+        "value": 800
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao156",
+    "id": 89,
+    "titleDesc": "大风起兮云飞扬",
+    "titleName": "大风起兮云飞扬",
+    "titleTime": 0
+  },
+  "90": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao126",
+    "id": 90,
+    "titleDesc": "霸气无双",
+    "titleName": "霸气无双",
+    "titleTime": 0
+  },
+  "91": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 84,
+        "value": 500
+      },
+      {
+        "type": 149,
+        "value": 2000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao168",
+    "id": 91,
+    "titleDesc": "花落彼岸最相思",
+    "titleName": "花落彼岸最相思",
+    "titleTime": 0
+  },
+  "92": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 5,
+        "value": 500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao131",
+    "id": 92,
+    "titleDesc": "纵横天下",
+    "titleName": "纵横天下",
+    "titleTime": 0
+  },
+  "93": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 6,
+        "value": 600
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao167",
+    "id": 93,
+    "titleDesc": "力拔山兮气盖世",
+    "titleName": "力拔山兮气盖世",
+    "titleTime": 0
+  },
+  "94": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 81,
+        "value": 200
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao170",
+    "id": 94,
+    "titleDesc": "混元无极",
+    "titleName": "混元无极",
+    "titleTime": 0
+  },
+  "95": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 136,
+        "value": 600
+      },
+      {
+        "type": 54,
+        "value": 300
+      },
+      {
+        "type": 151,
+        "value": 1500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao133",
+    "id": 95,
+    "titleDesc": "路过风景路过你",
+    "titleName": "路过风景路过你",
+    "titleTime": 0
+  },
+  "96": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao166",
+    "id": 96,
+    "titleDesc": "蓅氓狆哋妏囮亾",
+    "titleName": "蓅氓狆哋妏囮亾",
+    "titleTime": 0
+  },
+  "97": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 6,
+        "value": 150
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao099",
+    "id": 97,
+    "titleDesc": "秀外慧中",
+    "titleName": "秀外慧中",
+    "titleTime": 0
+  },
+  "98": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 6,
+        "value": 450
+      },
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 84,
+        "value": 400
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao100",
+    "id": 98,
+    "titleDesc": "一个人的寂寞",
+    "titleName": "一个人的寂寞",
+    "titleTime": 0
+  },
+  "99": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 6,
+        "value": 600
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao101",
+    "id": 99,
+    "titleDesc": "吾辈当自强",
+    "titleName": "吾辈当自强",
+    "titleTime": 0
+  },
+  "100": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao158",
+    "id": 100,
+    "titleDesc": "①叨①個尒萠伖",
+    "titleName": "①叨①個尒萠伖",
+    "titleTime": 0
+  },
+  "101": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao157",
+    "id": 101,
+    "titleDesc": "有本事你过来呀",
+    "titleName": "有本事你过来呀",
+    "titleTime": 0
+  },
+  "102": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 54,
+        "value": 300
+      },
+      {
+        "type": 84,
+        "value": 400
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao127",
+    "id": 102,
+    "titleDesc": "没本事就别来",
+    "titleName": "没本事就别来",
+    "titleTime": 0
+  },
+  "103": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 54,
+        "value": 300
+      },
+      {
+        "type": 84,
+        "value": 400
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao134",
+    "id": 103,
+    "titleDesc": "随机当饭吃",
+    "titleName": "随机当饭吃",
+    "titleTime": 0
+  },
+  "104": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao165",
+    "id": 104,
+    "titleDesc": "戦遍全区无敌手",
+    "titleName": "戦遍全区无敌手",
+    "titleTime": 0
+  },
+  "105": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao160",
+    "id": 105,
+    "titleDesc": "无敌也是寂寞",
+    "titleName": "无敌也是寂寞",
+    "titleTime": 0
+  },
+  "106": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao159",
+    "id": 106,
+    "titleDesc": "巅峰第一人",
+    "titleName": "巅峰第一人",
+    "titleTime": 0
+  },
+  "107": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao164",
+    "id": 107,
+    "titleDesc": "气质征服所有",
+    "titleName": "气质征服所有",
+    "titleTime": 0
+  },
+  "108": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 54,
+        "value": 200
+      },
+      {
+        "type": 84,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao111",
+    "id": 108,
+    "titleDesc": "不败神话",
+    "titleName": "不败神话",
+    "titleTime": 0
+  },
+  "109": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 54,
+        "value": 200
+      },
+      {
+        "type": 84,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao102",
+    "id": 109,
+    "titleDesc": "一刀定乾坤",
+    "titleName": "一刀定乾坤",
+    "titleTime": 0
+  },
+  "110": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 54,
+        "value": 300
+      },
+      {
+        "type": 84,
+        "value": 400
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao119",
+    "id": 110,
+    "titleDesc": "持刀走四方",
+    "titleName": "持刀走四方",
+    "titleTime": 0
+  },
+  "111": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao163",
+    "id": 111,
+    "titleDesc": "道法自然",
+    "titleName": "道法自然",
+    "titleTime": 0
+  },
+  "112": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 54,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao118",
+    "id": 112,
+    "titleDesc": "天下五毒",
+    "titleName": "天下五毒",
+    "titleTime": 0
+  },
+  "113": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 54,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao135",
+    "id": 113,
+    "titleDesc": "不服就干",
+    "titleName": "不服就干",
+    "titleTime": 0
+  },
+  "114": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 54,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao123",
+    "id": 114,
+    "titleDesc": "狂战天下",
+    "titleName": "狂战天下",
+    "titleTime": 0
+  },
+  "115": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao162",
+    "id": 115,
+    "titleDesc": "万法皆空",
+    "titleName": "万法皆空",
+    "titleTime": 0
+  },
+  "116": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 54,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao103",
+    "id": 116,
+    "titleDesc": "小生很狂",
+    "titleName": "小生很狂",
+    "titleTime": 0
+  },
+  "117": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 54,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao112",
+    "id": 117,
+    "titleDesc": "道士无敌",
+    "titleName": "道士无敌",
+    "titleTime": 0
+  },
+  "118": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 54,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao117",
+    "id": 118,
+    "titleDesc": "法外狂徒",
+    "titleName": "法外狂徒",
+    "titleTime": 0
+  },
+  "119": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 54,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao125",
+    "id": 119,
+    "titleDesc": "一刀秒你",
+    "titleName": "一刀秒你",
+    "titleTime": 0
+  },
+  "120": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 54,
+        "value": 300
+      },
+      {
+        "type": 84,
+        "value": 400
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao136",
+    "id": 120,
+    "titleDesc": "寰宇支配之主",
+    "titleName": "寰宇支配之主",
+    "titleTime": 0
+  },
+  "121": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao161",
+    "id": 121,
+    "titleDesc": "一行白鹭上青天",
+    "titleName": "一行白鹭上青天",
+    "titleTime": 0
+  },
+  "122": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 54,
+        "value": 300
+      },
+      {
+        "type": 84,
+        "value": 400
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao151",
+    "id": 122,
+    "titleDesc": "小楼一夜听春雨",
+    "titleName": "小楼一夜听春雨",
+    "titleTime": 0
+  },
+  "123": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 84,
+        "value": 400
+      },
+      {
+        "type": 147,
+        "value": 1500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao104",
+    "id": 123,
+    "titleDesc": "海阔天空",
+    "titleName": "海阔天空",
+    "titleTime": 0
+  },
+  "124": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 84,
+        "value": 400
+      },
+      {
+        "type": 147,
+        "value": 1500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao105",
+    "id": 124,
+    "titleDesc": "光辉岁月",
+    "titleName": "光辉岁月",
+    "titleTime": 0
+  },
+  "125": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 84,
+        "value": 400
+      },
+      {
+        "type": 147,
+        "value": 1500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao107",
+    "id": 125,
+    "titleDesc": "想名字头疼",
+    "titleName": "想名字头疼",
+    "titleTime": 0
+  },
+  "126": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 84,
+        "value": 400
+      },
+      {
+        "type": 147,
+        "value": 1500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao106",
+    "id": 126,
+    "titleDesc": "想名字头晕",
+    "titleName": "想名字头晕",
+    "titleTime": 0
+  },
+  "127": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 138,
+        "value": 200
+      },
+      {
+        "type": 54,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao137",
+    "id": 127,
+    "titleDesc": "电闪",
+    "titleName": "电闪",
+    "titleTime": 0
+  },
+  "128": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 138,
+        "value": 200
+      },
+      {
+        "type": 54,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao138",
+    "id": 128,
+    "titleDesc": "大鱼",
+    "titleName": "大鱼",
+    "titleTime": 0
+  },
+  "129": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 138,
+        "value": 200
+      },
+      {
+        "type": 54,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao139",
+    "id": 129,
+    "titleDesc": "大宝明天见",
+    "titleName": "大宝明天见",
+    "titleTime": 0
+  },
+  "130": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 138,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao141",
+    "id": 130,
+    "titleDesc": "小叶子",
+    "titleName": "小叶子",
+    "titleTime": 0
+  },
+  "131": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 138,
+        "value": 200
+      },
+      {
+        "type": 54,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao140",
+    "id": 131,
+    "titleDesc": "大宝天天见",
+    "titleName": "大宝天天见",
+    "titleTime": 0
+  },
+  "132": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 138,
+        "value": 200
+      },
+      {
+        "type": 54,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao142",
+    "id": 132,
+    "titleDesc": "雷鸣",
+    "titleName": "雷鸣",
+    "titleTime": 0
+  },
+  "133": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 138,
+        "value": 200
+      },
+      {
+        "type": 54,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao143",
+    "id": 133,
+    "titleDesc": "佛",
+    "titleName": "佛",
+    "titleTime": 0
+  },
+  "134": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 138,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao144",
+    "id": 134,
+    "titleDesc": "紫气东来",
+    "titleName": "紫气东来",
+    "titleTime": 0
+  },
+  "135": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 5,
+        "value": 1000
+      },
+      {
+        "type": 138,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao116",
+    "id": 135,
+    "titleDesc": "孤独求败",
+    "titleName": "孤独求败",
+    "titleTime": 0
+  },
+  "136": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 5,
+        "value": 1000
+      },
+      {
+        "type": 138,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao152",
+    "id": 136,
+    "titleDesc": "潇洒小和尚",
+    "titleName": "潇洒小和尚",
+    "titleTime": 0
+  },
+  "137": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 5,
+        "value": 1000
+      },
+      {
+        "type": 138,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao115",
+    "id": 137,
+    "titleDesc": "齐天大圣猴王",
+    "titleName": "齐天大圣猴王",
+    "titleTime": 0
+  },
+  "138": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 5,
+        "value": 1000
+      },
+      {
+        "type": 138,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao153",
+    "id": 138,
+    "titleDesc": "千杯不醉",
+    "titleName": "千杯不醉",
+    "titleTime": 0
+  },
+  "139": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 5
+      },
+      {
+        "type": 77,
+        "value": 5
+      },
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 64,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao124",
+    "id": 139,
+    "titleDesc": "牛掰闪闪",
+    "titleName": "牛掰闪闪",
+    "titleTime": 0
+  },
+  "140": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 5
+      },
+      {
+        "type": 77,
+        "value": 5
+      },
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 84,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao128",
+    "id": 140,
+    "titleDesc": "草拟大坝",
+    "titleName": "草拟大坝",
+    "titleTime": 0
+  },
+  "141": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 5
+      },
+      {
+        "type": 77,
+        "value": 5
+      },
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 84,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao120",
+    "id": 141,
+    "titleDesc": "多情剑泪",
+    "titleName": "多情剑泪",
+    "titleTime": 0
+  },
+  "142": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 5
+      },
+      {
+        "type": 77,
+        "value": 5
+      },
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 64,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao130",
+    "id": 142,
+    "titleDesc": "多情剑伤",
+    "titleName": "多情剑伤",
+    "titleTime": 0
+  },
+  "143": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 3
+      },
+      {
+        "type": 77,
+        "value": 3
+      },
+      {
+        "type": 80,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao122",
+    "id": 143,
+    "titleDesc": "可乐雪碧",
+    "titleName": "可乐雪碧",
+    "titleTime": 0
+  },
+  "144": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 3
+      },
+      {
+        "type": 77,
+        "value": 3
+      },
+      {
+        "type": 80,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao129",
+    "id": 144,
+    "titleDesc": "瞅你咋滴",
+    "titleName": "瞅你咋滴",
+    "titleTime": 0
+  },
+  "145": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 3
+      },
+      {
+        "type": 77,
+        "value": 3
+      },
+      {
+        "type": 80,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao121",
+    "id": 145,
+    "titleDesc": "可乐雪碧",
+    "titleName": "可乐雪碧",
+    "titleTime": 0
+  },
+  "146": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 3
+      },
+      {
+        "type": 77,
+        "value": 3
+      },
+      {
+        "type": 80,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao145",
+    "id": 146,
+    "titleDesc": "君临天下",
+    "titleName": "君临天下",
+    "titleTime": 0
+  },
+  "147": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao108",
+    "id": 147,
+    "titleDesc": "毁天灭地",
+    "titleName": "毁天灭地",
+    "titleTime": 0
+  },
+  "148": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao109",
+    "id": 148,
+    "titleDesc": "力挽狂澜",
+    "titleName": "力挽狂澜",
+    "titleTime": 0
+  },
+  "149": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 5
+      },
+      {
+        "type": 77,
+        "value": 5
+      },
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 147,
+        "value": 1000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao110",
+    "id": 149,
+    "titleDesc": "隔壁老王",
+    "titleName": "隔壁老王",
+    "titleTime": 0
+  },
+  "150": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 3
+      },
+      {
+        "type": 77,
+        "value": 3
+      },
+      {
+        "type": 80,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao154",
+    "id": 150,
+    "titleDesc": "天下第一",
+    "titleName": "天下第一",
+    "titleTime": 0
+  },
+  "151": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 138,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao114",
+    "id": 151,
+    "titleDesc": "青青子衿",
+    "titleName": "青青子衿",
+    "titleTime": 0
+  },
+  "152": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 138,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao113",
+    "id": 152,
+    "titleDesc": "神选之人",
+    "titleName": "神选之人",
+    "titleTime": 0
+  },
+  "153": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 5
+      },
+      {
+        "type": 77,
+        "value": 5
+      },
+      {
+        "type": 138,
+        "value": 200
+      },
+      {
+        "type": 147,
+        "value": 1000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao146",
+    "id": 153,
+    "titleDesc": "一剑破苍穹",
+    "titleName": "一剑破苍穹",
+    "titleTime": 0
+  },
+  "154": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 138,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao155",
+    "id": 154,
+    "titleDesc": "国庆快乐",
+    "titleName": "国庆快乐",
+    "titleTime": 0
+  },
+  "155": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 138,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao180",
+    "id": 155,
+    "titleDesc": "天下无双",
+    "titleName": "天下无双",
+    "titleTime": 0
+  },
+  "156": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao171",
+    "id": 156,
+    "titleDesc": "划水划水",
+    "titleName": "划水划水",
+    "titleTime": 0
+  },
+  "157": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 138,
+        "value": 200
+      },
+      {
+        "type": 84,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao181",
+    "id": 157,
+    "titleDesc": "划水划水划水",
+    "titleName": "划水划水划水",
+    "titleTime": 0
+  },
+  "158": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao172",
+    "id": 158,
+    "titleDesc": "破天破地",
+    "titleName": "破天破地",
+    "titleTime": 0
+  },
+  "159": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 138,
+        "value": 200
+      },
+      {
+        "type": 84,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao182",
+    "id": 159,
+    "titleDesc": "破天破天破天",
+    "titleName": "破天破天破天",
+    "titleTime": 0
+  },
+  "160": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 5,
+        "value": 500
+      },
+      {
+        "type": 6,
+        "value": 150
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao196",
+    "id": 160,
+    "titleDesc": "风云天下",
+    "titleName": "风云天下",
+    "titleTime": 0
+  },
+  "161": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 54,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao183",
+    "id": 161,
+    "titleDesc": "何必庸人自扰",
+    "titleName": "何必庸人自扰",
+    "titleTime": 0
+  },
+  "162": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao201",
+    "id": 162,
+    "titleDesc": "我命由我不由天",
+    "titleName": "我命由我不由天",
+    "titleTime": 0
+  },
+  "163": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 138,
+        "value": 200
+      },
+      {
+        "type": 54,
+        "value": 200
+      },
+      {
+        "type": 84,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao197",
+    "id": 163,
+    "titleDesc": "拿贞操换真钞",
+    "titleName": "拿贞操换真钞",
+    "titleTime": 0
+  },
+  "164": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 138,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao184",
+    "id": 164,
+    "titleDesc": "开天辟地",
+    "titleName": "开天辟地",
+    "titleTime": 0
+  },
+  "165": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 138,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao185",
+    "id": 165,
+    "titleDesc": "龙腾万里",
+    "titleName": "龙腾万里",
+    "titleTime": 0
+  },
+  "166": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao173",
+    "id": 166,
+    "titleDesc": "独宠雅宝",
+    "titleName": "独宠雅宝",
+    "titleTime": 0
+  },
+  "167": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao203",
+    "id": 167,
+    "titleDesc": "人称浪里小白龙",
+    "titleName": "人称浪里小白龙",
+    "titleTime": 0
+  },
+  "168": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      },
+      {
+        "type": 149,
+        "value": 2000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao202",
+    "id": 168,
+    "titleDesc": "贫僧又想师太了",
+    "titleName": "贫僧又想师太了",
+    "titleTime": 0
+  },
+  "169": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      },
+      {
+        "type": 149,
+        "value": 2000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao207",
+    "id": 169,
+    "titleDesc": "我有辣条跟我走",
+    "titleName": "我有辣条跟我走",
+    "titleTime": 0
+  },
+  "170": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      },
+      {
+        "type": 149,
+        "value": 2000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao204",
+    "id": 170,
+    "titleDesc": "蹲着厕所唱征服",
+    "titleName": "蹲着厕所唱征服",
+    "titleTime": 0
+  },
+  "171": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 81,
+        "value": 800
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      },
+      {
+        "type": 147,
+        "value": 2000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao208",
+    "id": 171,
+    "titleDesc": "纵横之谁能挡我",
+    "titleName": "纵横之谁能挡我",
+    "titleTime": 0
+  },
+  "172": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 81,
+        "value": 800
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao205",
+    "id": 172,
+    "titleDesc": "王者归来",
+    "titleName": "王者归来",
+    "titleTime": 0
+  },
+  "173": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 54,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao174",
+    "id": 173,
+    "titleDesc": "我钟意你",
+    "titleName": "我钟意你",
+    "titleTime": 0
+  },
+  "174": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao206",
+    "id": 174,
+    "titleDesc": "满堂花醉三千客",
+    "titleName": "满堂花醉三千客",
+    "titleTime": 0
+  },
+  "175": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 138,
+        "value": 200
+      },
+      {
+        "type": 54,
+        "value": 200
+      },
+      {
+        "type": 84,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao186",
+    "id": 175,
+    "titleDesc": "人不狠地位不稳",
+    "titleName": "人不狠地位不稳",
+    "titleTime": 0
+  },
+  "176": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 5,
+        "value": 1000
+      },
+      {
+        "type": 147,
+        "value": 1000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao175",
+    "id": 176,
+    "titleDesc": "呻呻不熄",
+    "titleName": "呻呻不熄",
+    "titleTime": 0
+  },
+  "177": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 54,
+        "value": 300
+      },
+      {
+        "type": 84,
+        "value": 400
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao187",
+    "id": 177,
+    "titleDesc": "自古多情空余恨",
+    "titleName": "自古多情空余恨",
+    "titleTime": 0
+  },
+  "178": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 54,
+        "value": 300
+      },
+      {
+        "type": 84,
+        "value": 400
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao188",
+    "id": 178,
+    "titleDesc": "南上加南",
+    "titleName": "南上加南",
+    "titleTime": 0
+  },
+  "179": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 54,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao189",
+    "id": 179,
+    "titleDesc": "问世间情为何物",
+    "titleName": "问世间情为何物",
+    "titleTime": 0
+  },
+  "180": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 54,
+        "value": 200
+      },
+      {
+        "type": 84,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao192",
+    "id": 180,
+    "titleDesc": "两只黄鹂鸣翠柳",
+    "titleName": "两只黄鹂鸣翠柳",
+    "titleTime": 0
+  },
+  "181": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 54,
+        "value": 200
+      },
+      {
+        "type": 84,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao179",
+    "id": 181,
+    "titleDesc": "飞天御剑流",
+    "titleName": "飞天御剑流",
+    "titleTime": 0
+  },
+  "182": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 54,
+        "value": 200
+      },
+      {
+        "type": 84,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao193",
+    "id": 182,
+    "titleDesc": "一剑曾当百万师",
+    "titleName": "一剑曾当百万师",
+    "titleTime": 0
+  },
+  "183": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 54,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao190",
+    "id": 183,
+    "titleDesc": "斩断红尘",
+    "titleName": "斩断红尘",
+    "titleTime": 0
+  },
+  "184": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 149,
+        "value": 500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao176",
+    "id": 184,
+    "titleDesc": "天地玄晃",
+    "titleName": "天地玄晃",
+    "titleTime": 0
+  },
+  "185": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 84,
+        "value": 500
+      },
+      {
+        "type": 149,
+        "value": 2000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao209",
+    "id": 185,
+    "titleDesc": "全服公敌",
+    "titleName": "全服公敌",
+    "titleTime": 0
+  },
+  "186": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao177",
+    "id": 186,
+    "titleDesc": "我很低调",
+    "titleName": "我很低调",
+    "titleTime": 0
+  },
+  "187": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 54,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao200",
+    "id": 187,
+    "titleDesc": "睥睨天下",
+    "titleName": "睥睨天下",
+    "titleTime": 0
+  },
+  "188": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 54,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao191",
+    "id": 188,
+    "titleDesc": "听天由命",
+    "titleName": "听天由命",
+    "titleTime": 0
+  },
+  "189": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 54,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao178",
+    "id": 189,
+    "titleDesc": "大王饶命",
+    "titleName": "大王饶命",
+    "titleTime": 0
+  },
+  "190": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 54,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao198",
+    "id": 190,
+    "titleDesc": "随随便便",
+    "titleName": "随随便便",
+    "titleTime": 0
+  },
+  "191": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 54,
+        "value": 300
+      },
+      {
+        "type": 84,
+        "value": 400
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao199",
+    "id": 191,
+    "titleDesc": "顶尖舞者小战士",
+    "titleName": "顶尖舞者小战士",
+    "titleTime": 0
+  },
+  "192": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao194",
+    "id": 192,
+    "titleDesc": "恐怖分子",
+    "titleName": "恐怖分子",
+    "titleTime": 0
+  },
+  "193": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 6,
+        "value": 150
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao195",
+    "id": 193,
+    "titleDesc": "蓅氓種地",
+    "titleName": "蓅氓種地",
+    "titleTime": 0
+  },
+  "194": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao225",
+    "id": 194,
+    "titleDesc": "随便玩玩",
+    "titleName": "随便玩玩",
+    "titleTime": 0
+  },
+  "195": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 54,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao210",
+    "id": 195,
+    "titleDesc": "头号小帅锅",
+    "titleName": "头号小帅锅",
+    "titleTime": 0
+  },
+  "196": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 54,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao215",
+    "id": 196,
+    "titleDesc": "毒领风骚",
+    "titleName": "毒领风骚",
+    "titleTime": 0
+  },
+  "197": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 54,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao222",
+    "id": 197,
+    "titleDesc": "浪子回头金不换",
+    "titleName": "浪子回头金不换",
+    "titleTime": 0
+  },
+  "198": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 54,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao229",
+    "id": 198,
+    "titleDesc": "一个人的传说",
+    "titleName": "一个人的传说",
+    "titleTime": 0
+  },
+  "199": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 54,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao220",
+    "id": 199,
+    "titleDesc": "我自终极",
+    "titleName": "我自终极",
+    "titleTime": 0
+  },
+  "200": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao244",
+    "id": 200,
+    "titleDesc": "风萧萧兮易水寒",
+    "titleName": "风萧萧兮易水寒",
+    "titleTime": 0
+  },
+  "201": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 138,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao221",
+    "id": 201,
+    "titleDesc": "花花花花",
+    "titleName": "花花花花",
+    "titleTime": 0
+  },
+  "202": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 6,
+        "value": 150
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao211",
+    "id": 202,
+    "titleDesc": "秀外慧中",
+    "titleName": "秀外慧中",
+    "titleTime": 0
+  },
+  "203": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 54,
+        "value": 200
+      },
+      {
+        "type": 84,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao212",
+    "id": 203,
+    "titleDesc": "专杀划水",
+    "titleName": "专杀划水",
+    "titleTime": 0
+  },
+  "204": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao235",
+    "id": 204,
+    "titleDesc": "梦魇时崎狂三",
+    "titleName": "梦魇时崎狂三",
+    "titleTime": 0
+  },
+  "205": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 54,
+        "value": 200
+      },
+      {
+        "type": 84,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao216",
+    "id": 205,
+    "titleDesc": "一剑光寒十九州",
+    "titleName": "一剑光寒十九州",
+    "titleTime": 0
+  },
+  "206": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 54,
+        "value": 200
+      },
+      {
+        "type": 84,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao223",
+    "id": 206,
+    "titleDesc": "忘情之人",
+    "titleName": "忘情之人",
+    "titleTime": 0
+  },
+  "207": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 54,
+        "value": 200
+      },
+      {
+        "type": 84,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao230",
+    "id": 207,
+    "titleDesc": "专打划水",
+    "titleName": "专打划水",
+    "titleTime": 0
+  },
+  "208": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 149,
+        "value": 2000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao236",
+    "id": 208,
+    "titleDesc": "秒天秒地秒空气",
+    "titleName": "秒天秒地秒空气",
+    "titleTime": 0
+  },
+  "209": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao237",
+    "id": 209,
+    "titleDesc": "随便打打",
+    "titleName": "随便打打",
+    "titleTime": 0
+  },
+  "210": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao245",
+    "id": 210,
+    "titleDesc": "坟场做戏",
+    "titleName": "坟场做戏",
+    "titleTime": 0
+  },
+  "211": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 54,
+        "value": 200
+      },
+      {
+        "type": 84,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao213",
+    "id": 211,
+    "titleDesc": "专干划水",
+    "titleName": "专干划水",
+    "titleTime": 0
+  },
+  "212": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 54,
+        "value": 200
+      },
+      {
+        "type": 84,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao217",
+    "id": 212,
+    "titleDesc": "一剑斩寰宇",
+    "titleName": "一剑斩寰宇",
+    "titleTime": 0
+  },
+  "213": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 6,
+        "value": 300
+      },
+      {
+        "type": 84,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao226",
+    "id": 213,
+    "titleDesc": "真金不怕火炼",
+    "titleName": "真金不怕火炼",
+    "titleTime": 0
+  },
+  "214": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 136,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao231",
+    "id": 214,
+    "titleDesc": "百闻不如一见",
+    "titleName": "百闻不如一见",
+    "titleTime": 0
+  },
+  "215": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 54,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao224",
+    "id": 215,
+    "titleDesc": "寂寞老王",
+    "titleName": "寂寞老王",
+    "titleTime": 0
+  },
+  "216": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      },
+      {
+        "type": 64,
+        "value": 400
+      },
+      {
+        "type": 149,
+        "value": 2000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao240",
+    "id": 216,
+    "titleDesc": "独上青楼找如花",
+    "titleName": "独上青楼找如花",
+    "titleTime": 0
+  },
+  "217": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 9
+      },
+      {
+        "type": 77,
+        "value": 9
+      },
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      },
+      {
+        "type": 147,
+        "value": 2000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao241",
+    "id": 217,
+    "titleDesc": "我自横刀向天笑",
+    "titleName": "我自横刀向天笑",
+    "titleTime": 0
+  },
+  "218": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 64,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao232",
+    "id": 218,
+    "titleDesc": "气吞山河",
+    "titleName": "气吞山河",
+    "titleTime": 0
+  },
+  "219": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 64,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao227",
+    "id": 219,
+    "titleDesc": "悠悠我鈊",
+    "titleName": "悠悠我鈊",
+    "titleTime": 0
+  },
+  "220": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 138,
+        "value": 200
+      },
+      {
+        "type": 147,
+        "value": 1000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao228",
+    "id": 220,
+    "titleDesc": "神斧霸绝苍生",
+    "titleName": "神斧霸绝苍生",
+    "titleTime": 0
+  },
+  "221": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 138,
+        "value": 200
+      },
+      {
+        "type": 54,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao218",
+    "id": 221,
+    "titleDesc": "要怪不要脸",
+    "titleName": "要怪不要脸",
+    "titleTime": 0
+  },
+  "222": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 5
+      },
+      {
+        "type": 77,
+        "value": 5
+      },
+      {
+        "type": 138,
+        "value": 200
+      },
+      {
+        "type": 54,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao219",
+    "id": 222,
+    "titleDesc": "土匪中的匪神",
+    "titleName": "土匪中的匪神",
+    "titleTime": 0
+  },
+  "223": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 138,
+        "value": 200
+      },
+      {
+        "type": 136,
+        "value": 400
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao214",
+    "id": 223,
+    "titleDesc": "笑看往事如風",
+    "titleName": "笑看往事如風",
+    "titleTime": 0
+  },
+  "224": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 9
+      },
+      {
+        "type": 77,
+        "value": 9
+      },
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      },
+      {
+        "type": 147,
+        "value": 2000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao242",
+    "id": 224,
+    "titleDesc": "我自横刀向天笑",
+    "titleName": "我自横刀向天笑",
+    "titleTime": 0
+  },
+  "225": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 9
+      },
+      {
+        "type": 77,
+        "value": 9
+      },
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      },
+      {
+        "type": 147,
+        "value": 2000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao238",
+    "id": 225,
+    "titleDesc": "去留肝胆两昆仑",
+    "titleName": "去留肝胆两昆仑",
+    "titleTime": 0
+  },
+  "226": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 9
+      },
+      {
+        "type": 77,
+        "value": 9
+      },
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      },
+      {
+        "type": 147,
+        "value": 2000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao246",
+    "id": 226,
+    "titleDesc": "冲天香阵透长安",
+    "titleName": "冲天香阵透长安",
+    "titleTime": 0
+  },
+  "227": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 9
+      },
+      {
+        "type": 77,
+        "value": 9
+      },
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      },
+      {
+        "type": 147,
+        "value": 2000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao247",
+    "id": 227,
+    "titleDesc": "满城尽带黄金甲",
+    "titleName": "满城尽带黄金甲",
+    "titleTime": 0
+  },
+  "228": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 9
+      },
+      {
+        "type": 77,
+        "value": 9
+      },
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      },
+      {
+        "type": 147,
+        "value": 2000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao243",
+    "id": 228,
+    "titleDesc": "除去巫山不是云",
+    "titleName": "除去巫山不是云",
+    "titleTime": 0
+  },
+  "229": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 3
+      },
+      {
+        "type": 77,
+        "value": 3
+      },
+      {
+        "type": 80,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao233",
+    "id": 229,
+    "titleDesc": "君临天下",
+    "titleName": "君临天下",
+    "titleTime": 0
+  },
+  "230": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 3
+      },
+      {
+        "type": 77,
+        "value": 3
+      },
+      {
+        "type": 80,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao234",
+    "id": 230,
+    "titleDesc": "唯吾独尊",
+    "titleName": "唯吾独尊",
+    "titleTime": 0
+  },
+  "231": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 81,
+        "value": 800
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      },
+      {
+        "type": 149,
+        "value": 2000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao239",
+    "id": 231,
+    "titleDesc": "来瓶雪花",
+    "titleName": "来瓶雪花",
+    "titleTime": 0
+  },
+  "232": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 81,
+        "value": 800
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      },
+      {
+        "type": 149,
+        "value": 2000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao248",
+    "id": 232,
+    "titleDesc": "勇闯天涯",
+    "titleName": "勇闯天涯",
+    "titleTime": 0
+  },
+  "233": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 54,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao249",
+    "id": 233,
+    "titleDesc": "随随便便",
+    "titleName": "随随便便",
+    "titleTime": 0
+  },
+  "234": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 54,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao252",
+    "id": 234,
+    "titleDesc": "九五之尊",
+    "titleName": "九五之尊",
+    "titleTime": 0
+  },
+  "235": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 54,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao250",
+    "id": 235,
+    "titleDesc": "独领风骚",
+    "titleName": "独领风骚",
+    "titleTime": 0
+  },
+  "236": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 54,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao251",
+    "id": 236,
+    "titleDesc": "红杏出墙",
+    "titleName": "红杏出墙",
+    "titleTime": 0
+  },
+  "237": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 81,
+        "value": 400
+      },
+      {
+        "type": 54,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao253",
+    "id": 237,
+    "titleDesc": "梦回吹角连营",
+    "titleName": "梦回吹角连营",
+    "titleTime": 0
+  },
+  "238": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 54,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao260",
+    "id": 238,
+    "titleDesc": "屠飘渺阁",
+    "titleName": "屠飘渺阁",
+    "titleTime": 0
+  },
+  "239": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 54,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao254",
+    "id": 239,
+    "titleDesc": "折扇美人",
+    "titleName": "折扇美人",
+    "titleTime": 0
+  },
+  "240": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 136,
+        "value": 600
+      },
+      {
+        "type": 84,
+        "value": 400
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao255",
+    "id": 240,
+    "titleDesc": "不服请出来砍我",
+    "titleName": "不服请出来砍我",
+    "titleTime": 0
+  },
+  "241": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 54,
+        "value": 300
+      },
+      {
+        "type": 84,
+        "value": 400
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao256",
+    "id": 241,
+    "titleDesc": "醉酒提灯执剑",
+    "titleName": "醉酒提灯执剑",
+    "titleTime": 0
+  },
+  "242": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 54,
+        "value": 200
+      },
+      {
+        "type": 84,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao257",
+    "id": 242,
+    "titleDesc": "醉卧美人膝",
+    "titleName": "醉卧美人膝",
+    "titleTime": 0
+  },
+  "243": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 6,
+        "value": 600
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao261",
+    "id": 243,
+    "titleDesc": "不是猛龙不过江",
+    "titleName": "不是猛龙不过江",
+    "titleTime": 0
+  },
+  "244": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 6,
+        "value": 600
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      },
+      {
+        "type": 149,
+        "value": 2000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao262",
+    "id": 244,
+    "titleDesc": "煮酒一剑笑恩仇",
+    "titleName": "煮酒一剑笑恩仇",
+    "titleTime": 0
+  },
+  "245": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 54,
+        "value": 300
+      },
+      {
+        "type": 84,
+        "value": 400
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao258",
+    "id": 245,
+    "titleDesc": "风萧萧兮易水寒",
+    "titleName": "风萧萧兮易水寒",
+    "titleTime": 0
+  },
+  "246": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 6,
+        "value": 600
+      },
+      {
+        "type": 81,
+        "value": 800
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao263",
+    "id": 246,
+    "titleDesc": "顶尖舞者大魔导",
+    "titleName": "顶尖舞者大魔导",
+    "titleTime": 0
+  },
+  "247": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 6,
+        "value": 600
+      },
+      {
+        "type": 81,
+        "value": 800
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao264",
+    "id": 247,
+    "titleDesc": "尔等跪地唱征服",
+    "titleName": "尔等跪地唱征服",
+    "titleTime": 0
+  },
+  "248": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 136,
+        "value": 600
+      },
+      {
+        "type": 84,
+        "value": 400
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao259",
+    "id": 248,
+    "titleDesc": "杯中有酒乐开怀",
+    "titleName": "杯中有酒乐开怀",
+    "titleTime": 0
+  },
+  "249": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 138,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao265",
+    "id": 249,
+    "titleDesc": "给爷笑个",
+    "titleName": "给爷笑个",
+    "titleTime": 0
+  },
+  "250": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 64,
+        "value": 200
+      },
+      {
+        "type": 70,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao266",
+    "id": 250,
+    "titleDesc": "寻找隔壁大婶",
+    "titleName": "寻找隔壁大婶",
+    "titleTime": 0
+  },
+  "251": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 138,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao267",
+    "id": 251,
+    "titleDesc": "给爷笑个",
+    "titleName": "给爷笑个",
+    "titleTime": 0
+  },
+  "252": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao288",
+    "id": 252,
+    "titleDesc": "一刀一个",
+    "titleName": "一刀一个",
+    "titleTime": 0
+  },
+  "253": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao273",
+    "id": 253,
+    "titleDesc": "永不言败",
+    "titleName": "永不言败",
+    "titleTime": 0
+  },
+  "254": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 54,
+        "value": 200
+      },
+      {
+        "type": 84,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao284",
+    "id": 254,
+    "titleDesc": "大佬大佬大佬",
+    "titleName": "大佬大佬大佬",
+    "titleTime": 0
+  },
+  "255": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 54,
+        "value": 200
+      },
+      {
+        "type": 84,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao281",
+    "id": 255,
+    "titleDesc": "楪舞纷飞祈相随",
+    "titleName": "楪舞纷飞祈相随",
+    "titleTime": 0
+  },
+  "256": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 54,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao268",
+    "id": 256,
+    "titleDesc": "一刀断相思",
+    "titleName": "一刀断相思",
+    "titleTime": 0
+  },
+  "257": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 54,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao274",
+    "id": 257,
+    "titleDesc": "谁主沉浮",
+    "titleName": "谁主沉浮",
+    "titleTime": 0
+  },
+  "258": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 54,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao269",
+    "id": 258,
+    "titleDesc": "无敌就是寂寞",
+    "titleName": "无敌就是寂寞",
+    "titleTime": 0
+  },
+  "259": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 54,
+        "value": 200
+      },
+      {
+        "type": 84,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao275",
+    "id": 259,
+    "titleDesc": "大佬大佬大佬",
+    "titleName": "大佬大佬大佬",
+    "titleTime": 0
+  },
+  "260": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 54,
+        "value": 200
+      },
+      {
+        "type": 84,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao285",
+    "id": 260,
+    "titleDesc": "斗南人有擎天手",
+    "titleName": "斗南人有擎天手",
+    "titleTime": 0
+  },
+  "261": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 5,
+        "value": 2000
+      },
+      {
+        "type": 6,
+        "value": 600
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      },
+      {
+        "type": 149,
+        "value": 2000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao294",
+    "id": 261,
+    "titleDesc": "风云天下我最靓",
+    "titleName": "风云天下我最靓",
+    "titleTime": 0
+  },
+  "262": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 5,
+        "value": 2000
+      },
+      {
+        "type": 6,
+        "value": 600
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      },
+      {
+        "type": 149,
+        "value": 2000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao297",
+    "id": 262,
+    "titleDesc": "怒斩风云天下靓",
+    "titleName": "怒斩风云天下靓",
+    "titleTime": 0
+  },
+  "263": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 5,
+        "value": 2000
+      },
+      {
+        "type": 6,
+        "value": 600
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      },
+      {
+        "type": 149,
+        "value": 2000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao299",
+    "id": 263,
+    "titleDesc": "屠龙风云天下靓",
+    "titleName": "屠龙风云天下靓",
+    "titleTime": 0
+  },
+  "264": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 54,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao270",
+    "id": 264,
+    "titleDesc": "一怒为红颜",
+    "titleName": "一怒为红颜",
+    "titleTime": 0
+  },
+  "265": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 54,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao276",
+    "id": 265,
+    "titleDesc": "绝世猛男",
+    "titleName": "绝世猛男",
+    "titleTime": 0
+  },
+  "266": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao295",
+    "id": 266,
+    "titleDesc": "壮士一去兮全杀完",
+    "titleName": "壮士一去兮全杀完",
+    "titleTime": 0
+  },
+  "267": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 54,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao271",
+    "id": 267,
+    "titleDesc": "一个阴暗的想法",
+    "titleName": "一个阴暗的想法",
+    "titleTime": 0
+  },
+  "268": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 54,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao277",
+    "id": 268,
+    "titleDesc": "一剑霜寒十四州",
+    "titleName": "一剑霜寒十四州",
+    "titleTime": 0
+  },
+  "269": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 54,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao286",
+    "id": 269,
+    "titleDesc": "断相思断红尘",
+    "titleName": "断相思断红尘",
+    "titleTime": 0
+  },
+  "270": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 54,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao292",
+    "id": 270,
+    "titleDesc": "土城霸主",
+    "titleName": "土城霸主",
+    "titleTime": 0
+  },
+  "271": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 54,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao289",
+    "id": 271,
+    "titleDesc": "不服就干",
+    "titleName": "不服就干",
+    "titleTime": 0
+  },
+  "272": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 54,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao282",
+    "id": 272,
+    "titleDesc": "十步杀一人",
+    "titleName": "十步杀一人",
+    "titleTime": 0
+  },
+  "273": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 84,
+        "value": 500
+      },
+      {
+        "type": 149,
+        "value": 2000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao298",
+    "id": 273,
+    "titleDesc": "乱不乱我说的算",
+    "titleName": "乱不乱我说的算",
+    "titleTime": 0
+  },
+  "274": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 54,
+        "value": 300
+      },
+      {
+        "type": 84,
+        "value": 400
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao272",
+    "id": 274,
+    "titleDesc": "一刀谢幕",
+    "titleName": "一刀谢幕",
+    "titleTime": 0
+  },
+  "275": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 54,
+        "value": 300
+      },
+      {
+        "type": 84,
+        "value": 400
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao278",
+    "id": 275,
+    "titleDesc": "天下无双",
+    "titleName": "天下无双",
+    "titleTime": 0
+  },
+  "276": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao279",
+    "id": 276,
+    "titleDesc": "凡哥不烦",
+    "titleName": "凡哥不烦",
+    "titleTime": 0
+  },
+  "277": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao280",
+    "id": 277,
+    "titleDesc": "唯我独尊",
+    "titleName": "唯我独尊",
+    "titleTime": 0
+  },
+  "278": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 6,
+        "value": 600
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 136,
+        "value": 800
+      },
+      {
+        "type": 84,
+        "value": 500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao296",
+    "id": 278,
+    "titleDesc": "我自横刀向天歌",
+    "titleName": "我自横刀向天歌",
+    "titleTime": 0
+  },
+  "279": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao293",
+    "id": 279,
+    "titleDesc": "百闻不如一见",
+    "titleName": "百闻不如一见",
+    "titleTime": 0
+  },
+  "280": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao287",
+    "id": 280,
+    "titleDesc": "天不怕地不怕",
+    "titleName": "天不怕地不怕",
+    "titleTime": 0
+  },
+  "281": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 76,
+        "value": 3
+      },
+      {
+        "type": 77,
+        "value": 3
+      },
+      {
+        "type": 138,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao283",
+    "id": 281,
+    "titleDesc": "天生购物狂",
+    "titleName": "天生购物狂",
+    "titleTime": 0
+  },
+  "282": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 138,
+        "value": 200
+      },
+      {
+        "type": 84,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao290",
+    "id": 282,
+    "titleDesc": "砍大哥很费刀",
+    "titleName": "砍大哥很费刀",
+    "titleTime": 0
+  },
+  "283": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 54,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao291",
+    "id": 283,
+    "titleDesc": "鹤立鸡群",
+    "titleName": "鹤立鸡群",
+    "titleTime": 0
+  },
+  "284": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 6,
+        "value": 600
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 147,
+        "value": 2000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao300",
+    "id": 284,
+    "titleDesc": "八方神兽皆俯首",
+    "titleName": "八方神兽皆俯首",
+    "titleTime": 0
+  },
+  "285": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 138,
+        "value": 200
+      },
+      {
+        "type": 136,
+        "value": 400
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao324",
+    "id": 285,
+    "titleDesc": "映照诸天",
+    "titleName": "映照诸天",
+    "titleTime": 0
+  },
+  "286": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 84,
+        "value": 400
+      },
+      {
+        "type": 147,
+        "value": 1500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao325",
+    "id": 286,
+    "titleDesc": "四方皆敌",
+    "titleName": "四方皆敌",
+    "titleTime": 0
+  },
+  "287": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 70,
+        "value": 200
+      },
+      {
+        "type": 151,
+        "value": 1000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao319",
+    "id": 287,
+    "titleDesc": "穷的只剩下钱",
+    "titleName": "穷的只剩下钱",
+    "titleTime": 0
+  },
+  "288": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 54,
+        "value": 300
+      },
+      {
+        "type": 70,
+        "value": 300
+      },
+      {
+        "type": 151,
+        "value": 1500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao326",
+    "id": 288,
+    "titleDesc": "无敌是多么寂寞",
+    "titleName": "无敌是多么寂寞",
+    "titleTime": 0
+  },
+  "289": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 6,
+        "value": 450
+      },
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 64,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao313",
+    "id": 289,
+    "titleDesc": "黄金单身汪",
+    "titleName": "黄金单身汪",
+    "titleTime": 0
+  },
+  "290": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 6,
+        "value": 300
+      },
+      {
+        "type": 138,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao316",
+    "id": 290,
+    "titleDesc": "金刚葫芦娃",
+    "titleName": "金刚葫芦娃",
+    "titleTime": 0
+  },
+  "291": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 6,
+        "value": 300
+      },
+      {
+        "type": 147,
+        "value": 1000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao314",
+    "id": 291,
+    "titleDesc": "怒斩屠龙",
+    "titleName": "怒斩屠龙",
+    "titleTime": 0
+  },
+  "292": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 138,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao301",
+    "id": 292,
+    "titleDesc": "霸主世无双",
+    "titleName": "霸主世无双",
+    "titleTime": 0
+  },
+  "293": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 138,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao305",
+    "id": 293,
+    "titleDesc": "霸气侧漏",
+    "titleName": "霸气侧漏",
+    "titleTime": 0
+  },
+  "294": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 138,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao317",
+    "id": 294,
+    "titleDesc": "一剑震苍穹",
+    "titleName": "一剑震苍穹",
+    "titleTime": 0
+  },
+  "295": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 138,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao306",
+    "id": 295,
+    "titleDesc": "风雲再起",
+    "titleName": "风雲再起",
+    "titleTime": 0
+  },
+  "296": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 138,
+        "value": 200
+      },
+      {
+        "type": 54,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao318",
+    "id": 296,
+    "titleDesc": "月落人无痕",
+    "titleName": "月落人无痕",
+    "titleTime": 0
+  },
+  "297": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 6,
+        "value": 150
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao307",
+    "id": 297,
+    "titleDesc": "猛虫过江",
+    "titleName": "猛虫过江",
+    "titleTime": 0
+  },
+  "298": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 6,
+        "value": 150
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao308",
+    "id": 298,
+    "titleDesc": "跟我比贱",
+    "titleName": "跟我比贱",
+    "titleTime": 0
+  },
+  "299": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 6,
+        "value": 150
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao309",
+    "id": 299,
+    "titleDesc": "蚂蚁大虾",
+    "titleName": "蚂蚁大虾",
+    "titleTime": 0
+  },
+  "300": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 6,
+        "value": 300
+      },
+      {
+        "type": 54,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao320",
+    "id": 300,
+    "titleDesc": "贱货天涯地角",
+    "titleName": "贱货天涯地角",
+    "titleTime": 0
+  },
+  "301": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 6,
+        "value": 300
+      },
+      {
+        "type": 54,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao321",
+    "id": 301,
+    "titleDesc": "贱的受不了",
+    "titleName": "贱的受不了",
+    "titleTime": 0
+  },
+  "302": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 138,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao302",
+    "id": 302,
+    "titleDesc": "神秘莫测",
+    "titleName": "神秘莫测",
+    "titleTime": 0
+  },
+  "303": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 138,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao310",
+    "id": 303,
+    "titleDesc": "一手遮天",
+    "titleName": "一手遮天",
+    "titleTime": 0
+  },
+  "304": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 138,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao303",
+    "id": 304,
+    "titleDesc": "戦无不貹",
+    "titleName": "戦无不貹",
+    "titleTime": 0
+  },
+  "305": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 138,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao304",
+    "id": 305,
+    "titleDesc": "樱落人散",
+    "titleName": "樱落人散",
+    "titleTime": 0
+  },
+  "306": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao311",
+    "id": 306,
+    "titleDesc": "龙吟虎啸",
+    "titleName": "龙吟虎啸",
+    "titleTime": 0
+  },
+  "307": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 84,
+        "value": 400
+      },
+      {
+        "type": 64,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao327",
+    "id": 307,
+    "titleDesc": "江湖大侠大拐子",
+    "titleName": "江湖大侠大拐子",
+    "titleTime": 0
+  },
+  "308": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 6,
+        "value": 600
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      },
+      {
+        "type": 147,
+        "value": 2000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao331",
+    "id": 308,
+    "titleDesc": "魔王出世众生跪",
+    "titleName": "魔王出世众生跪",
+    "titleTime": 0
+  },
+  "309": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 84,
+        "value": 300
+      },
+      {
+        "type": 70,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao322",
+    "id": 309,
+    "titleDesc": "鹤立鸡群",
+    "titleName": "鹤立鸡群",
+    "titleTime": 0
+  },
+  "310": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 138,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao323",
+    "id": 310,
+    "titleDesc": "魑魅魍魉",
+    "titleName": "魑魅魍魉",
+    "titleTime": 0
+  },
+  "311": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 6,
+        "value": 150
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao328",
+    "id": 311,
+    "titleDesc": "稳住别浪",
+    "titleName": "稳住别浪",
+    "titleTime": 0
+  },
+  "312": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 150
+      },
+      {
+        "type": 84,
+        "value": 300
+      },
+      {
+        "type": 70,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao312",
+    "id": 312,
+    "titleDesc": "低调不失狂傲",
+    "titleName": "低调不失狂傲",
+    "titleTime": 0
+  },
+  "313": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 6,
+        "value": 600
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao329",
+    "id": 313,
+    "titleDesc": "随风起舞小战士",
+    "titleName": "随风起舞小战士",
+    "titleTime": 0
+  },
+  "314": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 6,
+        "value": 600
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao332",
+    "id": 314,
+    "titleDesc": "江湖大侠大拐子",
+    "titleName": "江湖大侠大拐子",
+    "titleTime": 0
+  },
+  "315": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 6,
+        "value": 600
+      },
+      {
+        "type": 81,
+        "value": 800
+      },
+      {
+        "type": 84,
+        "value": 500
+      },
+      {
+        "type": 149,
+        "value": 2000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao330",
+    "id": 315,
+    "titleDesc": "金麟岂是池中物",
+    "titleName": "金麟岂是池中物",
+    "titleTime": 0
+  },
+  "316": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 84,
+        "value": 200
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao315",
+    "id": 316,
+    "titleDesc": "不服就干",
+    "titleName": "不服就干",
+    "titleTime": 0
+  },
+  "317": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 54,
+        "value": 300
+      },
+      {
+        "type": 84,
+        "value": 400
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao333",
+    "id": 317,
+    "titleDesc": "我自横刀向天笑",
+    "titleName": "我自横刀向天笑",
+    "titleTime": 0
+  },
+  "318": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 54,
+        "value": 300
+      },
+      {
+        "type": 84,
+        "value": 400
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao334",
+    "id": 318,
+    "titleDesc": "去留肝胆两昆仑",
+    "titleName": "去留肝胆两昆仑",
+    "titleTime": 0
+  },
+  "319": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 100
+      },
+      {
+        "type": 138,
+        "value": 100
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao335",
+    "id": 319,
+    "titleDesc": "小豌豆呀",
+    "titleName": "小豌豆呀",
+    "titleTime": 0
+  },
+  "320": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 200
+      },
+      {
+        "type": 6,
+        "value": 450
+      },
+      {
+        "type": 138,
+        "value": 300
+      },
+      {
+        "type": 54,
+        "value": 300
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao336",
+    "id": 320,
+    "titleDesc": "大威天龙",
+    "titleName": "大威天龙",
+    "titleTime": 0
+  },
+  "321": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 6,
+        "value": 600
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      },
+      {
+        "type": 147,
+        "value": 2000
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao337",
+    "id": 321,
+    "titleDesc": "猛龙战士古越光",
+    "titleName": "猛龙战士古越光",
+    "titleTime": 0
+  },
+  "322": {
+    "active": 1,
+    "attr": [
+      {
+        "type": 80,
+        "value": 300
+      },
+      {
+        "type": 6,
+        "value": 600
+      },
+      {
+        "type": 138,
+        "value": 400
+      },
+      {
+        "type": 54,
+        "value": 400
+      },
+      {
+        "type": 84,
+        "value": 500
+      }
+    ],
+    "broadcast": false,
+    "effect": 1,
+    "icon": "chenghao338",
+    "id": 322,
+    "titleDesc": "江湖大侠大拐子",
+    "titleName": "江湖大侠大拐子",
+    "titleTime": 0
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "10027": {
+    "Id": 10027,
+    "NormalRewards": [
+      {
+        "count": 1,
+        "id": 492,
+        "type": 0
+      }
+    ],
+    "OpenDays": 1,
+    "cdktype": 1015
+  }
+}

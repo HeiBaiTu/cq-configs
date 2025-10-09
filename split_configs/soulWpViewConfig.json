@@ -1,0 +1,28 @@
+{
+  "1": {
+    "icon": "sw_bh_bhjj",
+    "type": 1,
+    "view": "app.SoldierSoulOrderView"
+  },
+  "2": {
+    "icon": "sw_bh_bhsj",
+    "type": 2,
+    "view": "app.SoldierSoulLevelView"
+  },
+  "3": {
+    "icon": "sw_bh_bhsx",
+    "showLimit": {
+      "zsLevel": 4
+    },
+    "type": 3,
+    "view": "app.SoldierSoulUpStarView"
+  },
+  "4": {
+    "icon": "sw_bh_bhxl",
+    "showLimit": {
+      "zsLevel": 4
+    },
+    "type": 4,
+    "view": "app.SoldierSoulUpRefineView"
+  }
+}

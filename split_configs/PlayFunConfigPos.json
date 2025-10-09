@@ -1,0 +1,1211 @@
+{
+  "1": {
+    "esc": 1,
+    "id": 1,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.SetUpView"
+  },
+  "2": {
+    "esc": 1,
+    "id": 2,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.ShopView"
+  },
+  "3": {
+    "esc": 1,
+    "id": 3,
+    "pos": {
+      "horizontalCenter": 70,
+      "top": 55
+    },
+    "view": "app.RankView"
+  },
+  "4": {
+    "esc": 1,
+    "id": 4,
+    "pos": {
+      "horizontalCenter": 20,
+      "top": 125
+    },
+    "view": "app.PrivateDealsWin"
+  },
+  "5": {
+    "esc": 1,
+    "id": 5,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.TeamView"
+  },
+  "6": {
+    "esc": 1,
+    "id": 6,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.FriendView"
+  },
+  "7": {
+    "esc": 1,
+    "id": 7,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.GuildInfoView"
+  },
+  "8": {
+    "esc": 1,
+    "id": 8,
+    "pos": {
+      "right": 500,
+      "top": 55
+    },
+    "view": "app.RoleView"
+  },
+  "9": {
+    "esc": 1,
+    "id": 9,
+    "pos": {
+      "left": 200,
+      "top": 125
+    },
+    "view": "app.BagView"
+  },
+  "10": {
+    "esc": 1,
+    "id": 10,
+    "pos": {
+      "right": 500,
+      "top": 55
+    },
+    "view": "app.RoleView"
+  },
+  "11": {
+    "esc": 1,
+    "id": 11,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.MailView"
+  },
+  "12": {
+    "esc": 1,
+    "id": 12,
+    "pos": {
+      "left": 20,
+      "top": 55
+    },
+    "view": ""
+  },
+  "13": {
+    "esc": 1,
+    "id": 13,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.TradeLineWin"
+  },
+  "14": {
+    "esc": 1,
+    "id": 14,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.ForgeWin"
+  },
+  "15": {
+    "esc": 1,
+    "id": 15,
+    "pos": {
+      "left": 0,
+      "top": 0
+    },
+    "view": "app.NpcView"
+  },
+  "16": {
+    "esc": 1,
+    "id": 16,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.GuildNoGuildListView"
+  },
+  "17": {
+    "esc": 1,
+    "id": 17,
+    "pos": {
+      "horizontalCenter": 0,
+      "verticalCenter": -125
+    },
+    "view": "app.FlyShoesView"
+  },
+  "18": {
+    "esc": 1,
+    "id": 18,
+    "pos": {
+      "horizontalCenter": 0,
+      "verticalCenter": -125
+    },
+    "view": "app.WashRedNameView"
+  },
+  "19": {
+    "esc": 1,
+    "id": 19,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.AchievementView"
+  },
+  "20": {
+    "esc": 1,
+    "id": 20,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.ActivityCopiesWin"
+  },
+  "21": {
+    "esc": 1,
+    "id": 21,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.BossView"
+  },
+  "22": {
+    "esc": 1,
+    "id": 22,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 227
+    },
+    "view": "app.AchievementDetailedView"
+  },
+  "23": {
+    "esc": 1,
+    "id": 23,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.WorshipWin"
+  },
+  "24": {
+    "esc": 1,
+    "id": 24,
+    "pos": {
+      "horizontalCenter": 0,
+      "verticalCenter": -125
+    },
+    "view": "app.SwitchPlayerView"
+  },
+  "25": {
+    "esc": 1,
+    "id": 25,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 227
+    },
+    "view": "app.ActivityCommonView"
+  },
+  "26": {
+    "esc": 1,
+    "id": 26,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.ActivityWlelfareView"
+  },
+  "27": {
+    "esc": 1,
+    "id": 27,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.ActivityPayView"
+  },
+  "28": {
+    "esc": 1,
+    "id": 28,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.OpenServerGiftWin"
+  },
+  "29": {
+    "esc": 1,
+    "id": 29,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.OpenServerTreasureWin"
+  },
+  "30": {
+    "esc": 1,
+    "id": 30,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.OpenServerSportsWin"
+  },
+  "31": {
+    "esc": 1,
+    "id": 31,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.ActivityMaterialView"
+  },
+  "32": {
+    "esc": 1,
+    "id": 32,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.ActivityDefendTaskView"
+  },
+  "33": {
+    "esc": 1,
+    "id": 33,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.YYLobbyPrivilegesWin"
+  },
+  "34": {
+    "esc": 1,
+    "id": 34,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.YYMemberWin"
+  },
+  "35": {
+    "esc": 1,
+    "id": 35,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.ActivityWarView"
+  },
+  "36": {
+    "esc": 1,
+    "id": 36,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 227
+    },
+    "view": "app.ShopBatchBuyView"
+  },
+  "37": {
+    "esc": 1,
+    "id": 37,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.YYChaoWanWin"
+  },
+  "38": {
+    "esc": 1,
+    "id": 38,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.YYWxGiftWin"
+  },
+  "39": {
+    "esc": 1,
+    "id": 39,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.GetPropsView"
+  },
+  "40": {
+    "esc": 1,
+    "id": 40,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.RuleView"
+  },
+  "41": {
+    "esc": 1,
+    "id": 41,
+    "pos": {
+      "horizontalCenter": 0,
+      "verticalCenter": -125
+    },
+    "view": "app.BagBatchUseWin"
+  },
+  "42": {
+    "esc": 1,
+    "id": 42,
+    "pos": {
+      "horizontalCenter": 0,
+      "verticalCenter": -125
+    },
+    "view": "app.CommonGiftSelectWin"
+  },
+  "43": {
+    "esc": 1,
+    "id": 43,
+    "view": "app.MainServerInfoWin"
+  },
+  "44": {
+    "esc": 1,
+    "id": 44,
+    "pos": {
+      "horizontalCenter": 0,
+      "verticalCenter": -125
+    },
+    "view": "app.ActvityFirstChargeView"
+  },
+  "45": {
+    "esc": 1,
+    "id": 45,
+    "view": "app.ShopBatchBuyView"
+  },
+  "46": {
+    "esc": 1,
+    "id": 46,
+    "view": "app.CautionView"
+  },
+  "48": {
+    "esc": 1,
+    "id": 48,
+    "view": "app.MapMaxView"
+  },
+  "49": {
+    "esc": 1,
+    "id": 49,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 125
+    },
+    "view": "app.BagRecycleView"
+  },
+  "50": {
+    "esc": 1,
+    "id": 50,
+    "view": "app.ForgeRecordView"
+  },
+  "51": {
+    "esc": 1,
+    "id": 51,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.OtherPlayerView"
+  },
+  "52": {
+    "esc": 1,
+    "id": 52,
+    "pos": {
+      "horizontalCenter": 0,
+      "verticalCenter": -125
+    },
+    "view": "app.CreatGuildView"
+  },
+  "53": {
+    "esc": 1,
+    "id": 53,
+    "pos": {
+      "horizontalCenter": 0,
+      "verticalCenter": -125
+    },
+    "view": "app.GuildDevoteView"
+  },
+  "54": {
+    "esc": 1,
+    "id": 54,
+    "pos": {
+      "horizontalCenter": 0,
+      "verticalCenter": -125
+    },
+    "view": "app.FriendAddGoodFriendView"
+  },
+  "55": {
+    "esc": 1,
+    "id": 55,
+    "view": "app.BagGoldChangeView"
+  },
+  "56": {
+    "esc": 1,
+    "id": 56,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 227
+    },
+    "view": "app.ActivityWarGiftAdvGoodsView"
+  },
+  "57": {
+    "esc": 1,
+    "id": 57,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 227
+    },
+    "view": "app.ActivityWarGiftAdvView"
+  },
+  "58": {
+    "esc": 1,
+    "id": 58,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 227
+    },
+    "view": "app.ActivityWarGiftGoodsView"
+  },
+  "59": {
+    "esc": 1,
+    "id": 59,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 227
+    },
+    "view": "app.ForgeRefiningAttrShowView"
+  },
+  "60": {
+    "esc": 1,
+    "id": 60,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.ChatWinView"
+  },
+  "61": {
+    "esc": 1,
+    "id": 61,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.CrystalIdentifyWin"
+  },
+  "62": {
+    "esc": 1,
+    "id": 62,
+    "pos": {
+      "right": 350,
+      "verticalCenter": -68
+    },
+    "view": "app.TaskInfoWin"
+  },
+  "63": {
+    "esc": 1,
+    "id": 63,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.RecycleWin"
+  },
+  "64": {
+    "esc": 1,
+    "id": 64,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.FourImageLevelUpWin"
+  },
+  "65": {
+    "esc": 1,
+    "id": 65,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.GrowWayView"
+  },
+  "66": {
+    "esc": 1,
+    "id": 66,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.VipView"
+  },
+  "67": {
+    "esc": 1,
+    "id": 67,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.ForgeWin"
+  },
+  "68": {
+    "esc": 1,
+    "id": 68,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.BaptismWin"
+  },
+  "69": {
+    "esc": 1,
+    "id": 69,
+    "pos": {
+      "horizontalCenter": 0,
+      "verticalCenter": -125
+    },
+    "view": "app.GuildSetView"
+  },
+  "70": {
+    "esc": 1,
+    "id": 70,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.GhostView"
+  },
+  "71": {
+    "esc": 1,
+    "id": 71,
+    "pos": {
+      "horizontalCenter": 0,
+      "verticalCenter": -125
+    },
+    "view": "app.BagItemSplitView"
+  },
+  "72": {
+    "esc": 1,
+    "id": 72,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.ViolentStateWin"
+  },
+  "73": {
+    "esc": 1,
+    "id": 73,
+    "pos": {
+      "horizontalCenter": 0,
+      "verticalCenter": -125
+    },
+    "view": "app.CallView"
+  },
+  "74": {
+    "esc": 1,
+    "id": 74,
+    "pos": {
+      "horizontalCenter": 0,
+      "verticalCenter": -125
+    },
+    "view": "app.TeamAddView"
+  },
+  "75": {
+    "esc": 1,
+    "id": 75,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.DonationRankWin"
+  },
+  "76": {
+    "esc": 1,
+    "id": 76,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.FuBenRankView"
+  },
+  "77": {
+    "esc": 1,
+    "id": 77,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.ShaChengStarcraftWin"
+  },
+  "78": {
+    "esc": 1,
+    "id": 78,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.RechargeView"
+  },
+  "79": {
+    "esc": 1,
+    "id": 79,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.GuanZhiView"
+  },
+  "80": {
+    "esc": 1,
+    "id": 80,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.OtherPlayerGuanZhiView"
+  },
+  "81": {
+    "esc": 1,
+    "id": 81,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.ZhuanZhiView"
+  },
+  "82": {
+    "esc": 1,
+    "id": 82,
+    "pos": {
+      "left": 800,
+      "top": 125
+    },
+    "view": "app.WarehouseWin"
+  },
+  "83": {
+    "esc": 1,
+    "id": 83,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 125
+    },
+    "view": "app.Recharge4366View"
+  },
+  "84": {
+    "esc": 1,
+    "id": 84,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.VIP4366View"
+  },
+  "85": {
+    "esc": 1,
+    "id": 85,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.FuLi4366Win"
+  },
+  "86": {
+    "esc": 1,
+    "id": 86,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.FuLi4366MicroWin"
+  },
+  "87": {
+    "esc": 1,
+    "id": 87,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.ActivityPayView1"
+  },
+  "88": {
+    "esc": 1,
+    "id": 88,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.ActivityPayView2"
+  },
+  "89": {
+    "esc": 1,
+    "id": 89,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.ActivityPayView3"
+  },
+  "90": {
+    "esc": 1,
+    "id": 90,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.ActivityPayView4"
+  },
+  "91": {
+    "esc": 1,
+    "id": 91,
+    "pos": {
+      "horizontalCenter": 1,
+      "top": 55
+    },
+    "view": "app.QQBlueDiamondView"
+  },
+  "92": {
+    "esc": 1,
+    "id": 92,
+    "pos": {
+      "horizontalCenter": 2,
+      "top": 55
+    },
+    "view": "app.FuLi4366MicroWin"
+  },
+  "93": {
+    "esc": 1,
+    "id": 93,
+    "pos": {
+      "horizontalCenter": 3,
+      "top": 55
+    },
+    "view": "app.QQLobbyPrivilegesWinView"
+  },
+  "94": {
+    "esc": 1,
+    "id": 94,
+    "pos": {
+      "horizontalCenter": 4,
+      "top": 55
+    },
+    "view": "app.CommonMicroWin"
+  },
+  "95": {
+    "esc": 1,
+    "id": 95,
+    "pos": {
+      "horizontalCenter": 4,
+      "top": 55
+    },
+    "view": "app.RechargeQQView"
+  },
+  "96": {
+    "esc": 1,
+    "id": 96,
+    "pos": {
+      "bottom": 10,
+      "right": 27
+    },
+    "view": "app.MicrotermsView"
+  },
+  "97": {
+    "esc": 1,
+    "id": 97,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.SoldierSoulWin"
+  },
+  "98": {
+    "esc": 1,
+    "id": 98,
+    "pos": {
+      "horizontalCenter": 1,
+      "top": 55
+    },
+    "view": "app.CumulativeOnlineView"
+  },
+  "99": {
+    "esc": 1,
+    "id": 99,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 227
+    },
+    "view": "app.TipsInsuffResourcesView"
+  },
+  "100": {
+    "esc": 1,
+    "id": 100,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.CrossServerWin"
+  },
+  "101": {
+    "esc": 1,
+    "id": 101,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.CrossServerWorshipWin"
+  },
+  "102": {
+    "esc": 1,
+    "id": 102,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.OpenServerTreasureWin2"
+  },
+  "103": {
+    "esc": 1,
+    "id": 103,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.OpenServerTreasureWin3"
+  },
+  "104": {
+    "esc": 1,
+    "id": 104,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.DimensionBossView"
+  },
+  "105": {
+    "esc": 1,
+    "id": 105,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.QQVipFuLiView"
+  },
+  "106": {
+    "esc": 1,
+    "id": 106,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.MultiVersionView"
+  },
+  "107": {
+    "esc": 1,
+    "id": 107,
+    "pos": {
+      "horizontalCenter": 0,
+      "verticalCenter": -125
+    },
+    "view": "app.ActvitySecondChargeView"
+  },
+  "108": {
+    "esc": 1,
+    "id": 108,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.RechargeGameCatView"
+  },
+  "109": {
+    "esc": 1,
+    "id": 109,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.RechargeQRCodeView"
+  },
+  "110": {
+    "esc": 1,
+    "id": 110,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.FuLi360Win"
+  },
+  "111": {
+    "esc": 1,
+    "id": 111,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.Fuli7GameVipWin"
+  },
+  "112": {
+    "esc": 1,
+    "id": 112,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.Fuli7GameWXGiftWin"
+  },
+  "113": {
+    "esc": 1,
+    "id": 113,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.FuliLuDaShiMicroWin"
+  },
+  "114": {
+    "esc": 1,
+    "id": 114,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.FuliLuDaShiGiftWin"
+  },
+  "115": {
+    "esc": 1,
+    "id": 115,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.FuliLuDaShiPhoneGiftWin"
+  },
+  "116": {
+    "esc": 1,
+    "id": 116,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.FuliLuDaShiVipWin"
+  },
+  "117": {
+    "esc": 1,
+    "id": 117,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.Fuli360AttestationWin"
+  },
+  "118": {
+    "esc": 1,
+    "id": 118,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.Fuli37Win"
+  },
+  "119": {
+    "esc": 1,
+    "id": 119,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.Ku25BoxRewardsWin"
+  },
+  "120": {
+    "esc": 1,
+    "id": 120,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.Ku25BoxSuperVipView"
+  },
+  "121": {
+    "esc": 1,
+    "id": 121,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.FuliSogouMicroWin"
+  },
+  "122": {
+    "esc": 1,
+    "id": 122,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.FuliSogouWin"
+  },
+  "123": {
+    "esc": 1,
+    "id": 123,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.FuliSogouWeixinWin"
+  },
+  "124": {
+    "esc": 1,
+    "id": 124,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.FuliSogouVipWin"
+  },
+  "125": {
+    "esc": 1,
+    "id": 125,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.MainGongGao"
+  },
+  "126": {
+    "esc": 1,
+    "id": 126,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.FuliQidianView"
+  },
+  "127": {
+    "esc": 1,
+    "id": 127,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.FuliIqiyiQQGroupView"
+  },
+  "128": {
+    "esc": 1,
+    "id": 128,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.FuliGame2BindingView"
+  },
+  "129": {
+    "esc": 1,
+    "id": 129,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.PlatformFuliHallView"
+  },
+  "130": {
+    "esc": 1,
+    "id": 130,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.PlatformFuliSuperVipView"
+  },
+  "131": {
+    "esc": 1,
+    "id": 131,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.PlatformFuliWeixinView"
+  },
+  "132": {
+    "esc": 1,
+    "id": 132,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.PlatformFuliIndulgeView"
+  },
+  "133": {
+    "esc": 1,
+    "id": 133,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.PlatformFuliBindingView"
+  },
+  "134": {
+    "esc": 1,
+    "id": 134,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.PlatformFuliMicroView"
+  },
+  "135": {
+    "esc": 1,
+    "id": 135,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.WordFormulaLevelUpWin"
+  },
+  "136": {
+    "esc": 1,
+    "id": 136,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.FuliXunwanGiftWin"
+  },
+  "137": {
+    "esc": 1,
+    "id": 137,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.ConsumeRankListView"
+  },
+  "138": {
+    "esc": 1,
+    "id": 138,
+    "pos": {
+      "horizontalCenter": 0,
+      "top": 55
+    },
+    "view": "app.ActivityPayView5"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "10": {
+    "Id": 10,
+    "bg": "Act_hdbg2_cjxg",
+    "buttoncolor": 2,
+    "describe": "藏经峡谷有大量的秘籍宝藏，除了峡谷中的猫和疣猪，还要小心那些觊觎你宝藏的人\n|C:0x2eb52d&T:40级 每日15:00-15:30、18:30-19:00|\n|C:0xf56f00&T:开服第10天开启|",
+    "enterExpends": [
+      {
+        "count": 50000,
+        "id": 0,
+        "type": 2
+      }
+    ],
+    "isCheckTime": 0,
+    "name": "藏经峡谷",
+    "openParam": {
+      "level": 999
+    },
+    "rewardBtn": "进入",
+    "rewards": [
+      {
+        "count": 1,
+        "id": 277,
+        "type": 0
+      },
+      {
+        "count": 1,
+        "id": 261,
+        "type": 0
+      },
+      {
+        "count": 1,
+        "id": 265,
+        "type": 0
+      },
+      {
+        "count": 1,
+        "id": 269,
+        "type": 0
+      },
+      {
+        "count": 1,
+        "id": 270,
+        "type": 0
+      },
+      {
+        "count": 1,
+        "id": 305,
+        "type": 0
+      },
+      {
+        "count": 1,
+        "id": 311,
+        "type": 0
+      }
+    ],
+    "ruleID": 40,
+    "showParam": {
+      "level": 999,
+      "openDay": 999
+    },
+    "titleIcon": "Act_biaoti_cjxg",
+    "uiType": 2
+  }
+}

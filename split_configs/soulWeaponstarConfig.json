@@ -1,0 +1,2874 @@
+{
+  "1": {
+    "0": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 0
+        },
+        {
+          "type": 11,
+          "value": 0
+        },
+        {
+          "type": 13,
+          "value": 0
+        },
+        {
+          "type": 15,
+          "value": 0
+        },
+        {
+          "type": 17,
+          "value": 0
+        },
+        {
+          "type": 19,
+          "value": 0
+        }
+      ],
+      "consume": [],
+      "level": 0,
+      "pos": 1,
+      "rate": 10000
+    },
+    "1": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 0
+        },
+        {
+          "type": 11,
+          "value": 1
+        },
+        {
+          "type": 13,
+          "value": 0
+        },
+        {
+          "type": 15,
+          "value": 1
+        },
+        {
+          "type": 17,
+          "value": 0
+        },
+        {
+          "type": 19,
+          "value": 1
+        }
+      ],
+      "consume": [
+        {
+          "count": 1,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 1,
+          "id": 1059,
+          "type": 0
+        }
+      ],
+      "level": 1,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 1
+        }
+      ],
+      "limitMsg": "救主灵刃3阶后可升星",
+      "pos": 1,
+      "rate": 10000
+    },
+    "2": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 2
+        },
+        {
+          "type": 11,
+          "value": 2
+        },
+        {
+          "type": 13,
+          "value": 2
+        },
+        {
+          "type": 15,
+          "value": 2
+        },
+        {
+          "type": 17,
+          "value": 2
+        },
+        {
+          "type": 19,
+          "value": 2
+        }
+      ],
+      "consume": [
+        {
+          "count": 2,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 2,
+          "id": 1059,
+          "type": 0
+        }
+      ],
+      "level": 2,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 1
+        }
+      ],
+      "limitMsg": "救主灵刃3阶后可升星",
+      "pos": 1,
+      "rate": 10000
+    },
+    "3": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 3
+        },
+        {
+          "type": 11,
+          "value": 3
+        },
+        {
+          "type": 13,
+          "value": 3
+        },
+        {
+          "type": 15,
+          "value": 3
+        },
+        {
+          "type": 17,
+          "value": 3
+        },
+        {
+          "type": 19,
+          "value": 3
+        }
+      ],
+      "consume": [
+        {
+          "count": 3,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 3,
+          "id": 1059,
+          "type": 0
+        }
+      ],
+      "level": 3,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 1
+        }
+      ],
+      "limitMsg": "救主灵刃3阶后可升星",
+      "pos": 1,
+      "rate": 8500,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "4": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 4
+        },
+        {
+          "type": 11,
+          "value": 5
+        },
+        {
+          "type": 13,
+          "value": 4
+        },
+        {
+          "type": 15,
+          "value": 5
+        },
+        {
+          "type": 17,
+          "value": 4
+        },
+        {
+          "type": 19,
+          "value": 5
+        }
+      ],
+      "consume": [
+        {
+          "count": 4,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 4,
+          "id": 1059,
+          "type": 0
+        }
+      ],
+      "level": 4,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 1
+        }
+      ],
+      "limitMsg": "救主灵刃3阶后可升星",
+      "pos": 1,
+      "rate": 7500,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "5": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 5
+        },
+        {
+          "type": 11,
+          "value": 7
+        },
+        {
+          "type": 13,
+          "value": 5
+        },
+        {
+          "type": 15,
+          "value": 7
+        },
+        {
+          "type": 17,
+          "value": 5
+        },
+        {
+          "type": 19,
+          "value": 7
+        }
+      ],
+      "consume": [
+        {
+          "count": 5,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 5,
+          "id": 1059,
+          "type": 0
+        }
+      ],
+      "level": 5,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 1
+        }
+      ],
+      "limitMsg": "救主灵刃3阶后可升星",
+      "pos": 1,
+      "rate": 7000,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "6": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 6
+        },
+        {
+          "type": 11,
+          "value": 9
+        },
+        {
+          "type": 13,
+          "value": 6
+        },
+        {
+          "type": 15,
+          "value": 9
+        },
+        {
+          "type": 17,
+          "value": 6
+        },
+        {
+          "type": 19,
+          "value": 9
+        }
+      ],
+      "consume": [
+        {
+          "count": 6,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 6,
+          "id": 1059,
+          "type": 0
+        }
+      ],
+      "level": 6,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 1
+        }
+      ],
+      "limitMsg": "救主灵刃3阶后可升星",
+      "pos": 1,
+      "rate": 6500,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "7": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 7
+        },
+        {
+          "type": 11,
+          "value": 12
+        },
+        {
+          "type": 13,
+          "value": 7
+        },
+        {
+          "type": 15,
+          "value": 12
+        },
+        {
+          "type": 17,
+          "value": 7
+        },
+        {
+          "type": 19,
+          "value": 12
+        },
+        {
+          "type": 81,
+          "value": 100
+        }
+      ],
+      "consume": [
+        {
+          "count": 7,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 7,
+          "id": 1059,
+          "type": 0
+        }
+      ],
+      "level": 7,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 1
+        }
+      ],
+      "limitMsg": "救主灵刃3阶后可升星",
+      "pos": 1,
+      "rate": 6000,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "8": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 8
+        },
+        {
+          "type": 11,
+          "value": 15
+        },
+        {
+          "type": 13,
+          "value": 8
+        },
+        {
+          "type": 15,
+          "value": 15
+        },
+        {
+          "type": 17,
+          "value": 8
+        },
+        {
+          "type": 19,
+          "value": 15
+        },
+        {
+          "type": 81,
+          "value": 200
+        }
+      ],
+      "consume": [
+        {
+          "count": 8,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 8,
+          "id": 1059,
+          "type": 0
+        }
+      ],
+      "level": 8,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 1
+        }
+      ],
+      "limitMsg": "救主灵刃3阶后可升星",
+      "pos": 1,
+      "rate": 5500,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "9": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 10
+        },
+        {
+          "type": 11,
+          "value": 18
+        },
+        {
+          "type": 13,
+          "value": 10
+        },
+        {
+          "type": 15,
+          "value": 18
+        },
+        {
+          "type": 17,
+          "value": 10
+        },
+        {
+          "type": 19,
+          "value": 18
+        },
+        {
+          "type": 81,
+          "value": 300
+        }
+      ],
+      "consume": [
+        {
+          "count": 9,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 9,
+          "id": 1059,
+          "type": 0
+        }
+      ],
+      "level": 9,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 1
+        }
+      ],
+      "limitMsg": "救主灵刃3阶后可升星",
+      "pos": 1,
+      "rate": 4500,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "10": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 12
+        },
+        {
+          "type": 11,
+          "value": 22
+        },
+        {
+          "type": 13,
+          "value": 12
+        },
+        {
+          "type": 15,
+          "value": 22
+        },
+        {
+          "type": 17,
+          "value": 12
+        },
+        {
+          "type": 19,
+          "value": 22
+        },
+        {
+          "type": 81,
+          "value": 400
+        }
+      ],
+      "consume": [
+        {
+          "count": 10,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 10,
+          "id": 1059,
+          "type": 0
+        }
+      ],
+      "level": 10,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 1
+        }
+      ],
+      "limitMsg": "救主灵刃3阶后可升星",
+      "pos": 1,
+      "rate": 4000,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "11": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 16
+        },
+        {
+          "type": 11,
+          "value": 26
+        },
+        {
+          "type": 13,
+          "value": 16
+        },
+        {
+          "type": 15,
+          "value": 26
+        },
+        {
+          "type": 17,
+          "value": 16
+        },
+        {
+          "type": 19,
+          "value": 26
+        },
+        {
+          "type": 81,
+          "value": 500
+        }
+      ],
+      "consume": [
+        {
+          "count": 11,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 11,
+          "id": 1059,
+          "type": 0
+        }
+      ],
+      "level": 11,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 1
+        }
+      ],
+      "limitMsg": "救主灵刃3阶后可升星",
+      "pos": 1,
+      "rate": 3500,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "12": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 20
+        },
+        {
+          "type": 11,
+          "value": 30
+        },
+        {
+          "type": 13,
+          "value": 20
+        },
+        {
+          "type": 15,
+          "value": 30
+        },
+        {
+          "type": 17,
+          "value": 20
+        },
+        {
+          "type": 19,
+          "value": 30
+        },
+        {
+          "type": 81,
+          "value": 700
+        }
+      ],
+      "consume": [
+        {
+          "count": 12,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 12,
+          "id": 1059,
+          "type": 0
+        }
+      ],
+      "level": 12,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 1
+        }
+      ],
+      "limitMsg": "救主灵刃3阶后可升星",
+      "pos": 1,
+      "rate": 3000,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    }
+  },
+  "2": {
+    "0": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 0
+        },
+        {
+          "type": 11,
+          "value": 0
+        },
+        {
+          "type": 13,
+          "value": 0
+        },
+        {
+          "type": 15,
+          "value": 0
+        },
+        {
+          "type": 17,
+          "value": 0
+        },
+        {
+          "type": 19,
+          "value": 0
+        }
+      ],
+      "consume": [],
+      "level": 0,
+      "pos": 2,
+      "rate": 10000
+    },
+    "1": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 0
+        },
+        {
+          "type": 11,
+          "value": 1
+        },
+        {
+          "type": 13,
+          "value": 0
+        },
+        {
+          "type": 15,
+          "value": 1
+        },
+        {
+          "type": 17,
+          "value": 0
+        },
+        {
+          "type": 19,
+          "value": 1
+        }
+      ],
+      "consume": [
+        {
+          "count": 1,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 1,
+          "id": 1060,
+          "type": 0
+        }
+      ],
+      "level": 1,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 2
+        }
+      ],
+      "limitMsg": "剧毒裁决3阶后可升星",
+      "pos": 2,
+      "rate": 10000
+    },
+    "2": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 2
+        },
+        {
+          "type": 11,
+          "value": 2
+        },
+        {
+          "type": 13,
+          "value": 2
+        },
+        {
+          "type": 15,
+          "value": 2
+        },
+        {
+          "type": 17,
+          "value": 2
+        },
+        {
+          "type": 19,
+          "value": 2
+        }
+      ],
+      "consume": [
+        {
+          "count": 2,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 2,
+          "id": 1060,
+          "type": 0
+        }
+      ],
+      "level": 2,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 2
+        }
+      ],
+      "limitMsg": "剧毒裁决3阶后可升星",
+      "pos": 2,
+      "rate": 10000
+    },
+    "3": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 3
+        },
+        {
+          "type": 11,
+          "value": 3
+        },
+        {
+          "type": 13,
+          "value": 3
+        },
+        {
+          "type": 15,
+          "value": 3
+        },
+        {
+          "type": 17,
+          "value": 3
+        },
+        {
+          "type": 19,
+          "value": 3
+        }
+      ],
+      "consume": [
+        {
+          "count": 3,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 3,
+          "id": 1060,
+          "type": 0
+        }
+      ],
+      "level": 3,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 2
+        }
+      ],
+      "limitMsg": "剧毒裁决3阶后可升星",
+      "pos": 2,
+      "rate": 8500,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "4": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 4
+        },
+        {
+          "type": 11,
+          "value": 5
+        },
+        {
+          "type": 13,
+          "value": 4
+        },
+        {
+          "type": 15,
+          "value": 5
+        },
+        {
+          "type": 17,
+          "value": 4
+        },
+        {
+          "type": 19,
+          "value": 5
+        }
+      ],
+      "consume": [
+        {
+          "count": 4,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 4,
+          "id": 1060,
+          "type": 0
+        }
+      ],
+      "level": 4,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 2
+        }
+      ],
+      "limitMsg": "剧毒裁决3阶后可升星",
+      "pos": 2,
+      "rate": 7500,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "5": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 5
+        },
+        {
+          "type": 11,
+          "value": 7
+        },
+        {
+          "type": 13,
+          "value": 5
+        },
+        {
+          "type": 15,
+          "value": 7
+        },
+        {
+          "type": 17,
+          "value": 5
+        },
+        {
+          "type": 19,
+          "value": 7
+        }
+      ],
+      "consume": [
+        {
+          "count": 5,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 5,
+          "id": 1060,
+          "type": 0
+        }
+      ],
+      "level": 5,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 2
+        }
+      ],
+      "limitMsg": "剧毒裁决3阶后可升星",
+      "pos": 2,
+      "rate": 7000,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "6": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 6
+        },
+        {
+          "type": 11,
+          "value": 9
+        },
+        {
+          "type": 13,
+          "value": 6
+        },
+        {
+          "type": 15,
+          "value": 9
+        },
+        {
+          "type": 17,
+          "value": 6
+        },
+        {
+          "type": 19,
+          "value": 9
+        }
+      ],
+      "consume": [
+        {
+          "count": 6,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 6,
+          "id": 1060,
+          "type": 0
+        }
+      ],
+      "level": 6,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 2
+        }
+      ],
+      "limitMsg": "剧毒裁决3阶后可升星",
+      "pos": 2,
+      "rate": 6500,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "7": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 7
+        },
+        {
+          "type": 11,
+          "value": 12
+        },
+        {
+          "type": 13,
+          "value": 7
+        },
+        {
+          "type": 15,
+          "value": 12
+        },
+        {
+          "type": 17,
+          "value": 7
+        },
+        {
+          "type": 19,
+          "value": 12
+        },
+        {
+          "type": 6,
+          "value": 100
+        }
+      ],
+      "consume": [
+        {
+          "count": 7,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 7,
+          "id": 1060,
+          "type": 0
+        }
+      ],
+      "level": 7,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 2
+        }
+      ],
+      "limitMsg": "剧毒裁决3阶后可升星",
+      "pos": 2,
+      "rate": 6000,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "8": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 8
+        },
+        {
+          "type": 11,
+          "value": 15
+        },
+        {
+          "type": 13,
+          "value": 8
+        },
+        {
+          "type": 15,
+          "value": 15
+        },
+        {
+          "type": 17,
+          "value": 8
+        },
+        {
+          "type": 19,
+          "value": 15
+        },
+        {
+          "type": 6,
+          "value": 200
+        }
+      ],
+      "consume": [
+        {
+          "count": 8,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 8,
+          "id": 1060,
+          "type": 0
+        }
+      ],
+      "level": 8,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 2
+        }
+      ],
+      "limitMsg": "剧毒裁决3阶后可升星",
+      "pos": 2,
+      "rate": 5500,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "9": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 10
+        },
+        {
+          "type": 11,
+          "value": 18
+        },
+        {
+          "type": 13,
+          "value": 10
+        },
+        {
+          "type": 15,
+          "value": 18
+        },
+        {
+          "type": 17,
+          "value": 10
+        },
+        {
+          "type": 19,
+          "value": 18
+        },
+        {
+          "type": 6,
+          "value": 300
+        }
+      ],
+      "consume": [
+        {
+          "count": 9,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 9,
+          "id": 1060,
+          "type": 0
+        }
+      ],
+      "level": 9,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 2
+        }
+      ],
+      "limitMsg": "剧毒裁决3阶后可升星",
+      "pos": 2,
+      "rate": 4500,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "10": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 12
+        },
+        {
+          "type": 11,
+          "value": 22
+        },
+        {
+          "type": 13,
+          "value": 12
+        },
+        {
+          "type": 15,
+          "value": 22
+        },
+        {
+          "type": 17,
+          "value": 12
+        },
+        {
+          "type": 19,
+          "value": 22
+        },
+        {
+          "type": 6,
+          "value": 400
+        }
+      ],
+      "consume": [
+        {
+          "count": 10,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 10,
+          "id": 1060,
+          "type": 0
+        }
+      ],
+      "level": 10,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 2
+        }
+      ],
+      "limitMsg": "剧毒裁决3阶后可升星",
+      "pos": 2,
+      "rate": 4000,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "11": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 16
+        },
+        {
+          "type": 11,
+          "value": 26
+        },
+        {
+          "type": 13,
+          "value": 16
+        },
+        {
+          "type": 15,
+          "value": 26
+        },
+        {
+          "type": 17,
+          "value": 16
+        },
+        {
+          "type": 19,
+          "value": 26
+        },
+        {
+          "type": 6,
+          "value": 500
+        }
+      ],
+      "consume": [
+        {
+          "count": 11,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 11,
+          "id": 1060,
+          "type": 0
+        }
+      ],
+      "level": 11,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 2
+        }
+      ],
+      "limitMsg": "剧毒裁决3阶后可升星",
+      "pos": 2,
+      "rate": 3500,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "12": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 20
+        },
+        {
+          "type": 11,
+          "value": 30
+        },
+        {
+          "type": 13,
+          "value": 20
+        },
+        {
+          "type": 15,
+          "value": 30
+        },
+        {
+          "type": 17,
+          "value": 20
+        },
+        {
+          "type": 19,
+          "value": 30
+        },
+        {
+          "type": 6,
+          "value": 700
+        }
+      ],
+      "consume": [
+        {
+          "count": 12,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 12,
+          "id": 1060,
+          "type": 0
+        }
+      ],
+      "level": 12,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 2
+        }
+      ],
+      "limitMsg": "剧毒裁决3阶后可升星",
+      "pos": 2,
+      "rate": 3000,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    }
+  },
+  "3": {
+    "0": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 0
+        },
+        {
+          "type": 11,
+          "value": 0
+        },
+        {
+          "type": 13,
+          "value": 0
+        },
+        {
+          "type": 15,
+          "value": 0
+        },
+        {
+          "type": 17,
+          "value": 0
+        },
+        {
+          "type": 19,
+          "value": 0
+        }
+      ],
+      "consume": [],
+      "level": 0,
+      "pos": 3,
+      "rate": 10000
+    },
+    "1": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 0
+        },
+        {
+          "type": 11,
+          "value": 1
+        },
+        {
+          "type": 13,
+          "value": 0
+        },
+        {
+          "type": 15,
+          "value": 1
+        },
+        {
+          "type": 17,
+          "value": 0
+        },
+        {
+          "type": 19,
+          "value": 1
+        }
+      ],
+      "consume": [
+        {
+          "count": 1,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 1,
+          "id": 1061,
+          "type": 0
+        }
+      ],
+      "level": 1,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 3
+        }
+      ],
+      "limitMsg": "霜之哀伤3阶后可升星",
+      "pos": 3,
+      "rate": 10000
+    },
+    "2": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 2
+        },
+        {
+          "type": 11,
+          "value": 2
+        },
+        {
+          "type": 13,
+          "value": 2
+        },
+        {
+          "type": 15,
+          "value": 2
+        },
+        {
+          "type": 17,
+          "value": 2
+        },
+        {
+          "type": 19,
+          "value": 2
+        }
+      ],
+      "consume": [
+        {
+          "count": 2,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 2,
+          "id": 1061,
+          "type": 0
+        }
+      ],
+      "level": 2,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 3
+        }
+      ],
+      "limitMsg": "霜之哀伤3阶后可升星",
+      "pos": 3,
+      "rate": 10000
+    },
+    "3": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 3
+        },
+        {
+          "type": 11,
+          "value": 3
+        },
+        {
+          "type": 13,
+          "value": 3
+        },
+        {
+          "type": 15,
+          "value": 3
+        },
+        {
+          "type": 17,
+          "value": 3
+        },
+        {
+          "type": 19,
+          "value": 3
+        }
+      ],
+      "consume": [
+        {
+          "count": 3,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 3,
+          "id": 1061,
+          "type": 0
+        }
+      ],
+      "level": 3,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 3
+        }
+      ],
+      "limitMsg": "霜之哀伤3阶后可升星",
+      "pos": 3,
+      "rate": 8500,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "4": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 4
+        },
+        {
+          "type": 11,
+          "value": 5
+        },
+        {
+          "type": 13,
+          "value": 4
+        },
+        {
+          "type": 15,
+          "value": 5
+        },
+        {
+          "type": 17,
+          "value": 4
+        },
+        {
+          "type": 19,
+          "value": 5
+        }
+      ],
+      "consume": [
+        {
+          "count": 4,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 4,
+          "id": 1061,
+          "type": 0
+        }
+      ],
+      "level": 4,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 3
+        }
+      ],
+      "limitMsg": "霜之哀伤3阶后可升星",
+      "pos": 3,
+      "rate": 7500,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "5": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 5
+        },
+        {
+          "type": 11,
+          "value": 7
+        },
+        {
+          "type": 13,
+          "value": 5
+        },
+        {
+          "type": 15,
+          "value": 7
+        },
+        {
+          "type": 17,
+          "value": 5
+        },
+        {
+          "type": 19,
+          "value": 7
+        }
+      ],
+      "consume": [
+        {
+          "count": 5,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 5,
+          "id": 1061,
+          "type": 0
+        }
+      ],
+      "level": 5,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 3
+        }
+      ],
+      "limitMsg": "霜之哀伤3阶后可升星",
+      "pos": 3,
+      "rate": 7000,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "6": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 6
+        },
+        {
+          "type": 11,
+          "value": 9
+        },
+        {
+          "type": 13,
+          "value": 6
+        },
+        {
+          "type": 15,
+          "value": 9
+        },
+        {
+          "type": 17,
+          "value": 6
+        },
+        {
+          "type": 19,
+          "value": 9
+        }
+      ],
+      "consume": [
+        {
+          "count": 6,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 6,
+          "id": 1061,
+          "type": 0
+        }
+      ],
+      "level": 6,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 3
+        }
+      ],
+      "limitMsg": "霜之哀伤3阶后可升星",
+      "pos": 3,
+      "rate": 6500,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "7": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 7
+        },
+        {
+          "type": 11,
+          "value": 12
+        },
+        {
+          "type": 13,
+          "value": 7
+        },
+        {
+          "type": 15,
+          "value": 12
+        },
+        {
+          "type": 17,
+          "value": 7
+        },
+        {
+          "type": 19,
+          "value": 12
+        },
+        {
+          "type": 80,
+          "value": 100
+        }
+      ],
+      "consume": [
+        {
+          "count": 7,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 7,
+          "id": 1061,
+          "type": 0
+        }
+      ],
+      "level": 7,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 3
+        }
+      ],
+      "limitMsg": "霜之哀伤3阶后可升星",
+      "pos": 3,
+      "rate": 6000,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "8": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 8
+        },
+        {
+          "type": 11,
+          "value": 15
+        },
+        {
+          "type": 13,
+          "value": 8
+        },
+        {
+          "type": 15,
+          "value": 15
+        },
+        {
+          "type": 17,
+          "value": 8
+        },
+        {
+          "type": 19,
+          "value": 15
+        },
+        {
+          "type": 80,
+          "value": 200
+        }
+      ],
+      "consume": [
+        {
+          "count": 8,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 8,
+          "id": 1061,
+          "type": 0
+        }
+      ],
+      "level": 8,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 3
+        }
+      ],
+      "limitMsg": "霜之哀伤3阶后可升星",
+      "pos": 3,
+      "rate": 5500,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "9": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 10
+        },
+        {
+          "type": 11,
+          "value": 18
+        },
+        {
+          "type": 13,
+          "value": 10
+        },
+        {
+          "type": 15,
+          "value": 18
+        },
+        {
+          "type": 17,
+          "value": 10
+        },
+        {
+          "type": 19,
+          "value": 18
+        },
+        {
+          "type": 80,
+          "value": 300
+        }
+      ],
+      "consume": [
+        {
+          "count": 9,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 9,
+          "id": 1061,
+          "type": 0
+        }
+      ],
+      "level": 9,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 3
+        }
+      ],
+      "limitMsg": "霜之哀伤3阶后可升星",
+      "pos": 3,
+      "rate": 4500,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "10": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 12
+        },
+        {
+          "type": 11,
+          "value": 22
+        },
+        {
+          "type": 13,
+          "value": 12
+        },
+        {
+          "type": 15,
+          "value": 22
+        },
+        {
+          "type": 17,
+          "value": 12
+        },
+        {
+          "type": 19,
+          "value": 22
+        },
+        {
+          "type": 80,
+          "value": 400
+        }
+      ],
+      "consume": [
+        {
+          "count": 10,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 10,
+          "id": 1061,
+          "type": 0
+        }
+      ],
+      "level": 10,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 3
+        }
+      ],
+      "limitMsg": "霜之哀伤3阶后可升星",
+      "pos": 3,
+      "rate": 4000,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "11": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 16
+        },
+        {
+          "type": 11,
+          "value": 26
+        },
+        {
+          "type": 13,
+          "value": 16
+        },
+        {
+          "type": 15,
+          "value": 26
+        },
+        {
+          "type": 17,
+          "value": 16
+        },
+        {
+          "type": 19,
+          "value": 26
+        },
+        {
+          "type": 80,
+          "value": 500
+        }
+      ],
+      "consume": [
+        {
+          "count": 11,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 11,
+          "id": 1061,
+          "type": 0
+        }
+      ],
+      "level": 11,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 3
+        }
+      ],
+      "limitMsg": "霜之哀伤3阶后可升星",
+      "pos": 3,
+      "rate": 3500,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "12": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 20
+        },
+        {
+          "type": 11,
+          "value": 30
+        },
+        {
+          "type": 13,
+          "value": 20
+        },
+        {
+          "type": 15,
+          "value": 30
+        },
+        {
+          "type": 17,
+          "value": 20
+        },
+        {
+          "type": 19,
+          "value": 30
+        },
+        {
+          "type": 80,
+          "value": 700
+        }
+      ],
+      "consume": [
+        {
+          "count": 12,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 12,
+          "id": 1061,
+          "type": 0
+        }
+      ],
+      "level": 12,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 3
+        }
+      ],
+      "limitMsg": "霜之哀伤3阶后可升星",
+      "pos": 3,
+      "rate": 3000,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    }
+  },
+  "4": {
+    "0": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 0
+        },
+        {
+          "type": 11,
+          "value": 0
+        },
+        {
+          "type": 13,
+          "value": 0
+        },
+        {
+          "type": 15,
+          "value": 0
+        },
+        {
+          "type": 17,
+          "value": 0
+        },
+        {
+          "type": 19,
+          "value": 0
+        }
+      ],
+      "consume": [],
+      "level": 0,
+      "pos": 4,
+      "rate": 10000
+    },
+    "1": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 0
+        },
+        {
+          "type": 11,
+          "value": 1
+        },
+        {
+          "type": 13,
+          "value": 0
+        },
+        {
+          "type": 15,
+          "value": 1
+        },
+        {
+          "type": 17,
+          "value": 0
+        },
+        {
+          "type": 19,
+          "value": 1
+        }
+      ],
+      "consume": [
+        {
+          "count": 1,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 1,
+          "id": 1062,
+          "type": 0
+        }
+      ],
+      "level": 1,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 4
+        }
+      ],
+      "limitMsg": "血饮狂刀3阶后可升星",
+      "pos": 4,
+      "rate": 10000
+    },
+    "2": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 2
+        },
+        {
+          "type": 11,
+          "value": 2
+        },
+        {
+          "type": 13,
+          "value": 2
+        },
+        {
+          "type": 15,
+          "value": 2
+        },
+        {
+          "type": 17,
+          "value": 2
+        },
+        {
+          "type": 19,
+          "value": 2
+        }
+      ],
+      "consume": [
+        {
+          "count": 2,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 2,
+          "id": 1062,
+          "type": 0
+        }
+      ],
+      "level": 2,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 4
+        }
+      ],
+      "limitMsg": "血饮狂刀3阶后可升星",
+      "pos": 4,
+      "rate": 10000
+    },
+    "3": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 3
+        },
+        {
+          "type": 11,
+          "value": 3
+        },
+        {
+          "type": 13,
+          "value": 3
+        },
+        {
+          "type": 15,
+          "value": 3
+        },
+        {
+          "type": 17,
+          "value": 3
+        },
+        {
+          "type": 19,
+          "value": 3
+        }
+      ],
+      "consume": [
+        {
+          "count": 3,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 3,
+          "id": 1062,
+          "type": 0
+        }
+      ],
+      "level": 3,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 4
+        }
+      ],
+      "limitMsg": "血饮狂刀3阶后可升星",
+      "pos": 4,
+      "rate": 8500,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "4": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 4
+        },
+        {
+          "type": 11,
+          "value": 5
+        },
+        {
+          "type": 13,
+          "value": 4
+        },
+        {
+          "type": 15,
+          "value": 5
+        },
+        {
+          "type": 17,
+          "value": 4
+        },
+        {
+          "type": 19,
+          "value": 5
+        }
+      ],
+      "consume": [
+        {
+          "count": 4,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 4,
+          "id": 1062,
+          "type": 0
+        }
+      ],
+      "level": 4,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 4
+        }
+      ],
+      "limitMsg": "血饮狂刀3阶后可升星",
+      "pos": 4,
+      "rate": 7500,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "5": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 5
+        },
+        {
+          "type": 11,
+          "value": 7
+        },
+        {
+          "type": 13,
+          "value": 5
+        },
+        {
+          "type": 15,
+          "value": 7
+        },
+        {
+          "type": 17,
+          "value": 5
+        },
+        {
+          "type": 19,
+          "value": 7
+        }
+      ],
+      "consume": [
+        {
+          "count": 5,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 5,
+          "id": 1062,
+          "type": 0
+        }
+      ],
+      "level": 5,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 4
+        }
+      ],
+      "limitMsg": "血饮狂刀3阶后可升星",
+      "pos": 4,
+      "rate": 7000,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "6": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 6
+        },
+        {
+          "type": 11,
+          "value": 9
+        },
+        {
+          "type": 13,
+          "value": 6
+        },
+        {
+          "type": 15,
+          "value": 9
+        },
+        {
+          "type": 17,
+          "value": 6
+        },
+        {
+          "type": 19,
+          "value": 9
+        }
+      ],
+      "consume": [
+        {
+          "count": 6,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 6,
+          "id": 1062,
+          "type": 0
+        }
+      ],
+      "level": 6,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 4
+        }
+      ],
+      "limitMsg": "血饮狂刀3阶后可升星",
+      "pos": 4,
+      "rate": 6500,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "7": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 7
+        },
+        {
+          "type": 11,
+          "value": 12
+        },
+        {
+          "type": 13,
+          "value": 7
+        },
+        {
+          "type": 15,
+          "value": 12
+        },
+        {
+          "type": 17,
+          "value": 7
+        },
+        {
+          "type": 19,
+          "value": 12
+        },
+        {
+          "type": 79,
+          "value": 100
+        }
+      ],
+      "consume": [
+        {
+          "count": 7,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 7,
+          "id": 1062,
+          "type": 0
+        }
+      ],
+      "level": 7,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 4
+        }
+      ],
+      "limitMsg": "血饮狂刀3阶后可升星",
+      "pos": 4,
+      "rate": 6000,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "8": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 8
+        },
+        {
+          "type": 11,
+          "value": 15
+        },
+        {
+          "type": 13,
+          "value": 8
+        },
+        {
+          "type": 15,
+          "value": 15
+        },
+        {
+          "type": 17,
+          "value": 8
+        },
+        {
+          "type": 19,
+          "value": 15
+        },
+        {
+          "type": 79,
+          "value": 200
+        }
+      ],
+      "consume": [
+        {
+          "count": 8,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 8,
+          "id": 1062,
+          "type": 0
+        }
+      ],
+      "level": 8,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 4
+        }
+      ],
+      "limitMsg": "血饮狂刀3阶后可升星",
+      "pos": 4,
+      "rate": 5500,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "9": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 10
+        },
+        {
+          "type": 11,
+          "value": 18
+        },
+        {
+          "type": 13,
+          "value": 10
+        },
+        {
+          "type": 15,
+          "value": 18
+        },
+        {
+          "type": 17,
+          "value": 10
+        },
+        {
+          "type": 19,
+          "value": 18
+        },
+        {
+          "type": 79,
+          "value": 300
+        }
+      ],
+      "consume": [
+        {
+          "count": 9,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 9,
+          "id": 1062,
+          "type": 0
+        }
+      ],
+      "level": 9,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 4
+        }
+      ],
+      "limitMsg": "血饮狂刀3阶后可升星",
+      "pos": 4,
+      "rate": 4500,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "10": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 12
+        },
+        {
+          "type": 11,
+          "value": 22
+        },
+        {
+          "type": 13,
+          "value": 12
+        },
+        {
+          "type": 15,
+          "value": 22
+        },
+        {
+          "type": 17,
+          "value": 12
+        },
+        {
+          "type": 19,
+          "value": 22
+        },
+        {
+          "type": 79,
+          "value": 400
+        }
+      ],
+      "consume": [
+        {
+          "count": 10,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 10,
+          "id": 1062,
+          "type": 0
+        }
+      ],
+      "level": 10,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 4
+        }
+      ],
+      "limitMsg": "血饮狂刀3阶后可升星",
+      "pos": 4,
+      "rate": 4000,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "11": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 16
+        },
+        {
+          "type": 11,
+          "value": 26
+        },
+        {
+          "type": 13,
+          "value": 16
+        },
+        {
+          "type": 15,
+          "value": 26
+        },
+        {
+          "type": 17,
+          "value": 16
+        },
+        {
+          "type": 19,
+          "value": 26
+        },
+        {
+          "type": 79,
+          "value": 500
+        }
+      ],
+      "consume": [
+        {
+          "count": 11,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 11,
+          "id": 1062,
+          "type": 0
+        }
+      ],
+      "level": 11,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 4
+        }
+      ],
+      "limitMsg": "血饮狂刀3阶后可升星",
+      "pos": 4,
+      "rate": 3500,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    },
+    "12": {
+      "attribute": [
+        {
+          "type": 9,
+          "value": 20
+        },
+        {
+          "type": 11,
+          "value": 30
+        },
+        {
+          "type": 13,
+          "value": 20
+        },
+        {
+          "type": 15,
+          "value": 30
+        },
+        {
+          "type": 17,
+          "value": 20
+        },
+        {
+          "type": 19,
+          "value": 30
+        },
+        {
+          "type": 79,
+          "value": 700
+        }
+      ],
+      "consume": [
+        {
+          "count": 12,
+          "id": 954,
+          "type": 0
+        },
+        {
+          "count": 12,
+          "id": 1062,
+          "type": 0
+        }
+      ],
+      "level": 12,
+      "limit": [
+        {
+          "lv": 3,
+          "pos": 4
+        }
+      ],
+      "limitMsg": "血饮狂刀3阶后可升星",
+      "pos": 4,
+      "rate": 3000,
+      "reducestar": [
+        {
+          "level": 1,
+          "rate": 100
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "dailyGift": [
+    {
+      "item": {
+        "count": 1,
+        "id": 484,
+        "type": 0
+      },
+      "viplvl": 1,
+      "yb": 17
+    },
+    {
+      "item": {
+        "count": 1,
+        "id": 485,
+        "type": 0
+      },
+      "viplvl": 4,
+      "yb": 20
+    },
+    {
+      "item": {
+        "count": 1,
+        "id": 486,
+        "type": 0
+      },
+      "viplvl": 7,
+      "yb": 35
+    }
+  ],
+  "dailyGiftDisplay": [
+    {
+      "index": 1,
+      "item": {
+        "count": 1,
+        "id": 484,
+        "type": 0
+      },
+      "itemDesc": "|C:0xffffff&T:包含道具：\n祝福油*1\n飞鞋*3\n10万绑金|",
+      "originalprice": 20,
+      "type": 1,
+      "viplvl": 1,
+      "yb": 17,
+      "yyDesc": "YY会员达到1级"
+    },
+    {
+      "index": 2,
+      "item": {
+        "count": 1,
+        "id": 485,
+        "type": 0
+      },
+      "itemDesc": "|C:0xffffff&T:包含道具：\n精力水晶*1\n12万绑金\n万年雪霜*3|",
+      "originalprice": 25,
+      "type": 1,
+      "viplvl": 4,
+      "yb": 20,
+      "yyDesc": "YY会员达到4级"
+    },
+    {
+      "index": 3,
+      "item": {
+        "count": 1,
+        "id": 486,
+        "type": 0
+      },
+      "itemDesc": "|C:0xffffff&T:包含道具：\n绑金25万\n暴击碎片*2\n万年雪霜*3|",
+      "originalprice": 47,
+      "type": 1,
+      "viplvl": 7,
+      "yb": 35,
+      "yyDesc": "YY会员达到7级"
+    }
+  ],
+  "dgContent": "这是您购买的YY会员专属每日礼包，请收下",
+  "dgTitle": "YY会员专属每日礼包",
+  "newServerGift": [
+    {
+      "gift": {
+        "count": 1,
+        "id": 481,
+        "type": 0
+      },
+      "title": {
+        "count": 1,
+        "id": 7,
+        "type": 16
+      },
+      "viplvl": 1
+    },
+    {
+      "gift": {
+        "count": 1,
+        "id": 482,
+        "type": 0
+      },
+      "title": {
+        "count": 1,
+        "id": 8,
+        "type": 16
+      },
+      "viplvl": 4
+    },
+    {
+      "gift": {
+        "count": 1,
+        "id": 483,
+        "type": 0
+      },
+      "title": {
+        "count": 1,
+        "id": 9,
+        "type": 16
+      },
+      "viplvl": 7
+    }
+  ],
+  "newServerGiftDisplay": [
+    [
+      {
+        "YYdesc": "YY会员达到1级",
+        "index": 1,
+        "itemDesc": "|C:0xffffff&T:称号红尘不朽\n暴击率+15|",
+        "titleImg": "ch_show_007",
+        "viplvl": 1
+      },
+      {
+        "YYdesc": "YY会员达到1级",
+        "index": 2,
+        "item": {
+          "count": 1,
+          "id": 481,
+          "type": 0
+        },
+        "itemDesc": "|C:0xffffff&T:包含道具：\n暴击碎片*3\n四象朱雀丹*2|",
+        "viplvl": 1
+      }
+    ],
+    [
+      {
+        "YYdesc": "YY会员达到4级",
+        "index": 3,
+        "itemDesc": "|C:0xffffff&T:称号红鸾灭天\n暴击率+20|",
+        "titleImg": "ch_show_008",
+        "viplvl": 4
+      },
+      {
+        "YYdesc": "YY会员达到4级",
+        "index": 4,
+        "item": {
+          "count": 1,
+          "id": 482,
+          "type": 0
+        },
+        "itemDesc": "|C:0xffffff&T:包含道具：\n暴击碎片*6\n四象朱雀丹*2|",
+        "viplvl": 4
+      }
+    ],
+    [
+      {
+        "YYdesc": "YY会员达到7级",
+        "index": 5,
+        "itemDesc": "|C:0xffffff&T:称号红颜绝地\n暴击率+25|",
+        "titleImg": "ch_show_009",
+        "viplvl": 7
+      },
+      {
+        "YYdesc": "YY会员达到7级",
+        "index": 6,
+        "item": {
+          "count": 1,
+          "id": 483,
+          "type": 0
+        },
+        "itemDesc": "|C:0xffffff&T:包含道具：\n暴击碎片*8\n四象朱雀丹*2|",
+        "viplvl": 7
+      }
+    ]
+  ],
+  "nsContent": "领取了YY会员新服豪礼",
+  "nsTitle": "YY会员新服豪礼",
+  "weeklyGift": [
+    {
+      "gift": {
+        "count": 1,
+        "id": 487,
+        "type": 0
+      },
+      "viplvl": 1,
+      "yb": 160
+    },
+    {
+      "gift": {
+        "count": 1,
+        "id": 488,
+        "type": 0
+      },
+      "viplvl": 4,
+      "yb": 188
+    },
+    {
+      "gift": {
+        "count": 1,
+        "id": 489,
+        "type": 0
+      },
+      "viplvl": 7,
+      "yb": 288
+    }
+  ],
+  "weeklyGiftDisplay": [
+    {
+      "index": 1,
+      "item": {
+        "count": 1,
+        "id": 487,
+        "type": 0
+      },
+      "itemDesc": "|C:0xffffff&T:包含道具：\n1品魂玉*1\n金条*1\n飞鞋*3|",
+      "originalprice": 200,
+      "type": 2,
+      "viplvl": 1,
+      "yb": 160,
+      "yyDesc": "YY会员达到1级"
+    },
+    {
+      "index": 2,
+      "item": {
+        "count": 1,
+        "id": 488,
+        "type": 0
+      },
+      "itemDesc": "|C:0xffffff&T:包含道具：\n多倍经验瓶*5|",
+      "originalprice": 250,
+      "type": 2,
+      "viplvl": 4,
+      "yb": 188,
+      "yyDesc": "YY会员达到4级"
+    },
+    {
+      "index": 3,
+      "item": {
+        "count": 1,
+        "id": 489,
+        "type": 0
+      },
+      "itemDesc": "|C:0xffffff&T:包含道具：\n多倍经验瓶*8\n初阶秘籍*10|",
+      "originalprice": 411,
+      "type": 2,
+      "viplvl": 7,
+      "yb": 288,
+      "yyDesc": "YY会员达到7级"
+    }
+  ],
+  "wgContent": "这是您购买的YY会员专属每周礼包，请收下",
+  "wgTitle": "YY会员专属每周礼包"
+}

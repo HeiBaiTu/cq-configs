@@ -1,0 +1,35 @@
+{
+  "28": {
+    "actId": 22,
+    "id": 28,
+    "openview": "app.CrossServerWin"
+  },
+  "29": {
+    "actId": 23,
+    "id": 29,
+    "openview": "app.CrossServerWin"
+  },
+  "30": {
+    "actId": 24,
+    "id": 30,
+    "openview": "app.CrossServerWin"
+  },
+  "31": {
+    "id": 31,
+    "openview": "app.DimensionBossView"
+  },
+  "32": {
+    "id": 32,
+    "openview": "app.ShaChengStarcraftWin"
+  },
+  "39": {
+    "actId": 38,
+    "id": 39,
+    "openview": "app.CrossServerWin"
+  },
+  "44": {
+    "actId": 43,
+    "id": 44,
+    "openview": "app.CrossServerWin"
+  }
+}

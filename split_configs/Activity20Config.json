@@ -1,0 +1,145 @@
+{
+  "25": {
+    "Duration": 290,
+    "Id": 25,
+    "Ntipstext_1": "|C:0xeee104&T:活动：次元首领|",
+    "Ntipstext_2": "活动时间：|C:0x2eb52d&T:每日12:00和21:05开始|",
+    "Ntipstext_3": "黑暗的时代即将来临，强大的深渊领主即将从黑暗中复苏，请勇士们前往击杀！\n所有攻击者都可获得|C:0xff7700&T:参与奖|\n完成|C:0xe50000&T:最后一击|还将获得额外|C:0xe50000&T:高额奖励|",
+    "Ntipstext_4": "需要等级：|C:0x28ee01&T:28级|",
+    "bg": "Act_hdbg1_sjboss",
+    "buttoncolor": 1,
+    "cd": 10,
+    "chanceshowascription": [
+      {
+        "count": 1,
+        "id": 1114,
+        "type": 0
+      }
+    ],
+    "chanceshowbrave": [],
+    "chanceshowpartake": [
+      {
+        "count": 1,
+        "id": 1114,
+        "type": 0
+      }
+    ],
+    "defineshowascription": [
+      {
+        "count": 1,
+        "id": 1061,
+        "type": 0
+      },
+      {
+        "count": 5000000,
+        "id": 13,
+        "type": 13
+      },
+      {
+        "count": 500000,
+        "id": 2,
+        "type": 2
+      }
+    ],
+    "defineshowbrave": [
+      {
+        "count": 1,
+        "id": 1061,
+        "type": 0
+      },
+      {
+        "count": 3000000,
+        "id": 13,
+        "type": 13
+      },
+      {
+        "count": 300000,
+        "id": 2,
+        "type": 2
+      }
+    ],
+    "defineshowpartake": [
+      {
+        "count": 2800000,
+        "id": 13,
+        "type": 13
+      },
+      {
+        "count": 200000,
+        "id": 2,
+        "type": 2
+      }
+    ],
+    "describe": "黑暗的时代即将来临，强大的深渊领主即将从黑暗中复苏，请勇士们前往击杀！\n\n\n\n|C:0x2eb52d&T:等级28级|\n|C:0x2eb52d&T:每日12:30、19:30开始|",
+    "fbId": 23,
+    "inspire": [
+      {
+        "costs": [
+          {
+            "count": 500000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "times": 5,
+        "type": 1,
+        "value": 10
+      },
+      {
+        "costs": [
+          {
+            "count": 10,
+            "id": 4,
+            "type": 4
+          }
+        ],
+        "times": 5,
+        "type": 2,
+        "value": 10
+      }
+    ],
+    "isCheckTime": 0,
+    "name": "次元首领",
+    "openParam": {
+      "level": 28,
+      "openday": 35
+    },
+    "rewardBtn": "进入",
+    "rewards": [
+      {
+        "count": 0,
+        "id": 1061,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 13,
+        "type": 13
+      },
+      {
+        "count": 0,
+        "id": 2,
+        "type": 2
+      }
+    ],
+    "ruleID": 39,
+    "showParam": {
+      "level": 1,
+      "openDay": 35
+    },
+    "starttime": 0,
+    "tipsbuttonfunction": {
+      "param1": "app.ActivityCopiesWin",
+      "param2": [
+        2
+      ],
+      "type": 1
+    },
+    "tipsbuttontext": "立即参与",
+    "tipstext": "黑暗的时代即将来临，强大的深渊领主即将从黑暗中复苏，请勇士们前往击杀！",
+    "tipstime": "中午12:00和晚上21:05开始",
+    "tipstitleicon": "open_bt_1",
+    "titleIcon": "Act_biaoti_sjboss",
+    "uiType": 1
+  }
+}

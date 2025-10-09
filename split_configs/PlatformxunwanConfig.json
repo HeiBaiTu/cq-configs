@@ -1,0 +1,186 @@
+{
+  "dailyGift": {
+    "1": {
+      "awards": [
+        {
+          "count": 1,
+          "id": 269,
+          "type": 0
+        },
+        {
+          "count": 2,
+          "id": 247,
+          "type": 0
+        },
+        {
+          "count": 3,
+          "id": 7,
+          "type": 7
+        }
+      ],
+      "viplvl": 1
+    },
+    "2": {
+      "awards": [
+        {
+          "count": 2,
+          "id": 269,
+          "type": 0
+        },
+        {
+          "count": 3,
+          "id": 247,
+          "type": 0
+        },
+        {
+          "count": 4,
+          "id": 7,
+          "type": 7
+        }
+      ],
+      "viplvl": 2
+    },
+    "3": {
+      "awards": [
+        {
+          "count": 3,
+          "id": 269,
+          "type": 0
+        },
+        {
+          "count": 4,
+          "id": 247,
+          "type": 0
+        },
+        {
+          "count": 5,
+          "id": 7,
+          "type": 7
+        }
+      ],
+      "viplvl": 3
+    },
+    "4": {
+      "awards": [
+        {
+          "count": 4,
+          "id": 269,
+          "type": 0
+        },
+        {
+          "count": 5,
+          "id": 247,
+          "type": 0
+        },
+        {
+          "count": 6,
+          "id": 7,
+          "type": 7
+        }
+      ],
+      "viplvl": 4
+    }
+  },
+  "vipGift": {
+    "1": {
+      "awards": [
+        {
+          "count": 1,
+          "id": 302,
+          "type": 0
+        },
+        {
+          "count": 5,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 10,
+          "id": 7,
+          "type": 7
+        },
+        {
+          "count": 10000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "vip": 1
+    },
+    "2": {
+      "awards": [
+        {
+          "count": 5,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 5,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 20,
+          "id": 7,
+          "type": 7
+        },
+        {
+          "count": 20000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "vip": 2
+    },
+    "3": {
+      "awards": [
+        {
+          "count": 8,
+          "id": 261,
+          "type": 0
+        },
+        {
+          "count": 8,
+          "id": 269,
+          "type": 0
+        },
+        {
+          "count": 30,
+          "id": 7,
+          "type": 7
+        },
+        {
+          "count": 30000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "vip": 3
+    },
+    "4": {
+      "awards": [
+        {
+          "count": 10,
+          "id": 421,
+          "type": 0
+        },
+        {
+          "count": 10,
+          "id": 269,
+          "type": 0
+        },
+        {
+          "count": 40,
+          "id": 7,
+          "type": 7
+        },
+        {
+          "count": 40000,
+          "id": 2,
+          "type": 2
+        }
+      ],
+      "vip": 4
+    }
+  }
+}

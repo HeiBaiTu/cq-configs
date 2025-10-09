@@ -1,0 +1,130 @@
+-- 版本配置
+--#include "data/config/editionConf.config" once
+
+-- 副本配置
+--#include "data/envir/StaticFubens.config" once
+--#include "data/envir/FubenType1.config" once
+--#include "data/envir/FubenType2.config" once
+--#include "data/envir/FubenType4.config" once
+
+-- 活动配置
+--#include "data/config/appraisal/AppraisalMain.config" once  --水晶鉴定
+--#include "data/config/worship/WorshipCommon.config" once  --膜拜
+--#include "data/config/activity/Activities.config" once
+--#include "data/config/activity/PActivities.config" once
+--#include "data/config/activity/Activity1Config.config" once
+--#include "data/config/activity/Activity2Config.config" once
+--#include "data/config/activity/Activity3Config.config" once
+--#include "data/config/activity/Activity4Config.config" once
+--#include "data/config/activity/Activity5Config.config" once
+--#include "data/config/activity/Activity6Config.config" once
+--#include "data/config/activity/Activity7Config.config" once
+--#include "data/config/activity/Activity8Config.config" once
+--#include "data/config/activity/Activity9Config.config" once
+--#include "data/config/activity/Activity10Config.config" once
+--#include "data/config/activity/Activity11Config.config" once
+--#include "data/config/activity/Activity14Config.config" once
+--#include "data/config/activity/ActivitysetConfig.config" once
+
+--#include "data/config/activity/Activity12Config.config" once
+--#include "data/config/activity/Activity13Config.config" once
+--#include "data/config/activity/Activity14shopConfig.config" once
+--#include "data/config/activity/Activity15Config.config" once
+--#include "data/config/activity/Activity16Config.config" once
+--#include "data/config/activity/Activity17Config.config" once
+--#include "data/config/activity/Activity18Config.config" once
+--#include "data/config/activity/Activity19Config.config" once 
+--#include "data/config/activity/Activity21Config.config" once
+--#include "data/config/activity/Activity22Config.config" once
+--#include "data/config/activity/Activity23Config.config" once
+--#include "data/config/activity/Activity24Config.config" once
+--#include "data/config/activity/Activity25Config.config" once
+--#include "data/config/activity/Activity26Config.config" once
+--#include "data/config/activity/Activity27Config.config" once
+--#include "data/config/activity/Activity28Config.config" once
+
+--#include "data/config/activity/Activity10001Config.config" once
+--#include "data/config/activity/Activity10002Config.config" once
+--#include "data/config/activity/Activity10003Config.config" once
+--#include "data/config/activity/Activity10004Config.config" once
+--#include "data/config/activity/Activity10005Config.config" once
+--#include "data/config/activity/Activity10006Config.config" once
+--#include "data/config/activity/Activity10009Config.config" once
+--#include "data/config/activity/Activity10010Config.config" once
+--#include "data/config/activity/Activity10014Config.config" once
+--#include "data/config/activity/Activity10015Config.config" once
+--#include "data/config/activity/Activity10017Config.config" once
+--#include "data/config/activity/Activity10019Config.config" once
+--#include "data/config/activity/Activity10020Config.config" once
+--#include "data/config/activity/Activity10021Config.config" once --二充活动
+--#include "data/config/activity/Activity10033Config.config" once  --区服冠名
+--#include "data/config/activity/Activity10038Config.config" once  --神秘福袋
+--#include "data/config/Platform360/Platform360.config" once --360大玩家特权
+--#include "data/config/Platform7youxi/Platform7youxi.config" once --7游戏 微信礼包
+--#include "data/config/Platformludashi/Ludashimember.config" once --鲁大师 会员
+--#include "data/config/Platformludashi/Ludashivip.config" once --鲁大师 vip
+--#include "data/config/Platformludashi/Platformludashi.config" once --鲁大师
+--#include "data/config/Platformqidian/Platformqidian.config" once --QiDian
+--#include "data/config/Platformaiqiyi/Platformaiqiyi.config" once --AiQiYi
+--#include "data/config/PlatformYaodou/PlatformYaodou.config" once --YaoDou
+--#include "data/config/PlatformTanwan/PlatformTanwan.config" once --贪玩
+--#include "data/config/PlatformGame2/PlatformGame2.config" once --哥们
+--#include "data/config/Platform2144/Platform2144.config" once --2144
+--#include "data/config/Platformteeqee/Platformteeqee.config" once --快玩
+--#include "data/config/Platformshunwang/Platformshunwang.config" once --顺网
+--#include "data/config/Platformxunwan/Platformxunwan.config" once --迅玩
+--#include "data/config/Platformxunwan/Xunwantitle.config" once    --迅玩 称号
+--#include "data/config/YYPlatform/YYMemberConfig.config" once
+--#include "data/config/YYPlatform/YYVIPConfig.config" once
+--#include "data/config/YYPlatform/GameVIPConfig.config" once
+--#include "data/config/activity/SignPrize.config" once --签到
+--#include "data/config/Moneytree/Moneytreeconst.config" once --摇钱树
+--#include "data/config/Moneytree/MoneytreeReward.config" once --摇钱树
+--#include "data/config/OnlineTime/OnlineTimeReward.config" once --累计在线
+--#include "data/config/OnlineTime/OnlineTimeconst.config" once --在线
+--#include "data/config/Platform37/Platform37.config" once              --37游 
+--#include "data/config/PlatformSogou/LevelSogou.config" once           --sogou游 
+--#include "data/config/PlatformSogou/LoginSogou.config" once           --sogou游 
+--#include "data/config/PlatformSogou/PlatformSogou.config" once        --sogou游 
+--#include "data\config\PlatformKU25\PlatformKU25.config" once --ku25 其他奖励
+--#include "data\config\PlatformKU25\LoginKU25.config" once    --ku25 每日奖励
+
+-- 套装
+--#include "data/config/SuitConfig.config" once
+
+-- NPC功能相关
+--#include "data/config/npc/npc.config" once			--NPC
+--#include "data/config/npc/functions.config" once		--NPC功能
+--#include "data/config/npc/npctrance.config" once		--NPC传送
+
+-- 系统配置
+--#include "data/config/PKConfig.config" once 								--pk配置  
+--#include "data/config/guild/Guild.txt" once								--公会配置
+--#include "data/config/ReliveConfig.config" once
+
+--#include "data/config/boss/boss.config" once          --boss
+--#include "data/config/boss/SZBossConfig.config" once          --神装bossConst
+
+--#include "data/config/recharge/ProdItemMapConf.config" once  --商品id及发货id映射表
+--#include "data/config/recharge/RechargeConf.config" once  --元宝充值表
+--#include "data/config/recharge/GiftItemConf.config" once  --充值礼包表
+--#include "data/config/cdkey/CdkeyService.config" once  --CDKey服务配置
+--#include "data/config/automaticcdkey/autoCdkeyService.config" once  --CDKey服务配置游戏猫
+--#include "data/config/cdkey/Cdkey.config" once  --CDKey礼包配置
+--#include "data/config/cdkey/CommonCdkey.config" once  --通码配置
+
+--#include "data/config/mail/MailID.config" once  --邮件
+--#include "data/config/mail/LevelMail.config" once  --邮件
+--#include "data/config/mail/LoginDayMail.config" once  --邮件
+
+--#include "data/config/Platform4366/Login4366.config" once  --4366
+--#include "data/config/Platform4366/Platform4366.config" once  --4366
+--#include "data/config/PlatformQQ/PlatformQQ.config" once  --qq
+--#include "data/config/PlatformQQ/LoginQQ.config" once  --qq
+--#include "data/config/PlatformQQ/BlueDiamondDaily.config" once  --qq
+--#include "data/config/PlatformQQ/LevelBlueDiamond.config" once  --qq
+
+--#include "data/config/playfun/NativeReward.config" once  --微端
+
+--#include "data/config/YBrecover/YBrecover.config" once  --回收元宝
+--#include "data/envir/Scenes.config" once

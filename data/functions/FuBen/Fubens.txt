@@ -1,0 +1,3 @@
+require("FuBen.FubenType1")  --普通刷怪进度副本
+require("FuBen.FubenType2")  --PVP副本
+require("FuBen.FubenType4")  --简单副本，藏经峡谷,独闯天涯

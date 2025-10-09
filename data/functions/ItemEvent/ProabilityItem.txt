@@ -1,0 +1,195 @@
+--���ܸ��ʵķ�ʽ������Ʒ
+
+--��������
+--#include "data/config/item/scriptItemConfig/ProabilityItem.txt" once
+
+
+--[[
+--�����ܸ���Roll��Ʒ 
+--sysarg:ʵ���ָ��
+--itemidx: ��Ʒ��ID
+--itemPtr: ��Ʒ��ָ��
+--ItemTable: ���õĲ����б�������������õĻ�����������Ҫ�������ӵ����� 
+--]]
+function ProbablityItemFunc(sysarg,count,itemidx,itemPtr,ItemTable) --��ʱδ�õ�������count�ֶμ��ϲ���������
+
+	if(itemidx == nil) then 
+	System.trace ("ProbablityItemFunc itemidx ==nil")
+	return 
+	end
+	--print ("ProbablityItemFunc"..itemidx)
+	--��ȡ���Ŀǰ�ж��ٸ��ո��ӣ�������Ӳ������ͷ��� 
+	local config =ItemTable
+	if(config == nil) then 
+		System.trace("ProbablityItemFunc config is nill")
+		return 
+	end
+	-- �����ǵ�����Ҫ���Ｄ��ſ�ʹ��
+	if config.needRideActivited and not IsRideActivited(sysarg) then
+		return 
+	end	
+	
+	--������ϵı������� 
+	local count = Item.getAllBagMinEmptyGridCount(sysarg)
+	--local count = Item.getBagEmptyGridCount(sysarg)
+	local needGridCount=1   --��Ҫ�������ӵ����� 
+	if( config.needMinBagGrid ~= nil) then
+	 needGridCount =   config.needMinBagGrid 
+	end
+
+	if needGridCount and count < needGridCount then
+	local tipMsg = string.format(OldLang.ScriptTips.x00074,needGridCount)
+	Actor.sendTipmsg( sysarg,tipMsg,ttFlyTip )
+	return false
+	end
+
+	-- ��ȡ���Ԫ������
+	local nYb =  Actor.getIntProperty(sysarg,PROP_ACTOR_YUANBAO)
+	local needYb = 0
+	if config.needYuanBao and config.needYuanBao > 0 then
+		needYb = config.needYuanBao
+		if nYb < needYb then
+			Actor.sendTipmsg( sysarg,OldLang.Script.comm005, ttFlyTip )
+			return false
+		end
+		local itemName = Item.getItemName(config.item_id);
+		if not Actor.changeMoney(sysarg, 3, -needYb, 842, itemName) then
+			local msg = string.format(OldLang.Script.comm004, needYb, itemName);
+			Actor.sendTipmsg( sysarg, msg, ttFlyTip );
+			return false;
+		end
+	end
+
+
+	--�ж���Ʒ��Ҫ���ĵ���Ŀ
+	local nNeedItemCount = ItemTable.itemCount
+	if(nNeedItemCount == nil) then 
+		nNeedItemCount =1 
+	end
+	if( Actor.getItemCount(sysarg,itemidx,-1,-1) < nNeedItemCount) then
+		local tipMsg = string.format(OldLang.ScriptTips.x00140,nNeedItemCount)
+		Actor.sendTipmsg( sysarg,tipMsg,ttFlyTip )
+		return false
+	end
+
+	local consumes = {}
+	
+	if config.consumes and table.getn(config.consumes) > 0 then
+		for k, v in ipairs(config.consumes) do
+			table.insert(consumes, v)
+		end
+	end
+	
+	local consume = {type = 0, id = itemidx, count = nNeedItemCount}
+	table.insert(consumes, consume)
+	
+	--[[
+	if CommonFunc.Consumes.SuccessCheck(sysarg, consumes) ~= successCheckResult.ok then
+		return false
+	end
+	]]
+
+	--��Ҫrollһ����Ʒ
+	local dropName = "proability"..tostring(itemidx) --������������
+	local drop = System.getObjectVar(dropName)
+	if (not drop) then
+		System.trace("getObjectVar is nil"..itemidx)
+		return
+	end
+
+	local items = drop:proabilityDrop(sysarg)
+	if ( items.itemCount > 0) then
+		for i = items.itemCount - 1, 0, -1 do
+			local result = Actor.canGiveAward(sysarg, 
+				items.itemList[i].btAwardType,
+				items.itemList[i].wItemId, 
+				items.itemList[i].btCount,
+				items.itemList[i].btQuality,
+				items.itemList[i].btStrong,
+				items.itemList[i].btBind,
+				true)
+			if not result then
+				return false
+			end
+		end
+	end
+
+	--�����Ҫɾ����Ʒ�Ļ���ɾ��
+	--if (config.needDelete and (Actor.removeItem(sysarg,itemidx,nNeedItemCount,-1,-1,-1,"Roll",2) ~=nNeedItemCount) ) then --ɾ����Ʒʧ�� 
+	--[[
+	local bBind = 1
+	local result = successCheckResult.otherLack
+	if (config.needDelete) then
+		result, bBind = Consumes.OnConsumes(sysarg, consumes, 0, 0, 2, "ProabilityItem Roll")
+		if result ~= successCheckResult.ok then
+			return false
+		end
+	end
+	]]
+	
+	--[[
+	��δ����������������tips�ģ����ǲ��������⣬��ʱ���� 
+	Item.addItem(sysarg,itemPtr,"roll",1,items.itemList[i].btCount)
+		  if(items.itemList[i].btAuxParam ==1)  then
+			 local itemDes = Item.getItemLinkMsg(items.itemList[i].wItemId,itemPtr)
+			   local tipMsg = string.format(OldLang.ScriptTips.x00085,Actor.getName(sysarg),Item.getItemName(itemidx),   itemDes )   --Ҫȫ���㲥
+			  System.broadcastTipmsg(tipMsg,ttScreenCenter )
+			end
+	--]]
+		  
+	--���������б�����������ҵ���Ʒ
+
+	if ( items.itemCount > 0) then
+	  for i=0, items.itemCount -1 do
+		if config.infectBind == nil or config.infectBind ~= true then
+			bBind = items.itemList[i].btBind
+		end
+		
+		Actor.giveAward(sysarg,
+		items.itemList[i].btAwardType,
+		items.itemList[i].wItemId, 
+		items.itemList[i].btCount,
+		items.itemList[i].btQuality,
+		items.itemList[i].btStrong,
+		bBind,
+		items.itemList[i].nTime,
+		1,"roll")  
+		if(items.itemList[i].btAuxParam ==1)  then
+			local count = items.itemList[i].btCount
+			local name = Item.getAwardDesc(items.itemList[i].btAwardType,items.itemList[i].wItemId,true,items.itemList[i])
+			if(name ~= nil and name ~= "") then
+			
+				if(items.itemList[i].btAwardType == 20) then --������������þ����
+					count = Actor.getActivityExp(sysarg,items.itemList[i].wItemId,items.itemList[i].btCount,items.itemList[i].btQuality)
+				end
+				local tipMsg = string.format(OldLang.ScriptTips.x00085,Actor.getName(sysarg),Item.getItemName(itemidx),  name,count )   --Ҫȫ���㲥
+				System.broadcastTipmsg(tipMsg,ttScreenCenter + ttChatWindow)
+			end
+		end
+	  end
+	end
+	return true
+end
+
+--��ʼ���������ۺϱ���Ʒ 
+function InitProabilityDropItem(sysarg)
+	-- ��ȡ"data/config/item/scriptItemConfig/ProabilityItem.txt"�ı�ProabolityItemConfig
+  for i = 1,table.getn(ProabolityItemConfig) do
+    local x = ProabolityItemConfig[i]
+    
+    GlobalItemFn[x.item_id] = { func = ProbablityItemFunc,params =x }
+    
+    --�ڳ�ʼ����ʱ��ȫ��װ�ؽ��� ,���������ʱȥ����
+    local dropName = "proability"..tostring(x.item_id)
+    local boxdrop = System.getObjectVar(dropName)
+	if (not boxdrop) then
+		boxdrop = CBoxDropMgr:getSingleton():createBoxDrop(dropName)  -- ����᷵��һ������������(CBoxDrop)
+	end
+	if(boxdrop) then
+		boxdrop:load(x.dropName) -- �����ļ��������Ʒ
+	end
+  end
+
+end
+
+table.insert(InitFnTable,InitProabilityDropItem)

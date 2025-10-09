@@ -1,0 +1,30 @@
+--精英经验殿
+
+local npcId = 103
+
+NpcDialog[npcId] = {}
+local t = NpcDialog[npcId]
+
+function t.main(sysarg)
+    local str = "\\"
+	local level = Actor.getIntProperty(sysarg, PROP_CREATURE_LEVEL)
+    for i=1,#ExpMapConfig.LevelConfig do
+		if level >= ExpMapConfig.LevelConfig[i].min  and  level <= ExpMapConfig.LevelConfig[i].max then
+            str = str.."\\<#BL"..ExpMapConfig.LevelConfig[i].menu.."/@EnterExpMap,"..i..">"
+        end
+    end	
+	return str
+end
+
+function  EnterExpMap(sysarg,idx)
+    local level = Actor.getIntProperty(sysarg, PROP_CREATURE_LEVEL)
+	local i = tonumber(idx)
+	local cfg =  ExpMapConfig.LevelConfig[i]
+	if cfg then 
+	    if level < cfg.min  or  level > cfg.max then
+	        Actor.sendTipmsg(sysarg,OldLang.Script.ExpMap001, ttFlyTip)
+			return
+	    end
+		Actor.enterScene(sysarg,cfg.SceneId, cfg.x, cfg.y)
+	end
+end

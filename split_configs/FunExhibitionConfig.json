@@ -1,0 +1,321 @@
+{
+  "1": {
+    "funName": "商城",
+    "id": 1,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "param": [
+      1
+    ],
+    "view": "app.ShopView"
+  },
+  "2": {
+    "funName": "行会",
+    "id": 2,
+    "isOpenNeed": {
+      "level": 24,
+      "openDay": 1
+    },
+    "view": "app.GuildNoGuildListView"
+  },
+  "3": {
+    "funName": "挂机",
+    "id": 3,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "view": ""
+  },
+  "4": {
+    "funName": "技能",
+    "id": 4,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "param": [
+      1,
+      0
+    ],
+    "view": "app.RoleView"
+  },
+  "5": {
+    "funName": "角色",
+    "id": 5,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "param": [
+      0,
+      0
+    ],
+    "view": "app.RoleView"
+  },
+  "6": {
+    "funName": "背包",
+    "id": 6,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "view": "app.BagView"
+  },
+  "7": {
+    "funName": "普攻",
+    "id": 7,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "view": ""
+  },
+  "8": {
+    "funName": "锻造",
+    "id": 8,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "view": "app.ForgeWin"
+  },
+  "9": {
+    "funName": "邮件",
+    "id": 9,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "view": "app.MailView"
+  },
+  "10": {
+    "funName": "排行",
+    "id": 10,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "view": "app.RankView"
+  },
+  "11": {
+    "funName": "寄售行",
+    "id": 11,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "view": "app.TradeLineWin"
+  },
+  "12": {
+    "funName": "私人交易",
+    "id": 12,
+    "isOpenNeed": {
+      "level": 25,
+      "openDay": 1
+    },
+    "view": "app.PrivateDealsWin"
+  },
+  "13": {
+    "funName": "设置",
+    "id": 13,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "view": "app.SetUpView"
+  },
+  "14": {
+    "funName": "组队",
+    "id": 14,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "view": "app.TeamView"
+  },
+  "15": {
+    "funName": "好友",
+    "id": 15,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "view": "app.FriendView"
+  },
+  "16": {
+    "funName": "洗红名",
+    "id": 16,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "view": "app.WashRedNameView"
+  },
+  "17": {
+    "funName": "活动",
+    "id": 17,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "view": "app.ActivityCopiesWin"
+  },
+  "18": {
+    "funName": "仓库",
+    "id": 18,
+    "isOpenNeed": {
+      "level": 1,
+      "vip": 1
+    },
+    "showTips": "白卡会员开启仓库功能",
+    "view": "app.WarehouseWin"
+  },
+  "19": {
+    "funName": "会员特权",
+    "id": 19,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "view": "app.VipView"
+  },
+  "20": {
+    "funName": "首充",
+    "id": 20,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "view": "app.ActvityFirstChargeView"
+  },
+  "21": {
+    "funName": "微端福利",
+    "id": 21,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "view": "app.FuLi4366MicroWin"
+  },
+  "22": {
+    "funName": "微端福利",
+    "id": 22,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "view": "app.CommonMicroWin"
+  },
+  "23": {
+    "funName": "一键回收",
+    "id": 23,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "param": [
+      6
+    ],
+    "view": "app.SetUpView"
+  },
+  "24": {
+    "funName": "商城",
+    "id": 24,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "param": [
+      [
+        1,
+        1
+      ]
+    ],
+    "view": "app.ShopView"
+  },
+  "25": {
+    "funName": "狂暴之力",
+    "id": 25,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "view": "app.ViolentStateWin"
+  },
+  "26": {
+    "funName": "摇钱树",
+    "id": 26,
+    "isOpenNeed": {
+      "level": 1,
+      "zsLevel": 2
+    },
+    "param": [
+      "yqs"
+    ],
+    "view": "app.ActivityWlelfareView"
+  },
+  "27": {
+    "funName": "玛法战令",
+    "id": 27,
+    "isOpenNeed": {
+      "level": 30,
+      "openDay": 8,
+      "zsLevel": 1
+    },
+    "view": "app.ActivityWarView"
+  },
+  "28": {
+    "funName": "幸运寻宝",
+    "id": 28,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "param": {
+      "id": [
+        10225,
+        10226,
+        10227,
+        10228
+      ],
+      "type": 1
+    },
+    "view": "app.OpenServerTreasureWin2"
+  },
+  "29": {
+    "funName": "幸运寻宝",
+    "id": 29,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "param": {
+      "id": [
+        10025
+      ],
+      "type": 2
+    },
+    "view": "app.OpenServerTreasureWin"
+  },
+  "30": {
+    "funName": "藏经阁",
+    "id": 30,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "param": {
+      "id": [
+        10241,
+        10242,
+        10243
+      ],
+      "title": "biaoti_cangjingge",
+      "type": 1
+    },
+    "view": "app.OpenServerTreasureWin3"
+  }
+}

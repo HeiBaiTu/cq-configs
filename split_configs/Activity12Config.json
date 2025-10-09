@@ -1,0 +1,136 @@
+{
+  "0": {
+    "Id": 0,
+    "Persongift": [
+      {
+        "count": 0,
+        "id": 411,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 415,
+        "type": 0
+      }
+    ],
+    "bg": "Act_hdbg2_clfb",
+    "countstart": 1,
+    "describe": "消灭所有副本内怪物，就能获得大量材料\n\n\n|C:0x2eb52d&T:等级27级 消耗绑金2万|",
+    "isCheckTime": 0,
+    "openParam": {
+      "level": 999,
+      "openDay": 999
+    },
+    "openView": "app.ActivityMaterialView",
+    "rewardBtn": "进入",
+    "rewards": [
+      {
+        "count": 0,
+        "id": 411,
+        "type": 0
+      },
+      {
+        "count": 0,
+        "id": 415,
+        "type": 0
+      }
+    ],
+    "ruleID": 70,
+    "showParam": {
+      "level": 999,
+      "openDay": 999
+    },
+    "titleIcon": "Act_biaoti_clfb",
+    "uiType": 2
+  },
+  "15": {
+    "Id": 15,
+    "IsAdd": true,
+    "Persongift": [
+      {
+        "count": 6,
+        "id": 411,
+        "type": 0
+      }
+    ],
+    "bg": "act_clfbbg_1",
+    "buttoncolor": 2,
+    "count": 2,
+    "countstart": 1,
+    "enterExpends": [],
+    "fbId": 14,
+    "isCheckTime": 0,
+    "isFromOpenSrv": true,
+    "openParam": {
+      "level": 999,
+      "openDay": 999
+    },
+    "rewardBtn": "进入",
+    "rewards": [
+      {
+        "count": 6,
+        "id": 411,
+        "type": 0
+      }
+    ],
+    "ruleID": 33,
+    "saodangExpends": [
+      {
+        "count": 1,
+        "id": 436,
+        "type": 0
+      }
+    ],
+    "showParam": {
+      "level": 999,
+      "openDay": 999
+    },
+    "titleIcon": "act_clfbt_1",
+    "uiType": 2
+  },
+  "16": {
+    "Id": 16,
+    "IsAdd": true,
+    "Persongift": [
+      {
+        "count": 5,
+        "id": 415,
+        "type": 0
+      }
+    ],
+    "bg": "act_clfbbg_2",
+    "buttoncolor": 2,
+    "count": 2,
+    "countstart": 4,
+    "enterExpends": [],
+    "fbId": 15,
+    "isCheckTime": 0,
+    "isFromOpenSrv": true,
+    "openParam": {
+      "level": 999,
+      "openDay": 999
+    },
+    "rewardBtn": "进入",
+    "rewards": [
+      {
+        "count": 5,
+        "id": 415,
+        "type": 0
+      }
+    ],
+    "ruleID": 33,
+    "saodangExpends": [
+      {
+        "count": 1,
+        "id": 436,
+        "type": 0
+      }
+    ],
+    "showParam": {
+      "level": 999,
+      "openDay": 999
+    },
+    "titleIcon": "act_clfbt_2",
+    "uiType": 2
+  }
+}

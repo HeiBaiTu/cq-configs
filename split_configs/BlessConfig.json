@@ -1,0 +1,233 @@
+{
+  "0": {
+    "attrs": [
+      {
+        "type": 45,
+        "value": 0
+      }
+    ],
+    "blessdown": 0,
+    "level": 0,
+    "needBlessValue": 0
+  },
+  "1": {
+    "attrs": [
+      {
+        "type": 45,
+        "value": 1
+      }
+    ],
+    "blessdown": 0,
+    "level": 1,
+    "needBlessValue": 8
+  },
+  "2": {
+    "attrs": [
+      {
+        "type": 45,
+        "value": 2
+      }
+    ],
+    "blessdown": 0,
+    "level": 2,
+    "needBlessValue": 38
+  },
+  "3": {
+    "attrs": [
+      {
+        "type": 45,
+        "value": 3
+      }
+    ],
+    "blessdown": 5,
+    "level": 3,
+    "needBlessValue": 98
+  },
+  "4": {
+    "attrs": [
+      {
+        "type": 45,
+        "value": 4
+      }
+    ],
+    "blessdown": 25,
+    "level": 4,
+    "needBlessValue": 188
+  },
+  "5": {
+    "attrs": [
+      {
+        "type": 45,
+        "value": 5
+      }
+    ],
+    "blessdown": 45,
+    "level": 5,
+    "needBlessValue": 298
+  },
+  "6": {
+    "attrs": [
+      {
+        "type": 45,
+        "value": 6
+      }
+    ],
+    "blessdown": 65,
+    "level": 6,
+    "needBlessValue": 458
+  },
+  "7": {
+    "attrs": [
+      {
+        "type": 45,
+        "value": 7
+      }
+    ],
+    "blessdown": 85,
+    "level": 7,
+    "needBlessValue": 658
+  },
+  "8": {
+    "attrs": [
+      {
+        "type": 45,
+        "value": 8
+      }
+    ],
+    "blessdown": 120,
+    "level": 8,
+    "needBlessValue": 888
+  },
+  "9": {
+    "attrs": [
+      {
+        "type": 45,
+        "value": 9
+      }
+    ],
+    "blessdown": 160,
+    "level": 9,
+    "needBlessValue": 1288
+  },
+  "10": {
+    "attrs": [
+      {
+        "type": 45,
+        "value": 10
+      }
+    ],
+    "blessdown": 200,
+    "level": 10,
+    "needBlessValue": 1588
+  },
+  "11": {
+    "attrs": [
+      {
+        "type": 45,
+        "value": 11
+      }
+    ],
+    "blessdown": 240,
+    "level": 11,
+    "needBlessValue": 1688
+  },
+  "12": {
+    "attrs": [
+      {
+        "type": 45,
+        "value": 12
+      }
+    ],
+    "blessdown": 280,
+    "level": 12,
+    "needBlessValue": 2188
+  },
+  "13": {
+    "attrs": [
+      {
+        "type": 45,
+        "value": 13
+      }
+    ],
+    "blessdown": 320,
+    "level": 13,
+    "needBlessValue": 2588
+  },
+  "14": {
+    "attrs": [
+      {
+        "type": 45,
+        "value": 14
+      }
+    ],
+    "blessdown": 380,
+    "level": 14,
+    "needBlessValue": 3088
+  },
+  "15": {
+    "attrs": [
+      {
+        "type": 45,
+        "value": 15
+      }
+    ],
+    "blessdown": 450,
+    "level": 15,
+    "needBlessValue": 3688
+  },
+  "16": {
+    "attrs": [
+      {
+        "type": 45,
+        "value": 16
+      }
+    ],
+    "blessdown": 520,
+    "level": 16,
+    "needBlessValue": 4599
+  },
+  "17": {
+    "attrs": [
+      {
+        "type": 45,
+        "value": 17
+      }
+    ],
+    "blessdown": 590,
+    "level": 17,
+    "needBlessValue": 5888
+  },
+  "18": {
+    "attrs": [
+      {
+        "type": 45,
+        "value": 18
+      }
+    ],
+    "blessdown": 660,
+    "level": 18,
+    "needBlessValue": 6888
+  },
+  "19": {
+    "attrs": [
+      {
+        "type": 45,
+        "value": 19
+      }
+    ],
+    "blessdown": 900,
+    "level": 19,
+    "needBlessValue": 7888
+  },
+  "20": {
+    "attrs": [
+      {
+        "type": 45,
+        "value": 20
+      }
+    ],
+    "blessdown": 1088,
+    "level": 20,
+    "needBlessValue": 8888
+  }
+}

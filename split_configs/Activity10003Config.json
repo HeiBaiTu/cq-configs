@@ -1,0 +1,290 @@
+{
+  "10003": {
+    "1": {
+      "1": {
+        "Count": 1,
+        "Description": "fc_t4",
+        "GiftTable": [
+          {
+            "count": 1,
+            "id": 40,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 1376,
+            "type": 0
+          },
+          {
+            "count": 8,
+            "id": 269,
+            "type": 0
+          },
+          {
+            "count": 500000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "Id": 10003,
+        "days": 1,
+        "isCheckTime": 1,
+        "jobs": 1,
+        "name": "首充",
+        "weaponeff": "eff_sc1"
+      },
+      "2": {
+        "Count": 1,
+        "GiftTable": [
+          {
+            "count": 20,
+            "id": 261,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 365,
+            "type": 0
+          },
+          {
+            "count": 5,
+            "id": 421,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 351,
+            "type": 0
+          }
+        ],
+        "Id": 10003,
+        "days": 2,
+        "isCheckTime": 1,
+        "jobs": 1,
+        "name": "首充",
+        "weaponeff": "eff_sc2"
+      },
+      "3": {
+        "Count": 1,
+        "GiftTable": [
+          {
+            "count": 1,
+            "id": 1001,
+            "type": 0
+          },
+          {
+            "count": 5,
+            "id": 854,
+            "type": 0
+          },
+          {
+            "count": 5,
+            "id": 269,
+            "type": 0
+          },
+          {
+            "count": 3,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "Id": 10003,
+        "days": 3,
+        "isCheckTime": 1,
+        "jobs": 1,
+        "name": "首充",
+        "weaponeff": "eff_sc4"
+      }
+    },
+    "2": {
+      "1": {
+        "Count": 1,
+        "GiftTable": [
+          {
+            "count": 1,
+            "id": 40,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 1377,
+            "type": 0
+          },
+          {
+            "count": 8,
+            "id": 269,
+            "type": 0
+          },
+          {
+            "count": 500000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "Id": 10003,
+        "days": 1,
+        "isCheckTime": 1,
+        "jobs": 2,
+        "name": "首充",
+        "weaponeff": "eff_sc3"
+      },
+      "2": {
+        "Count": 1,
+        "GiftTable": [
+          {
+            "count": 20,
+            "id": 261,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 365,
+            "type": 0
+          },
+          {
+            "count": 5,
+            "id": 421,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 351,
+            "type": 0
+          }
+        ],
+        "Id": 10003,
+        "days": 2,
+        "isCheckTime": 1,
+        "jobs": 2,
+        "name": "首充",
+        "weaponeff": "eff_sc2"
+      },
+      "3": {
+        "Count": 1,
+        "GiftTable": [
+          {
+            "count": 1,
+            "id": 1001,
+            "type": 0
+          },
+          {
+            "count": 5,
+            "id": 854,
+            "type": 0
+          },
+          {
+            "count": 5,
+            "id": 269,
+            "type": 0
+          },
+          {
+            "count": 3,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "Id": 10003,
+        "days": 3,
+        "isCheckTime": 1,
+        "jobs": 2,
+        "name": "首充",
+        "weaponeff": "eff_sc4"
+      }
+    },
+    "3": {
+      "1": {
+        "Count": 1,
+        "GiftTable": [
+          {
+            "count": 1,
+            "id": 40,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 1378,
+            "type": 0
+          },
+          {
+            "count": 8,
+            "id": 269,
+            "type": 0
+          },
+          {
+            "count": 500000,
+            "id": 2,
+            "type": 2
+          }
+        ],
+        "Id": 10003,
+        "days": 1,
+        "isCheckTime": 1,
+        "jobs": 3,
+        "name": "首充",
+        "weaponeff": "eff_sc5"
+      },
+      "2": {
+        "Count": 1,
+        "GiftTable": [
+          {
+            "count": 20,
+            "id": 261,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 365,
+            "type": 0
+          },
+          {
+            "count": 5,
+            "id": 421,
+            "type": 0
+          },
+          {
+            "count": 1,
+            "id": 351,
+            "type": 0
+          }
+        ],
+        "Id": 10003,
+        "days": 2,
+        "isCheckTime": 1,
+        "jobs": 3,
+        "name": "首充",
+        "weaponeff": "eff_sc2"
+      },
+      "3": {
+        "Count": 1,
+        "GiftTable": [
+          {
+            "count": 1,
+            "id": 1001,
+            "type": 0
+          },
+          {
+            "count": 5,
+            "id": 854,
+            "type": 0
+          },
+          {
+            "count": 5,
+            "id": 269,
+            "type": 0
+          },
+          {
+            "count": 3,
+            "id": 302,
+            "type": 0
+          }
+        ],
+        "Id": 10003,
+        "days": 3,
+        "isCheckTime": 1,
+        "jobs": 3,
+        "name": "首充",
+        "weaponeff": "eff_sc4"
+      }
+    }
+  }
+}

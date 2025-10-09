@@ -1,0 +1,20 @@
+{
+  "1": {
+    "cost": 1,
+    "type": 1,
+    "useLimit": 50,
+    "value": 100
+  },
+  "2": {
+    "cost": 200000,
+    "type": 2,
+    "useLimit": 5,
+    "value": 30
+  },
+  "3": {
+    "cost": 30,
+    "type": 3,
+    "useLimit": 1,
+    "value": 10
+  }
+}

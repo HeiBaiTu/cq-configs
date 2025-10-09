@@ -1,0 +1,104 @@
+{
+  "1": {
+    "Reward": [
+      {
+        "count": 100000,
+        "id": 13,
+        "type": 13
+      },
+      {
+        "count": 3,
+        "id": 261,
+        "type": 0
+      }
+    ],
+    "background": "Worship_1_0",
+    "id": 1,
+    "name": "玛法战神"
+  },
+  "2": {
+    "Reward": [
+      {
+        "count": 100000,
+        "id": 13,
+        "type": 13
+      },
+      {
+        "count": 3,
+        "id": 261,
+        "type": 0
+      }
+    ],
+    "background": "Worship_2_0",
+    "id": 2,
+    "name": "玛法魔君"
+  },
+  "3": {
+    "Reward": [
+      {
+        "count": 100000,
+        "id": 13,
+        "type": 13
+      },
+      {
+        "count": 3,
+        "id": 261,
+        "type": 0
+      }
+    ],
+    "background": "Worship_3_0",
+    "id": 3,
+    "name": "玛法天尊"
+  },
+  "4": {
+    "Reward": [
+      {
+        "count": 100000,
+        "id": 13,
+        "type": 13
+      },
+      {
+        "count": 3,
+        "id": 261,
+        "type": 0
+      }
+    ],
+    "background": "Worship_1_1",
+    "id": 4,
+    "name": "玛法战姬"
+  },
+  "5": {
+    "Reward": [
+      {
+        "count": 100000,
+        "id": 13,
+        "type": 13
+      },
+      {
+        "count": 3,
+        "id": 261,
+        "type": 0
+      }
+    ],
+    "background": "Worship_2_1",
+    "id": 5,
+    "name": "玛法魔灵"
+  },
+  "6": {
+    "Reward": [
+      {
+        "count": 100000,
+        "id": 13,
+        "type": 13
+      },
+      {
+        "count": 3,
+        "id": 261,
+        "type": 0
+      }
+    ],
+    "background": "Worship_3_1",
+    "id": 6,
+    "name": "玛法仙姬"
+  }
+}

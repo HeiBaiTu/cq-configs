@@ -1,0 +1,94 @@
+--#include "data\config\item\ItemUseCountCfg.config" once
+
+function sendItemUseCount(sysarg, groupId)
+	--print("sendItemUseCount, groupId="..groupId)
+	local netPack = DataPack.allocPacket(sysarg,139, enScriptMiscSystemSendItemUseCount)
+	if netPack == nil then
+		return
+	end
+	local GropList = {}
+	if(type(groupId) == 'number')then
+		table.insert(GropList, groupId)
+	else
+		GropList = groupId
+	end
+	DataPack.writeByte(netPack, #GropList)
+	for k,v in pairs(GropList)do
+		local lastCount, maxCount = getItemUseCountByGrop(sysarg, v)
+		DataPack.writeShort(netPack, v)
+		DataPack.writeShort(netPack, lastCount)
+		DataPack.writeShort(netPack, maxCount)
+	end
+	DataPack.flush(netPack)
+	--print("sendItemUseCount, groupId="..groupId..", lastCount="..lastCount..", maxCount="..maxCount)
+end
+
+--获得道具的使用次数
+function getItemUseCountByGrop(sysarg, groupId)
+	--print("getItemUseCountByGrop, groupId="..groupId)
+	for itemId, v in pairs(ItemUseCountCfg)do
+		if v.group == groupId then
+			return getItemUseCount(sysarg, itemId)
+		end
+	end
+	return 999,999
+end
+
+--[[获得道具的剩余使用次数
+此方法内部，不要发送任何消息，可能导致宕机
+返回：剩余次数，最大次数
+]]
+function getItemUseCount(sysarg, itemId)
+	--使用次数限制
+	local cfg = ItemUseCountCfg[itemId]
+	if not cfg then
+		return 0,0
+	end
+
+	local groupId  = cfg.group 
+	local maxCount = cfg.dailyUseLimit
+	
+	if not maxCount or not groupId then
+		return 0,0
+	end
+	local actorVar = Actor.getStaticVar(sysarg)	
+	if not actorVar.dailyItemUseCount then
+		actorVar.dailyItemUseCount = {}
+	end
+	if not actorVar.dailyItemUseCount[groupId] then
+		actorVar.dailyItemUseCount[groupId] = 0
+	end
+	local lastCount = maxCount - actorVar.dailyItemUseCount[groupId]    --剩余次数
+	if lastCount < 0 then
+		lastCount = 0
+	end
+	--print("getItemUseCount,groupId="..groupId..", maxCount="..maxCount..", lastCount="..lastCount)
+	return lastCount, maxCount
+end
+
+--增加每日道具已使用次数
+function AddDailyItemUseCount(sysarg, itemId, count)
+	--print("AddDailyItemUseCount, itemId="..itemId..", count="..count)
+	local cfg = ItemUseCountCfg[itemId]
+	if not cfg then
+		return false
+	end
+
+	local groupId  = cfg.group 
+	local maxCount = cfg.dailyUseLimit	
+	local actorVar = Actor.getStaticVar(sysarg)	
+	if not actorVar.dailyItemUseCount then
+		actorVar.dailyItemUseCount = {}
+	end
+	if not actorVar.dailyItemUseCount[groupId] then
+		actorVar.dailyItemUseCount[groupId] = 0
+	end	
+	actorVar.dailyItemUseCount[groupId] = actorVar.dailyItemUseCount[groupId] + count
+	--print("addItemUseCount,  groupId="..groupId..", newCount="..actorVar.dailyItemUseCount[groupId] )
+	sendItemUseCount(sysarg, groupId)
+	local nLastCount = getItemUseCount(sysarg, itemId)
+	local strNotice = string.format(OldLang.NoticeStr.strItemUseCount,Item.getItemName(itemId),count, nLastCount)
+	Actor.sendTipmsg( sysarg, strNotice , ttFlyTip )
+	return true
+end
+

@@ -1,0 +1,2010 @@
+{
+  "1": {
+    "cls": "app.ShopRuleIcon",
+    "id": 1,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 0,
+    "phoneCls": "app.ShopRuleIcon",
+    "sort": 1,
+    "view": "app.ShopView"
+  },
+  "2": {
+    "cls": "app.BagRuleIcon",
+    "displayType": 2,
+    "id": 2,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "keys": [
+      57
+    ],
+    "layer": 0,
+    "phoneCls": "app.BagRuleIcon",
+    "sort": 2,
+    "str": "(9)快捷键",
+    "view": "app.BagView"
+  },
+  "3": {
+    "cls": "app.SkillRuleIcon",
+    "displayType": 2,
+    "id": 3,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "keys": [
+      189
+    ],
+    "layer": 0,
+    "param": [
+      1,
+      0
+    ],
+    "phoneCls": "app.SkillRuleIcon",
+    "phoneIcon": "icon_jineng",
+    "sort": 3,
+    "str": "(-)快捷键",
+    "view": "app.RoleView"
+  },
+  "4": {
+    "displayType": 2,
+    "id": 4,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 0,
+    "param": [
+      6
+    ],
+    "phoneIcon": "icon_shezhi",
+    "phoneLayer": 3,
+    "phoneSort": 1,
+    "sort": 4,
+    "view": "app.SetUpView"
+  },
+  "5": {
+    "cls": "app.RoleRuleIcon",
+    "displayType": 2,
+    "id": 5,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "keys": [
+      48
+    ],
+    "layer": 0,
+    "param": [
+      0,
+      0
+    ],
+    "phoneCls": "app.RoleRuleIcon",
+    "sort": 5,
+    "str": "(0)快捷键",
+    "view": "app.RoleView"
+  },
+  "6": {
+    "id": 6,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 0,
+    "phoneCls": "app.TradeLineRuleIcon",
+    "phoneIcon": "icon_jishouhang",
+    "phoneLayer": 4,
+    "phoneSort": 2,
+    "sort": 6,
+    "view": "app.TradeLineWin"
+  },
+  "7": {
+    "displayType": 2,
+    "id": 7,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 0,
+    "sort": 7,
+    "view": "app.MapMaxView"
+  },
+  "8": {
+    "cls": "app.GuildRuleIcon",
+    "displayType": 2,
+    "id": 8,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 0,
+    "phoneCls": "app.GuildRuleIcon",
+    "phoneIcon": "icon_hanghui",
+    "phoneLayer": 4,
+    "phoneSort": 3,
+    "sort": 8,
+    "view": "app.GuildNoGuildListView"
+  },
+  "9": {
+    "id": 9,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 0,
+    "pfIDclose": [
+      10055
+    ],
+    "phoneIcon": "icon_jiaoyi",
+    "phoneLayer": 3,
+    "phoneSort": 3,
+    "sort": 9,
+    "view": "app.PrivateDealsWin"
+  },
+  "10": {
+    "id": 10,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 0,
+    "phoneCls": "app.RankRuleIcon",
+    "phoneIcon": "icon_rank",
+    "phoneLayer": 5,
+    "phoneSort": 2,
+    "sort": 10,
+    "view": "app.RankView"
+  },
+  "11": {
+    "id": 11,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 0,
+    "param": 1,
+    "phoneCls": "app.PhoneComposeRuleIcon",
+    "phoneIcon": "icon_hecheng",
+    "phoneLayer": 5,
+    "phoneSort": 3,
+    "sort": 11,
+    "view": "app.RecycleWin"
+  },
+  "13": {
+    "displayType": 2,
+    "id": 13,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 0,
+    "sort": 13,
+    "view": "app.ChatWinView"
+  },
+  "14": {
+    "id": 14,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 0,
+    "sort": 14,
+    "view": "app.SwitchPlayerView"
+  },
+  "16": {
+    "cls": "app.MailFlyIcon",
+    "icon": "zjm_shan_youjian",
+    "iconSkin": "MainBtn8Skin",
+    "id": 16,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 5,
+    "phoneCls": "app.MailFlyIcon",
+    "sort": 1,
+    "view": "app.MailView"
+  },
+  "17": {
+    "cls": "app.PrivateDealsRuleIcon",
+    "icon": "zjm_shan_jiaoyi",
+    "iconSkin": "MainBtn8Skin",
+    "id": 17,
+    "layer": 5,
+    "phoneCls": "app.PrivateDealsRuleIcon",
+    "sort": 2,
+    "view": "app.IsAgreeTransView"
+  },
+  "18": {
+    "cls": "app.FlyShoesRuleIcon",
+    "icon": "icon_feixie",
+    "id": 18,
+    "isOpenNeed": {
+      "level": 46,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 46,
+      "openDay": 1
+    },
+    "phoneCls": "app.FlyShoesRuleIcon",
+    "phoneIcon": "icon_feixie",
+    "phoneLayer": 4,
+    "phoneSort": 1,
+    "view": "app.FlyShoesView"
+  },
+  "19": {
+    "cls": "app.TeamFlyIcon",
+    "displayType": 2,
+    "icon": "zjm_shan_zudui",
+    "iconSkin": "MainBtn8Skin",
+    "id": 19,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 5,
+    "phoneCls": "app.TeamFlyIcon",
+    "sort": 3,
+    "view": "app.TeamView"
+  },
+  "21": {
+    "cls": "app.FriendFlyIcon",
+    "displayType": 2,
+    "icon": "zjm_shan_haoyou",
+    "iconSkin": "MainBtn8Skin",
+    "id": 21,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 5,
+    "phoneCls": "app.FriendFlyIcon",
+    "sort": 4,
+    "view": "app.FriendView"
+  },
+  "22": {
+    "cls": "app.BossRuleIcon",
+    "icon": "icon_boss",
+    "id": 22,
+    "isOpenNeed": {
+      "level": 53,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 53,
+      "openDay": 1
+    },
+    "layer": 6,
+    "phoneCls": "app.BossRuleIcon",
+    "phoneIcon": "icon_boss",
+    "phoneLayer": 2,
+    "phoneSort": 5,
+    "sort": 6,
+    "view": "app.BossView"
+  },
+  "23": {
+    "cls": "app.ActivityCopiesRuleIcon",
+    "icon": "icon_activity",
+    "id": 23,
+    "isOpenNeed": {
+      "level": 52,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 52,
+      "openDay": 1
+    },
+    "layer": 6,
+    "phoneCls": "app.ActivityCopiesRuleIcon",
+    "phoneIcon": "icon_activity",
+    "phoneLayer": 2,
+    "phoneSort": 4,
+    "sort": 4,
+    "view": "app.ActivityCopiesWin"
+  },
+  "25": {
+    "cls": "app.RuleIconBase",
+    "icon": "icon_czzl",
+    "id": 25,
+    "layer": 0,
+    "phoneCls": "app.RuleIconBase",
+    "phoneIcon": "icon_czzl",
+    "phoneLayer": 2,
+    "phoneSort": 1,
+    "sort": 1,
+    "view": "app.GrowWayView"
+  },
+  "26": {
+    "cls": "app.ActivityFirstChargeRuleIcon",
+    "icon": "icon_shouchong",
+    "id": 26,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 4,
+    "phoneCls": "app.ActivityFirstChargeRuleIcon",
+    "phoneIcon": "icon_shouchong",
+    "phoneLayer": 1,
+    "phoneSort": 1,
+    "sort": 1,
+    "view": "app.ActvityFirstChargeView"
+  },
+  "27": {
+    "cls": "app.ActivityWlelfareRuleIcon",
+    "icon": "icon_fulidating",
+    "id": 27,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 4,
+    "phoneCls": "app.ActivityWlelfareRuleIcon",
+    "phoneIcon": "icon_fulidating",
+    "phoneLayer": 1,
+    "phoneSort": 6,
+    "sort": 4,
+    "view": "app.ActivityWlelfareView"
+  },
+  "28": {
+    "cls": "app.OpenServerRuleIcon",
+    "icon": "icon_kaifuhaoli",
+    "id": 28,
+    "isOpenNeed": {
+      "level": 999,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 999,
+      "openDay": 1
+    },
+    "layer": 4,
+    "phoneCls": "app.OpenServerRuleIcon",
+    "sort": 11,
+    "view": "app.OpenServerGiftWin"
+  },
+  "29": {
+    "cls": "app.OpenServerSportsRuleIcon",
+    "icon": "icon_kaifujingji",
+    "id": 29,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 4,
+    "phoneCls": "app.OpenServerSportsRuleIcon",
+    "phoneIcon": "icon_kaifujingji",
+    "phoneLayer": 1,
+    "phoneSort": 7,
+    "sort": 8,
+    "view": "app.OpenServerSportsWin"
+  },
+  "30": {
+    "cls": "app.FeedbackRuleIcon",
+    "icon": "icon_fankui",
+    "id": 30,
+    "isOpenNeed": {
+      "level": 46,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 46,
+      "openDay": 1
+    },
+    "layer": 6,
+    "phoneCls": "app.FeedbackRuleIcon",
+    "phoneIcon": "icon_fankui",
+    "phoneLayer": 2,
+    "phoneSort": 10,
+    "sort": 1
+  },
+  "31": {
+    "cls": "app.OpenServerTreasureRuleIcon",
+    "icon": "icon_xingyunxunbao",
+    "id": 31,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 4,
+    "param": {
+      "id": [
+        10025
+      ],
+      "type": 2
+    },
+    "phoneCls": "app.OpenServerTreasureRuleIcon",
+    "phoneIcon": "icon_xingyunxunbao",
+    "phoneLayer": 1,
+    "phoneSort": 14,
+    "sort": 12,
+    "view": "app.OpenServerTreasureWin"
+  },
+  "32": {
+    "cls": "app.ActivityWarRuleIcon",
+    "icon": "icon_mafazhanling",
+    "id": 32,
+    "isOpenNeed": {
+      "level": 30,
+      "openDay": 8,
+      "zsLevel": 1
+    },
+    "isShowNeed": {
+      "level": 30,
+      "openDay": 8,
+      "zsLevel": 1
+    },
+    "layer": 6,
+    "phoneCls": "app.ActivityWarRuleIcon",
+    "phoneIcon": "icon_mafazhanling",
+    "phoneLayer": 2,
+    "phoneSort": 6,
+    "sort": 10,
+    "view": "app.ActivityWarView"
+  },
+  "34": {
+    "cls": "app.YYPlatformFuLiRuleIcon",
+    "icon": "icon_ptfl",
+    "iconCls": "app.YYPlatformFuLiWin",
+    "iconSkin": "YYPlatformFuLiWinSkin",
+    "id": 34,
+    "isOpenNeed": {
+      "level": 30,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 30,
+      "openDay": 1
+    },
+    "layer": 6,
+    "phoneCls": "app.YYPlatformFuLiRuleIcon",
+    "sort": 7
+  },
+  "35": {
+    "cls": "app.YYChaoWanRuleIcon",
+    "icon": "icon_chaowan",
+    "id": 35,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 4,
+    "phoneCls": "app.YYChaoWanRuleIcon",
+    "sort": 14,
+    "view": "app.YYChaoWanWin"
+  },
+  "36": {
+    "cls": "app.ActivityPayRuleIcon",
+    "icon": "icon_jingcaihuodong",
+    "id": 36,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 4,
+    "param": [
+      1,
+      "apay_biaoti_jchd"
+    ],
+    "phoneCls": "app.ActivityPayRuleIcon",
+    "phoneIcon": "icon_jingcaihuodong",
+    "phoneLayer": 1,
+    "phoneSort": 8,
+    "sort": 9,
+    "view": "app.ActivityPayView"
+  },
+  "37": {
+    "cls": "app.VipRuleIcon",
+    "icon": "icon_hytq",
+    "id": 37,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 4,
+    "phoneCls": "app.VipRuleIcon",
+    "phoneIcon": "icon_hytq",
+    "phoneLayer": 1,
+    "phoneSort": 3,
+    "sort": 3,
+    "view": "app.VipView"
+  },
+  "38": {
+    "cls": "app.HangUpRuleIcon",
+    "displayType": 2,
+    "icon": "icon_guaji",
+    "iconSkin": "MainBtn2Skin",
+    "id": 38,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "keys": [
+      18,
+      71
+    ],
+    "layer": 1,
+    "phoneCls": "app.HangUpRuleIcon",
+    "position": {
+      "horizontalCenter": 500,
+      "scaleX": 0.73,
+      "scaleY": 0.73
+    },
+    "sort": 3,
+    "str": "快捷键(Alt+G)，自动挂机打怪捡宝",
+    "view": ""
+  },
+  "39": {
+    "cls": "app.GeneralAckRuleIcon",
+    "displayType": 2,
+    "icon": "icon_zhinengPK",
+    "id": 39,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "keys": [
+      65
+    ],
+    "layer": 1,
+    "phoneCls": "app.GeneralAckRuleIcon",
+    "position": {
+      "horizontalCenter": 560,
+      "scaleX": 0.73,
+      "scaleY": 0.73,
+      "y": 1
+    },
+    "sort": 1,
+    "str": "快捷键(A)，自动PK已选目标，请注意攻击模式",
+    "view": ""
+  },
+  "40": {
+    "cls": "app.MailRuleIcon",
+    "id": 40,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 0,
+    "phoneCls": "app.MailRuleIcon",
+    "phoneIcon": "icon_youjian",
+    "phoneLayer": 3,
+    "phoneSort": 2,
+    "sort": 15,
+    "view": "app.MailView"
+  },
+  "41": {
+    "displayType": 2,
+    "id": 41,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 0,
+    "phoneIcon": "icon_zudui",
+    "phoneLayer": 5,
+    "phoneSort": 4,
+    "sort": 16,
+    "view": "app.TeamView"
+  },
+  "42": {
+    "displayType": 2,
+    "id": 42,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 0,
+    "phoneIcon": "icon_haoyou",
+    "phoneLayer": 3,
+    "phoneSort": 4,
+    "sort": 17,
+    "view": "app.FriendView"
+  },
+  "43": {
+    "displayType": 2,
+    "id": 43,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 0,
+    "sort": 18,
+    "view": "app.SetUpView"
+  },
+  "44": {
+    "id": 44,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 0,
+    "sort": 19,
+    "view": "app.RankView"
+  },
+  "45": {
+    "cls": "app.TradeLineRuleIcon",
+    "icon": "icon_jishouhang",
+    "id": 45,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "phoneCls": "app.TradeLineRuleIcon",
+    "view": "app.TradeLineWin"
+  },
+  "46": {
+    "id": 46,
+    "layer": 0,
+    "sort": 19,
+    "view": "app.ChangePowerfulWin"
+  },
+  "47": {
+    "cls": "app.NewRanksRuleIcon",
+    "displayType": 2,
+    "icon": "zjm_shan_zhzd",
+    "iconSkin": "MainBtn8Skin",
+    "id": 47,
+    "layer": 5,
+    "phoneCls": "app.NewRanksRuleIcon",
+    "sort": 5,
+    "view": "app.CallView"
+  },
+  "48": {
+    "cls": "app.NewGuildRuleIcon",
+    "displayType": 2,
+    "icon": "zjm_shan_zhhh",
+    "iconSkin": "MainBtn8Skin",
+    "id": 48,
+    "layer": 5,
+    "phoneCls": "app.NewGuildRuleIcon",
+    "sort": 6,
+    "view": "app.CallView"
+  },
+  "49": {
+    "cls": "app.ShaChengStarcraftRuleIcon",
+    "icon": "icon_shacheng",
+    "id": 49,
+    "isOpenNeed": {
+      "level": 60,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 60,
+      "openDay": 1
+    },
+    "layer": 6,
+    "phoneCls": "app.ShaChengStarcraftRuleIcon",
+    "phoneIcon": "icon_shacheng",
+    "phoneLayer": 2,
+    "phoneSort": 8,
+    "sort": 5,
+    "view": "app.ShaChengStarcraftWin"
+  },
+  "50": {
+    "cls": "app.ViolentStateRuleIcon",
+    "icon": "icon_kuangbao",
+    "id": 50,
+    "isOpenNeed": {
+      "level": 51,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 51,
+      "openDay": 1
+    },
+    "layer": 4,
+    "phoneCls": "app.ViolentStateRuleIcon",
+    "phoneIcon": "icon_kuangbao",
+    "phoneLayer": 2,
+    "phoneSort": 2,
+    "sort": 6,
+    "view": "app.ViolentStateWin"
+  },
+  "51": {
+    "cls": "app.DonationRankRuleIcon",
+    "icon": "icon_juanxianbang",
+    "id": 51,
+    "isOpenNeed": {
+      "level": 51,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 51,
+      "openDay": 1
+    },
+    "layer": 4,
+    "phoneCls": "app.DonationRankRuleIcon",
+    "phoneIcon": "icon_juanxianbang",
+    "phoneLayer": 2,
+    "phoneSort": 3,
+    "sort": 5,
+    "view": "app.DonationRankWin"
+  },
+  "52": {
+    "cls": "app.FuLi4366RuleIcon",
+    "icon": "icon_4366",
+    "id": 52,
+    "isOpenNeed": {
+      "level": 30,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 30,
+      "openDay": 1
+    },
+    "layer": 6,
+    "phoneCls": "app.FuLi4366RuleIcon",
+    "sort": 7,
+    "view": "app.FuLi4366Win"
+  },
+  "53": {
+    "cls": "app.FuLi4366VipRuleIcon",
+    "icon": "icon_4366VIP",
+    "id": 53,
+    "isOpenNeed": {
+      "level": 30,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 30,
+      "openDay": 1
+    },
+    "layer": 6,
+    "phoneCls": "app.FuLi4366VipRuleIcon",
+    "sort": 8,
+    "view": "app.VIP4366View"
+  },
+  "54": {
+    "cls": "app.FuLi4366MicroRuleIcon",
+    "icon": "icon_weiduanfuli",
+    "id": 54,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "phoneCls": "app.FuLi4366MicroRuleIcon",
+    "sort": 9,
+    "view": "app.FuLi4366MicroWin"
+  },
+  "55": {
+    "cls": "app.ActivityPayRuleIcon",
+    "icon": "icon_zhoumohaoli",
+    "id": 55,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 4,
+    "param": [
+      6,
+      "festival_zm"
+    ],
+    "phoneCls": "app.ActivityPayRuleIcon",
+    "phoneIcon": "icon_zhoumohaoli",
+    "phoneLayer": 1,
+    "phoneSort": 10,
+    "sort": 10,
+    "view": "app.ActivityPayView1"
+  },
+  "56": {
+    "cls": "app.QQBlueDiamondRuleIcon",
+    "icon": "icon_lztequan",
+    "id": 56,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "phoneCls": "app.QQBlueDiamondRuleIcon",
+    "sort": 8,
+    "str": "蓝钻用户可以享受以下特权：\n1.新手注册礼包\n2.游戏成长礼包\n3.每日活跃礼包",
+    "view": "app.QQBlueDiamondView"
+  },
+  "57": {
+    "cls": "app.QQLobbyPrivilegesWinRuleIcon",
+    "icon": "icon_qqdating",
+    "id": 57,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "phoneCls": "app.QQLobbyPrivilegesWinRuleIcon",
+    "sort": 7,
+    "str": "从QQ大厅登录享以下特权：\n1.新手注册礼包\n2.游戏成长礼包\n3.每日活跃礼包",
+    "view": "app.QQLobbyPrivilegesWinView"
+  },
+  "58": {
+    "cls": "app.CommonMicroRuleIcon",
+    "icon": "icon_weiduanfuli",
+    "id": 58,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.CommonMicroRuleIcon",
+    "sort": 9,
+    "view": "app.CommonMicroWin"
+  },
+  "59": {
+    "cls": "app.ActivityPayRuleIcon",
+    "icon": "icon_hfhuodong",
+    "id": 59,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 4,
+    "param": [
+      3,
+      "hfhd_wenzi"
+    ],
+    "phoneCls": "app.ActivityPayRuleIcon",
+    "phoneIcon": "icon_hfhuodong",
+    "phoneLayer": 1,
+    "phoneSort": 11,
+    "sort": 17,
+    "view": "app.ActivityPayView2"
+  },
+  "60": {
+    "cls": "app.ActivityPayRuleIcon",
+    "icon": "icon_ganenjie",
+    "id": 60,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 4,
+    "param": [
+      4,
+      "biaoti_ganenjie"
+    ],
+    "phoneCls": "app.ActivityPayRuleIcon",
+    "phoneIcon": "icon_ganenjie",
+    "phoneLayer": 1,
+    "phoneSort": 12,
+    "sort": 18,
+    "view": "app.ActivityPayView3"
+  },
+  "61": {
+    "cls": "app.ActivityPayRuleIcon",
+    "icon": "icon_guanggunjie",
+    "id": 61,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 4,
+    "param": [
+      5,
+      "biaoti_guanggunjie"
+    ],
+    "phoneCls": "app.ActivityPayRuleIcon",
+    "phoneIcon": "icon_guanggunjie",
+    "phoneLayer": 1,
+    "phoneSort": 12,
+    "sort": 19,
+    "view": "app.ActivityPayView4"
+  },
+  "63": {
+    "cls": "app.ShopRuleIcon",
+    "icon": "icon_kaifu1maogou",
+    "id": 63,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 999
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 999
+    },
+    "layer": 4,
+    "param": [
+      1,
+      6
+    ],
+    "phoneCls": "app.ShopRuleIcon",
+    "sort": 16,
+    "view": "app.ShopView"
+  },
+  "64": {
+    "cls": "app.DimensionBossRuleIcon",
+    "displayType": 1,
+    "icon": "icon_ciyuanshouling",
+    "id": 64,
+    "isOpenNeed": {
+      "level": 30,
+      "openDay": 1,
+      "zsLevel": 3
+    },
+    "isShowNeed": {
+      "level": 30,
+      "openDay": 1,
+      "zsLevel": 2
+    },
+    "layer": 4,
+    "phoneCls": "app.DimensionBossRuleIcon",
+    "phoneIcon": "icon_ciyuanshouling",
+    "phoneLayer": 1,
+    "phoneSort": 1,
+    "sort": 13,
+    "view": "app.DimensionBossView"
+  },
+  "65": {
+    "cls": "app.CrossServerActRuleIcon",
+    "icon": "icon_kaifuzhanchang",
+    "id": 65,
+    "isOpenNeed": {
+      "level": 30,
+      "openDay": 1,
+      "zsLevel": 3
+    },
+    "isShowNeed": {
+      "level": 30,
+      "openDay": 1,
+      "zsLevel": 1
+    },
+    "layer": 0,
+    "phoneCls": "app.CrossServerActRuleIcon",
+    "phoneIcon": "icon_kaifuzhanchang",
+    "phoneLayer": 2,
+    "phoneSort": 7,
+    "sort": 12,
+    "view": "app.CrossServerWin"
+  },
+  "66": {
+    "cls": "app.KuaFuQuitRuleIcon",
+    "displayType": 1,
+    "icon": "icon_huidaoyuanfu",
+    "id": 66,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 0,
+    "phoneCls": "app.KuaFuQuitRuleIcon",
+    "phoneIcon": "icon_huidaoyuanfu",
+    "phoneLayer": 2,
+    "phoneSort": 1,
+    "sort": 13
+  },
+  "67": {
+    "cls": "app.CrossServerActRuleIcon",
+    "displayType": 1,
+    "icon": "icon_kaifuzhanchang",
+    "id": 67,
+    "isOpenNeed": {
+      "level": 30,
+      "openDay": 1,
+      "zsLevel": 3
+    },
+    "isShowNeed": {
+      "level": 30,
+      "openDay": 1,
+      "zsLevel": 3
+    },
+    "layer": 4,
+    "phoneCls": "app.CrossServerActRuleIcon",
+    "phoneIcon": "icon_kaifuzhanchang",
+    "phoneLayer": 1,
+    "phoneSort": 2,
+    "sort": 15,
+    "view": "app.CrossServerWin"
+  },
+  "68": {
+    "cls": "app.ShaChengStarcraftRuleIcon",
+    "displayType": 1,
+    "icon": "icon_shacheng",
+    "id": 68,
+    "isOpenNeed": {
+      "level": 30,
+      "openDay": 25,
+      "zsLevel": 3
+    },
+    "isShowNeed": {
+      "level": 30,
+      "openDay": 25,
+      "zsLevel": 3
+    },
+    "layer": 4,
+    "phoneCls": "app.ShaChengStarcraftRuleIcon",
+    "phoneIcon": "icon_shacheng",
+    "phoneLayer": 1,
+    "phoneSort": 3,
+    "sort": 7,
+    "view": "app.ShaChengStarcraftWin"
+  },
+  "69": {
+    "cls": "app.OpenServerTreasureTwoRuleIcon",
+    "icon": "icon_xingyunxunbao",
+    "id": 69,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 4,
+    "param": {
+      "id": [
+        10225,
+        10226,
+        10227,
+        10228
+      ],
+      "type": 1
+    },
+    "phoneCls": "app.OpenServerTreasureTwoRuleIcon",
+    "phoneIcon": "icon_xingyunxunbao",
+    "phoneLayer": 1,
+    "phoneSort": 13,
+    "sort": 19,
+    "view": "app.OpenServerTreasureWin2"
+  },
+  "70": {
+    "cls": "app.ShengQuNoticeRuleIcon",
+    "icon": "icon_gonggao",
+    "id": 70,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "phoneCls": "app.ShengQuNoticeRuleIcon",
+    "sort": 1
+  },
+  "71": {
+    "cls": "app.OpenServerTreasureThreeRuleIcon",
+    "icon": "icon_cangjingge",
+    "id": 71,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 4,
+    "param": {
+      "id": [
+        10241,
+        10242,
+        10243
+      ],
+      "title": "biaoti_cangjingge",
+      "type": 1
+    },
+    "phoneCls": "app.OpenServerTreasureThreeRuleIcon",
+    "phoneIcon": "icon_cangjingge",
+    "phoneLayer": 1,
+    "phoneSort": 9,
+    "sort": 20,
+    "view": "app.OpenServerTreasureWin3"
+  },
+  "72": {
+    "id": 72,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1,
+      "zsLevel": 4
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1,
+      "zsLevel": 4
+    },
+    "phoneCls": "app.PhoneForgeUpStarRuleIcon",
+    "phoneIcon": "icon_xilian",
+    "phoneLayer": 6,
+    "phoneSort": 1,
+    "view": "app.BaptismWin"
+  },
+  "73": {
+    "id": 73,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "phoneCls": "app.PhoneForgeUpStarRuleIcon",
+    "phoneIcon": "icon_shengxing",
+    "phoneLayer": 6,
+    "phoneSort": 2,
+    "view": "app.ForgeWin"
+  },
+  "74": {
+    "id": 74,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "phoneCls": "app.MainServerInfoRuleIcon",
+    "phoneIcon": "icon_qufuxinxi",
+    "phoneLayer": 6,
+    "phoneSort": 3,
+    "view": "app.MainServerInfoWin"
+  },
+  "75": {
+    "cls": "app.MultiVersionRuleIcon",
+    "icon": "icon_sanduanhutong",
+    "id": 75,
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.MultiVersionRuleIcon",
+    "phoneIcon": "icon_sanduanhutong",
+    "phoneLayer": 1,
+    "phoneSort": 4,
+    "sort": 10,
+    "view": "app.MultiVersionView"
+  },
+  "76": {
+    "cls": "app.ActivityNoticeRuleIcon",
+    "id": 76,
+    "isOpenNeed": {
+      "level": 52,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 52,
+      "openDay": 1
+    },
+    "layer": 6,
+    "phoneCls": "app.ActivityNoticeRuleIcon",
+    "phoneLayer": 2,
+    "phoneSort": 9,
+    "sort": 11,
+    "view": "app.ActivityCopiesWin"
+  },
+  "77": {
+    "cls": "app.QQVipFuLiRuleIcon",
+    "icon": "icon_4366VIP",
+    "id": 77,
+    "isOpenNeed": {
+      "level": 30,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 30,
+      "openDay": 1
+    },
+    "layer": 6,
+    "phoneCls": "app.QQVipFuLiRuleIcon",
+    "sort": 9,
+    "view": "app.QQVipFuLiView"
+  },
+  "78": {
+    "cls": "app.ActivitySecondChargeRuleIcon",
+    "icon": "icon_zaichong",
+    "id": 78,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 4,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.ActivitySecondChargeRuleIcon",
+    "phoneIcon": "icon_zaichong",
+    "phoneLayer": 1,
+    "phoneSort": 2,
+    "sort": 2,
+    "view": "app.ActvitySecondChargeView"
+  },
+  "79": {
+    "icon": "icon_huanzhenchong",
+    "id": 79,
+    "layer": 6,
+    "param": [
+      1,
+      7,
+      1
+    ],
+    "pfIDArray": [
+      10000
+    ],
+    "phoneIcon": "icon_huanzhenchong",
+    "phoneLayer": 1,
+    "phoneSort": 5,
+    "sort": 12,
+    "view": "app.RecycleWin"
+  },
+  "80": {
+    "cls": "app.FuLi360RuleIcon",
+    "icon": "icon_360dawanjia",
+    "id": 80,
+    "isOpenNeed": {
+      "level": 999,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 999,
+      "openDay": 1
+    },
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.FuLi360RuleIcon",
+    "phoneIcon": "icon_360dawanjia",
+    "phoneLayer": 2,
+    "phoneSort": 11,
+    "sort": 13,
+    "view": "app.FuLi360Win"
+  },
+  "81": {
+    "cls": "app.Fuli7GameVipRuleIcon",
+    "icon": "icon_4366VIP",
+    "id": 81,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.Fuli7GameVipRuleIcon",
+    "sort": 9,
+    "view": "app.Fuli7GameVipWin"
+  },
+  "82": {
+    "cls": "app.Fuli7GameWXGiftRuleIcon",
+    "icon": "icon_wxhb",
+    "id": 82,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.Fuli7GameWXGiftRuleIcon",
+    "sort": 13,
+    "view": "app.Fuli7GameWXGiftWin"
+  },
+  "83": {
+    "cls": "app.Fuli7GameCaiGiftRuleIcon",
+    "icon": "icon_7you_chaihongbao",
+    "id": 83,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.Fuli7GameCaiGiftRuleIcon",
+    "sort": 14
+  },
+  "84": {
+    "cls": "app.Fuli7GameFuLiQunRuleIcon",
+    "icon": "icon_7you_fuli",
+    "id": 84,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.Fuli7GameFuLiQunRuleIcon",
+    "sort": 15
+  },
+  "85": {
+    "cls": "app.FuliLuDaShiMicroRuleIcon",
+    "icon": "icon_ldsyxhz",
+    "id": 85,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.FuliLuDaShiMicroRuleIcon",
+    "sort": 13,
+    "view": "app.FuliLuDaShiMicroWin"
+  },
+  "86": {
+    "cls": "app.FuliLuDaShiGiftRuleIcon",
+    "icon": "icon_ludashilibao",
+    "id": 86,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.FuliLuDaShiGiftRuleIcon",
+    "sort": 14,
+    "view": "app.FuliLuDaShiGiftWin"
+  },
+  "87": {
+    "cls": "app.FuliLuDaShiPhoneGiftRuleIcon",
+    "icon": "icon_shoujilibao",
+    "id": 87,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.FuliLuDaShiPhoneGiftRuleIcon",
+    "sort": 15,
+    "view": "app.FuliLuDaShiPhoneGiftWin"
+  },
+  "88": {
+    "cls": "app.FuliLuDaShiVipRuleIcon",
+    "icon": "icon_4366VIP",
+    "id": 88,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.FuliLuDaShiVipRuleIcon",
+    "sort": 9,
+    "view": "app.FuliLuDaShiVipWin"
+  },
+  "89": {
+    "cls": "app.Fuli360AttestationRuleIcon",
+    "icon": "icon_360shiming",
+    "id": 89,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.Fuli360AttestationRuleIcon",
+    "sort": 14,
+    "view": "app.Fuli360AttestationWin"
+  },
+  "90": {
+    "cls": "app.Fuli37RuleIcon",
+    "icon": "icon_37fuli",
+    "id": 90,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.Fuli37RuleIcon",
+    "sort": 13,
+    "view": "app.Fuli37Win"
+  },
+  "91": {
+    "cls": "app.FuLiKu25RuleIcon",
+    "icon": "icon_ku25hezi",
+    "id": 91,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.FuLiKu25RuleIcon",
+    "sort": 13,
+    "view": "app.Ku25BoxRewardsWin"
+  },
+  "92": {
+    "cls": "app.FuLiKu25SuperVipRuleIcon",
+    "icon": "icon_4366VIP",
+    "id": 92,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.FuLiKu25SuperVipRuleIcon",
+    "sort": 14,
+    "view": "app.Ku25BoxSuperVipView"
+  },
+  "93": {
+    "cls": "app.FuliSogouMicroRuleIcon",
+    "icon": "icon_sgzspf",
+    "id": 93,
+    "isOpenNeed": {
+      "level": 999,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 999,
+      "openDay": 1
+    },
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.FuliSogouMicroRuleIcon",
+    "sort": 13,
+    "view": "app.FuliSogouMicroWin"
+  },
+  "94": {
+    "cls": "app.FuliSogouWinRuleIcon",
+    "icon": "icon_sgyxdt",
+    "id": 94,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.FuliSogouWinRuleIcon",
+    "sort": 14,
+    "view": "app.FuliSogouWin"
+  },
+  "95": {
+    "cls": "app.FuliSogouWeixinWinRuleIcon",
+    "icon": "icon_wxhb",
+    "id": 95,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.FuliSogouWeixinWinRuleIcon",
+    "sort": 15,
+    "view": "app.FuliSogouWeixinWin"
+  },
+  "96": {
+    "cls": "app.FuliSogouVipWinRuleIcon",
+    "icon": "icon_4366VIP",
+    "id": 96,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.FuliSogouVipWinRuleIcon",
+    "sort": 9,
+    "view": "app.FuliSogouVipWin"
+  },
+  "97": {
+    "cls": "app.GongGaoRuleIcon",
+    "icon": "icon_gonggao",
+    "id": 97,
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.GongGaoRuleIcon",
+    "phoneIcon": "icon_gonggao",
+    "phoneLayer": 2,
+    "phoneSort": 12,
+    "sort": 19,
+    "view": "app.MainGongGao"
+  },
+  "98": {
+    "cls": "app.PlatformFuliBindingRuleIcon",
+    "icon": "icon_bangdingyouli",
+    "id": 98,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.PlatformFuliBindingRuleIcon",
+    "sort": 14,
+    "view": "app.PlatformFuliHallView"
+  },
+  "99": {
+    "cls": "app.PlatformFuliBindingRuleIcon",
+    "icon": "icon_bangdingyouli",
+    "id": 99,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.PlatformFuliBindingRuleIcon",
+    "sort": 14
+  },
+  "100": {
+    "cls": "app.FuliIqiyiQQGroupRuleIcon",
+    "icon": "icon_aiqiyiQQqun",
+    "id": 100,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.FuliIqiyiQQGroupRuleIcon",
+    "sort": 17,
+    "view": "app.FuliIqiyiQQGroupView"
+  },
+  "101": {
+    "cls": "app.PlatformFuliBindingRuleIcon",
+    "icon": "icon_wanshanziliao",
+    "id": 101,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.PlatformFuliBindingRuleIcon",
+    "sort": 13,
+    "view": "app.FuliGame2BindingView"
+  },
+  "102": {
+    "cls": "app.PlatformFuliRuleIcon",
+    "icon": "icon_ptfl",
+    "id": 102,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.PlatformFuliRuleIcon",
+    "sort": 13,
+    "view": "app.PlatformFuliHallView"
+  },
+  "103": {
+    "cls": "app.PlatformFuliSuperVipRuleIcon",
+    "icon": "icon_4366VIP",
+    "id": 103,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.PlatformFuliSuperVipRuleIcon",
+    "sort": 14,
+    "view": "app.PlatformFuliSuperVipView"
+  },
+  "104": {
+    "cls": "app.PlatformFuliWeixinRuleIcon",
+    "icon": "icon_wxhb",
+    "id": 104,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.PlatformFuliWeixinRuleIcon",
+    "sort": 15,
+    "view": "app.PlatformFuliWeixinView"
+  },
+  "105": {
+    "cls": "app.PlatformFuliIndulgeRuleIcon",
+    "icon": "icon_fangchenmi",
+    "id": 105,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.PlatformFuliIndulgeRuleIcon",
+    "sort": 16,
+    "view": "app.PlatformFuliIndulgeView"
+  },
+  "106": {
+    "cls": "app.PlatformFuliBindingRuleIcon",
+    "icon": "icon_bangdingyouli",
+    "id": 106,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.PlatformFuliBindingRuleIcon",
+    "sort": 17,
+    "view": "app.PlatformFuliBindingView"
+  },
+  "107": {
+    "cls": "app.PlatformFuliMicroRuleIcon",
+    "icon": "icon_weiduanfuli",
+    "id": 107,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.PlatformFuliMicroRuleIcon",
+    "sort": 18,
+    "view": "app.PlatformFuliMicroView"
+  },
+  "108": {
+    "cls": "app.PlatformFuliBindingRuleIcon",
+    "icon": "icon_bangdingyouli",
+    "id": 108,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.PlatformFuliBindingRuleIcon",
+    "sort": 14
+  },
+  "109": {
+    "cls": "app.PlatformFuliRuleIcon",
+    "icon": "icon_xunleitequan",
+    "id": 109,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.PlatformFuliRuleIcon",
+    "sort": 13,
+    "view": "app.FuliXunwanGiftWin"
+  },
+  "110": {
+    "cls": "app.DoubleElevenRuleIcon",
+    "icon": "icon_dianfengkuanghuan",
+    "id": 110,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.DoubleElevenRuleIcon",
+    "sort": 13
+  },
+  "111": {
+    "cls": "app.FuliYaodouCustomerRuleIcon",
+    "icon": "icon_yaodou_kefu",
+    "id": 111,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.FuliYaodouCustomerRuleIcon",
+    "sort": 13
+  },
+  "112": {
+    "cls": "app.ActivityPayRuleIcon",
+    "icon": "icon_shengxiakuanghuan",
+    "id": 112,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 4,
+    "param": [
+      2,
+      "festival_ql"
+    ],
+    "phoneCls": "app.ActivityPayRuleIcon",
+    "phoneIcon": "icon_shengxiakuanghuan",
+    "phoneLayer": 1,
+    "phoneSort": 10,
+    "sort": 10,
+    "view": "app.ActivityPayView5"
+  },
+  "113": {
+    "cls": "app.FuliOnlineRewardRuleIcon",
+    "icon": "icon_leijizaixian",
+    "id": 113,
+    "isOpenNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "isShowNeed": {
+      "level": 1,
+      "openDay": 1
+    },
+    "layer": 6,
+    "param": [
+      10408
+    ],
+    "pfIDArray": [
+      10001
+    ],
+    "phoneCls": "app.FuliOnlineRewardRuleIcon",
+    "sort": 17,
+    "view": "app.ActivityWlelfareView"
+  }
+}

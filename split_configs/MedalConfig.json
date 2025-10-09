@@ -1,0 +1,190 @@
+{
+  "0": {
+    "achievementid": [],
+    "level": 0,
+    "medal": 0,
+    "needitem": [
+      {
+        "count": 50000,
+        "id": 0,
+        "type": 2
+      },
+      {
+        "count": 30,
+        "id": 0,
+        "type": 11
+      },
+      {
+        "count": 0,
+        "id": 0,
+        "type": 0
+      }
+    ],
+    "nextlevel": 28,
+    "nextmedal": 217,
+    "openday": 8,
+    "popularity": 30
+  },
+  "1": {
+    "achievementid": [],
+    "level": 1,
+    "medal": 217,
+    "needitem": [
+      {
+        "count": 200000,
+        "id": 0,
+        "type": 2
+      },
+      {
+        "count": 40,
+        "id": 0,
+        "type": 11
+      },
+      {
+        "count": 1,
+        "id": 217,
+        "type": 0
+      }
+    ],
+    "nextlevel": 34,
+    "nextmedal": 218,
+    "openday": 8,
+    "popularity": 40
+  },
+  "2": {
+    "achievementid": [],
+    "level": 2,
+    "medal": 218,
+    "needitem": [
+      {
+        "count": 300000,
+        "id": 0,
+        "type": 2
+      },
+      {
+        "count": 50,
+        "id": 0,
+        "type": 11
+      },
+      {
+        "count": 1,
+        "id": 218,
+        "type": 0
+      }
+    ],
+    "nextlevel": 40,
+    "nextmedal": 219,
+    "openday": 8,
+    "popularity": 50
+  },
+  "3": {
+    "achievementid": [],
+    "level": 3,
+    "medal": 219,
+    "needitem": [
+      {
+        "count": 500000,
+        "id": 0,
+        "type": 2
+      },
+      {
+        "count": 60,
+        "id": 0,
+        "type": 11
+      },
+      {
+        "count": 1,
+        "id": 219,
+        "type": 0
+      }
+    ],
+    "nextlevel": 45,
+    "nextmedal": 220,
+    "openday": 8,
+    "popularity": 60
+  },
+  "4": {
+    "achievementid": [],
+    "level": 4,
+    "medal": 220,
+    "needitem": [
+      {
+        "count": 800000,
+        "id": 0,
+        "type": 2
+      },
+      {
+        "count": 70,
+        "id": 0,
+        "type": 11
+      },
+      {
+        "count": 1,
+        "id": 220,
+        "type": 0
+      }
+    ],
+    "nextlevel": 55,
+    "nextmedal": 221,
+    "openday": 8,
+    "popularity": 70
+  },
+  "5": {
+    "achievementid": [],
+    "level": 5,
+    "medal": 221,
+    "needitem": [
+      {
+        "count": 1200000,
+        "id": 0,
+        "type": 2
+      },
+      {
+        "count": 80,
+        "id": 0,
+        "type": 11
+      },
+      {
+        "count": 1,
+        "id": 221,
+        "type": 0
+      }
+    ],
+    "nextlevel": 65,
+    "nextmedal": 222,
+    "openday": 8,
+    "popularity": 80
+  },
+  "6": {
+    "achievementid": [],
+    "level": 6,
+    "medal": 222,
+    "needitem": [
+      {
+        "count": 2000000,
+        "id": 0,
+        "type": 2
+      },
+      {
+        "count": 80,
+        "id": 0,
+        "type": 11
+      },
+      {
+        "count": 1,
+        "id": 222,
+        "type": 0
+      }
+    ],
+    "nextlevel": 80,
+    "nextmedal": 223,
+    "openday": 8,
+    "popularity": 80
+  },
+  "7": {
+    "achievementid": [],
+    "level": 7,
+    "medal": 223,
+    "nextmedal": 0
+  }
+}

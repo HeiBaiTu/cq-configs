@@ -1,0 +1,637 @@
+{
+  "249": {
+    "Route": [],
+    "itemid": 249,
+    "itemstr": "获取道具"
+  },
+  "250": {
+    "Route": [],
+    "itemid": 250,
+    "itemstr": "获取道具"
+  },
+  "261": {
+    "Route": [
+      19,
+      8,
+      5,
+      2
+    ],
+    "itemid": 261,
+    "itemstr": "获取道具",
+    "shopid": {
+      "Tabshop": 4,
+      "shopid": 44,
+      "shoptype": 1
+    }
+  },
+  "265": {
+    "Route": [
+      27,
+      30,
+      12,
+      29
+    ],
+    "itemdesc": "升级内功静之、怒之技能、雷霆一击的材料",
+    "itemid": 265,
+    "itemstr": "获取道具"
+  },
+  "269": {
+    "Route": [
+      13,
+      19,
+      1,
+      2
+    ],
+    "itemid": 269,
+    "itemstr": "获取道具",
+    "shopid": {
+      "Tabshop": 4,
+      "shopid": 46,
+      "shoptype": 1
+    }
+  },
+  "302": {
+    "Route": [
+      1
+    ],
+    "itemdesc": "用于活动-水晶鉴定，可以获得多倍经验",
+    "itemid": 302,
+    "itemstr": "获取道具"
+  },
+  "421": {
+    "Route": [
+      9,
+      2
+    ],
+    "itemid": 421,
+    "itemstr": "获取道具",
+    "shopid": {
+      "Tabshop": 4,
+      "shopid": 48,
+      "shoptype": 1
+    }
+  },
+  "480": {
+    "Route": [
+      3,
+      2
+    ],
+    "itemid": 480,
+    "itemstr": "获取道具",
+    "shopid": {
+      "Tabshop": 2,
+      "shopid": 16,
+      "shoptype": 1
+    }
+  },
+  "823": {
+    "Route": [
+      14
+    ],
+    "itemdesc": "用于激活神戒-麻痹神戒",
+    "itemid": 823,
+    "itemstr": "获取道具"
+  },
+  "824": {
+    "Route": [
+      15
+    ],
+    "itemdesc": "用于激活神戒-超麻神戒",
+    "itemid": 824,
+    "itemstr": "获取道具"
+  },
+  "838": {
+    "Route": [
+      10,
+      2
+    ],
+    "itemid": 838,
+    "itemstr": "获取道具"
+  },
+  "839": {
+    "Route": [
+      10,
+      2
+    ],
+    "itemid": 839,
+    "itemstr": "获取道具"
+  },
+  "840": {
+    "Route": [
+      10,
+      2
+    ],
+    "itemid": 840,
+    "itemstr": "获取道具"
+  },
+  "841": {
+    "Route": [
+      10,
+      2
+    ],
+    "itemid": 841,
+    "itemstr": "获取道具"
+  },
+  "842": {
+    "Route": [
+      10,
+      2
+    ],
+    "itemid": 842,
+    "itemstr": "获取道具"
+  },
+  "843": {
+    "Route": [
+      10,
+      2
+    ],
+    "itemid": 843,
+    "itemstr": "获取道具"
+  },
+  "844": {
+    "Route": [
+      10,
+      2
+    ],
+    "itemid": 844,
+    "itemstr": "获取道具"
+  },
+  "845": {
+    "Route": [
+      10,
+      2
+    ],
+    "itemid": 845,
+    "itemstr": "获取道具"
+  },
+  "846": {
+    "Route": [
+      10,
+      2
+    ],
+    "itemid": 846,
+    "itemstr": "获取道具"
+  },
+  "847": {
+    "Route": [
+      10,
+      2
+    ],
+    "itemid": 847,
+    "itemstr": "获取道具"
+  },
+  "852": {
+    "Route": [
+      3,
+      12,
+      2
+    ],
+    "itemid": 852,
+    "itemstr": "获取宝石",
+    "shopid": {
+      "Tabshop": 2,
+      "shopid": 14,
+      "shoptype": 1
+    }
+  },
+  "853": {
+    "Route": [
+      1,
+      20,
+      2
+    ],
+    "itemid": 853,
+    "itemstr": "获取道具",
+    "shopid": {
+      "Tabshop": 2,
+      "shopid": 10,
+      "shoptype": 1
+    }
+  },
+  "854": {
+    "Route": [
+      1,
+      20,
+      2
+    ],
+    "itemid": 854,
+    "itemstr": "获取道具",
+    "shopid": {
+      "Tabshop": 2,
+      "shopid": 11,
+      "shoptype": 1
+    }
+  },
+  "855": {
+    "Route": [
+      3,
+      1,
+      2
+    ],
+    "itemid": 855,
+    "itemstr": "获取道具",
+    "shopid": {
+      "Tabshop": 2,
+      "shopid": 12,
+      "shoptype": 1
+    }
+  },
+  "856": {
+    "Route": [
+      3,
+      1,
+      2
+    ],
+    "itemid": 856,
+    "itemstr": "获取道具",
+    "shopid": {
+      "Tabshop": 2,
+      "shopid": 13,
+      "shoptype": 1
+    }
+  },
+  "931": {
+    "Route": [
+      1,
+      19,
+      18,
+      2
+    ],
+    "itemdesc": "转生的必要材料",
+    "itemid": 931,
+    "itemstr": "获取道具"
+  },
+  "932": {
+    "Route": [
+      13,
+      4,
+      10,
+      1
+    ],
+    "itemid": 932,
+    "itemstr": "获取绑金",
+    "shopid": {
+      "Tabshop": 1,
+      "shopid": 2,
+      "shoptype": 1
+    }
+  },
+  "933": {
+    "Route": [
+      13
+    ],
+    "itemdesc": "学习诱惑宠物技能必要的技能书",
+    "itemid": 933,
+    "itemstr": "获取道具"
+  },
+  "952": {
+    "Route": [
+      19,
+      11
+    ],
+    "itemid": 952,
+    "itemstr": "获取道具",
+    "shopid": {
+      "Tabshop": 4,
+      "shopid": 35,
+      "shoptype": 1
+    }
+  },
+  "954": {
+    "Route": [
+      3,
+      12,
+      2
+    ],
+    "itemid": 954,
+    "itemstr": "获取碎片",
+    "shopid": {
+      "Tabshop": 2,
+      "shopid": 15,
+      "shoptype": 1
+    }
+  },
+  "970": {
+    "Route": [
+      3,
+      2,
+      12
+    ],
+    "itemid": 970,
+    "itemstr": "获取道具",
+    "shopid": {
+      "Tabshop": 2,
+      "shopid": 17,
+      "shoptype": 1
+    }
+  },
+  "994": {
+    "Route": [
+      1,
+      2
+    ],
+    "itemdesc": "提升九品官阶的必备道具",
+    "itemid": 994,
+    "itemstr": "获取道具"
+  },
+  "995": {
+    "Route": [
+      1,
+      2,
+      22
+    ],
+    "itemdesc": "提升八品官阶的必备道具",
+    "itemid": 995,
+    "itemstr": "获取道具"
+  },
+  "996": {
+    "Route": [
+      1,
+      2,
+      22
+    ],
+    "itemdesc": "提升七品官阶的必备道具",
+    "itemid": 996,
+    "itemstr": "获取道具"
+  },
+  "997": {
+    "Route": [
+      1,
+      2,
+      22
+    ],
+    "itemdesc": "提升六品官阶的必备道具",
+    "itemid": 997,
+    "itemstr": "获取道具"
+  },
+  "998": {
+    "Route": [
+      1,
+      2,
+      22
+    ],
+    "itemdesc": "提升五品官阶的必备道具",
+    "itemid": 998,
+    "itemstr": "获取道具"
+  },
+  "999": {
+    "Route": [
+      1,
+      2,
+      22
+    ],
+    "itemdesc": "提升四品官阶的必备道具",
+    "itemid": 999,
+    "itemstr": "获取道具"
+  },
+  "1000": {
+    "Route": [
+      1,
+      2,
+      22
+    ],
+    "itemdesc": "提升三品官阶的必备道具",
+    "itemid": 1000,
+    "itemstr": "获取道具"
+  },
+  "1001": {
+    "Route": [
+      1,
+      2,
+      22
+    ],
+    "itemdesc": "提升二品官阶的必备道具",
+    "itemid": 1001,
+    "itemstr": "获取道具"
+  },
+  "1002": {
+    "Route": [
+      1,
+      2
+    ],
+    "itemdesc": "提升高级官阶的必备道具",
+    "itemid": 1002,
+    "itemstr": "获取道具"
+  },
+  "1003": {
+    "Route": [
+      1,
+      2
+    ],
+    "itemdesc": "一品证明可用于提升高级官阶",
+    "itemid": 1003,
+    "itemstr": "获取道具"
+  },
+  "1013": {
+    "Route": [
+      27,
+      30
+    ],
+    "itemdesc": "冲击初阶内功的珍贵丹药",
+    "itemid": 1013,
+    "itemstr": "获取道具"
+  },
+  "1014": {
+    "Route": [
+      27,
+      30
+    ],
+    "itemdesc": "冲击中阶内功的珍贵丹药",
+    "itemid": 1014,
+    "itemstr": "获取道具"
+  },
+  "1015": {
+    "Route": [
+      27,
+      30,
+      12,
+      29
+    ],
+    "itemdesc": "提升内功的珍贵丹药。也可在合成界面兑换成内功秘籍",
+    "itemid": 1015,
+    "itemstr": "获取道具"
+  },
+  "1018": {
+    "Route": [
+      24,
+      19,
+      25
+    ],
+    "itemid": 1018,
+    "itemstr": "获取道具",
+    "shopid": {
+      "Tabshop": 4,
+      "shopid": 51,
+      "shoptype": 1
+    }
+  },
+  "1020": {
+    "Route": [
+      23
+    ],
+    "itemdesc": "提升各经脉的必要材料",
+    "itemid": 1020,
+    "itemstr": "获取道具"
+  },
+  "1022": {
+    "Route": [
+      19,
+      26
+    ],
+    "itemid": 1022,
+    "itemstr": "获取道具",
+    "shopid": {
+      "Tabshop": 4,
+      "shopid": 52,
+      "shoptype": 1
+    }
+  },
+  "1037": {
+    "Route": [
+      27
+    ],
+    "itemdesc": "敬请关注精彩活动",
+    "itemid": 1037,
+    "itemstr": "获取道具"
+  },
+  "1059": {
+    "Route": [
+      28,
+      27,
+      29
+    ],
+    "itemdesc": "四大兵魂之一，可用于进阶和升星【兵魂-救主灵刃】",
+    "itemid": 1059,
+    "itemstr": "获取道具"
+  },
+  "1060": {
+    "Route": [
+      27
+    ],
+    "itemdesc": "四大兵魂之一，可用于进阶和升星【兵魂-剧毒裁决】",
+    "itemid": 1060,
+    "itemstr": "获取道具"
+  },
+  "1061": {
+    "Route": [
+      30
+    ],
+    "itemdesc": "四大兵魂之一，可用于进阶和升星【兵魂-霜之哀伤】",
+    "itemid": 1061,
+    "itemstr": "获取道具"
+  },
+  "1062": {
+    "Route": [
+      30
+    ],
+    "itemdesc": "四大兵魂之一，可用于进阶和升星【兵魂-血饮狂刀】",
+    "itemid": 1062,
+    "itemstr": "获取道具"
+  },
+  "1063": {
+    "Route": [
+      28,
+      27,
+      29
+    ],
+    "itemid": 1063,
+    "itemstr": "获取道具",
+    "shopid": {
+      "Tabshop": 7,
+      "shopid": 99,
+      "shoptype": 1
+    }
+  },
+  "1064": {
+    "Route": [
+      27
+    ],
+    "itemid": 1064,
+    "itemstr": "获取道具",
+    "shopid": {
+      "Tabshop": 7,
+      "shopid": 100,
+      "shoptype": 1
+    }
+  },
+  "1065": {
+    "Route": [
+      27
+    ],
+    "itemid": 1065,
+    "itemstr": "获取道具",
+    "shopid": {
+      "Tabshop": 7,
+      "shopid": 101,
+      "shoptype": 1
+    }
+  },
+  "1066": {
+    "Route": [
+      30
+    ],
+    "itemid": 1066,
+    "itemstr": "获取道具",
+    "shopid": {
+      "Tabshop": 7,
+      "shopid": 102,
+      "shoptype": 1
+    }
+  },
+  "1242": {
+    "Route": [],
+    "itemdesc": "特权令",
+    "itemid": 1242,
+    "itemstr": "获取道具",
+    "shopid": {
+      "Tabshop": 1,
+      "shopid": 93,
+      "shoptype": 1
+    }
+  },
+  "1243": {
+    "Route": [],
+    "itemdesc": "高级特权令",
+    "itemid": 1243,
+    "itemstr": "获取道具",
+    "shopid": {
+      "Tabshop": 1,
+      "shopid": 94,
+      "shoptype": 1
+    }
+  },
+  "1335": {
+    "Route": [
+      32,
+      33
+    ],
+    "itemdesc": "提升字诀系统的必备材料",
+    "itemid": 1335,
+    "itemstr": "获取道具"
+  },
+  "1336": {
+    "Route": [
+      27
+    ],
+    "itemdesc": "提升字诀系统的必备材料",
+    "itemid": 1336,
+    "itemstr": "获取道具"
+  },
+  "1337": {
+    "Route": [
+      32,
+      33
+    ],
+    "itemdesc": "提升字诀系统的必备材料",
+    "itemid": 1337,
+    "itemstr": "获取道具"
+  },
+  "1338": {
+    "Route": [
+      27
+    ],
+    "itemdesc": "提升字诀系统的必备材料",
+    "itemid": 1338,
+    "itemstr": "获取道具"
+  }
+}

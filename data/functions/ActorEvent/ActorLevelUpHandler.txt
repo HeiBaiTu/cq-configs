@@ -1,0 +1,111 @@
+﻿--人物升级事件 当前人物当前等级
+defaultHandlerActorLevelUp = function ( pActor,nLevel )
+    
+    
+    SendLevelMail( pActor,nLevel)
+end
+
+function SendLevelMail(pActor, nLevel)
+    --邮件
+    local mailData = getActorMailData(pActor)
+    if mailData == nil then
+        return
+    end
+    if mailData.lvMail == nil then
+        return
+    end
+    local Cfg = LevelMailConfig;
+    if Cfg == nil then
+        return
+    end
+
+    local mailCfg = MailIDConfig;
+    if mailCfg == nil then
+        return
+    end 
+    local nActorId = Actor.getActorId(pActor)
+    if Cfg[nLevel] then
+        for _, id in pairs(Cfg[nLevel].idList) do
+            if not mailData.lvMail[id] then
+                if mailCfg[id] and mailCfg[id].isSend then
+                    if mailCfg[id].attachment then
+                        SendMail(nActorId, mailCfg[id].title, mailCfg[id].content, mailCfg[id].attachment)
+                    else
+                        SendMail(nActorId, mailCfg[id].title, mailCfg[id].content)
+                    end
+                    mailData.lvMail[id] = 1
+                end
+            end
+        end
+    end
+end
+
+
+function SendLoginMail(pActor)
+    --邮件
+    local mailData = getActorMailData(pActor)
+    if mailData == nil then
+        return
+    end
+    if mailData.loginMail == nil then
+        return
+    end
+    local day = System.getDaysSinceOpenServer();
+    local Cfg = LoginDayMailConfig;
+    if Cfg == nil then
+        return
+    end
+    local opentime = System.getOpenServerToday();
+    local mailCfg = MailIDConfig;
+    if mailCfg == nil then
+        return
+    end 
+    opentime = opentime - (day -1)*24*3600;
+    local creattime = Actor.getActorCreateTime(pActor);
+    if creattime == 0 then
+        return
+    end
+    local nActorId = Actor.getActorId(pActor)
+    for _, cfg in pairs(Cfg) do
+        if cfg.day <= day then
+            --print("opentime.."..opentime)
+            --print("11111.."..creattime.."..day.."..(opentime +  cfg.day*24*3600) )
+            if creattime < (opentime +  cfg.day*24*3600) then
+                if mailData.loginMail[cfg.day] == nil then
+
+                   for _, id in pairs(cfg.idList) do
+                        if mailCfg[id] and mailCfg[id].isSend then
+                        print("SendLoginMail"..Actor.getName(pActor) .."..id:"..id)
+                            if mailCfg[id].attachment then
+                                SendMail(nActorId, mailCfg[id].title, mailCfg[id].content, mailCfg[id].attachment)
+                            else
+                                SendMail(nActorId, mailCfg[id].title, mailCfg[id].content)
+                            end
+                        end
+                    end
+                    mailData.loginMail[cfg.day] = 1 
+                end
+            end
+        end
+    end
+end
+
+function getActorMailData(pActor)
+    if Actor.getEntityType(pActor) ~= enActor then
+        return nil;
+    end
+    local var = Actor.getStaticVar(pActor)
+    if var.mailData == nil then
+        var.mailData = {}
+    end
+    
+    if var.mailData.lvMail == nil then
+        var.mailData.lvMail = {}
+    end
+
+    if var.mailData.loginMail == nil then
+        var.mailData.loginMail = {}
+    end
+
+    return var.mailData;
+end

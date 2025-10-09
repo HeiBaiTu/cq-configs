@@ -1,0 +1,16 @@
+﻿newTitle=
+{
+    name1 = "第一法师", desc1 = "<(c0xFFFFDAAD)每天凌晨0点等级排行榜法师第一名,将获得此头衔>", loasDesc1 = "每天凌晨0点将根据等级排行榜的法师排名重置", lostReason1 = "结算时不符合条件",
+    name2 = "第一战士", desc2 = "<(c0xFFFFDAAD)每天凌晨0点等级排行榜战士第一名,将获得此头衔>", loasDesc2 = "每天凌晨0点将根据等级排行榜的战士排名重置", lostReason2 = "结算时不符合条件",
+    name3 = "第一巫师", desc3 = "<(c0xFFFFDAAD)每天凌晨0点等级排行榜巫师第一名,将获得此头衔>", loasDesc3 = "每天凌晨0点将根据等级排行榜的巫师排名重置", lostReason3 = "结算时不符合条件",
+    name4 = "英雄城霸王", desc4 = "<(c0xFFFFDAAD)占领英雄城行会的会长将获得此头衔>", loasDesc4 = "英雄城占领资格回收或失去会长资格", lostReason4 = "行会占领资格重置",
+    name5 = "英雄城勇士", desc5 = "<(c0xFFFFDAAD)占领英雄城行会除会长外其他成员将获得此头衔>", loasDesc5 = "英雄城占领资格回收或退出占领行会", lostReason5 = "行会占领资格重置",
+    name6 = "玩神魔上YYGame", desc6 = "<(c0xFFFFDAAD)创建角色时赠送的体验头衔,有效期7天，该头衔无属性>", loasDesc6 = "体验头衔，7天后回收", lostReason6 = "体验头衔到期",
+    name7 = "紫钻至尊贵族", desc7 = "<(c0xFFFFDAAD)年费YY紫钻贵族可获得本头衔>", loasDesc7 = "失去年费YY紫钻资格时回收头衔", lostReason7 = "失去了年费YY紫钻资格",
+    name8 = "紫钻贵族", desc8 = "<(c0xFFFFDAAD)月费YY紫钻贵族可获得本头衔>", loasDesc8 = "失去月费YY紫钻资格时回收头衔", lostReason8 = "失去了月费YY紫钻资格",
+    name9 = "我是小土豪", desc9 = "<(c0xFFFFDAAD)首充大礼中赠送本头衔>", loasDesc9 = "永久头衔", lostReason9 = "无",
+    name10 = "家财万贯", desc10 = "<(c0xFFFFDAAD)达到VIP5将获得本头衔>", loasDesc10 = "永久头衔", lostReason10 = "无",
+    name11 = "技高一筹", desc11 = "<(c0xFFFFDAAD)每周个人试炼排行榜第1名>", loasDesc11 = "持续时间：7天", lostReason11 = "个人试炼头衔已到期",
+	name12 = "持之以恒", desc12 = "<(c0xFFFFDAAD)合服连续累充中赠送本头衔>", loasDesc12 = "持续时间：21天", lostReason12 = "持之以恒头衔已到期",
+
+}

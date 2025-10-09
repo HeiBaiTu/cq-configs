@@ -1,0 +1,22 @@
+{
+  "ImHp": 65,
+  "ImMp": 60,
+  "NmHp": 75,
+  "NmMp": 70,
+  "PerAdd1": 0,
+  "itemHp": [
+    239
+  ],
+  "itemMaxHp": [
+    245
+  ],
+  "itemMaxMp": [
+    247
+  ],
+  "itemMp": [
+    246
+  ],
+  "itemTherapy": [
+    248
+  ]
+}

@@ -1,0 +1,6992 @@
+{
+  "4": {
+    "ActivityType": 3,
+    "Id": 4,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-20:05",
+        "StartTime": "2-19:45"
+      },
+      {
+        "EndTime": "6-20:05",
+        "StartTime": "6-19:45"
+      }
+    ],
+    "TimeType": 3,
+    "TipsLevelLimit": {
+      "level": 30,
+      "zsLevel": 0
+    }
+  },
+  "7": {
+    "ActivityType": 5,
+    "Id": 7,
+    "Popup": true,
+    "TimeDetail": [
+      {
+        "EndTime": "0-11:06",
+        "StartTime": "0-11:00"
+      },
+      {
+        "EndTime": "0-14:06",
+        "StartTime": "0-14:00"
+      },
+      {
+        "EndTime": "0-23:06",
+        "StartTime": "0-23:00"
+      }
+    ],
+    "TimeType": 3,
+    "TipsLevelLimit": {
+      "level": 1,
+      "zsLevel": 3
+    }
+  },
+  "8": {
+    "ActivityType": 5,
+    "Id": 8,
+    "Popup": true,
+    "TimeDetail": [
+      {
+        "EndTime": "0-21:06",
+        "StartTime": "0-21:00"
+      }
+    ],
+    "TimeType": 3,
+    "TipsLevelLimit": {
+      "level": 1,
+      "zsLevel": 3
+    }
+  },
+  "9": {
+    "ActivityType": 6,
+    "Id": 9,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "0-13:30",
+        "StartTime": "0-13:00"
+      }
+    ],
+    "TimeType": 3
+  },
+  "10": {
+    "ActivityType": 7,
+    "AfterSrvDay": 999,
+    "Id": 10,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "0-15:30",
+        "StartTime": "0-14:55"
+      },
+      {
+        "EndTime": "0-19:00",
+        "StartTime": "0-18:25"
+      }
+    ],
+    "TimeType": 3,
+    "isClosed": 1
+  },
+  "11": {
+    "ActivityType": 8,
+    "Id": 11,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "0-19:45",
+        "StartTime": "0-19:30"
+      }
+    ],
+    "TimeType": 3,
+    "TipsLevelLimit": {
+      "level": 28,
+      "zsLevel": 0
+    }
+  },
+  "12": {
+    "ActivityType": 9,
+    "Id": 12,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "4-20:15",
+        "StartTime": "4-19:45"
+      },
+      {
+        "EndTime": "7-20:15",
+        "StartTime": "7-19:45"
+      }
+    ],
+    "TimeType": 3,
+    "TipsLevelLimit": {
+      "level": 30,
+      "zsLevel": 0
+    }
+  },
+  "13": {
+    "ActivityType": 10,
+    "AfterSrvDay": 3,
+    "Id": 13,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "3-20:40",
+        "StartTime": "3-20:10"
+      },
+      {
+        "EndTime": "6-20:40",
+        "StartTime": "6-20:10"
+      }
+    ],
+    "TimeType": 3
+  },
+  "14": {
+    "ActivityType": 11,
+    "Id": 14,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "1-20:05",
+        "StartTime": "1-19:45"
+      },
+      {
+        "EndTime": "3-20:05",
+        "StartTime": "3-19:45"
+      },
+      {
+        "EndTime": "5-20:05",
+        "StartTime": "5-19:45"
+      }
+    ],
+    "TimeType": 3,
+    "TipsLevelLimit": {
+      "level": 30,
+      "zsLevel": 0
+    }
+  },
+  "20": {
+    "ActivityType": 16,
+    "Id": 20,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.12.31-23:59:59",
+        "StartTime": "2022.1.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "开服前四天限量出售"
+  },
+  "21": {
+    "ActivityType": 6,
+    "HefuTimes": 1,
+    "Id": 21,
+    "Popup": false,
+    "TimeDetail": {
+      "1": {
+        "EndTime": "0-00:02",
+        "StartTime": "0-00:01"
+      },
+      "2": {
+        "EndTime": "0-01:01",
+        "StartTime": "0-01:00"
+      },
+      "3": {
+        "EndTime": "0-02:01",
+        "StartTime": "0-02:00"
+      },
+      "4": {
+        "EndTime": "0-03:01",
+        "StartTime": "0-03:00"
+      },
+      "5": {
+        "EndTime": "0-04:01",
+        "StartTime": "0-04:00"
+      },
+      "6": {
+        "EndTime": "0-05:01",
+        "StartTime": "0-05:00"
+      },
+      "7": {
+        "EndTime": "0-06:01",
+        "StartTime": "0-06:00"
+      },
+      "8": {
+        "EndTime": "0-07:01",
+        "StartTime": "0-07:00"
+      },
+      "9": {
+        "EndTime": "0-08:01",
+        "StartTime": "0-08:00"
+      },
+      "10": {
+        "EndTime": "0-09:01",
+        "StartTime": "0-09:00"
+      },
+      "11": {
+        "EndTime": "0-10:01",
+        "StartTime": "0-10:00"
+      },
+      "12": {
+        "EndTime": "0-11:01",
+        "StartTime": "0-11:00"
+      },
+      "13": {
+        "EndTime": "0-12:01",
+        "StartTime": "0-12:00"
+      },
+      "14": {
+        "EndTime": "0-13:01",
+        "StartTime": "0-13:00"
+      },
+      "15": {
+        "EndTime": "0-14:01",
+        "StartTime": "0-14:00"
+      },
+      "16": {
+        "EndTime": "0-15:01",
+        "StartTime": "0-15:00"
+      },
+      "17": {
+        "EndTime": "0-16:01",
+        "StartTime": "0-16:00"
+      },
+      "18": {
+        "EndTime": "0-17:01",
+        "StartTime": "0-17:00"
+      },
+      "19": {
+        "EndTime": "0-18:01",
+        "StartTime": "0-18:00"
+      },
+      "20": {
+        "EndTime": "0-19:01",
+        "StartTime": "0-19:00"
+      },
+      "21": {
+        "EndTime": "0-20:01",
+        "StartTime": "0-20:00"
+      },
+      "22": {
+        "EndTime": "0-21:01",
+        "StartTime": "0-21:00"
+      },
+      "23": {
+        "EndTime": "0-22:01",
+        "StartTime": "0-22:00"
+      },
+      "24": {
+        "EndTime": "0-23:01",
+        "StartTime": "0-23:00"
+      },
+      "25": {
+        "EndTime": "1-00:02",
+        "StartTime": "1-00:01"
+      },
+      "26": {
+        "EndTime": "1-01:01",
+        "StartTime": "1-01:00"
+      },
+      "27": {
+        "EndTime": "1-02:01",
+        "StartTime": "1-02:00"
+      },
+      "28": {
+        "EndTime": "1-03:01",
+        "StartTime": "1-03:00"
+      },
+      "29": {
+        "EndTime": "1-04:01",
+        "StartTime": "1-04:00"
+      },
+      "30": {
+        "EndTime": "1-05:01",
+        "StartTime": "1-05:00"
+      },
+      "31": {
+        "EndTime": "1-06:01",
+        "StartTime": "1-06:00"
+      },
+      "32": {
+        "EndTime": "1-07:01",
+        "StartTime": "1-07:00"
+      },
+      "33": {
+        "EndTime": "1-08:01",
+        "StartTime": "1-08:00"
+      },
+      "34": {
+        "EndTime": "1-09:01",
+        "StartTime": "1-09:00"
+      },
+      "35": {
+        "EndTime": "1-10:01",
+        "StartTime": "1-10:00"
+      },
+      "36": {
+        "EndTime": "1-11:01",
+        "StartTime": "1-11:00"
+      },
+      "37": {
+        "EndTime": "1-12:01",
+        "StartTime": "1-12:00"
+      },
+      "38": {
+        "EndTime": "1-13:01",
+        "StartTime": "1-13:00"
+      },
+      "39": {
+        "EndTime": "1-14:01",
+        "StartTime": "1-14:00"
+      },
+      "40": {
+        "EndTime": "1-15:01",
+        "StartTime": "1-15:00"
+      },
+      "41": {
+        "EndTime": "1-16:01",
+        "StartTime": "1-16:00"
+      },
+      "42": {
+        "EndTime": "1-17:01",
+        "StartTime": "1-17:00"
+      },
+      "43": {
+        "EndTime": "1-18:01",
+        "StartTime": "1-18:00"
+      },
+      "44": {
+        "EndTime": "1-19:01",
+        "StartTime": "1-19:00"
+      },
+      "45": {
+        "EndTime": "1-20:01",
+        "StartTime": "1-20:00"
+      },
+      "46": {
+        "EndTime": "1-21:01",
+        "StartTime": "1-21:00"
+      },
+      "47": {
+        "EndTime": "1-22:01",
+        "StartTime": "1-22:00"
+      },
+      "48": {
+        "EndTime": "1-23:01",
+        "StartTime": "1-23:00"
+      },
+      "49": {
+        "EndTime": "2-00:02",
+        "StartTime": "2-00:01"
+      },
+      "50": {
+        "EndTime": "2-01:01",
+        "StartTime": "2-01:00"
+      },
+      "51": {
+        "EndTime": "2-02:01",
+        "StartTime": "2-02:00"
+      },
+      "52": {
+        "EndTime": "2-03:01",
+        "StartTime": "2-03:00"
+      },
+      "53": {
+        "EndTime": "2-04:01",
+        "StartTime": "2-04:00"
+      },
+      "54": {
+        "EndTime": "2-05:01",
+        "StartTime": "2-05:00"
+      },
+      "55": {
+        "EndTime": "2-06:01",
+        "StartTime": "2-06:00"
+      },
+      "56": {
+        "EndTime": "2-07:01",
+        "StartTime": "2-07:00"
+      },
+      "57": {
+        "EndTime": "2-08:01",
+        "StartTime": "2-08:00"
+      },
+      "58": {
+        "EndTime": "2-09:01",
+        "StartTime": "2-09:00"
+      },
+      "59": {
+        "EndTime": "2-10:01",
+        "StartTime": "2-10:00"
+      },
+      "60": {
+        "EndTime": "2-11:01",
+        "StartTime": "2-11:00"
+      },
+      "61": {
+        "EndTime": "2-12:01",
+        "StartTime": "2-12:00"
+      },
+      "62": {
+        "EndTime": "2-13:01",
+        "StartTime": "2-13:00"
+      },
+      "63": {
+        "EndTime": "2-14:01",
+        "StartTime": "2-14:00"
+      },
+      "64": {
+        "EndTime": "2-15:01",
+        "StartTime": "2-15:00"
+      },
+      "65": {
+        "EndTime": "2-16:01",
+        "StartTime": "2-16:00"
+      },
+      "66": {
+        "EndTime": "2-17:01",
+        "StartTime": "2-17:00"
+      },
+      "67": {
+        "EndTime": "2-18:01",
+        "StartTime": "2-18:00"
+      },
+      "68": {
+        "EndTime": "2-19:01",
+        "StartTime": "2-19:00"
+      },
+      "69": {
+        "EndTime": "2-20:01",
+        "StartTime": "2-20:00"
+      },
+      "70": {
+        "EndTime": "2-21:01",
+        "StartTime": "2-21:00"
+      },
+      "71": {
+        "EndTime": "2-22:01",
+        "StartTime": "2-22:00"
+      },
+      "72": {
+        "EndTime": "2-23:01",
+        "StartTime": "2-23:00"
+      }
+    },
+    "TimeType": 2
+  },
+  "22": {
+    "ActivityType": 17,
+    "Id": 22,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "1-20:30",
+        "StartTime": "1-20:10"
+      },
+      {
+        "EndTime": "4-20:30",
+        "StartTime": "4-20:10"
+      }
+    ],
+    "TimeType": 3,
+    "TipsLevelLimit": {
+      "level": 30,
+      "zsLevel": 5
+    },
+    "isClosed": 1
+  },
+  "23": {
+    "ActivityType": 18,
+    "Id": 23,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-20:30",
+        "StartTime": "2-20:10"
+      },
+      {
+        "EndTime": "5-20:30",
+        "StartTime": "5-20:10"
+      }
+    ],
+    "TimeType": 3,
+    "TipsLevelLimit": {
+      "level": 30,
+      "zsLevel": 5
+    },
+    "isClosed": 1
+  },
+  "24": {
+    "ActivityType": 19,
+    "Id": 24,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "0-12:45",
+        "StartTime": "0-12:30"
+      }
+    ],
+    "TimeType": 3,
+    "TipsLevelLimit": {
+      "level": 28,
+      "zsLevel": 5
+    },
+    "isClosed": 1
+  },
+  "25": {
+    "ActivityType": 20,
+    "Id": 25,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "0-12:30",
+        "StartTime": "0-12:00"
+      },
+      {
+        "EndTime": "0-21:35",
+        "StartTime": "0-21:05"
+      }
+    ],
+    "TimeType": 3,
+    "TipsLevelLimit": {
+      "level": 28,
+      "zsLevel": 6
+    },
+    "isClosed": 1
+  },
+  "26": {
+    "ActivityType": 21,
+    "Id": 26,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "7-20:40",
+        "StartTime": "7-20:10"
+      }
+    ],
+    "TimeType": 3,
+    "TipsLevelLimit": {
+      "level": 28,
+      "zsLevel": 5
+    },
+    "isClosed": 1
+  },
+  "28": {
+    "ActivityType": 22,
+    "Id": 28,
+    "Popup": true,
+    "TimeDetail": [
+      {
+        "EndTime": "1-20:30",
+        "StartTime": "1-20:08"
+      },
+      {
+        "EndTime": "4-20:30",
+        "StartTime": "4-20:08"
+      }
+    ],
+    "TimeType": 3,
+    "TipsLevelLimit": {
+      "level": 30,
+      "zsLevel": 5
+    },
+    "rebornlevel": 5
+  },
+  "29": {
+    "ActivityType": 22,
+    "Id": 29,
+    "Popup": true,
+    "TimeDetail": [
+      {
+        "EndTime": "2-20:30",
+        "StartTime": "2-20:08"
+      },
+      {
+        "EndTime": "5-20:30",
+        "StartTime": "5-20:08"
+      }
+    ],
+    "TimeType": 3,
+    "TipsLevelLimit": {
+      "level": 30,
+      "zsLevel": 5
+    },
+    "rebornlevel": 5
+  },
+  "30": {
+    "ActivityType": 22,
+    "Id": 30,
+    "Popup": true,
+    "TimeDetail": [
+      {
+        "EndTime": "0-12:45",
+        "StartTime": "0-12:28"
+      }
+    ],
+    "TimeType": 3,
+    "TipsLevelLimit": {
+      "level": 30,
+      "zsLevel": 3
+    },
+    "rebornlevel": 3
+  },
+  "31": {
+    "ActivityType": 22,
+    "Id": 31,
+    "Popup": true,
+    "TimeDetail": [
+      {
+        "EndTime": "0-10:50",
+        "StartTime": "0-10:28"
+      },
+      {
+        "EndTime": "0-14:50",
+        "StartTime": "0-14:28"
+      },
+      {
+        "EndTime": "0-20:50",
+        "StartTime": "0-20:28"
+      }
+    ],
+    "TimeType": 3,
+    "TipsLevelLimit": {
+      "level": 30,
+      "zsLevel": 3
+    },
+    "rebornlevel": 3
+  },
+  "32": {
+    "ActivityType": 22,
+    "AfterSrvDay": 24,
+    "Id": 32,
+    "Popup": true,
+    "TimeDetail": [
+      {
+        "EndTime": "7-20:40",
+        "StartTime": "7-20:08"
+      }
+    ],
+    "TimeType": 3,
+    "TipsLevelLimit": {
+      "level": 30,
+      "zsLevel": 3
+    },
+    "rebornlevel": 3
+  },
+  "35": {
+    "ActivityType": 25,
+    "BeforeSrvDay": 7,
+    "Id": 35,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "0-12:45",
+        "StartTime": "0-12:30"
+      }
+    ],
+    "TimeType": 3,
+    "TipsLevelLimit": {
+      "level": 28,
+      "zsLevel": 0
+    },
+    "isClosed": 0
+  },
+  "37": {
+    "ActivityType": 6,
+    "HefuTimes": 2,
+    "Id": 37,
+    "Popup": false,
+    "TimeDetail": {
+      "1": {
+        "EndTime": "0-00:02",
+        "StartTime": "0-00:01"
+      },
+      "2": {
+        "EndTime": "0-01:01",
+        "StartTime": "0-01:00"
+      },
+      "3": {
+        "EndTime": "0-02:01",
+        "StartTime": "0-02:00"
+      },
+      "4": {
+        "EndTime": "0-03:01",
+        "StartTime": "0-03:00"
+      },
+      "5": {
+        "EndTime": "0-04:01",
+        "StartTime": "0-04:00"
+      },
+      "6": {
+        "EndTime": "0-05:01",
+        "StartTime": "0-05:00"
+      },
+      "7": {
+        "EndTime": "0-06:01",
+        "StartTime": "0-06:00"
+      },
+      "8": {
+        "EndTime": "0-07:01",
+        "StartTime": "0-07:00"
+      },
+      "9": {
+        "EndTime": "0-08:01",
+        "StartTime": "0-08:00"
+      },
+      "10": {
+        "EndTime": "0-09:01",
+        "StartTime": "0-09:00"
+      },
+      "11": {
+        "EndTime": "0-10:01",
+        "StartTime": "0-10:00"
+      },
+      "12": {
+        "EndTime": "0-11:01",
+        "StartTime": "0-11:00"
+      },
+      "13": {
+        "EndTime": "0-12:01",
+        "StartTime": "0-12:00"
+      },
+      "14": {
+        "EndTime": "0-13:01",
+        "StartTime": "0-13:00"
+      },
+      "15": {
+        "EndTime": "0-14:01",
+        "StartTime": "0-14:00"
+      },
+      "16": {
+        "EndTime": "0-15:01",
+        "StartTime": "0-15:00"
+      },
+      "17": {
+        "EndTime": "0-16:01",
+        "StartTime": "0-16:00"
+      },
+      "18": {
+        "EndTime": "0-17:01",
+        "StartTime": "0-17:00"
+      },
+      "19": {
+        "EndTime": "0-18:01",
+        "StartTime": "0-18:00"
+      },
+      "20": {
+        "EndTime": "0-19:01",
+        "StartTime": "0-19:00"
+      },
+      "21": {
+        "EndTime": "0-20:01",
+        "StartTime": "0-20:00"
+      },
+      "22": {
+        "EndTime": "0-21:01",
+        "StartTime": "0-21:00"
+      },
+      "23": {
+        "EndTime": "0-22:01",
+        "StartTime": "0-22:00"
+      },
+      "24": {
+        "EndTime": "0-23:01",
+        "StartTime": "0-23:00"
+      },
+      "25": {
+        "EndTime": "1-00:02",
+        "StartTime": "1-00:01"
+      },
+      "26": {
+        "EndTime": "1-01:01",
+        "StartTime": "1-01:00"
+      },
+      "27": {
+        "EndTime": "1-02:01",
+        "StartTime": "1-02:00"
+      },
+      "28": {
+        "EndTime": "1-03:01",
+        "StartTime": "1-03:00"
+      },
+      "29": {
+        "EndTime": "1-04:01",
+        "StartTime": "1-04:00"
+      },
+      "30": {
+        "EndTime": "1-05:01",
+        "StartTime": "1-05:00"
+      },
+      "31": {
+        "EndTime": "1-06:01",
+        "StartTime": "1-06:00"
+      },
+      "32": {
+        "EndTime": "1-07:01",
+        "StartTime": "1-07:00"
+      },
+      "33": {
+        "EndTime": "1-08:01",
+        "StartTime": "1-08:00"
+      },
+      "34": {
+        "EndTime": "1-09:01",
+        "StartTime": "1-09:00"
+      },
+      "35": {
+        "EndTime": "1-10:01",
+        "StartTime": "1-10:00"
+      },
+      "36": {
+        "EndTime": "1-11:01",
+        "StartTime": "1-11:00"
+      },
+      "37": {
+        "EndTime": "1-12:01",
+        "StartTime": "1-12:00"
+      },
+      "38": {
+        "EndTime": "1-13:01",
+        "StartTime": "1-13:00"
+      },
+      "39": {
+        "EndTime": "1-14:01",
+        "StartTime": "1-14:00"
+      },
+      "40": {
+        "EndTime": "1-15:01",
+        "StartTime": "1-15:00"
+      },
+      "41": {
+        "EndTime": "1-16:01",
+        "StartTime": "1-16:00"
+      },
+      "42": {
+        "EndTime": "1-17:01",
+        "StartTime": "1-17:00"
+      },
+      "43": {
+        "EndTime": "1-18:01",
+        "StartTime": "1-18:00"
+      },
+      "44": {
+        "EndTime": "1-19:01",
+        "StartTime": "1-19:00"
+      },
+      "45": {
+        "EndTime": "1-20:01",
+        "StartTime": "1-20:00"
+      },
+      "46": {
+        "EndTime": "1-21:01",
+        "StartTime": "1-21:00"
+      },
+      "47": {
+        "EndTime": "1-22:01",
+        "StartTime": "1-22:00"
+      },
+      "48": {
+        "EndTime": "1-23:01",
+        "StartTime": "1-23:00"
+      },
+      "49": {
+        "EndTime": "2-00:02",
+        "StartTime": "2-00:01"
+      },
+      "50": {
+        "EndTime": "2-01:01",
+        "StartTime": "2-01:00"
+      },
+      "51": {
+        "EndTime": "2-02:01",
+        "StartTime": "2-02:00"
+      },
+      "52": {
+        "EndTime": "2-03:01",
+        "StartTime": "2-03:00"
+      },
+      "53": {
+        "EndTime": "2-04:01",
+        "StartTime": "2-04:00"
+      },
+      "54": {
+        "EndTime": "2-05:01",
+        "StartTime": "2-05:00"
+      },
+      "55": {
+        "EndTime": "2-06:01",
+        "StartTime": "2-06:00"
+      },
+      "56": {
+        "EndTime": "2-07:01",
+        "StartTime": "2-07:00"
+      },
+      "57": {
+        "EndTime": "2-08:01",
+        "StartTime": "2-08:00"
+      },
+      "58": {
+        "EndTime": "2-09:01",
+        "StartTime": "2-09:00"
+      },
+      "59": {
+        "EndTime": "2-10:01",
+        "StartTime": "2-10:00"
+      },
+      "60": {
+        "EndTime": "2-11:01",
+        "StartTime": "2-11:00"
+      },
+      "61": {
+        "EndTime": "2-12:01",
+        "StartTime": "2-12:00"
+      },
+      "62": {
+        "EndTime": "2-13:01",
+        "StartTime": "2-13:00"
+      },
+      "63": {
+        "EndTime": "2-14:01",
+        "StartTime": "2-14:00"
+      },
+      "64": {
+        "EndTime": "2-15:01",
+        "StartTime": "2-15:00"
+      },
+      "65": {
+        "EndTime": "2-16:01",
+        "StartTime": "2-16:00"
+      },
+      "66": {
+        "EndTime": "2-17:01",
+        "StartTime": "2-17:00"
+      },
+      "67": {
+        "EndTime": "2-18:01",
+        "StartTime": "2-18:00"
+      },
+      "68": {
+        "EndTime": "2-19:01",
+        "StartTime": "2-19:00"
+      },
+      "69": {
+        "EndTime": "2-20:01",
+        "StartTime": "2-20:00"
+      },
+      "70": {
+        "EndTime": "2-21:01",
+        "StartTime": "2-21:00"
+      },
+      "71": {
+        "EndTime": "2-22:01",
+        "StartTime": "2-22:00"
+      },
+      "72": {
+        "EndTime": "2-23:01",
+        "StartTime": "2-23:00"
+      }
+    },
+    "TimeType": 2
+  },
+  "38": {
+    "ActivityType": 26,
+    "Id": 38,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "3-20:30",
+        "StartTime": "3-20:10"
+      },
+      {
+        "EndTime": "6-20:30",
+        "StartTime": "6-20:10"
+      }
+    ],
+    "TimeType": 3,
+    "TipsLevelLimit": {
+      "level": 30,
+      "zsLevel": 3
+    },
+    "isClosed": 1
+  },
+  "39": {
+    "ActivityType": 22,
+    "Id": 39,
+    "Popup": true,
+    "TimeDetail": [
+      {
+        "EndTime": "3-20:30",
+        "StartTime": "3-20:08"
+      },
+      {
+        "EndTime": "6-20:30",
+        "StartTime": "6-20:08"
+      }
+    ],
+    "TimeType": 3,
+    "TipsLevelLimit": {
+      "level": 30,
+      "zsLevel": 5
+    },
+    "rebornlevel": 5
+  },
+  "40": {
+    "ActivityType": 6,
+    "HefuTimes": 3,
+    "Id": 40,
+    "Popup": false,
+    "TimeDetail": {
+      "1": {
+        "EndTime": "0-00:02",
+        "StartTime": "0-00:01"
+      },
+      "2": {
+        "EndTime": "0-01:01",
+        "StartTime": "0-01:00"
+      },
+      "3": {
+        "EndTime": "0-02:01",
+        "StartTime": "0-02:00"
+      },
+      "4": {
+        "EndTime": "0-03:01",
+        "StartTime": "0-03:00"
+      },
+      "5": {
+        "EndTime": "0-04:01",
+        "StartTime": "0-04:00"
+      },
+      "6": {
+        "EndTime": "0-05:01",
+        "StartTime": "0-05:00"
+      },
+      "7": {
+        "EndTime": "0-06:01",
+        "StartTime": "0-06:00"
+      },
+      "8": {
+        "EndTime": "0-07:01",
+        "StartTime": "0-07:00"
+      },
+      "9": {
+        "EndTime": "0-08:01",
+        "StartTime": "0-08:00"
+      },
+      "10": {
+        "EndTime": "0-09:01",
+        "StartTime": "0-09:00"
+      },
+      "11": {
+        "EndTime": "0-10:01",
+        "StartTime": "0-10:00"
+      },
+      "12": {
+        "EndTime": "0-11:01",
+        "StartTime": "0-11:00"
+      },
+      "13": {
+        "EndTime": "0-12:01",
+        "StartTime": "0-12:00"
+      },
+      "14": {
+        "EndTime": "0-13:01",
+        "StartTime": "0-13:00"
+      },
+      "15": {
+        "EndTime": "0-14:01",
+        "StartTime": "0-14:00"
+      },
+      "16": {
+        "EndTime": "0-15:01",
+        "StartTime": "0-15:00"
+      },
+      "17": {
+        "EndTime": "0-16:01",
+        "StartTime": "0-16:00"
+      },
+      "18": {
+        "EndTime": "0-17:01",
+        "StartTime": "0-17:00"
+      },
+      "19": {
+        "EndTime": "0-18:01",
+        "StartTime": "0-18:00"
+      },
+      "20": {
+        "EndTime": "0-19:01",
+        "StartTime": "0-19:00"
+      },
+      "21": {
+        "EndTime": "0-20:01",
+        "StartTime": "0-20:00"
+      },
+      "22": {
+        "EndTime": "0-21:01",
+        "StartTime": "0-21:00"
+      },
+      "23": {
+        "EndTime": "0-22:01",
+        "StartTime": "0-22:00"
+      },
+      "24": {
+        "EndTime": "0-23:01",
+        "StartTime": "0-23:00"
+      },
+      "25": {
+        "EndTime": "1-00:02",
+        "StartTime": "1-00:01"
+      },
+      "26": {
+        "EndTime": "1-01:01",
+        "StartTime": "1-01:00"
+      },
+      "27": {
+        "EndTime": "1-02:01",
+        "StartTime": "1-02:00"
+      },
+      "28": {
+        "EndTime": "1-03:01",
+        "StartTime": "1-03:00"
+      },
+      "29": {
+        "EndTime": "1-04:01",
+        "StartTime": "1-04:00"
+      },
+      "30": {
+        "EndTime": "1-05:01",
+        "StartTime": "1-05:00"
+      },
+      "31": {
+        "EndTime": "1-06:01",
+        "StartTime": "1-06:00"
+      },
+      "32": {
+        "EndTime": "1-07:01",
+        "StartTime": "1-07:00"
+      },
+      "33": {
+        "EndTime": "1-08:01",
+        "StartTime": "1-08:00"
+      },
+      "34": {
+        "EndTime": "1-09:01",
+        "StartTime": "1-09:00"
+      },
+      "35": {
+        "EndTime": "1-10:01",
+        "StartTime": "1-10:00"
+      },
+      "36": {
+        "EndTime": "1-11:01",
+        "StartTime": "1-11:00"
+      },
+      "37": {
+        "EndTime": "1-12:01",
+        "StartTime": "1-12:00"
+      },
+      "38": {
+        "EndTime": "1-13:01",
+        "StartTime": "1-13:00"
+      },
+      "39": {
+        "EndTime": "1-14:01",
+        "StartTime": "1-14:00"
+      },
+      "40": {
+        "EndTime": "1-15:01",
+        "StartTime": "1-15:00"
+      },
+      "41": {
+        "EndTime": "1-16:01",
+        "StartTime": "1-16:00"
+      },
+      "42": {
+        "EndTime": "1-17:01",
+        "StartTime": "1-17:00"
+      },
+      "43": {
+        "EndTime": "1-18:01",
+        "StartTime": "1-18:00"
+      },
+      "44": {
+        "EndTime": "1-19:01",
+        "StartTime": "1-19:00"
+      },
+      "45": {
+        "EndTime": "1-20:01",
+        "StartTime": "1-20:00"
+      },
+      "46": {
+        "EndTime": "1-21:01",
+        "StartTime": "1-21:00"
+      },
+      "47": {
+        "EndTime": "1-22:01",
+        "StartTime": "1-22:00"
+      },
+      "48": {
+        "EndTime": "1-23:01",
+        "StartTime": "1-23:00"
+      },
+      "49": {
+        "EndTime": "2-00:02",
+        "StartTime": "2-00:01"
+      },
+      "50": {
+        "EndTime": "2-01:01",
+        "StartTime": "2-01:00"
+      },
+      "51": {
+        "EndTime": "2-02:01",
+        "StartTime": "2-02:00"
+      },
+      "52": {
+        "EndTime": "2-03:01",
+        "StartTime": "2-03:00"
+      },
+      "53": {
+        "EndTime": "2-04:01",
+        "StartTime": "2-04:00"
+      },
+      "54": {
+        "EndTime": "2-05:01",
+        "StartTime": "2-05:00"
+      },
+      "55": {
+        "EndTime": "2-06:01",
+        "StartTime": "2-06:00"
+      },
+      "56": {
+        "EndTime": "2-07:01",
+        "StartTime": "2-07:00"
+      },
+      "57": {
+        "EndTime": "2-08:01",
+        "StartTime": "2-08:00"
+      },
+      "58": {
+        "EndTime": "2-09:01",
+        "StartTime": "2-09:00"
+      },
+      "59": {
+        "EndTime": "2-10:01",
+        "StartTime": "2-10:00"
+      },
+      "60": {
+        "EndTime": "2-11:01",
+        "StartTime": "2-11:00"
+      },
+      "61": {
+        "EndTime": "2-12:01",
+        "StartTime": "2-12:00"
+      },
+      "62": {
+        "EndTime": "2-13:01",
+        "StartTime": "2-13:00"
+      },
+      "63": {
+        "EndTime": "2-14:01",
+        "StartTime": "2-14:00"
+      },
+      "64": {
+        "EndTime": "2-15:01",
+        "StartTime": "2-15:00"
+      },
+      "65": {
+        "EndTime": "2-16:01",
+        "StartTime": "2-16:00"
+      },
+      "66": {
+        "EndTime": "2-17:01",
+        "StartTime": "2-17:00"
+      },
+      "67": {
+        "EndTime": "2-18:01",
+        "StartTime": "2-18:00"
+      },
+      "68": {
+        "EndTime": "2-19:01",
+        "StartTime": "2-19:00"
+      },
+      "69": {
+        "EndTime": "2-20:01",
+        "StartTime": "2-20:00"
+      },
+      "70": {
+        "EndTime": "2-21:01",
+        "StartTime": "2-21:00"
+      },
+      "71": {
+        "EndTime": "2-22:01",
+        "StartTime": "2-22:00"
+      },
+      "72": {
+        "EndTime": "2-23:01",
+        "StartTime": "2-23:00"
+      }
+    },
+    "TimeType": 2
+  },
+  "41": {
+    "ActivityType": 27,
+    "Id": 41,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-20:40",
+        "StartTime": "2-20:10"
+      }
+    ],
+    "TimeType": 0
+  },
+  "42": {
+    "ActivityType": 6,
+    "Id": 42,
+    "Popup": false,
+    "TimeDetail": {
+      "1": {
+        "EndTime": "2022.11.24-0:02:02",
+        "StartTime": "2022.11.24-0:00:01"
+      },
+      "2": {
+        "EndTime": "2022.11.24-2:02:01",
+        "StartTime": "2022.11.24-2:00:00"
+      },
+      "3": {
+        "EndTime": "2022.11.24-4:02:01",
+        "StartTime": "2022.11.24-4:00:00"
+      },
+      "4": {
+        "EndTime": "2022.11.24-6:02:01",
+        "StartTime": "2022.11.24-6:00:00"
+      },
+      "5": {
+        "EndTime": "2022.11.24-8:02:01",
+        "StartTime": "2022.11.24-8:00:00"
+      },
+      "6": {
+        "EndTime": "2022.11.24-10:02:01",
+        "StartTime": "2022.11.24-10:00:00"
+      },
+      "7": {
+        "EndTime": "2022.11.24-12:02:01",
+        "StartTime": "2022.11.24-12:00:00"
+      },
+      "8": {
+        "EndTime": "2022.11.24-14:02:01",
+        "StartTime": "2022.11.24-14:00:00"
+      },
+      "9": {
+        "EndTime": "2022.11.24-16:02:01",
+        "StartTime": "2022.11.24-16:00:00"
+      },
+      "10": {
+        "EndTime": "2022.11.24-18:02:01",
+        "StartTime": "2022.11.24-18:00:00"
+      },
+      "11": {
+        "EndTime": "2022.11.24-20:02:01",
+        "StartTime": "2022.11.24-20:00:00"
+      },
+      "12": {
+        "EndTime": "2022.11.24-22:02:01",
+        "StartTime": "2022.11.24-22:00:00"
+      },
+      "13": {
+        "EndTime": "2022.11.25-0:02:02",
+        "StartTime": "2022.11.25-0:00:01"
+      },
+      "14": {
+        "EndTime": "2022.11.25-2:02:01",
+        "StartTime": "2022.11.25-2:00:00"
+      },
+      "15": {
+        "EndTime": "2022.11.25-4:02:01",
+        "StartTime": "2022.11.25-4:00:00"
+      },
+      "16": {
+        "EndTime": "2022.11.25-6:02:01",
+        "StartTime": "2022.11.25-6:00:00"
+      },
+      "17": {
+        "EndTime": "2022.11.25-8:02:01",
+        "StartTime": "2022.11.25-8:00:00"
+      },
+      "18": {
+        "EndTime": "2022.11.25-10:02:01",
+        "StartTime": "2022.11.25-10:00:00"
+      },
+      "19": {
+        "EndTime": "2022.11.25-12:02:01",
+        "StartTime": "2022.11.25-12:00:00"
+      },
+      "20": {
+        "EndTime": "2022.11.25-14:02:01",
+        "StartTime": "2022.11.25-14:00:00"
+      },
+      "21": {
+        "EndTime": "2022.11.25-16:02:01",
+        "StartTime": "2022.11.25-16:00:00"
+      },
+      "22": {
+        "EndTime": "2022.11.25-18:02:01",
+        "StartTime": "2022.11.25-18:00:00"
+      },
+      "23": {
+        "EndTime": "2022.11.25-20:02:01",
+        "StartTime": "2022.11.25-20:00:00"
+      },
+      "24": {
+        "EndTime": "2022.11.25-22:02:01",
+        "StartTime": "2022.11.25-22:00:00"
+      },
+      "25": {
+        "EndTime": "2022.11.26-0:02:02",
+        "StartTime": "2022.11.26-0:00:01"
+      },
+      "26": {
+        "EndTime": "2022.11.26-2:02:01",
+        "StartTime": "2022.11.26-2:00:00"
+      },
+      "27": {
+        "EndTime": "2022.11.26-4:02:01",
+        "StartTime": "2022.11.26-4:00:00"
+      },
+      "28": {
+        "EndTime": "2022.11.26-6:02:01",
+        "StartTime": "2022.11.26-6:00:00"
+      },
+      "29": {
+        "EndTime": "2022.11.26-8:02:01",
+        "StartTime": "2022.11.26-8:00:00"
+      },
+      "30": {
+        "EndTime": "2022.11.26-10:02:01",
+        "StartTime": "2022.11.26-10:00:00"
+      },
+      "31": {
+        "EndTime": "2022.11.26-12:02:01",
+        "StartTime": "2022.11.26-12:00:00"
+      },
+      "32": {
+        "EndTime": "2022.11.26-14:02:01",
+        "StartTime": "2022.11.26-14:00:00"
+      },
+      "33": {
+        "EndTime": "2022.11.26-16:02:01",
+        "StartTime": "2022.11.26-16:00:00"
+      },
+      "34": {
+        "EndTime": "2022.11.26-18:02:01",
+        "StartTime": "2022.11.26-18:00:00"
+      },
+      "35": {
+        "EndTime": "2022.11.26-20:02:01",
+        "StartTime": "2022.11.26-20:00:00"
+      },
+      "36": {
+        "EndTime": "2022.11.26-22:02:01",
+        "StartTime": "2022.11.26-22:00:00"
+      }
+    },
+    "TimeType": 1
+  },
+  "43": {
+    "ActivityType": 28,
+    "Id": 43,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "0-13:15",
+        "StartTime": "0-12:45"
+      },
+      {
+        "EndTime": "0-21:20",
+        "StartTime": "0-20:50"
+      }
+    ],
+    "TimeType": 3,
+    "TipsLevelLimit": {
+      "level": 30,
+      "zsLevel": 3
+    },
+    "isClosed": 1,
+    "rebornlevel": 3
+  },
+  "44": {
+    "ActivityType": 22,
+    "AfterSrvDay": 24,
+    "Id": 44,
+    "Popup": true,
+    "TimeDetail": [
+      {
+        "EndTime": "0-13:15",
+        "StartTime": "0-12:43"
+      },
+      {
+        "EndTime": "0-21:20",
+        "StartTime": "0-20:48"
+      }
+    ],
+    "TimeType": 3,
+    "TipsLevelLimit": {
+      "level": 30,
+      "zsLevel": 3
+    },
+    "rebornlevel": 3
+  },
+  "45": {
+    "ActivityType": 6,
+    "Id": 45,
+    "Popup": false,
+    "TimeDetail": {
+      "1": {
+        "EndTime": "2022.11.11-0:02:02",
+        "StartTime": "2022.11.11-0:00:01"
+      },
+      "2": {
+        "EndTime": "2022.11.11-2:02:01",
+        "StartTime": "2022.11.11-2:00:00"
+      },
+      "3": {
+        "EndTime": "2022.11.11-4:02:01",
+        "StartTime": "2022.11.11-4:00:00"
+      },
+      "4": {
+        "EndTime": "2022.11.11-6:02:01",
+        "StartTime": "2022.11.11-6:00:00"
+      },
+      "5": {
+        "EndTime": "2022.11.11-8:02:01",
+        "StartTime": "2022.11.11-8:00:00"
+      },
+      "6": {
+        "EndTime": "2022.11.11-10:02:01",
+        "StartTime": "2022.11.11-10:00:00"
+      },
+      "7": {
+        "EndTime": "2022.11.11-12:02:01",
+        "StartTime": "2022.11.11-12:00:00"
+      },
+      "8": {
+        "EndTime": "2022.11.11-14:02:01",
+        "StartTime": "2022.11.11-14:00:00"
+      },
+      "9": {
+        "EndTime": "2022.11.11-16:02:01",
+        "StartTime": "2022.11.11-16:00:00"
+      },
+      "10": {
+        "EndTime": "2022.11.11-18:02:01",
+        "StartTime": "2022.11.11-18:00:00"
+      },
+      "11": {
+        "EndTime": "2022.11.11-20:02:01",
+        "StartTime": "2022.11.11-20:00:00"
+      },
+      "12": {
+        "EndTime": "2022.11.11-22:02:01",
+        "StartTime": "2022.11.11-22:00:00"
+      },
+      "13": {
+        "EndTime": "2022.11.12-0:02:02",
+        "StartTime": "2022.11.12-0:00:01"
+      },
+      "14": {
+        "EndTime": "2022.11.12-2:02:01",
+        "StartTime": "2022.11.12-2:00:00"
+      },
+      "15": {
+        "EndTime": "2022.11.12-4:02:01",
+        "StartTime": "2022.11.12-4:00:00"
+      },
+      "16": {
+        "EndTime": "2022.11.12-6:02:01",
+        "StartTime": "2022.11.12-6:00:00"
+      },
+      "17": {
+        "EndTime": "2022.11.12-8:02:01",
+        "StartTime": "2022.11.12-8:00:00"
+      },
+      "18": {
+        "EndTime": "2022.11.12-10:02:01",
+        "StartTime": "2022.11.12-10:00:00"
+      },
+      "19": {
+        "EndTime": "2022.11.12-12:02:01",
+        "StartTime": "2022.11.12-12:00:00"
+      },
+      "20": {
+        "EndTime": "2022.11.12-14:02:01",
+        "StartTime": "2022.11.12-14:00:00"
+      },
+      "21": {
+        "EndTime": "2022.11.12-16:02:01",
+        "StartTime": "2022.11.12-16:00:00"
+      },
+      "22": {
+        "EndTime": "2022.11.12-18:02:01",
+        "StartTime": "2022.11.12-18:00:00"
+      },
+      "23": {
+        "EndTime": "2022.11.12-20:02:01",
+        "StartTime": "2022.11.12-20:00:00"
+      },
+      "24": {
+        "EndTime": "2022.11.12-22:02:01",
+        "StartTime": "2022.11.12-22:00:00"
+      },
+      "25": {
+        "EndTime": "2022.11.13-0:02:02",
+        "StartTime": "2022.11.13-0:00:01"
+      },
+      "26": {
+        "EndTime": "2022.11.13-2:02:01",
+        "StartTime": "2022.11.13-2:00:00"
+      },
+      "27": {
+        "EndTime": "2022.11.13-4:02:01",
+        "StartTime": "2022.11.13-4:00:00"
+      },
+      "28": {
+        "EndTime": "2022.11.13-6:02:01",
+        "StartTime": "2022.11.13-6:00:00"
+      },
+      "29": {
+        "EndTime": "2022.11.13-8:02:01",
+        "StartTime": "2022.11.13-8:00:00"
+      },
+      "30": {
+        "EndTime": "2022.11.13-10:02:01",
+        "StartTime": "2022.11.13-10:00:00"
+      },
+      "31": {
+        "EndTime": "2022.11.13-12:02:01",
+        "StartTime": "2022.11.13-12:00:00"
+      },
+      "32": {
+        "EndTime": "2022.11.13-14:02:01",
+        "StartTime": "2022.11.13-14:00:00"
+      },
+      "33": {
+        "EndTime": "2022.11.13-16:02:01",
+        "StartTime": "2022.11.13-16:00:00"
+      },
+      "34": {
+        "EndTime": "2022.11.13-18:02:01",
+        "StartTime": "2022.11.13-18:00:00"
+      },
+      "35": {
+        "EndTime": "2022.11.13-20:02:01",
+        "StartTime": "2022.11.13-20:00:00"
+      },
+      "36": {
+        "EndTime": "2022.11.13-22:02:01",
+        "StartTime": "2022.11.13-22:00:00"
+      }
+    },
+    "TimeType": 1
+  },
+  "50": {
+    "ActivityType": 14,
+    "AfterSrvDay": 7,
+    "Id": 50,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.28-23:59:59",
+        "StartTime": "2022.11.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "openlevel": 30,
+    "rebornlevel": 1
+  },
+  "51": {
+    "ActivityType": 15,
+    "AfterSrvDay": 7,
+    "Id": 51,
+    "Popup": false,
+    "Resettask": 1,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.28-23:59:59",
+        "StartTime": "2022.11.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "activityid": [
+      50
+    ],
+    "openlevel": 30,
+    "rebornlevel": 1
+  },
+  "53": {
+    "ActivityType": 15,
+    "AfterSrvDay": 7,
+    "Id": 53,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.28-23:59:59",
+        "StartTime": "2022.11.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "activityid": [
+      50
+    ],
+    "openlevel": 30,
+    "rebornlevel": 1
+  },
+  "54": {
+    "ActivityType": 15,
+    "AfterSrvDay": 7,
+    "Id": 54,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.28-23:59:59",
+        "StartTime": "2022.11.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "activityid": [
+      50
+    ],
+    "openlevel": 30,
+    "rebornlevel": 1
+  },
+  "55": {
+    "ActivityType": 14,
+    "AfterSrvDay": 7,
+    "Id": 55,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.9.28-23:59:59",
+        "StartTime": "2022.9.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "openlevel": 30,
+    "rebornlevel": 1
+  },
+  "56": {
+    "ActivityType": 15,
+    "AfterSrvDay": 7,
+    "Id": 56,
+    "Popup": false,
+    "Resettask": 1,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.9.28-23:59:59",
+        "StartTime": "2022.9.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "activityid": [
+      55
+    ],
+    "openlevel": 30,
+    "rebornlevel": 1
+  },
+  "57": {
+    "ActivityType": 15,
+    "AfterSrvDay": 7,
+    "Id": 57,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.9.28-23:59:59",
+        "StartTime": "2022.9.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "activityid": [
+      55
+    ],
+    "openlevel": 30,
+    "rebornlevel": 1
+  },
+  "58": {
+    "ActivityType": 15,
+    "AfterSrvDay": 7,
+    "Id": 58,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.9.28-23:59:59",
+        "StartTime": "2022.9.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "activityid": [
+      55
+    ],
+    "openlevel": 30,
+    "rebornlevel": 1
+  },
+  "59": {
+    "ActivityType": 14,
+    "AfterSrvDay": 7,
+    "Id": 59,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.10.28-23:59:59",
+        "StartTime": "2022.10.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "openlevel": 30,
+    "rebornlevel": 1
+  },
+  "60": {
+    "ActivityType": 15,
+    "AfterSrvDay": 7,
+    "Id": 60,
+    "Popup": false,
+    "Resettask": 1,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.10.28-23:59:59",
+        "StartTime": "2022.10.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "activityid": [
+      59
+    ],
+    "openlevel": 30,
+    "rebornlevel": 1
+  },
+  "61": {
+    "ActivityType": 15,
+    "AfterSrvDay": 7,
+    "Id": 61,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.10.28-23:59:59",
+        "StartTime": "2022.10.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "activityid": [
+      59
+    ],
+    "openlevel": 30,
+    "rebornlevel": 1
+  },
+  "62": {
+    "ActivityType": 15,
+    "AfterSrvDay": 7,
+    "Id": 62,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.10.28-23:59:59",
+        "StartTime": "2022.10.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "activityid": [
+      59
+    ],
+    "openlevel": 30,
+    "rebornlevel": 1
+  },
+  "70": {
+    "ActivityType": 6,
+    "Id": 70,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "0-19:00",
+        "StartTime": "0-18:00"
+      }
+    ],
+    "TimeType": 3
+  },
+  "10035": {
+    "ActivityType": 10015,
+    "Id": 10035,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "1-23:59",
+        "StartTime": "1-00:00"
+      },
+      {
+        "EndTime": "4-23:59",
+        "StartTime": "4-00:00"
+      },
+      {
+        "EndTime": "7-23:59",
+        "StartTime": "7-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "bg": "apay_banner_chfl",
+    "description": "特惠礼包，每周一、四、七限时出售",
+    "isClosed": 1
+  },
+  "10036": {
+    "ActivityType": 10015,
+    "Id": 10036,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-23:59",
+        "StartTime": "2-00:00"
+      },
+      {
+        "EndTime": "5-23:59",
+        "StartTime": "5-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "bg": "apay_banner_chfl",
+    "description": "特惠礼包，每周二、五限时出售",
+    "isClosed": 1
+  },
+  "10037": {
+    "ActivityType": 10015,
+    "Id": 10037,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "3-23:59",
+        "StartTime": "3-00:00"
+      },
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "6-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "bg": "apay_banner_chfl",
+    "description": "特惠礼包，每周三、六限时出售",
+    "isClosed": 1
+  },
+  "10038": {
+    "ActivityType": 10009,
+    "Id": 10038,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "4-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "isClosed": 1
+  },
+  "10040": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 7,
+    "BeforeSrvDay": 29,
+    "Id": 10040,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "1-23:59",
+        "StartTime": "1-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值元宝数达标即可领取丰厚奖励"
+  },
+  "10041": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 7,
+    "BeforeSrvDay": 29,
+    "Id": 10041,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-23:59",
+        "StartTime": "2-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值元宝数达标即可领取丰厚奖励"
+  },
+  "10042": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 7,
+    "BeforeSrvDay": 29,
+    "Id": 10042,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "3-23:59",
+        "StartTime": "3-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值元宝数达标即可领取丰厚奖励"
+  },
+  "10043": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 7,
+    "BeforeSrvDay": 29,
+    "Id": 10043,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "4-23:59",
+        "StartTime": "4-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值元宝数达标即可领取丰厚奖励"
+  },
+  "10044": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 7,
+    "BeforeSrvDay": 29,
+    "Id": 10044,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "5-23:59",
+        "StartTime": "5-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值元宝数达标即可领取丰厚奖励"
+  },
+  "10045": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 7,
+    "BeforeSrvDay": 29,
+    "Id": 10045,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "6-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值元宝数达标即可领取丰厚奖励"
+  },
+  "10046": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 7,
+    "BeforeSrvDay": 29,
+    "Id": 10046,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "7-23:59",
+        "StartTime": "7-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值元宝数达标即可领取丰厚奖励"
+  },
+  "10068": {
+    "ActivityType": 10015,
+    "Id": 10068,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "4-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "bg": "apay_banner_chfl",
+    "description": "开服前四天限量出售",
+    "isClosed": 1
+  },
+  "10078": {
+    "ActivityType": 10015,
+    "Id": 10078,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "新区限时优惠，超值礼包等你来抢购！"
+  },
+  "10079": {
+    "ActivityType": 10015,
+    "Id": 10079,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "新区限时优惠，超值礼包等你来抢购！"
+  },
+  "10080": {
+    "ActivityType": 10015,
+    "Id": 10080,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "3-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "新区限时优惠，超值礼包等你来抢购！"
+  },
+  "10081": {
+    "ActivityType": 10015,
+    "Id": 10081,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "1-23:59",
+        "StartTime": "1-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "开服限时礼包，每日限购一次",
+    "isClosed": 1
+  },
+  "10082": {
+    "ActivityType": 10015,
+    "Id": 10082,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "3-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10083": {
+    "ActivityType": 10015,
+    "Id": 10083,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "5-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "开服限时礼包，每日限购一次",
+    "isClosed": 1
+  },
+  "10084": {
+    "ActivityType": 10015,
+    "Id": 10084,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "6-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "开服限时礼包，每日限购一次",
+    "isClosed": 1
+  },
+  "10085": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "BeforeSrvDay": 29,
+    "Id": 10085,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "1-23:59",
+        "StartTime": "1-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "限时优惠打折，超值礼包等你来抢购！"
+  },
+  "10086": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "BeforeSrvDay": 29,
+    "Id": 10086,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-23:59",
+        "StartTime": "2-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "限时优惠打折，超值礼包等你来抢购！"
+  },
+  "10087": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "BeforeSrvDay": 29,
+    "Id": 10087,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "3-23:59",
+        "StartTime": "3-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "限时优惠打折，超值礼包等你来抢购！"
+  },
+  "10088": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "BeforeSrvDay": 29,
+    "Id": 10088,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "4-23:59",
+        "StartTime": "4-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "限时优惠打折，超值礼包等你来抢购！"
+  },
+  "10089": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "BeforeSrvDay": 29,
+    "Id": 10089,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "5-23:59",
+        "StartTime": "5-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "限时优惠打折，超值礼包等你来抢购！"
+  },
+  "10090": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "BeforeSrvDay": 29,
+    "Id": 10090,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "6-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "限时优惠打折，超值礼包等你来抢购！"
+  },
+  "10091": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "BeforeSrvDay": 29,
+    "Id": 10091,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "7-23:59",
+        "StartTime": "7-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "限时优惠打折，超值礼包等你来抢购！"
+  },
+  "10092": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 29,
+    "Id": 10092,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "1-23:59",
+        "StartTime": "1-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "限时优惠打折，超值礼包等你来抢购！"
+  },
+  "10093": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 29,
+    "Id": 10093,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-23:59",
+        "StartTime": "2-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "限时优惠打折，超值礼包等你来抢购！"
+  },
+  "10094": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 29,
+    "Id": 10094,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "3-23:59",
+        "StartTime": "3-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "限时优惠打折，超值礼包等你来抢购！"
+  },
+  "10095": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 29,
+    "Id": 10095,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "4-23:59",
+        "StartTime": "4-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "限时优惠打折，超值礼包等你来抢购！"
+  },
+  "10096": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 29,
+    "Id": 10096,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "5-23:59",
+        "StartTime": "5-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "限时优惠打折，超值礼包等你来抢购！"
+  },
+  "10097": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 29,
+    "Id": 10097,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "6-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "限时优惠打折，超值礼包等你来抢购！"
+  },
+  "10098": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 29,
+    "Id": 10098,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "7-23:59",
+        "StartTime": "7-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "限时优惠打折，超值礼包等你来抢购！"
+  },
+  "10099": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10099,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.3.18-23:59:59",
+        "StartTime": "2022.3.18-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10100": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10100,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.3.19-23:59:59",
+        "StartTime": "2022.3.19-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10101": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10101,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.3.20-23:59:59",
+        "StartTime": "2022.3.20-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10102": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10102,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.3.21-23:59:59",
+        "StartTime": "2022.3.21-0:00:00"
+      },
+      {
+        "EndTime": "2022.3.25-23:59:59",
+        "StartTime": "2022.3.25-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10103": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10103,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.3.22-23:59:59",
+        "StartTime": "2022.3.22-0:00:00"
+      },
+      {
+        "EndTime": "2022.3.26-23:59:59",
+        "StartTime": "2022.3.26-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10104": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10104,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.3.23-23:59:59",
+        "StartTime": "2022.3.23-0:00:00"
+      },
+      {
+        "EndTime": "2022.3.27-23:59:59",
+        "StartTime": "2022.3.27-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10105": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10105,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.3.24-23:59:59",
+        "StartTime": "2022.3.24-0:00:00"
+      },
+      {
+        "EndTime": "2022.3.28-23:59:59",
+        "StartTime": "2022.3.28-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10106": {
+    "ActivityType": 10009,
+    "Id": 10106,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "9-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "新服送好礼，登录即可领取丰厚奖励",
+    "isClosed": 0
+  },
+  "10107": {
+    "ActivityType": 10015,
+    "Id": 10107,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "4-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "开服第7天开启首次沙巴克攻城战。应勇士们要求，比奇国王特地开启此次活动，方便勇士备战",
+    "isClosed": 1
+  },
+  "10108": {
+    "ActivityType": 10015,
+    "Id": 10108,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "83-23:59",
+        "StartTime": "81-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "沙城告急！为即将到来的沙城争霸囤积物资，备战礼包限时出售",
+    "isClosed": 1
+  },
+  "10109": {
+    "ActivityType": 10015,
+    "Id": 10109,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "3-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "华美时装，开服限定！【极地贵族】仅在开服出售，机会难得。时装属性攻魔道2-3,、吸血+3%、体力加成+1%，与其他时装效果叠加",
+    "isClosed": 1
+  },
+  "10110": {
+    "ActivityType": 10009,
+    "Id": 10110,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "0-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "今日充值元宝数达标即可领取丰厚奖励"
+  },
+  "10111": {
+    "ActivityType": 10009,
+    "Id": 10111,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "1-23:59",
+        "StartTime": "1-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "今日充值元宝数达标即可领取丰厚奖励"
+  },
+  "10112": {
+    "ActivityType": 10009,
+    "Id": 10112,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-23:59",
+        "StartTime": "2-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "今日充值元宝数达标即可领取丰厚奖励"
+  },
+  "10113": {
+    "ActivityType": 10009,
+    "Id": 10113,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "3-23:59",
+        "StartTime": "3-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "今日充值元宝数达标即可领取丰厚奖励"
+  },
+  "10114": {
+    "ActivityType": 10009,
+    "Id": 10114,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "4-23:59",
+        "StartTime": "4-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "今日充值元宝数达标即可领取丰厚奖励"
+  },
+  "10115": {
+    "ActivityType": 10009,
+    "Id": 10115,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "5-23:59",
+        "StartTime": "5-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "今日充值元宝数达标即可领取丰厚奖励"
+  },
+  "10116": {
+    "ActivityType": 10009,
+    "Id": 10116,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "6-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "今日充值元宝数达标即可领取丰厚奖励"
+  },
+  "10117": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 15,
+    "Id": 10117,
+    "Popup": false,
+    "TimeDetail": {
+      "1": {
+        "EndTime": "2022.3.14-23:59:59",
+        "StartTime": "2022.3.8-0:00:00"
+      },
+      "2": {
+        "EndTime": "2022.4.4-23:59:59",
+        "StartTime": "2022.3.29-0:00:00"
+      },
+      "3": {
+        "EndTime": "2022.4.25-23:59:59",
+        "StartTime": "2022.4.19-0:00:00"
+      },
+      "4": {
+        "EndTime": "2022.5.16-23:59:59",
+        "StartTime": "2022.5.10-0:00:00"
+      }
+    },
+    "TimeType": 1,
+    "description": "本周真实充值任意金额天数达标即可领取丰厚奖励",
+    "isClosed": 1
+  },
+  "10118": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 15,
+    "Id": 10118,
+    "Popup": false,
+    "TimeDetail": {
+      "1": {
+        "EndTime": "2022.3.21-23:59:59",
+        "StartTime": "2022.3.15-0:00:00"
+      },
+      "2": {
+        "EndTime": "2022.4.11-23:59:59",
+        "StartTime": "2022.4.5-0:00:00"
+      },
+      "3": {
+        "EndTime": "2022.5.2-23:59:59",
+        "StartTime": "2022.4.26-0:00:00"
+      },
+      "4": {
+        "EndTime": "2022.5.23-23:59:59",
+        "StartTime": "2022.5.17-0:00:00"
+      }
+    },
+    "TimeType": 1,
+    "description": "本周真实充值任意金额天数达标即可领取丰厚奖励",
+    "isClosed": 1
+  },
+  "10119": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 15,
+    "Id": 10119,
+    "Popup": false,
+    "TimeDetail": {
+      "1": {
+        "EndTime": "2022.3.28-23:59:59",
+        "StartTime": "2022.3.22-0:00:00"
+      },
+      "2": {
+        "EndTime": "2022.4.18-23:59:59",
+        "StartTime": "2022.4.12-0:00:00"
+      },
+      "3": {
+        "EndTime": "2022.5.9-23:59:59",
+        "StartTime": "2022.5.3-0:00:00"
+      },
+      "4": {
+        "EndTime": "2022.5.30-23:59:59",
+        "StartTime": "2022.5.24-0:00:00"
+      }
+    },
+    "TimeType": 1,
+    "description": "本周真实充值任意金额天数达标即可领取丰厚奖励",
+    "isClosed": 1
+  },
+  "10120": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 7,
+    "Id": 10120,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.6-23:59:59",
+        "StartTime": "2022.4.2-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "bg": "festival_tqxunli",
+    "description": "踏青巡礼，节日狂欢！活动期间击败BOSS数量达标即可领取奖励（包括经典、重装、神话BOSS）",
+    "isClosed": 1
+  },
+  "10121": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 7,
+    "Id": 10121,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.6-23:59:59",
+        "StartTime": "2022.4.2-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "bg": "festival_tqxunli",
+    "description": "踏青巡礼，节日狂欢！活动期间击败特定妖兽即可领取丰厚奖励",
+    "isClosed": 1
+  },
+  "10122": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 7,
+    "Id": 10122,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.6-23:59:59",
+        "StartTime": "2022.4.2-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "bg": "festival_tqxunli",
+    "description": "踏青巡礼，节日狂欢！福利兑换限次开启",
+    "isClosed": 1
+  },
+  "10123": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 7,
+    "Id": 10123,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.6-23:59:59",
+        "StartTime": "2022.4.2-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "bg": "festival_tqxunli",
+    "description": "3转及以上领主都掉字，BOSS、妖兽、夺宝、日常活动必掉，石头城全图额外掉落。多余集字可在【合成-节日】兑换",
+    "isClosed": 1
+  },
+  "10124": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 7,
+    "Id": 10124,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.6-23:59:59",
+        "StartTime": "2022.4.2-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "bg": "festival_tqxunli",
+    "description": "踏青巡礼活动期间消耗元宝（私人交易、寄售行购买不计入）达标即可领奖",
+    "isClosed": 1
+  },
+  "10125": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10125,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.6-23:59:59",
+        "StartTime": "2022.4.2-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "bg": "festival_tqxunli",
+    "description": "踏青巡礼，节日狂欢！活动期间特价礼包限量出售",
+    "isClosed": 1
+  },
+  "10126": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10126,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.3.29-23:59:59",
+        "StartTime": "2022.3.29-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10127": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10127,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.3.30-23:59:59",
+        "StartTime": "2022.3.30-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10128": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10128,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.3.31-23:59:59",
+        "StartTime": "2022.3.31-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10129": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10129,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.1-23:59:59",
+        "StartTime": "2022.4.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10130": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10130,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.2-23:59:59",
+        "StartTime": "2022.4.2-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10131": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10131,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.3-23:59:59",
+        "StartTime": "2022.4.3-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10132": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10132,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.4-23:59:59",
+        "StartTime": "2022.4.4-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10133": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10133,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.5-23:59:59",
+        "StartTime": "2022.4.5-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10134": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10134,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.6-23:59:59",
+        "StartTime": "2022.4.6-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10135": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10135,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.7-23:59:59",
+        "StartTime": "2022.4.7-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10136": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10136,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.8-23:59:59",
+        "StartTime": "2022.4.8-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10137": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10137,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.9-23:59:59",
+        "StartTime": "2022.4.9-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10138": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10138,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.10-23:59:59",
+        "StartTime": "2022.4.10-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10139": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10139,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.11-23:59:59",
+        "StartTime": "2022.4.11-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10140": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10140,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.12-23:59:59",
+        "StartTime": "2022.4.12-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10141": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10141,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.13-23:59:59",
+        "StartTime": "2022.4.13-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10142": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10142,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.14-23:59:59",
+        "StartTime": "2022.4.14-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10143": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10143,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.15-23:59:59",
+        "StartTime": "2022.4.15-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10144": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10144,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.16-23:59:59",
+        "StartTime": "2022.4.16-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10145": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10145,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.17-23:59:59",
+        "StartTime": "2022.4.17-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10146": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10146,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.18-23:59:59",
+        "StartTime": "2022.4.18-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10150": {
+    "ActivityType": 10009,
+    "HefuTimes": 1,
+    "Id": 10150,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 2,
+    "description": "合服活动期间内，累计登录达标即可领取丰厚奖励，合服第二天起计算登录"
+  },
+  "10151": {
+    "ActivityType": 10009,
+    "HefuTimes": 1,
+    "Id": 10151,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 2,
+    "description": "合服活动期间内，累计消耗元宝达标即可领取丰厚奖励"
+  },
+  "10152": {
+    "ActivityType": 10015,
+    "HefuTimes": 1,
+    "Id": 10152,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 2,
+    "description": "合服送好礼！稀有道具限时特价出售"
+  },
+  "10153": {
+    "ActivityType": 10017,
+    "HefuTimes": 1,
+    "Id": 10153,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 2,
+    "description": "合服送好礼！福利兑换限次开启，活动期间内兑换次数将每日重置"
+  },
+  "10154": {
+    "ActivityType": 10018,
+    "HefuTimes": 1,
+    "Id": 10154,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 2,
+    "bg": "banner_shenhuaboss",
+    "description": "合服后三天，每个整点会在盟重安全区旁刷新合服神话BOSS，击败后掉落稀有道具"
+  },
+  "10155": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10155,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.19-23:59:59",
+        "StartTime": "2022.4.19-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10156": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10156,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.20-23:59:59",
+        "StartTime": "2022.4.20-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10157": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10157,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.21-23:59:59",
+        "StartTime": "2022.4.21-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10158": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10158,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.22-23:59:59",
+        "StartTime": "2022.4.22-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10159": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10159,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.23-23:59:59",
+        "StartTime": "2022.4.23-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10160": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10160,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.24-23:59:59",
+        "StartTime": "2022.4.24-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10161": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10161,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.25-23:59:59",
+        "StartTime": "2022.4.25-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10162": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10162,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.26-23:59:59",
+        "StartTime": "2022.4.26-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10163": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10163,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.27-23:59:59",
+        "StartTime": "2022.4.27-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10164": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10164,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.28-23:59:59",
+        "StartTime": "2022.4.28-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10165": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10165,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.29-23:59:59",
+        "StartTime": "2022.4.29-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10166": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10166,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.4.30-23:59:59",
+        "StartTime": "2022.4.30-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10167": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10167,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.1-23:59:59",
+        "StartTime": "2022.5.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10168": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10168,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.2-23:59:59",
+        "StartTime": "2022.5.2-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10169": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10169,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.3-23:59:59",
+        "StartTime": "2022.5.3-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10170": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10170,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.4-23:59:59",
+        "StartTime": "2022.5.4-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10171": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10171,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.5-23:59:59",
+        "StartTime": "2022.5.5-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10172": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10172,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.6-23:59:59",
+        "StartTime": "2022.5.6-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10173": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10173,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.7-23:59:59",
+        "StartTime": "2022.5.7-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10174": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10174,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.8-23:59:59",
+        "StartTime": "2022.5.8-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10175": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10175,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.9-23:59:59",
+        "StartTime": "2022.5.9-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10176": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 29,
+    "Id": 10176,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "1-23:59",
+        "StartTime": "1-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值元宝数达标即可领取丰厚奖励"
+  },
+  "10177": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 29,
+    "Id": 10177,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-23:59",
+        "StartTime": "2-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值元宝数达标即可领取丰厚奖励"
+  },
+  "10178": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 29,
+    "Id": 10178,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "3-23:59",
+        "StartTime": "3-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值元宝数达标即可领取丰厚奖励"
+  },
+  "10179": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 29,
+    "Id": 10179,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "4-23:59",
+        "StartTime": "4-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值元宝数达标即可领取丰厚奖励"
+  },
+  "10180": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 29,
+    "Id": 10180,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "5-23:59",
+        "StartTime": "5-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值元宝数达标即可领取丰厚奖励"
+  },
+  "10181": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 29,
+    "Id": 10181,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "6-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值元宝数达标即可领取丰厚奖励"
+  },
+  "10182": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 29,
+    "Id": 10182,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "7-23:59",
+        "StartTime": "7-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值元宝数达标即可领取丰厚奖励"
+  },
+  "10183": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 7,
+    "Id": 10183,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.5-23:59:59",
+        "StartTime": "2022.5.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "bg": "festival_hdwuyi",
+    "description": "欢度五一，节日狂欢！活动期间击败BOSS数量达标即可领取奖励（包括经典、重装、神话BOSS）",
+    "isClosed": 1
+  },
+  "10184": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 7,
+    "Id": 10184,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.5-23:59:59",
+        "StartTime": "2022.5.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "bg": "festival_hdwuyi",
+    "description": "欢度五一，节日狂欢！活动期间击败特定妖兽即可领取丰厚奖励",
+    "isClosed": 1
+  },
+  "10185": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 7,
+    "Id": 10185,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.3-23:59:59",
+        "StartTime": "2022.5.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "bg": "festival_hdwuyi",
+    "description": "欢度五一活动期间消耗元宝（私人交易、寄售行购买不计入）达标即可领奖",
+    "isClosed": 1
+  },
+  "10186": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 7,
+    "Id": 10186,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.5-23:59:59",
+        "StartTime": "2022.5.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "bg": "festival_hdwuyi",
+    "description": "欢度五一活动期间累计登录天数达标即可领取丰厚奖励",
+    "isClosed": 1
+  },
+  "10187": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 7,
+    "Id": 10187,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.5-23:59:59",
+        "StartTime": "2022.5.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "bg": "festival_hdwuyi",
+    "description": "欢度五一，节日狂欢！福利兑换限次开启",
+    "isClosed": 1
+  },
+  "10188": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 7,
+    "Id": 10188,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.5-23:59:59",
+        "StartTime": "2022.5.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "bg": "festival_hdwuyi",
+    "description": "3转及以上领主都掉字，神话BOSS、妖兽、夺宝、日常活动必掉，祖玛道全图额外掉落。多余集字可在【合成-节日】兑换",
+    "isClosed": 1
+  },
+  "10189": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10189,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.3-23:59:59",
+        "StartTime": "2022.5.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "bg": "festival_hdwuyi",
+    "description": "欢度五一，节日狂欢！活动期间特价礼包限量出售",
+    "isClosed": 1
+  },
+  "10190": {
+    "ActivityType": 10009,
+    "Id": 10190,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.23-23:59:59",
+        "StartTime": "2022.5.19-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "bg": "festival_znqingdian",
+    "description": "红狐周年感恩回馈，累计登录领取超值大礼",
+    "isClosed": 1
+  },
+  "10191": {
+    "ActivityType": 10009,
+    "Id": 10191,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.23-23:59:59",
+        "StartTime": "2022.5.19-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "bg": "festival_znqingdian",
+    "description": "红狐周年庆典嘉年华，充值元宝数达标领取豪华大礼",
+    "isClosed": 1
+  },
+  "10192": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10192,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.10-23:59:59",
+        "StartTime": "2022.5.10-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10193": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10193,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.11-23:59:59",
+        "StartTime": "2022.5.11-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10194": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10194,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.12-23:59:59",
+        "StartTime": "2022.5.12-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10195": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10195,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.13-23:59:59",
+        "StartTime": "2022.5.13-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10196": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10196,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.14-23:59:59",
+        "StartTime": "2022.5.14-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10197": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10197,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.15-23:59:59",
+        "StartTime": "2022.5.15-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10198": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10198,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.16-23:59:59",
+        "StartTime": "2022.5.16-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10199": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10199,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.17-23:59:59",
+        "StartTime": "2022.5.17-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10200": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10200,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.18-23:59:59",
+        "StartTime": "2022.5.18-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10201": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10201,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.19-23:59:59",
+        "StartTime": "2022.5.19-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10202": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10202,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.20-23:59:59",
+        "StartTime": "2022.5.20-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10203": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10203,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.21-23:59:59",
+        "StartTime": "2022.5.21-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10204": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10204,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.22-23:59:59",
+        "StartTime": "2022.5.22-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10205": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10205,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.23-23:59:59",
+        "StartTime": "2022.5.23-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10206": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10206,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.24-23:59:59",
+        "StartTime": "2022.5.24-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10207": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10207,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.25-23:59:59",
+        "StartTime": "2022.5.25-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10208": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10208,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.26-23:59:59",
+        "StartTime": "2022.5.26-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10209": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10209,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.27-23:59:59",
+        "StartTime": "2022.5.27-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10210": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10210,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.28-23:59:59",
+        "StartTime": "2022.5.28-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10211": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10211,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.29-23:59:59",
+        "StartTime": "2022.5.29-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10212": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10212,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.5.30-23:59:59",
+        "StartTime": "2022.5.30-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "限时优惠打折，超值礼包等你来抢购！",
+    "isClosed": 1
+  },
+  "10216": {
+    "ActivityType": 10009,
+    "HefuTimes": 1,
+    "Id": 10216,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 2,
+    "description": "合服活动期间内，真实充值任意金额天数达标即可领取丰厚奖励"
+  },
+  "10217": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 7,
+    "Id": 10217,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.6.14-23:59:59",
+        "StartTime": "2022.6.12-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "bg": "festival_dwjiajie",
+    "description": "端午佳节，节日狂欢！活动期间击败BOSS数量达标即可领取奖励（包括经典、重装、神话BOSS）"
+  },
+  "10218": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 7,
+    "Id": 10218,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.6.14-23:59:59",
+        "StartTime": "2022.6.12-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "bg": "festival_dwjiajie",
+    "description": "端午佳节，节日狂欢！活动期间击败特定妖兽即可领取丰厚奖励"
+  },
+  "10219": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 7,
+    "Id": 10219,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.6.14-23:59:59",
+        "StartTime": "2022.6.12-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "bg": "festival_dwjiajie",
+    "description": "端午佳节活动期间消耗元宝（私人交易、寄售行购买不计入）达标即可领奖"
+  },
+  "10220": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 7,
+    "Id": 10220,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.6.14-23:59:59",
+        "StartTime": "2022.6.12-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "bg": "festival_dwjiajie",
+    "description": "端午佳节活动期间累计登录天数达标即可领取丰厚奖励"
+  },
+  "10221": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 7,
+    "Id": 10221,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.6.14-23:59:59",
+        "StartTime": "2022.6.12-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "bg": "festival_dwjiajie",
+    "description": "端午佳节活动期间充值元宝数达标天数达标即可领取丰厚奖励"
+  },
+  "10222": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 7,
+    "Id": 10222,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.6.14-23:59:59",
+        "StartTime": "2022.6.12-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "bg": "festival_dwjiajie",
+    "description": "端午佳节，节日狂欢！福利兑换限次开启"
+  },
+  "10223": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 7,
+    "Id": 10223,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.6.14-23:59:59",
+        "StartTime": "2022.6.12-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "bg": "festival_dwjiajie",
+    "description": "3转及以上领主都掉字，神话BOSS、妖兽、夺宝、日常活动必掉，祖玛道全图额外掉落。多余集字可在【合成-节日】兑换"
+  },
+  "10224": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10224,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.6.14-23:59:59",
+        "StartTime": "2022.6.12-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "bg": "festival_dwjiajie",
+    "description": "端午佳节，节日狂欢！活动期间特价礼包限量出售"
+  },
+  "10225": {
+    "ActivityType": 10020,
+    "AfterSrvDay": 7,
+    "BeforeSrvDay": 30,
+    "Id": 10225,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.6.23-14:00:00",
+        "StartTime": "2022.6.21-0:00:00"
+      }
+    ],
+    "TimeType": 1
+  },
+  "10226": {
+    "ActivityType": 10020,
+    "AfterSrvDay": 30,
+    "Id": 10226,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.6.23-14:00:00",
+        "StartTime": "2022.6.21-0:00:00"
+      }
+    ],
+    "TimeType": 1
+  },
+  "10227": {
+    "ActivityType": 10020,
+    "AfterSrvDay": 8,
+    "BeforeSrvDay": 30,
+    "Id": 10227,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-14:00",
+        "StartTime": "1-14:00"
+      }
+    ],
+    "TimeType": 3
+  },
+  "10228": {
+    "ActivityType": 10020,
+    "AfterSrvDay": 30,
+    "Id": 10228,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-14:00",
+        "StartTime": "1-14:00"
+      }
+    ],
+    "TimeType": 3
+  },
+  "10229": {
+    "ActivityType": 10009,
+    "Id": 10229,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.6.30-23:59:00",
+        "StartTime": "2022.6.26-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "清凉暑假到来，充值元宝数达标领取豪华大礼",
+    "isClosed": 1
+  },
+  "10230": {
+    "ActivityType": 10009,
+    "Id": 10230,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.6.30-23:59:00",
+        "StartTime": "2022.6.26-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "清凉暑假到来，累计登录领取超值大礼",
+    "isClosed": 1
+  },
+  "10231": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 7,
+    "Id": 10231,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.7.3-23:59:00",
+        "StartTime": "2022.6.30-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "清凉暑假到来，充值元宝数达标领取豪华大礼"
+  },
+  "10232": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 7,
+    "Id": 10232,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.7.3-23:59:00",
+        "StartTime": "2022.6.30-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "清凉暑假到来，累计登录领取超值大礼"
+  },
+  "10233": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 7,
+    "Id": 10233,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.7.3-23:59:00",
+        "StartTime": "2022.6.30-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "清凉暑假到来！活动期间击败妖兽数量达标即可领取丰厚奖励"
+  },
+  "10234": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 7,
+    "Id": 10234,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.7.3-23:59:00",
+        "StartTime": "2022.6.30-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "清凉暑假到来！福利兑换限次开启"
+  },
+  "10235": {
+    "ActivityType": 10017,
+    "HefuTimes": 2,
+    "Id": 10235,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 2,
+    "description": "合服送好礼！福利兑换限次开启，活动期间内兑换次数将每日重置"
+  },
+  "10236": {
+    "ActivityType": 10009,
+    "HefuTimes": 2,
+    "Id": 10236,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 2,
+    "description": "合服活动期间内，累计登录达标即可领取丰厚奖励，合服第二天起计算登录"
+  },
+  "10237": {
+    "ActivityType": 10015,
+    "HefuTimes": 2,
+    "Id": 10237,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 2,
+    "description": "合服送好礼！稀有道具限时特价出售"
+  },
+  "10238": {
+    "ActivityType": 10009,
+    "HefuTimes": 2,
+    "Id": 10238,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 2,
+    "description": "合服活动期间内，累计消耗元宝达标即可领取丰厚奖励"
+  },
+  "10239": {
+    "ActivityType": 10009,
+    "HefuTimes": 2,
+    "Id": 10239,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 2,
+    "description": "合服活动期间内，真实充值任意金额天数达标即可领取丰厚奖励"
+  },
+  "10240": {
+    "ActivityType": 10018,
+    "HefuTimes": 2,
+    "Id": 10240,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 2,
+    "bg": "banner_shenhuaboss",
+    "description": "合服后三天，每个整点会在盟重安全区旁刷新合服神话BOSS，击败后掉落稀有道具"
+  },
+  "10241": {
+    "ActivityType": 10020,
+    "AfterSrvDay": 8,
+    "BeforeSrvDay": 29,
+    "Id": 10241,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "4-14:00",
+        "StartTime": "3-14:00"
+      }
+    ],
+    "TimeType": 3
+  },
+  "10242": {
+    "ActivityType": 10020,
+    "AfterSrvDay": 29,
+    "BeforeSrvDay": 69,
+    "Id": 10242,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "4-14:00",
+        "StartTime": "3-14:00"
+      }
+    ],
+    "TimeType": 3
+  },
+  "10243": {
+    "ActivityType": 10020,
+    "AfterSrvDay": 69,
+    "Id": 10243,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "4-14:00",
+        "StartTime": "3-14:00"
+      }
+    ],
+    "TimeType": 3
+  },
+  "10244": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 4,
+    "Id": 10244,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "盛夏袭来！活动期间击败BOSS达标可领取奖励（经典、重装、神话BOSS）"
+  },
+  "10245": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 4,
+    "Id": 10245,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "盛夏袭来，精彩活动限时开启！活动期间击败特定妖兽即可领取丰厚奖励"
+  },
+  "10246": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 4,
+    "Id": 10246,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "盛夏狂欢活动期间累计登录天数达标即可领取丰厚奖励"
+  },
+  "10247": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 4,
+    "Id": 10247,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "盛夏狂欢活动期间消耗元宝（私人交易、寄售行购买不计入）达标即可领奖"
+  },
+  "10248": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 4,
+    "Id": 10248,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "盛夏狂欢活动期间真实充值任意金额天数达标即可领取丰厚奖励"
+  },
+  "10249": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 4,
+    "Id": 10249,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "盛夏袭来，精彩活动限时开启！活动期间特价礼包限量出售"
+  },
+  "10250": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 4,
+    "Id": 10250,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "盛夏袭来，精彩活动限时开启！福利兑换限次开启"
+  },
+  "10251": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 4,
+    "Id": 10251,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "盛夏狂欢活动期间，3转及以上领主都掉字，神话BOSS、妖兽、夺宝、日常活动必掉，祖玛道全图额外掉落。多余集字可在【合成-活动】兑换"
+  },
+  "10252": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 4,
+    "Id": 10252,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "周末送好礼！活动期间累计登录天数达标即可领取丰厚奖励"
+  },
+  "10253": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 4,
+    "Id": 10253,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "周末送好礼！活动期间击败妖兽达标可领取奖励"
+  },
+  "10254": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 4,
+    "Id": 10254,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "周末送好礼！活动期间累计充值元宝数达标可领取奖励"
+  },
+  "10255": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 4,
+    "Id": 10255,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "周末送好礼！福利兑换限次开启"
+  },
+  "10256": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 4,
+    "Id": 10256,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.12.5-23:59:59",
+        "StartTime": "2022.12.3-0:00:00"
+      },
+      {
+        "EndTime": "2022.11.14-23:59:59",
+        "StartTime": "2022.11.12-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "周末送好礼！活动期间累计登录天数达标即可领取丰厚奖励"
+  },
+  "10257": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 4,
+    "Id": 10257,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.12.5-23:59:59",
+        "StartTime": "2022.12.3-0:00:00"
+      },
+      {
+        "EndTime": "2022.11.14-23:59:59",
+        "StartTime": "2022.11.12-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "周末送好礼！活动期间击败BOSS(经典、重装、神话BOSS)达标可领取奖励"
+  },
+  "10258": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 4,
+    "Id": 10258,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.12.5-23:59:59",
+        "StartTime": "2022.12.3-0:00:00"
+      },
+      {
+        "EndTime": "2022.11.14-23:59:59",
+        "StartTime": "2022.11.12-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "周末送好礼！活动期间累计充值元宝数达标可领取奖励",
+    "isClosed": 1
+  },
+  "10259": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 4,
+    "Id": 10259,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.8.1-23:59:59",
+        "StartTime": "2022.7.30-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "周末送好礼！福利兑换限次开启"
+  },
+  "10260": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 4,
+    "Id": 10260,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.12.12-23:59:59",
+        "StartTime": "2022.12.10-0:00:00"
+      },
+      {
+        "EndTime": "2022.11.21-23:59:59",
+        "StartTime": "2022.11.19-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "周末送好礼！活动期间累计登录天数达标即可领取丰厚奖励"
+  },
+  "10261": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 4,
+    "Id": 10261,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.12.12-23:59:59",
+        "StartTime": "2022.12.10-0:00:00"
+      },
+      {
+        "EndTime": "2022.11.21-23:59:59",
+        "StartTime": "2022.11.19-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "周末送好礼！活动期间击败怪物达标可领取奖励"
+  },
+  "10262": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 4,
+    "Id": 10262,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.12.12-23:59:59",
+        "StartTime": "2022.12.10-0:00:00"
+      },
+      {
+        "EndTime": "2022.11.21-23:59:59",
+        "StartTime": "2022.11.19-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "周末送好礼！活动期间累计充值元宝数达标可领取奖励",
+    "isClosed": 1
+  },
+  "10263": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 4,
+    "Id": 10263,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.8.8-23:59:59",
+        "StartTime": "2022.8.6-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "周末送好礼！福利兑换限次开启"
+  },
+  "10264": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 4,
+    "Id": 10264,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.8.15-23:59:59",
+        "StartTime": "2022.8.13-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "周末送好礼！福利兑换限次开启"
+  },
+  "10265": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 4,
+    "Id": 10265,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.8.22-23:59:59",
+        "StartTime": "2022.8.20-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "周末送好礼！福利兑换限次开启"
+  },
+  "10266": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 4,
+    "Id": 10266,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.8.29-23:59:59",
+        "StartTime": "2022.8.27-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "周末送好礼！福利兑换限次开启"
+  },
+  "10267": {
+    "ActivityType": 10009,
+    "HefuTimes": 3,
+    "Id": 10267,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 2,
+    "description": "合服活动期间内，累计登录达标即可领取丰厚奖励，合服第二天起计算登录"
+  },
+  "10268": {
+    "ActivityType": 10009,
+    "HefuTimes": 3,
+    "Id": 10268,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 2,
+    "description": "合服活动期间内，累计消耗元宝达标即可领取丰厚奖励"
+  },
+  "10269": {
+    "ActivityType": 10009,
+    "HefuTimes": 3,
+    "Id": 10269,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 2,
+    "description": "合服活动期间内，真实充值任意金额天数达标即可领取丰厚奖励"
+  },
+  "10270": {
+    "ActivityType": 10015,
+    "HefuTimes": 3,
+    "Id": 10270,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 2,
+    "description": "合服送好礼！稀有道具限时特价出售"
+  },
+  "10271": {
+    "ActivityType": 10017,
+    "HefuTimes": 3,
+    "Id": 10271,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 2,
+    "description": "合服送好礼！福利兑换限次开启，活动期间内兑换次数将每日重置"
+  },
+  "10272": {
+    "ActivityType": 10018,
+    "HefuTimes": 3,
+    "Id": 10272,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 2,
+    "bg": "banner_shenhuaboss",
+    "description": "合服后三天，每个整点会在盟重安全区旁刷新合服神话BOSS，击败后掉落稀有道具"
+  },
+  "10273": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 7,
+    "Id": 10273,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "7-23:59",
+        "StartTime": "5-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "周末送好礼！转职体验包限时出售"
+  },
+  "10275": {
+    "ActivityType": 10009,
+    "Id": 10275,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "1-23:59",
+        "StartTime": "1-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "真实充值达标即可领取",
+    "isClosed": 1
+  },
+  "10276": {
+    "ActivityType": 10009,
+    "Id": 10276,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-23:59",
+        "StartTime": "2-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "真实充值达标即可领取",
+    "isClosed": 1
+  },
+  "10277": {
+    "ActivityType": 10009,
+    "Id": 10277,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "3-23:59",
+        "StartTime": "3-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "真实充值达标即可领取",
+    "isClosed": 1
+  },
+  "10278": {
+    "ActivityType": 10009,
+    "Id": 10278,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "4-23:59",
+        "StartTime": "4-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "真实充值达标即可领取",
+    "isClosed": 1
+  },
+  "10279": {
+    "ActivityType": 10009,
+    "Id": 10279,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "5-23:59",
+        "StartTime": "5-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "真实充值达标即可领取",
+    "isClosed": 1
+  },
+  "10280": {
+    "ActivityType": 10009,
+    "Id": 10280,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "6-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "真实充值达标即可领取",
+    "isClosed": 1
+  },
+  "10281": {
+    "ActivityType": 10009,
+    "Id": 10281,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "7-23:59",
+        "StartTime": "7-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "真实充值达标即可领取",
+    "isClosed": 1
+  },
+  "10282": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 3,
+    "Id": 10282,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "3-23:59",
+        "StartTime": "3-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "沙巴克活动期间，沙城区域泡点经验达标即可领取"
+  },
+  "10283": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 3,
+    "Id": 10283,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "6-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "沙巴克活动期间，沙城区域泡点经验达标即可领取"
+  },
+  "10284": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 4,
+    "Id": 10284,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.9.5-23:59:59",
+        "StartTime": "2022.9.3-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "周末送好礼！福利兑换限次开启"
+  },
+  "10285": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 4,
+    "Id": 10285,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.9.12-23:59:59",
+        "StartTime": "2022.9.10-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "周末送好礼！福利兑换限次开启"
+  },
+  "10286": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 4,
+    "Id": 10286,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.9.19-23:59:59",
+        "StartTime": "2022.9.17-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "周末送好礼！福利兑换限次开启"
+  },
+  "10287": {
+    "ActivityType": 10009,
+    "Id": 10287,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "0-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "真实充值达标即可领取"
+  },
+  "10288": {
+    "ActivityType": 10009,
+    "Id": 10288,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "1-23:59",
+        "StartTime": "1-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "真实充值达标即可领取"
+  },
+  "10289": {
+    "ActivityType": 10009,
+    "Id": 10289,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-23:59",
+        "StartTime": "2-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "真实充值达标即可领取"
+  },
+  "10290": {
+    "ActivityType": 10009,
+    "Id": 10290,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "3-23:59",
+        "StartTime": "3-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "真实充值达标即可领取"
+  },
+  "10291": {
+    "ActivityType": 10009,
+    "Id": 10291,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "4-23:59",
+        "StartTime": "4-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "真实充值达标即可领取"
+  },
+  "10292": {
+    "ActivityType": 10009,
+    "Id": 10292,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "5-23:59",
+        "StartTime": "5-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "真实充值达标即可领取"
+  },
+  "10293": {
+    "ActivityType": 10009,
+    "Id": 10293,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "6-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "真实充值达标即可领取"
+  },
+  "10294": {
+    "ActivityType": 10009,
+    "Id": 10294,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "7-23:59",
+        "StartTime": "7-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "真实充值达标即可领取"
+  },
+  "10295": {
+    "ActivityType": 10009,
+    "Id": 10295,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "8-23:59",
+        "StartTime": "8-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "真实充值达标即可领取"
+  },
+  "10296": {
+    "ActivityType": 10009,
+    "Id": 10296,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "9-23:59",
+        "StartTime": "9-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "真实充值达标即可领取"
+  },
+  "10297": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 10,
+    "Id": 10297,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "1-23:59",
+        "StartTime": "1-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "真实充值达标即可领取"
+  },
+  "10298": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 10,
+    "Id": 10298,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-23:59",
+        "StartTime": "2-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "真实充值达标即可领取"
+  },
+  "10299": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 10,
+    "Id": 10299,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "3-23:59",
+        "StartTime": "3-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "真实充值达标即可领取"
+  },
+  "10300": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 10,
+    "Id": 10300,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "4-23:59",
+        "StartTime": "4-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "真实充值达标即可领取"
+  },
+  "10301": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 10,
+    "Id": 10301,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "5-23:59",
+        "StartTime": "5-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "真实充值达标即可领取"
+  },
+  "10302": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 10,
+    "Id": 10302,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "6-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "真实充值达标即可领取"
+  },
+  "10303": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 10,
+    "Id": 10303,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "7-23:59",
+        "StartTime": "7-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "真实充值达标即可领取"
+  },
+  "10304": {
+    "ActivityType": 10009,
+    "Id": 10304,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "1-23:59",
+        "StartTime": "1-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "每日累积真实充值达标即可领取限量返利(每日限一次)",
+    "isClosed": 1
+  },
+  "10305": {
+    "ActivityType": 10009,
+    "Id": 10305,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-23:59",
+        "StartTime": "2-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "每日累积真实充值达标即可领取限量返利(每日限一次)",
+    "isClosed": 1
+  },
+  "10306": {
+    "ActivityType": 10009,
+    "Id": 10306,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "3-23:59",
+        "StartTime": "3-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "每日累积真实充值达标即可领取限量返利(每日限一次)",
+    "isClosed": 1
+  },
+  "10307": {
+    "ActivityType": 10009,
+    "Id": 10307,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "4-23:59",
+        "StartTime": "4-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "每日累积真实充值达标即可领取限量返利(每日限一次)",
+    "isClosed": 1
+  },
+  "10308": {
+    "ActivityType": 10009,
+    "Id": 10308,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "5-23:59",
+        "StartTime": "5-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "每日累积真实充值达标即可领取限量返利(每日限一次)",
+    "isClosed": 1
+  },
+  "10309": {
+    "ActivityType": 10009,
+    "Id": 10309,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "6-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "每日累积真实充值达标即可领取限量返利(每日限一次)",
+    "isClosed": 1
+  },
+  "10310": {
+    "ActivityType": 10009,
+    "Id": 10310,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "7-23:59",
+        "StartTime": "7-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "每日累积真实充值达标即可领取限量返利(每日限一次)",
+    "isClosed": 1
+  },
+  "10311": {
+    "ActivityType": 10009,
+    "Id": 10311,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-23:59",
+        "StartTime": "2-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "沙巴克活动期间，沙城区域泡点经验达标即可领取"
+  },
+  "10312": {
+    "ActivityType": 10009,
+    "Id": 10312,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.9.30-23:59:59",
+        "StartTime": "2022.9.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "9月庆典来袭，活动期间累计充值达标即可领取丰厚奖励！",
+    "isClosed": 1
+  },
+  "10313": {
+    "ActivityType": 10009,
+    "Id": 10313,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "1-23:59",
+        "StartTime": "1-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值达标即可领取"
+  },
+  "10314": {
+    "ActivityType": 10009,
+    "Id": 10314,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-23:59",
+        "StartTime": "2-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值达标即可领取"
+  },
+  "10315": {
+    "ActivityType": 10009,
+    "Id": 10315,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "3-23:59",
+        "StartTime": "3-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值达标即可领取"
+  },
+  "10316": {
+    "ActivityType": 10009,
+    "Id": 10316,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "4-23:59",
+        "StartTime": "4-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值达标即可领取"
+  },
+  "10317": {
+    "ActivityType": 10009,
+    "Id": 10317,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "5-23:59",
+        "StartTime": "5-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值达标即可领取"
+  },
+  "10318": {
+    "ActivityType": 10009,
+    "Id": 10318,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "6-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值达标即可领取"
+  },
+  "10319": {
+    "ActivityType": 10009,
+    "Id": 10319,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "7-23:59",
+        "StartTime": "7-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值达标即可领取"
+  },
+  "10320": {
+    "ActivityType": 10009,
+    "Id": 10320,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "1-23:59",
+        "StartTime": "1-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值达标即可领取",
+    "isClosed": 1
+  },
+  "10321": {
+    "ActivityType": 10009,
+    "Id": 10321,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-23:59",
+        "StartTime": "2-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值达标即可领取",
+    "isClosed": 1
+  },
+  "10322": {
+    "ActivityType": 10009,
+    "Id": 10322,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "3-23:59",
+        "StartTime": "3-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值达标即可领取",
+    "isClosed": 1
+  },
+  "10323": {
+    "ActivityType": 10009,
+    "Id": 10323,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "4-23:59",
+        "StartTime": "4-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值达标即可领取",
+    "isClosed": 1
+  },
+  "10324": {
+    "ActivityType": 10009,
+    "Id": 10324,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "5-23:59",
+        "StartTime": "5-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值达标即可领取",
+    "isClosed": 1
+  },
+  "10325": {
+    "ActivityType": 10009,
+    "Id": 10325,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "7-23:59",
+        "StartTime": "6-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "周末充值达标即可领取",
+    "isClosed": 1
+  },
+  "10326": {
+    "ActivityType": 10009,
+    "Id": 10326,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "7-23:59",
+        "StartTime": "7-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值达标即可领取",
+    "isClosed": 1
+  },
+  "10327": {
+    "ActivityType": 10009,
+    "Id": 10327,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "活动期间转生达标可领取"
+  },
+  "10328": {
+    "ActivityType": 10009,
+    "Id": 10328,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "活动期间充值达标可领取"
+  },
+  "10329": {
+    "ActivityType": 10009,
+    "Id": 10329,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "0-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "今日充值元宝数达标即可领取丰厚奖励",
+    "isClosed": 1
+  },
+  "10330": {
+    "ActivityType": 10009,
+    "Id": 10330,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "1-23:59",
+        "StartTime": "1-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "今日充值元宝数达标即可领取丰厚奖励",
+    "isClosed": 1
+  },
+  "10331": {
+    "ActivityType": 10009,
+    "Id": 10331,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-23:59",
+        "StartTime": "2-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "今日充值元宝数达标即可领取丰厚奖励",
+    "isClosed": 1
+  },
+  "10332": {
+    "ActivityType": 10009,
+    "Id": 10332,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "3-23:59",
+        "StartTime": "3-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "今日充值元宝数达标即可领取丰厚奖励",
+    "isClosed": 1
+  },
+  "10333": {
+    "ActivityType": 10009,
+    "Id": 10333,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "4-23:59",
+        "StartTime": "4-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "今日充值元宝数达标即可领取丰厚奖励",
+    "isClosed": 1
+  },
+  "10334": {
+    "ActivityType": 10009,
+    "Id": 10334,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "5-23:59",
+        "StartTime": "5-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "今日充值元宝数达标即可领取丰厚奖励",
+    "isClosed": 1
+  },
+  "10335": {
+    "ActivityType": 10009,
+    "Id": 10335,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "6-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "今日充值元宝数达标即可领取丰厚奖励",
+    "isClosed": 1
+  },
+  "10336": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 7,
+    "Id": 10336,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "1-23:59",
+        "StartTime": "1-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值元宝数达标即可领取丰厚奖励",
+    "isClosed": 1
+  },
+  "10337": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 7,
+    "Id": 10337,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-23:59",
+        "StartTime": "2-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值元宝数达标即可领取丰厚奖励",
+    "isClosed": 1
+  },
+  "10338": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 7,
+    "Id": 10338,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "3-23:59",
+        "StartTime": "3-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值元宝数达标即可领取丰厚奖励",
+    "isClosed": 1
+  },
+  "10339": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 7,
+    "Id": 10339,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "4-23:59",
+        "StartTime": "4-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值元宝数达标即可领取丰厚奖励",
+    "isClosed": 1
+  },
+  "10340": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 7,
+    "Id": 10340,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "5-23:59",
+        "StartTime": "5-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值元宝数达标即可领取丰厚奖励",
+    "isClosed": 1
+  },
+  "10341": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 7,
+    "Id": 10341,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "6-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值元宝数达标即可领取丰厚奖励",
+    "isClosed": 1
+  },
+  "10342": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 7,
+    "Id": 10342,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "7-23:59",
+        "StartTime": "7-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日充值元宝数达标即可领取丰厚奖励",
+    "isClosed": 1
+  },
+  "10343": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 4,
+    "Id": 10343,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.9.26-23:59:59",
+        "StartTime": "2022.9.24-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "周末送好礼！福利兑换限次开启"
+  },
+  "10344": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 4,
+    "Id": 10344,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.10.3-23:59:59",
+        "StartTime": "2022.10.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "周末送好礼！福利兑换限次开启"
+  },
+  "10345": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 4,
+    "Id": 10345,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.10.10-23:59:59",
+        "StartTime": "2022.10.8-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "周末送好礼！福利兑换限次开启"
+  },
+  "10346": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 4,
+    "Id": 10346,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.28-23:59:59",
+        "StartTime": "2022.11.26-0:00:00"
+      },
+      {
+        "EndTime": "2022.11.7-23:59:59",
+        "StartTime": "2022.11.5-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "周末送好礼！活动期间累计充值天数达标即可领取丰厚奖励"
+  },
+  "10347": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 4,
+    "Id": 10347,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.12.5-23:59:59",
+        "StartTime": "2022.12.3-0:00:00"
+      },
+      {
+        "EndTime": "2022.11.14-23:59:59",
+        "StartTime": "2022.11.12-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "周末送好礼！活动期间累计充值天数达标即可领取丰厚奖励"
+  },
+  "10348": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 4,
+    "Id": 10348,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.12.12-23:59:59",
+        "StartTime": "2022.12.10-0:00:00"
+      },
+      {
+        "EndTime": "2022.11.21-23:59:59",
+        "StartTime": "2022.11.19-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "周末送好礼！活动期间累计充值天数达标即可领取丰厚奖励"
+  },
+  "10349": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 2,
+    "Id": 10349,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.10.17-23:59:59",
+        "StartTime": "2022.10.15-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "重阳献瑞，节日狂欢！活动期间击败特定妖兽即可领取丰厚奖励"
+  },
+  "10350": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 2,
+    "Id": 10350,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.10.17-23:59:59",
+        "StartTime": "2022.10.15-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "重阳献瑞活动期间消耗元宝（私人交易、寄售行购买不计入）达标即可领奖"
+  },
+  "10351": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 2,
+    "Id": 10351,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.10.17-23:59:59",
+        "StartTime": "2022.10.15-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "重阳献瑞活动期间充值元宝数达标天数达标即可领取丰厚奖励"
+  },
+  "10352": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 2,
+    "Id": 10352,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.10.5-23:59:59",
+        "StartTime": "2022.10.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "重阳献瑞，节日狂欢！福利兑换限次开启，活动期间兑换次数每日刷新"
+  },
+  "10353": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 2,
+    "Id": 10353,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.10.5-23:59:59",
+        "StartTime": "2022.10.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "3转及以上领主都掉字，神话BOSS、妖兽、夺宝、日常活动必掉，祖玛道全图额外掉落。多余集字可在【合成-活动】兑换"
+  },
+  "10354": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 2,
+    "Id": 10354,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.10.17-23:59:59",
+        "StartTime": "2022.10.15-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "重阳献瑞，节日狂欢！活动期间特价礼包限量出售"
+  },
+  "10355": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 2,
+    "Id": 10355,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.9.19-23:59:59",
+        "StartTime": "2022.9.19-0:00:00"
+      },
+      {
+        "EndTime": "2022.9.20-23:59:59",
+        "StartTime": "2022.9.20-0:00:00"
+      },
+      {
+        "EndTime": "2022.9.21-23:59:59",
+        "StartTime": "2022.9.21-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "活动期间充值达标可领取"
+  },
+  "10356": {
+    "ActivityType": 10018,
+    "Id": 10356,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.26-23:59:59",
+        "StartTime": "2022.11.24-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "节日期间，每两小时会在盟重区域附近刷新。必掉时装或红包(红包总额至少1元)"
+  },
+  "10357": {
+    "ActivityType": 10033,
+    "Id": 10357,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "区服冠名",
+    "isClosed": 1
+  },
+  "10358": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 2,
+    "Id": 10358,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.10.17-23:59:59",
+        "StartTime": "2022.10.15-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "重阳献瑞！活动期间击败BOSS(经典、重装、神话BOSS)达标可领取奖励"
+  },
+  "10359": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 2,
+    "Id": 10359,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.10.17-23:59:59",
+        "StartTime": "2022.10.15-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "重阳献瑞活动期间累计登录天数达标即可领取丰厚奖励"
+  },
+  "10360": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 2,
+    "Id": 10360,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.10.17-23:59:59",
+        "StartTime": "2022.10.15-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "重阳到来，充值元宝数达标领取豪华大礼"
+  },
+  "10361": {
+    "ActivityType": 10018,
+    "Id": 10361,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "0-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 3,
+    "description": "今日限时福利！单笔充值固定金额即可领奖(非下列指定额度无法享受)。每个档都可重复领取，充值后奖励邮件立即发放",
+    "isClosed": 1
+  },
+  "10362": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 4,
+    "Id": 10362,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.10.17-23:59:59",
+        "StartTime": "2022.10.15-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "周末送好礼！福利兑换限次开启"
+  },
+  "10363": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 4,
+    "Id": 10363,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.10.24-23:59:59",
+        "StartTime": "2022.10.22-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "周末送好礼！福利兑换限次开启"
+  },
+  "10364": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 4,
+    "Id": 10364,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.10.31-23:59:59",
+        "StartTime": "2022.10.29-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "周末送好礼！福利兑换限次开启"
+  },
+  "10365": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 2,
+    "Id": 10365,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.10.17-23:59:59",
+        "StartTime": "2022.10.15-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "重阳献瑞，节日狂欢！活动期间特价礼包限量出售，活动期间购买次数每日刷新"
+  },
+  "10366": {
+    "ActivityType": 10033,
+    "Id": 10366,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "4-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "isClosed": 1
+  },
+  "10367": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 4,
+    "Id": 10367,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.7-23:59:59",
+        "StartTime": "2022.11.5-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "周末送好礼！福利兑换限次开启"
+  },
+  "10368": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 4,
+    "Id": 10368,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.14-23:59:59",
+        "StartTime": "2022.11.12-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "周末送好礼！福利兑换限次开启"
+  },
+  "10369": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 4,
+    "Id": 10369,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.21-23:59:59",
+        "StartTime": "2022.11.19-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "周末送好礼！福利兑换限次开启"
+  },
+  "10370": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 2,
+    "Id": 10370,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.10.31-23:59:59",
+        "StartTime": "2022.10.29-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "万圣节狂欢！活动期间击败BOSS(经典、重装、神话BOSS)达标可领取奖励"
+  },
+  "10371": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 2,
+    "Id": 10371,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.10.31-23:59:59",
+        "StartTime": "2022.10.29-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "万圣节狂欢活动期间累计登录天数达标即可领取丰厚奖励"
+  },
+  "10372": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 2,
+    "Id": 10372,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.10.31-23:59:59",
+        "StartTime": "2022.10.29-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "万圣节狂欢！活动期间击败特定妖兽即可领取丰厚奖励"
+  },
+  "10373": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 2,
+    "Id": 10373,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.10.31-23:59:59",
+        "StartTime": "2022.10.29-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "万圣节狂欢！活动期间福利兑换限次开启，兑换次数每日刷新"
+  },
+  "10374": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 2,
+    "Id": 10374,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.10.31-23:59:59",
+        "StartTime": "2022.10.29-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "万圣节狂欢！活动期间特价礼包限量出售"
+  },
+  "10375": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 2,
+    "Id": 10375,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.10.31-23:59:59",
+        "StartTime": "2022.10.29-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "万圣节狂欢活动期间消耗元宝（私人交易、寄售行购买不计入）达标即可领奖"
+  },
+  "10376": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 2,
+    "Id": 10376,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.10.31-23:59:59",
+        "StartTime": "2022.10.29-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "充值元宝数达标领取豪华大礼（开服第3天活动开启，开启后计算充值金额）"
+  },
+  "10377": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 2,
+    "Id": 10377,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.3-23:59:59",
+        "StartTime": "2022.11.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "光棍节活动期间充值元宝数达标天数达标即可领取丰厚奖励"
+  },
+  "10378": {
+    "ActivityType": 10018,
+    "Id": 10378,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.13-23:59:59",
+        "StartTime": "2022.11.11-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "节日期间，每两小时会在盟重区域附近刷新。必掉时装或红包(红包总额至少1元)"
+  },
+  "10379": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 2,
+    "Id": 10379,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.3-23:59:59",
+        "StartTime": "2022.11.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "光棍节狂欢！活动期间击败BOSS(经典、重装、神话BOSS)达标可领取奖励"
+  },
+  "10380": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 2,
+    "Id": 10380,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.3-23:59:59",
+        "StartTime": "2022.11.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "光棍节狂欢活动期间累计登录天数达标即可领取丰厚奖励"
+  },
+  "10381": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 2,
+    "Id": 10381,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.3-23:59:59",
+        "StartTime": "2022.11.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "光棍节狂欢！活动期间击败特定妖兽即可领取丰厚奖励"
+  },
+  "10382": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 2,
+    "Id": 10382,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.3-23:59:59",
+        "StartTime": "2022.11.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "光棍节狂欢！活动期间福利兑换限次开启，兑换次数每日刷新"
+  },
+  "10383": {
+    "ActivityType": 10015,
+    "AfterSrvDay": 2,
+    "Id": 10383,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.3-23:59:59",
+        "StartTime": "2022.11.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "光棍节狂欢！活动期间特价礼包限量出售"
+  },
+  "10384": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 2,
+    "Id": 10384,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.3-23:59:59",
+        "StartTime": "2022.11.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "光棍节狂欢活动期间消耗元宝（私人交易、寄售行购买不计入）达标即可领奖"
+  },
+  "10385": {
+    "ActivityType": 10009,
+    "AfterSrvDay": 2,
+    "Id": 10385,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.3-23:59:59",
+        "StartTime": "2022.11.1-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "充值元宝数达标领取豪华大礼（开服第3天活动开启，开启后计算充值金额）"
+  },
+  "10386": {
+    "ActivityType": 10009,
+    "Id": 10386,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.12-23:59:59",
+        "StartTime": "2022.11.10-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "双十一狂欢！活动期间击败BOSS(经典、重装、神话BOSS)达标可领取奖励"
+  },
+  "10387": {
+    "ActivityType": 10009,
+    "Id": 10387,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.12-23:59:59",
+        "StartTime": "2022.11.10-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "双十一狂欢活动期间累计登录天数达标即可领取丰厚奖励"
+  },
+  "10388": {
+    "ActivityType": 10009,
+    "Id": 10388,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.12-23:59:59",
+        "StartTime": "2022.11.10-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "双十一狂欢！活动期间击败特定妖兽即可领取丰厚奖励"
+  },
+  "10389": {
+    "ActivityType": 10015,
+    "Id": 10389,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.12-23:59:59",
+        "StartTime": "2022.11.10-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "双十一狂欢！活动期间特价礼包限量出售，购买次数每日刷新"
+  },
+  "10390": {
+    "ActivityType": 10015,
+    "Id": 10390,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.12-23:59:59",
+        "StartTime": "2022.11.10-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "双十一狂欢！活动期间特价礼包限量出售"
+  },
+  "10391": {
+    "ActivityType": 10009,
+    "Id": 10391,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.12-23:59:59",
+        "StartTime": "2022.11.10-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "双十一狂欢活动期间消耗元宝（私人交易、寄售行购买不计入）达标即可领奖"
+  },
+  "10392": {
+    "ActivityType": 10009,
+    "Id": 10392,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.12-23:59:59",
+        "StartTime": "2022.11.10-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "双十一狂欢！充值元宝数达标领取豪华大礼"
+  },
+  "10393": {
+    "ActivityType": 10009,
+    "Id": 10393,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.12-23:59:59",
+        "StartTime": "2022.11.10-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "双十一狂欢活动期间充值元宝数达标天数达标即可领取丰厚奖励"
+  },
+  "10394": {
+    "ActivityType": 10009,
+    "Id": 10394,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2021.11.13-23:59:59",
+        "StartTime": "2021.11.11-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "双十一狂欢！活动期间击败BOSS(经典、重装、神话BOSS)达标可领取奖励"
+  },
+  "10395": {
+    "ActivityType": 10009,
+    "Id": 10395,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.13-23:59:59",
+        "StartTime": "2022.11.11-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "双十一狂欢！活动期间击败特定妖兽即可领取丰厚奖励"
+  },
+  "10396": {
+    "ActivityType": 10015,
+    "Id": 10396,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.13-23:59:59",
+        "StartTime": "2022.11.11-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "双十一狂欢！活动期间特价礼包限量出售，购买次数每日刷新"
+  },
+  "10397": {
+    "ActivityType": 10015,
+    "Id": 10397,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.13-23:59:59",
+        "StartTime": "2022.11.11-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "双十一狂欢！活动期间特价礼包限量出售"
+  },
+  "10398": {
+    "ActivityType": 10009,
+    "Id": 10398,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.13-23:59:59",
+        "StartTime": "2022.11.11-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "双十一狂欢活动期间消耗元宝（私人交易、寄售行购买不计入）达标即可领奖"
+  },
+  "10399": {
+    "ActivityType": 10009,
+    "Id": 10399,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.13-23:59:59",
+        "StartTime": "2022.11.11-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "双十一狂欢！充值元宝数达标领取豪华大礼"
+  },
+  "10400": {
+    "ActivityType": 10009,
+    "Id": 10400,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.26-23:59:59",
+        "StartTime": "2022.11.24-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "感恩节狂欢！活动期间击败BOSS(经典、重装、神话BOSS)达标可领取奖励"
+  },
+  "10401": {
+    "ActivityType": 10009,
+    "Id": 10401,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.26-23:59:59",
+        "StartTime": "2022.11.24-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "感恩节活动期间累计登录天数达标即可领取丰厚奖励"
+  },
+  "10402": {
+    "ActivityType": 10009,
+    "Id": 10402,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.26-23:59:59",
+        "StartTime": "2022.11.24-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "感恩节狂欢！活动期间击败特定妖兽即可领取丰厚奖励"
+  },
+  "10403": {
+    "ActivityType": 10015,
+    "Id": 10403,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.26-23:59:59",
+        "StartTime": "2022.11.24-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "感恩节狂欢！活动期间特价礼包限量出售，购买次数每日刷新"
+  },
+  "10404": {
+    "ActivityType": 10015,
+    "Id": 10404,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.26-23:59:59",
+        "StartTime": "2022.11.24-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "感恩节狂欢！活动期间特价礼包限量出售"
+  },
+  "10405": {
+    "ActivityType": 10009,
+    "Id": 10405,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.26-23:59:59",
+        "StartTime": "2022.11.24-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "感恩节活动期间消耗元宝（私人交易、寄售行购买不计入）达标即可领奖"
+  },
+  "10406": {
+    "ActivityType": 10009,
+    "Id": 10406,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.26-23:59:59",
+        "StartTime": "2022.11.24-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "感恩节狂欢！充值元宝数达标领取豪华大礼"
+  },
+  "10407": {
+    "ActivityType": 10009,
+    "Id": 10407,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.26-23:59:59",
+        "StartTime": "2022.11.24-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "感恩节活动期间充值元宝数达标天数达标即可领取丰厚奖励"
+  },
+  "10408": {
+    "ActivityType": 10038,
+    "Id": 10408,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "6-23:59",
+        "StartTime": "0-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "在线豪礼"
+  },
+  "10409": {
+    "ActivityType": 10039,
+    "Id": 10409,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2-23:59",
+        "StartTime": "99999-00:00"
+      }
+    ],
+    "TimeType": 0,
+    "description": "消费元宝冲击排行榜，领取超值奖励（活动开启后计算消耗元宝数量，以活动结束当天24点排名结算奖励）"
+  },
+  "10410": {
+    "ActivityType": 10009,
+    "Id": 10410,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.20-23:59:59",
+        "StartTime": "2022.11.18-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "超值狂欢！活动期间击败特定妖兽即可领取丰厚奖励"
+  },
+  "10411": {
+    "ActivityType": 10015,
+    "Id": 10411,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.20-23:59:59",
+        "StartTime": "2022.11.18-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "超值狂欢！活动期间特价礼包限量出售"
+  },
+  "10412": {
+    "ActivityType": 10009,
+    "Id": 10412,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.20-23:59:59",
+        "StartTime": "2022.11.18-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "超值狂欢活动期间消耗元宝（私人交易、寄售行购买不计入）达标即可领奖"
+  },
+  "10413": {
+    "ActivityType": 10009,
+    "Id": 10413,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.18-23:59:59",
+        "StartTime": "2022.11.18-0:00:00"
+      },
+      {
+        "EndTime": "2022.11.19-23:59:59",
+        "StartTime": "2022.11.19-0:00:00"
+      },
+      {
+        "EndTime": "2022.11.20-23:59:59",
+        "StartTime": "2022.11.20-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "超值狂欢！每日充值元宝数达标领取豪华大礼"
+  },
+  "10414": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 4,
+    "Id": 10414,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.11.28-23:59:59",
+        "StartTime": "2022.11.26-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "周末送好礼！福利兑换限次开启"
+  },
+  "10415": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 4,
+    "Id": 10415,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.12.5-23:59:59",
+        "StartTime": "2022.12.3-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "周末送好礼！福利兑换限次开启"
+  },
+  "10416": {
+    "ActivityType": 10017,
+    "AfterSrvDay": 4,
+    "Id": 10416,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.12.12-23:59:59",
+        "StartTime": "2022.12.10-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "周末送好礼！福利兑换限次开启"
+  },
+  "10417": {
+    "ActivityType": 10017,
+    "Id": 10417,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.12.4-23:59:59",
+        "StartTime": "2022.12.2-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "超值狂欢！活动期间福利兑换限次开启，兑换次数每日刷新"
+  },
+  "10418": {
+    "ActivityType": 10015,
+    "Id": 10418,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.12.4-23:59:59",
+        "StartTime": "2022.12.2-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "超值狂欢！活动期间特价礼包限量出售"
+  },
+  "10419": {
+    "ActivityType": 10009,
+    "Id": 10419,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.12.2-23:59:59",
+        "StartTime": "2022.12.2-0:00:00"
+      },
+      {
+        "EndTime": "2022.12.3-23:59:59",
+        "StartTime": "2022.12.3-0:00:00"
+      },
+      {
+        "EndTime": "2022.12.4-23:59:59",
+        "StartTime": "2022.12.4-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "超值狂欢期间每日消耗元宝（私人交易、寄售行购买不计入）达标即可领奖"
+  },
+  "10420": {
+    "ActivityType": 10009,
+    "Id": 10420,
+    "Popup": false,
+    "TimeDetail": [
+      {
+        "EndTime": "2022.12.2-23:59:59",
+        "StartTime": "2022.12.2-0:00:00"
+      },
+      {
+        "EndTime": "2022.12.3-23:59:59",
+        "StartTime": "2022.12.3-0:00:00"
+      },
+      {
+        "EndTime": "2022.12.4-23:59:59",
+        "StartTime": "2022.12.4-0:00:00"
+      }
+    ],
+    "TimeType": 1,
+    "description": "超值狂欢！每日充值元宝数达标领取豪华大礼"
+  }
+}

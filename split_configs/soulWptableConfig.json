@@ -1,0 +1,30 @@
+{
+  "1": {
+    "ruleid": 87,
+    "tabImg": "sw_bh_icon1",
+    "type": 1,
+    "wpeff": "",
+    "wpname": "sw_bh_mc1"
+  },
+  "2": {
+    "ruleid": 88,
+    "tabImg": "sw_bh_icon2",
+    "type": 2,
+    "wpeff": "",
+    "wpname": "sw_bh_mc2"
+  },
+  "3": {
+    "ruleid": 89,
+    "tabImg": "sw_bh_icon3",
+    "type": 3,
+    "wpeff": "",
+    "wpname": "sw_bh_mc3"
+  },
+  "4": {
+    "ruleid": 90,
+    "tabImg": "sw_bh_icon4",
+    "type": 4,
+    "wpeff": "",
+    "wpname": "sw_bh_mc4"
+  }
+}

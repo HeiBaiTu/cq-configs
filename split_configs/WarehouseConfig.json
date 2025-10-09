@@ -1,0 +1,46 @@
+{
+  "initial": 4,
+  "openprivilege": {
+    "level": 1,
+    "vip": 1
+  },
+  "openprivilegewith": {
+    "level": 1,
+    "vip": 4
+  },
+  "tips": "|C:0xf56f00&T:紫卡会员开启随身仓库\n白卡会员可在盟重NPC||C:0xff7700&T:【仓库】||C:0xf56f00&T:处使用仓库功能|",
+  "viptips1": "升级绿卡会员享8格仓库",
+  "viptips2": "升级蓝卡会员享84格仓库",
+  "viptips3": "升级紫卡会员享126格随身仓库",
+  "viptips4": "升级橙卡会员享168格随身仓库",
+  "warehouses": [
+    {
+      "count": 4,
+      "vip": 1
+    },
+    {
+      "count": 8,
+      "vip": 2
+    },
+    {
+      "count": 84,
+      "vip": 3
+    },
+    {
+      "count": 126,
+      "vip": 4
+    },
+    {
+      "count": 168,
+      "vip": 5
+    },
+    {
+      "count": 210,
+      "vip": 6
+    },
+    {
+      "count": 210,
+      "vip": 7
+    }
+  ]
+}

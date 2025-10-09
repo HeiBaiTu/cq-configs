@@ -1,0 +1,41 @@
+--劫镖道具
+
+--#include "data\functions\ItemEvent\ItemUseCount.txt" once
+--#include "data\functions\GlobalMiscExpand\GlobalMisc.txt" once
+--#include "data\config\item\JieBiaoBox.txt" once
+
+
+function UseJieBiaoBox(sysarg, count, itemidx, itemPtr,ItemTable, delType, param)
+	local lastTimes, maxTimes = getItemUseCount(sysarg, itemidx)
+	if lastTimes <= 0 then
+	    local MaxDailyUseCircleSoulItemTimes = ItemUseCountCfg[itemidx].dailyUseLimit
+		Actor.sendTipmsg( sysarg, OldLang.Script.EscortTips030, ttFlyTip )
+		return
+	end
+	local useCount = count
+	if useCount > lastTimes then
+		useCount = lastTimes
+	end
+	useCount = Actor.removeItemByPtr(sysarg, itemPtr, useCount, true, "JieBiaoBox", 286)
+	if useCount > 0 then
+		if AddDailyItemUseCount(sysarg, itemidx, useCount)	then		--次数增加，并发送客户端
+		    local logId, logStr = 286, "JieBiaoBox"
+		    local awards = GetAwardsByRate(ItemTable.Awards, useCount)
+		    CommonFunc.Awards.Give(sysarg, awards, logId, logStr)
+			Actor.sendTipmsg( sysarg, string.format(OldLang.Script.EscortTips031, lastTimes-useCount), ttFlyTip )
+		end
+		return true,useCount
+	end
+
+end
+
+
+
+function UseJieBiaoBoxInit(sysarg)
+    for i = 1,table.getn(JieBiaoBox) do
+	    local x = JieBiaoBox[i]
+	    GlobalItemFn[x.itemid] = { func = UseJieBiaoBox, params = x }
+    end
+end
+
+table.insert(InitFnTable, UseJieBiaoBoxInit)

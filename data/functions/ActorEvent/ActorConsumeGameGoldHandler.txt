@@ -1,0 +1,4 @@
+﻿--消费元宝事件 消耗元宝数量
+defaultHandleActorConsumeGameGold = function (pActor, nConsumeCount)
+  
+end
