@@ -3437,16 +3437,16 @@
     "exp": 0,
     "flagid": 9,
     "level": 131,
-    "modelid": 30151,
+    "modelid": 30191,
     "monsterType": 1,
     "name": "超级圣兽",
     "propid": 124,
-    "scale": 115,
+    "scale": 70,
     "skills": [
       {
         "autoCD": false,
         "event": 0,
-        "id": 67,
+        "id": 44,
         "level": 1
       }
     ],

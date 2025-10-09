@@ -1,92 +1,702 @@
 FUNCTION                                 MIN      MAX      COUNT    AVG      SOURCE
-Lua::<NA>                                0        11       18556    0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:375
-+--Lua:local:func                        1        1        1        1        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:90
-|  +--Lua:field:GetCacheData             1        1        1        1        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:
+Lua::<NA>                                0        40       989      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/LangCode.txt:15
++--Lua:local:func                        0        1        22       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:291
+|  +--C:field:sendActivityData           0        1        21       0        
+|  |  +--Lua::<NA>                       0        1        21       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:375
+|  |  |  +--Lua:global:CheckReqData      0        1        21       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:357
+|  |  |  |  +--Lua:field:?               0        1        21       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  |  |  |  |  
+|  |  |  |  +--Lua:local:func            0        1        21       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:194
+|  |  |  |  |  +--Lua:global:nextMonthClear 0        1        21       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:9
+|  |  |  |  |  |  +--Lua:field:GetActorData 0        1        21       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
 |  
-+--Lua:local:func                        1        1        3        1        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:289
-|  +--C:field:sendActivityData           1        1        3        1        
-|  |  +--Lua::<NA>                       1        1        3        1        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:375
-|  |  |  +--Lua:global:CheckReqData      1        1        3        1        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:357
-|  |  |  |  +--Lua:local:func            1        1        3        1        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:149
-|  |  |  |  |  +--Lua:global:GetBitData  0        1        27       0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:109
-|  |  |  |  |  |  +--Lua:field:GetActorData 0        1        27       0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:
-|  |  |  |  |  |  
-|  |  |  |  |  +--Lua:global:DealClearAtvData 0        1        3        0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:191
-|  |  |  |  |  |  +--Lua:global:GetBitData 0        1        27       0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:109
-|  |  |  |  |  |  |  +--Lua:field:GetActorData 0        1        27       0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:
++--Lua:local:func                        0        1        22       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:219
+|  +--Lua:field:GetActorData             0        1        21       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  +--C::<NA>                         0        1        105      0        
+|  |  
+|  +--C:field:sendActivityData           0        1        21       0        
+|  |  +--Lua::<NA>                       0        1        21       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:375
+|  |  |  +--Lua:global:CheckReqData      0        1        21       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:357
+|  |  |  |  +--Lua:local:func            0        1        21       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:161
+|  |  |  |  |  +--Lua:field:GetActorData 0        1        21       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
 |  
-+--Lua:local:func                        0        1        650      0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:251
-|  +--C:field:getActorById               0        1        644      0        
-|  |  
-|  +--Lua:field:GetGlobalData            0        1        650      0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:110
-|  |  +--C::<NA>                         0        1        3250     0        
-|  |  
-|  +--C:local:(for generator)            0        1        1294     0        
-|  |  
-|  +--Lua:field:GetActorData             0        1        640      0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:176
-|  |  +--C::<NA>                         0        1        3200     0        
-|  |  |  
-|  |  +--C:field:getStaticVar            0        1        640      0        
-|  |  
-|  +--C::<NA>                            0        1        4116     0        
++--Lua:local:func                        0        1        22       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/functions/NpcEvent/NpcUIFuncs.txt:115
+|  +--Lua:global:GetUIFuncData           0        1        22       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/functions/NpcEvent/NpcUIFuncs.txt:28
+|  |  +--C:field:getStaticVar            0        1        22       0        
 |  
-+--Lua:global:CheckReqData               0        11       38       0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:357
-|  +--Lua:field:?                        0        1        7        0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:222
-|  |  +--C::<NA>                         0        1        145      0        
++--Lua:local:func                        0        1        22       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:209
+|  +--C:field:sendActivityData           0        1        21       0        
+|  |  +--Lua::<NA>                       0        1        21       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:375
+|  |  |  +--Lua:global:CheckReqData      0        1        21       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:357
+|  |  |  |  +--Lua:local:func            0        1        21       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  
++--Lua:local:func                        0        1        22       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:169
+|  +--C:field:getName                    0        1        22       0        
+|  
++--Lua:local:func                        0        1        22       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:340
+|  +--C:field:sendActivityData           0        1        21       0        
+|  |  +--Lua::<NA>                       0        1        21       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:375
+|  |  |  +--Lua:global:CheckReqData      0        1        21       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:357
+|  |  |  |  +--Lua:field:?               0        1        21       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:289
+|  |  |  |  |  +--Lua:field:GetActorData 0        1        21       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  |  |  |  |  
+|  |  |  |  +--Lua:local:func            0        1        21       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  
++--Lua:local:func                        0        1        44       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  
++--Lua:local:func                        0        1        22       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:218
+|  +--Lua:global:getData                 0        1        22       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.confi
+|  
++--Lua:local:func                        0        1        22       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  
++--Lua:local:func                        0        2        44       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:154
+|  +--Lua:field:GetActorData             0        1        88       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  +--C::<NA>                         0        1        450      0        
 |  |  
-|  +--Lua:local:func                     0        11       7        2        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:149
-|  |  +--Lua:global:GetBitData           0        1        351      0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:109
-|  |  |  +--Lua:field:GetActorData       0        1        351      0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:176
-|  |  |  |  +--C::<NA>                   0        1        1755     0        
+|  +--C:field:sendActivityData           0        1        88       0        
+|  |  +--Lua::<NA>                       0        1        88       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:375
+|  |  |  +--Lua:global:CheckReqData      0        1        88       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:357
+|  |  |  |  +--Lua:local:func            0        1        22       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:119
+|  |  |  |  |  +--Lua:field:GetActorData 0        1        22       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  |  |  |  |  
+|  |  |  |  +--Lua:local:func            0        1        66       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:110
+|  |  |  |  |  +--Lua:global:getUseTimes 0        1        352      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:68
+|  |  |  |  |  |  +--Lua:field:GetActorData 0        1        352      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  |  |  |  +--C::<NA>          0        1        1760     0        
+|  |  |  |  |  |  |  
+|  |  |  |  |  |  +--C::<NA>             0        1        704      0        
 |  |  |  |  
-|  |  |  +--C::<NA>                      0        1        1315     0        
-|  |  |  
-|  |  +--Lua:global:DealClearAtvData     0        5        7        0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:191
-|  |  |  +--Lua:global:GetBitData        0        1        351      0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:109
-|  |  |  |  +--Lua:field:GetActorData    0        1        351      0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:176
-|  |  |  |  |  +--C::<NA>                0        1        1755     0        
+|  |  |  +--Lua:global:CheckInitActivity 0        1        88       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:343
+|  |  |  |  +--Lua:local:func            0        1        22       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:111
+|  |  |  |  |  +--Lua:field:ClearActorData 0        1        22       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:193
+|  |  |  |  |  |  +--C:field:getEntityType 0        1        22       0        
+|  |  |  |  |  
+|  |  |  |  +--Lua:global:GetGlobalData  0        1        88       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:110
+|  |  |  |  |  +--C::<NA>                0        1        440      0        
+|  |  
+|  +--C:global:print                     0        1        22       0     
+|  
++--Lua:local:func                        0        40       22       23       /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:316
+|  +--Lua:field:GetActorData             0        1        67       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  +--C::<NA>                         0        1        335      0        
+|  |  
+|  +--C:field:sendActivityData           0        32       67       7        
+|  |  +--Lua::<NA>                       0        32       67       7        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:375
+|  |  |  +--Lua:global:CheckReqData      0        31       67       7        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:357
+|  |  |  |  +--Lua:field:?               0        9        67       2        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:222
+|  |  |  |  |  +--Lua:global:GetBitData  0        2        4822     0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:109
+|  |  |  |  |  |  +--Lua:field:GetActorData 0        2        4822     0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  |  |  |  +--C::<NA>          0        1        24110    0        
+|  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  +--C:field:getStaticVar 0        1        4822     0        
+|  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  +--C:field:getEntityType 0        1        4822     0        
+|  |  |  |  |  |  |  
+|  |  |  |  |  |  +--C::<NA>             0        1        19794    0        
 |  |  |  |  |  |  
-|  |  |  |  |  +--C:field:getStaticVar   0        1        351      0        
-|  |  
-|  +--Lua:local:func                     0        1        3        0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:110
-|  |  +--Lua:global:getUseTimes          0        1        16       0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:68
-|  |  |  +--Lua:field:GetActorData       0        1        16       0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:176
-|  |  |  |  +--C::<NA>                   0        1        80       0        
-|  |  
-|  +--Lua:local:func                     0        1        15       0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:156
-|  |  +--Lua:global:GetBitData           0        1        72       0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:116
-|  |  |  +--Lua:field:GetActorData       0        1        72       0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  |  |  |  |  +--C::<NA>                0        1        16150    0        
+|  |  |  |  |  
+|  |  |  |  +--Lua:local:func            0        22       67       5        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:149
+|  |  |  |  |  +--Lua:global:GetBitData  0        2        6711     0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:109
+|  |  |  |  |  |  +--Lua:field:GetActorData 0        1        6711     0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  |  |  |  +--C::<NA>          0        1        33555    0        
+|  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  +--C:field:getStaticVar 0        1        6711     0        
+|  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  +--C:field:getEntityType 0        1        6711     0        
+|  |  |  |  |  |  |  
+|  |  |  |  |  |  +--C::<NA>             0        2        26955    0        
+|  |  |  |  |  |  
+|  |  |  |  |  +--C:field:writeInt       0        1        13489    0        
+|  |  |  |  |  |  
+|  |  |  |  |  +--C:local:(for generator) 0        1        6778     0        
+|  |  |  |  |  |  
+|  |  |  |  |  +--Lua:global:DealClearAtvData 0        9        67       2        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:191
+|  |  |  |  |  |  +--Lua:global:GetBitData 0        1        6711     0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:109
+|  |  |  |  |  |  |  +--Lua:field:GetActorData 0        1        6711     0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  |  |  |  |  +--C::<NA>       0        1        33555    0        
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  +--C:field:getStaticVar 0        1        6711     0        
+|  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  +--C:field:getIntBit 0        1        1650     0        
+|  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  +--C::<NA>          0        1        26955    0        
+|  |  |  |  |  |  |  
+|  |  |  |  |  |  +--C:local:(for generator) 0        1        6778     0        
+|  |  |  |  |  |  |  
+|  |  |  |  |  |  +--Lua:field:GetActorData 0        1        67       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  |  |  |  |  |  
+|  |  |  |  |  +--C::<NA>                0        1        12084    0        
 |  
-+--Lua:local:func                        0        1        650      0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:176
-|  +--Lua:global:nextMonthClear          0        1        650      0        /data/yfbx_server/s1/LogicServer/data/language/LangCode.txt:16
-|  |  +--Lua:field:GetGlobalData         0        1        650      0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:110
-|  |  |  +--C::<NA>                      0        1        3250     0        
-|  |  |  
-|  |  +--C::<NA>                         0        1        1950     0        
++--Lua:local:func                        0        1        22       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:125
+|  +--Lua:global:getLuckyTreeData        0        1        22       0        ./data/functions/GlobalFunction.txt:17
+|  |  +--C::<NA>                         0        1        45       0        
+|  |  
+|  +--Lua:global:SendLuckyTreeData       0        1        21       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/LangCode.txt:7
+|  |  +--Lua:global:getLuckyTreeData     0        1        21       0        ./data/functions/GlobalFunction.txt
 |  
-+--Lua:local:func                        0        1        650      0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:371
-|  +--Lua:global:dealPaodianExp          0        1        650      0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:254
-|  |  +--Lua:field:GetCacheData          0        1        650      0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:143
-|  |  |  +--C::<NA>                      0        1        3250     0        
-|  |  |  
-|  |  +--C::<NA>                         0        1        1561     0        
++--Lua:local:func                        0        1        22       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:342
+|  +--Lua:global:SendKu25UserData        0        1        22       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/LangCode.config:1
+|  |  +--Lua:global:GetKu25UserData      0        1        22       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/LangCode.tx
+|  
++--Lua:local:func                        0        1        22       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:235
+|  +--Lua:field:GetActorData             0        1        44       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
 |  |  
-|  +--Lua:field:GetCacheData             0        1        650      0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:143
-|  |  +--C:field:getDyanmicVar           0        1        650      0        
-|  |  |  
-|  |  +--C::<NA>                         0        1        3252     0        
-|  |  
-|  +--Lua:global:DealAtvAreaAttr         0        1        650      0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:190
-|  |  +--Lua:field:GetCacheData          0        1        650      0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:143
-|  |  |  +--C:field:getDyanmicVar        0        1        650      0        
+|  +--C:field:sendActivityData           0        1        44       0        
+|  |  +--Lua::<NA>                       0        1        44       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:375
+|  |  |  +--Lua:global:CheckReqData      0        1        44       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:357
+|  |  |  |  +--Lua:local:func            0        1        44       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:107
+|  |  |  |  |  +--C:field:writeShort     0        1        264      0        
+|  |  |  |  |  |  
+|  |  |  |  |  +--C::<NA>                0        1        572      0        
 |  |  |  |  
-|  |  |  +--C::<NA>                      0        1        3250     0        
-|  |  |  
-|  |  +--C:field:getRunningActivityStartTime 0        1        650      0        
-|  |  
-|  +--Lua:global:AutoBigTreasure         0        1        650      0        /data/yfbx_server/s1/LogicServer/data/language/Zh-CN/TipMsg.config:156
-|  |  +--C:field:isReachSecondBeforeActivityEnd 0        1        650      0        
+|  |  |  +--Lua:global:CheckInitActivity 0        1        44       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:343
+|  |  |  |  +--Lua:global:GetActorData   0        1        44       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  |  |  |  |  
+|  |  |  |  +--Lua:global:GetGlobalData  0        1        44       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:110
+|  |  |  |  |  +--C::<NA>                0        1        220      0        
+|  
++--Lua:local:func                        0        1        22       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  
++--Lua:local:func                        0        1        26       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/functions/ActorEvent/ActorLoginHandler.txt:2
+|  +--Lua:global:loadActorData           0        1        26       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/functions/ActorEvent/ActorLoginHandler.txt:40
+|  |  +--Lua:global:loadPKModeDataFunc   0        1        26       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/functions/ActorEvent/ActorLoginHandler.txt:21
+|  |  |  +--C::<NA>                      0        1        103      0        
+|  
++--Lua:local:func                        0        1        26       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/functions/NpcEvent/NpcUIFuncs.txt:129
+|  +--Lua:global:GetUIFuncData           0        1        26       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/functions/NpcEvent/NpcUIFuncs.txt
+|  
++--Lua:local:func                        0        1        26       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:231
+|  +--Lua:global:getData                 0        1        26       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:5
+|  |  +--C::<NA>                         0        1        52       0        
 
- 
- 
+Lua::<NA>                                0        3        84       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/LangCode.txt:3
++--Lua:local:func                        0        2        13       1        /opt/chuanqi/yfbx_server/s3/LogicServer/data/functions/NpcEvent/NpcTeleport.txt:32
+|  +--C:field:enterScene                 0        1        13       0        
+|  |  
+|  +--C:field:readUint64                 0        1        13       0        
+|  
++--Lua:local:func                        0        3        26       2        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:49
+|  +--Lua:field:Remove                   0        2        25       1        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:1284
+|  |  +--C:field:removeConsume           0        2        25       1        
+|  |  |  +--Lua::<NA>                    0        1        25       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:375
+|  |  |  |  +--Lua:local:func            0        1        25       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:300
+|  |  |  |  |  +--Lua:global:UpdateData  0        1        25       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  |  |  |  |  |  
+|  |  |  |  |  +--C:field:sendActivityData 0        1        25       0        
+|  |  |  |  |  |  +--Lua::<NA>           0        1        25       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:375
+|  |  |  |  |  |  |  +--Lua:global:CheckReqData 0        1        25       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:357
+|  |  |  |  |  |  |  |  +--Lua:local:func 0        1        25       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:156
+|  |  |  |  |  |  |  |  |  +--Lua:global:GetBitData 0        1        150      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:116
+|  |  |  |  |  |  |  |  |  |  +--Lua:field:GetActorData 0        1        150      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  +--Lua:field:?   0        1        25       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:204
+|  |  |  |  |  |  |  |  |  +--Lua:global:GetBitData 0        1        75       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:116
+|  |  |  |  |  |  |  |  |  |  +--Lua:field:GetActorData 0        1        75       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  |  |  |  |  |  |  |  +--C::<NA> 0        1        375      0        
+|  |  |  |  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  |  |  +--C:field:getEntityType 0        1        75       0        
+|  |  
+|  +--Lua:global:getMoneyTreeAward       0        1        25       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:17
+|  |  +--C:field:getDaysSinceOpenServer  0        1        25       0        
+|  |  
+|  +--Lua:global:SendLuckyTreeData       0        1        25       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/LangCode.txt:7
+|  |  +--Lua:global:getLuckyTreeData     0        1        25       0        ./data/functions/GlobalFunction.txt:17
+|  |  |  +--C:field:getStaticVar         0        1        25       0        
+|  |  
+|  +--Lua:field:CheckActorSources        0        1        50       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:1
+|  |  
+|  +--Lua:field:Give                     0        1        25       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:1131
+|  |  +--C:field:giveAward               0        1        25       0        
+|  
++--Lua:local:func                        0        1        4        0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/functions/ActorSystems/Common/Cdkey.lua:302
+|  +--Lua:global:UseCommonCDKey          0        1        4        0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/functions/ActorSystems/Common/Cdkey.lua:245
+|  |  +--Lua:global:SendMail             0        1        4        0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/functions/Common/Mail.txt
+|  
++--C:global:print                        0        1        84       0     
+
+Lua::<NA>                                0        121      52271    0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:375
++--Lua:local:func                        0        3        13       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:180
+|  +--Lua:global:reqQiandao              0        1        12       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:56
+|  |  +--C:field:sendTipmsg              0        1        3        0        
+|  |  |  
+|  |  +--Lua:global:nextMonthClear       0        1        12       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:9
+|  |  |  +--Lua:field:GetActorData       0        1        12       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  +--C::<NA>                   0        1        60       0        
+|  |  |  
+|  |  +--C:field:sendActivityData        0        1        9        0        
+|  |  |  +--Lua::<NA>                    0        1        9        0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:375
+|  |  |  |  +--Lua:global:CheckReqData   0        1        9        0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:357
+|  |  |  |  |  +--Lua:field:?            0        1        9        0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  |  |  |  |  |  
+|  |  |  |  |  +--Lua:local:func         0        1        9        0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:194
+|  |  |  |  |  |  +--C:field:writeUInt   0        1        18       0        
+|  
++--Lua:local:func                        0        1        286      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:204
+|  +--C:field:CheckGPActivityStartEnd    0        1        286      0        
+|  |  +--Lua::<NA>                       0        1        234      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:375
+|  |  |  +--Lua:local:func               0        1        234      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:99
+|  |  |  |  +--Lua:field:ClearActorData  0        1        234      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:193
+|  |  |  |  |  +--C::<NA>                0        1        2574     0        
+|  |  
+|  +--Lua:field:GetActorData             0        1        286      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  |  
+|  +--C::<NA>                            0        1        806      0        
+|  
++--Lua:local:func                        0        1        5630     0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:156
+|  
++--Lua:local:func                        0        1        8        0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  
++--Lua:local:func                        0        121      704      18       /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:289
+|  +--Lua:global:UpdateData              0        3        704      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:245
+|  |  +--Lua:global:GetBitData           0        1        633      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:109
+|  |  |  +--Lua:field:GetActorData       0        1        633      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  +--C::<NA>                   0        1        3165     0        
+|  |  |  |  
+|  |  |  +--C::<NA>                      0        1        2421     0        
+|  |  |  
+|  |  +--Lua:field:GetActorData          0        1        704      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  +--C::<NA>                      0        1        3520     0        
+|  |  |  |  
+|  |  |  +--C:field:getStaticVar         0        1        704      0        
+|  |  |  
+|  |  +--Lua:global:getTypeCfg           0        1        704      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:77
+|  |  |  +--C:local:(for generator)      0        1        73998    0        
+|  |  |  
+|  |  +--C::<NA>                         0        1        6816     0        
+|  |  
+|  +--C:field:sendActivityData           0        118      704      18       
+|  |  +--Lua::<NA>                       0        118      704      18       /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:375
+|  |  |  +--Lua:global:CheckReqData      0        118      704      18       /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:357
+|  |  |  |  +--Lua:field:?               0        49       704      5        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:222
+|  |  |  |  |  +--Lua:global:GetBitData  0        17       131636   0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:109
+|  |  |  |  |  |  +--Lua:field:GetActorData 0        17       131636   0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  |  |  |  +--C::<NA>          0        5        658180   0        
+|  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  +--C:field:getStaticVar 0        1        131636   0        
+|  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  +--C:field:getEntityType 0        1        131636   0        
+|  |  |  |  |  |  |  
+|  |  |  |  |  |  +--C:field:getIntBit   0        1        18948    0        
+|  |  |  |  |  |  |  
+|  |  |  |  |  |  +--C::<NA>             0        1        582388   0        
+|  |  |  |  |  |  
+|  |  |  |  |  +--C:local:(for generator) 0        1        151344   0        
+|  |  |  |  |  |  
+|  |  |  |  |  +--Lua:field:GetActorData 0        1        704      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  |  |  +--C::<NA>             0        1        3520     0        
+|  |  |  |  |  |  |  
+|  |  |  |  |  |  +--C:field:getEntityType 0        1        704      0        
+|  |  |  |  |  |  
+|  |  |  |  |  +--C::<NA>                0        1        414762   0        
+|  |  |  |  |  
+|  |  |  |  +--Lua:local:func            0        88       704      12       /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:149
+|  |  |  |  |  +--Lua:global:GetBitData  0        20       154742   0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:109
+|  |  |  |  |  |  +--Lua:field:GetActorData 0        20       154742   0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  |  |  |  +--C::<NA>          0        20       773710   0        
+|  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  +--C:field:getStaticVar 0        1        154742   0        
+|  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  +--C:field:getEntityType 0        1        154742   0        
+|  |  |  |  |  |  |  
+|  |  |  |  |  |  +--C:field:getIntBit   0        1        20258    0        
+|  |  |  |  |  |  |  
+|  |  |  |  |  |  +--C::<NA>             0        5        692678   0        
+|  |  |  |  |  |  
+|  |  |  |  |  +--C:global:pairs         0        1        704      0        
+|  |  |  |  |  |  
+|  |  |  |  |  +--C:field:writeInt       0        1        310188   0        
+|  |  |  |  |  |  
+|  |  |  |  |  +--C:field:writeByte      0        1        154742   0        
+|  |  |  |  |  |  
+|  |  |  |  |  +--C:local:(for generator) 0        1        155446   0        
+|  |  |  |  |  |  
+|  |  |  |  |  +--Lua:global:DealClearAtvData 0        53       704      5        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:191
+|  |  |  |  |  |  +--Lua:global:GetBitData 0        21       154742   0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:109
+|  |  |  |  |  |  |  +--Lua:field:GetActorData 0        21       154742   0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  |  |  |  |  +--C::<NA>       0        16       773710   0        
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  +--C:field:getStaticVar 0        1        154742   0        
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  +--C:field:getEntityType 0        1        154742   0        
+|  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  +--C:field:getIntBit 0        1        20258    0        
+|  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  +--C::<NA>          0        2        692678   0        
+|  |  |  |  |  |  |  
+|  |  |  |  |  |  +--C:local:(for generator) 0        2        155446   0        
+|  |  |  |  |  |  |  
+|  |  |  |  |  |  +--Lua:field:GetActorData 0        1        704      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  |  |  |  +--C::<NA>          0        1        3520     0        
+|  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  +--C:field:getStaticVar 0        1        704      0        
+|  |  |  |  |  |  |  
+|  |  |  |  |  |  +--C::<NA>             0        1        1409     0        
+|  |  |  |  |  |  
+|  |  |  |  |  +--Lua:field:GetActorData 0        1        704      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  |  |  +--C::<NA>             0        1        3520     0        
+|  |  |  |  |  |  
+|  |  |  |  |  +--C::<NA>                0        1        289953   0        
+|  
++--Lua:global:CheckReqData               0        38       1390     0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:357
+|  +--Lua:local:func                     0        1        65       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:161
+|  |  +--Lua:field:GetActorData          0        1        65       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  +--C::<NA>                      0        1        325      0        
+|  |  
+|  +--Lua:local:func                     0        1        58       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  |  
+|  +--Lua:local:func                     0        1        754      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:156
+|  |  +--C:field:writeInt                0        1        7830     0        
+|  |  |  
+|  |  +--C:field:writeByte               0        1        3538     0        
+|  |  |  
+|  |  +--C:local:(for generator)         0        1        4292     0        
+|  |  |  
+|  |  +--Lua:field:GetActorData          0        1        754      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  +--C::<NA>                      0        1        3770     0        
+|  |  |  |  
+|  |  |  +--C:field:getStaticVar         0        1        754      0        
+|  |  |  
+|  |  +--Lua:global:GetBitData           0        1        3538     0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:116
+|  |  |  +--Lua:field:GetActorData       0        1        3538     0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  +--C::<NA>                   0        1        17690    0        
+|  |  |  |  |  
+|  |  |  |  +--C:field:getStaticVar      0        1        3538     0        
+|  |  |  |  
+|  |  |  +--C:field:getIntBit            0        1        3538     0        
+|  |  |  |  
+|  |  |  +--C::<NA>                      0        1        3538     0        
+|  |  |  
+|  |  +--C::<NA>                         0        1        4685     0        
+|  |  
+|  +--Lua:local:func                     0        1        34       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  |  
+|  +--Lua:field:?                        0        10       106      2        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:222
+|  |  +--Lua:global:GetBitData           0        1        7716     0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:109
+|  |  |  +--Lua:field:GetActorData       0        1        7716     0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  +--C::<NA>                   0        1        38580    0        
+|  |  |  |  |  
+|  |  |  |  +--C:field:getStaticVar      0        1        7716     0        
+|  |  |  |  |  
+|  |  |  |  +--C:field:getEntityType     0        1        7716     0        
+|  |  |  |  
+|  |  |  +--C::<NA>                      0        1        31564    0        
+|  |  |  
+|  |  +--C:local:(for generator)         0        1        10445    0        
+|  |  |  
+|  |  +--C::<NA>                         0        1        26184    0        
+|  |  
+|  +--C:field:writeByte                  0        1        1390     0        
+|  |  
+|  +--Lua:field:?                        0        1        33       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:289
+|  |  +--Lua:field:GetActorData          0        1        33       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  |  
+|  +--Lua:field:?                        0        1        34       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  |  
+|  +--Lua:local:func                     0        1        50       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:194
+|  |  +--Lua:field:GetActorData          0        1        50       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  +--C::<NA>                      0        1        250      0        
+|  |  
+|  +--Lua:field:?                        0        1        754      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:204
+|  |  +--C:global:pairs                  0        1        754      0        
+|  |  |  
+|  |  +--C:local:(for generator)         0        1        3723     0        
+|  |  |  
+|  |  +--Lua:field:GetActorData          0        1        754      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  +--C::<NA>                      0        1        3770     0        
+|  |  |  |  
+|  |  |  +--C:field:getStaticVar         0        1        754      0        
+|  |  |  
+|  |  +--C::<NA>                         0        1        4606     0        
+|  |  
+|  +--Lua:field:?                        0        1        116      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  |  
+|  +--Lua:local:func                     0        1        116      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:107
+|  |  +--Lua:field:GetActorData          0        1        116      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  |  |  
+|  |  +--C::<NA>                         0        1        1508     0        
+|  |  
+|  +--Lua:field:?                        0        1        65       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  |  
+|  +--Lua:local:func                     0        37       106      5        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:149
+|  |  +--Lua:global:GetBitData           0        1        10845    0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:109
+|  |  |  +--Lua:field:GetActorData       0        1        10845    0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  +--C::<NA>                   0        1        54225    0        
+|  |  |  |  |  
+|  |  |  |  +--C:field:getStaticVar      0        1        10845    0        
+|  |  |  |  |  
+|  |  |  |  +--C:field:getEntityType     0        1        10845    0        
+|  |  |  |  
+|  |  |  +--C::<NA>                      0        1        43621    0        
+|  |  |  
+|  |  +--C:field:writeInt                0        1        21796    0        
+|  |  |  
+|  |  +--C:field:writeByte               0        1        10845    0        
+|  |  |  
+|  |  +--Lua:global:DealClearAtvData     0        25       106      2        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:191
+|  |  |  +--Lua:global:GetBitData        0        16       10845    0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:109
+|  |  |  |  +--Lua:field:GetActorData    0        16       10845    0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  |  +--C::<NA>                0        1        54225    0        
+|  |  |  |  |  |  
+|  |  |  |  |  +--C:field:getStaticVar   0        1        10845    0        
+|  |  |  |  |  |  
+|  |  |  |  |  +--C:field:getEntityType  0        1        10845    0        
+|  |  |  |  |  
+|  |  |  |  +--C:field:getIntBit         0        1        2651     0        
+|  |  |  |  |  
+|  |  |  |  +--C::<NA>                   0        1        44105    0        
+|  |  |  |  
+|  |  |  +--C:local:(for generator)      0        1        10951    0        
+|  |  |  |  
+|  |  |  +--Lua:field:GetActorData       0        1        106      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  |  |  
+|  |  +--Lua:field:GetActorData          0        1        106      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  +--C::<NA>                      0        1        530      0        
+|  |  |  
+|  |  +--C::<NA>                         0        1        19207    0        
+|  |  
+|  +--Lua:local:func                     0        1        174      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:110
+|  |  +--Lua:global:getUseTimes          0        1        928      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:68
+|  |  |  +--Lua:field:GetActorData       0        1        928      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  +--C::<NA>                   0        1        4640     0        
+|  |  |  
+|  |  +--Lua:field:GetActorData          0        1        174      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  
++--Lua:local:func                        0        1        27       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:228
+|  +--C::<NA>                            0        1        162      0        
+|  
++--Lua:global:CheckInitActivity          0        1        1102     0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:343
+|  +--Lua:global:GetActorData            0        1        1102     0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  +--C::<NA>                         0        1        5542     0        
+|  |  
+|  +--Lua:global:GetGlobalData           0        1        1102     0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:110
+|  |  +--C::<NA>                         0        1        5510     0        
+|  |  
+|  +--Lua:local:func                     0        1        106      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:92
+|  |  +--Lua:field:ClearActorData        0        1        106      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:193
+|  |  |  +--C::<NA>                      0        1        1166     0        
+|  |  |  |  
+|  |  |  +--C:field:getStaticVar         0        1        106      0        
+|  
++--Lua:local:func                        0        1        101      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:300
+|  +--Lua:global:UpdateData              0        1        101      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:254
+|  |  +--Lua:field:GetActorData          0        1        101      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  |  |  
+|  |  +--C::<NA>                         0        1        851      0        
+|  |  
+|  +--C:field:sendActivityData           0        1        101      0        
+|  |  +--Lua::<NA>                       0        1        101      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:375
+|  |  |  +--Lua:global:CheckReqData      0        1        101      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:357
+|  |  |  |  +--Lua:local:func            0        1        101      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:156
+|  |  |  |  |  +--C:local:(for generator) 0        1        541      0        
+|  |  |  |  |  |  
+|  |  |  |  |  +--Lua:field:GetActorData 0        1        101      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  |  |  +--C::<NA>             0        1        505      0        
+|  |  |  |  |  |  |  
+|  |  |  |  |  |  +--C:field:getStaticVar 0        1        101      0        
+|  |  |  |  |  |  
+|  |  |  |  |  +--Lua:global:GetBitData  0        1        440      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:116
+|  |  |  |  |  |  +--Lua:field:GetActorData 0        1        440      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  |  |  |  +--C::<NA>          0        1        2200     0        
+|  |  |  |  |  |  
+|  |  |  |  |  +--C::<NA>                0        1        880      0        
+|  |  |  |  |  
+|  |  |  |  +--Lua:field:?               0        1        101      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:204
+|  |  |  |  |  +--Lua:field:GetActorData 0        1        101      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  |  |  |  |  |  
+|  |  |  |  |  +--Lua:global:GetBitData  0        1        127      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:116
+|  |  |  |  |  |  +--Lua:field:GetActorData 0        1        127      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  |  |  |  +--C::<NA>          0        1        635      0        
+|  |  |  |  
+|  |  |  +--Lua:global:CheckInitActivity 0        1        101      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:343
+|  |  |  |  +--Lua:global:GetActorData   0        1        101      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  |  +--C::<NA>                0        1        505      0        
+|  
++--Lua:local:func                        0        2        58       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:106
+|  +--Lua:global:reqGetAward             0        2        58       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:4
+|  |  +--Lua:global:getIndexCfg          0        1        58       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config
+|  |  |  
+|  |  +--Lua:global:SetBitData           0        1        51       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:137
+|  |  |  +--Lua:field:GetActorData       0        1        51       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  +--C::<NA>                   0        1        255      0        
+|  |  |  
+|  |  +--Lua:field:GetActorData          0        1        58       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  +--C::<NA>                      0        1        290      0        
+|  |  |  
+|  |  +--C:field:sendActivityData        0        1        51       0        
+|  |  |  +--Lua::<NA>                    0        1        51       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:375
+|  |  |  |  +--Lua:global:CheckReqData   0        1        51       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:357
+|  |  |  |  |  +--Lua:local:func         0        1        51       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:156
+|  |  |  |  |  |  +--Lua:global:GetBitData 0        1        230      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:116
+|  |  |  |  |  |  |  +--Lua:field:GetActorData 0        1        230      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  |  |  |  |  |  
+|  |  |  |  |  +--Lua:field:?            0        1        51       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:204
+|  |  |  |  |  |  +--C:global:pairs      0        1        51       0        
+|  |  |  |  |  |  |  
+|  |  |  |  |  |  +--Lua:field:GetActorData 0        1        51       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  |  |  |  |  |  |  
+|  |  |  |  |  |  +--Lua:global:GetBitData 0        1        79       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:116
+|  |  |  |  |  |  |  +--Lua:field:GetActorData 0        1        79       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  |  |  |  |  
+|  |  |  |  +--Lua:global:CheckInitActivity 0        1        51       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:343
+|  |  |  |  |  +--Lua:global:GetGlobalData 0        1        51       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:110
+|  |  |  |  |  |  +--C:field:getStaticVar 0        1        51       0        
+|  |  |  |  |  |  |  
+|  |  |  |  |  |  +--C::<NA>             0        1        255      0        
+|  |  |  
+|  |  +--Lua:global:GetBitData           0        1        58       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:116
+|  |  |  +--Lua:field:GetActorData       0        1        58       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  +--C:field:getEntityType     0        1        58       0        
+|  |  |  
+|  |  +--Lua:field:Give                  0        2        51       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:1131
+|  |  |  +--C:field:giveAward            0        1        126      0        
+|  |  |  
+|  |  +--C::<NA>                         0        1        160      0        
+|  
++--Lua:local:func                        0        2        5        1        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:99
+|  +--Lua:global:reqGetAward             1        2        4        1        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:6
+|  |  +--Lua:global:getIndexCfg          0        1        4        0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config
+|  |  |  
+|  |  +--C:field:sendActivityData        1        1        4        1        
+|  |  |  +--Lua::<NA>                    1        1        4        1        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:375
+|  |  |  |  +--Lua:global:CheckReqData   1        1        4        1        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:357
+|  |  |  |  |  +--Lua:local:func         0        1        4        0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:149
+|  |  |  |  |  |  +--Lua:global:GetBitData 0        1        60       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:109
+|  |  |  |  |  |  |  +--Lua:field:GetActorData 0        1        60       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  |  |  |  |  +--C::<NA>       0        1        300      0        
+|  |  |  |  |  |  |  
+|  |  |  |  |  |  +--Lua:global:DealClearAtvData 0        1        4        0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:191
+|  |  |  |  |  |  |  +--Lua:global:GetBitData 0        1        60       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:109
+|  |  |  |  |  |  |  |  +--Lua:field:GetActorData 0        1        60       0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  |  |  
+|  |  +--Lua:field:Give                  0        1        4        0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:1131
+|  |  |  +--C:field:giveAward            0        1        16       0        
+|  
++--Lua:local:func                        0        1        7        0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:152
+|  +--Lua:global:reqPurchaseGiftBox      0        1        7        0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/LangCode.txt:11
+|  |  +--Lua:field:GetActorData          0        1        7        0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:
+|  |  |  
+|  |  +--C:field:sendActivityData        0        1        6        0        
+|  |  |  +--Lua::<NA>                    0        1        6        0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:375
+|  |  |  |  +--Lua:global:CheckReqData   0        1        6        0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:357
+|  |  |  |  |  +--Lua:local:func         0        1        6        0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:107
+|  |  |  |  |  |  +--C:field:writeByte   0        1        36       0        
+|  
++--Lua:local:func                        0        17       475      1        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:128
+|  +--Lua:global:reqXunBao               0        17       475      1        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/LangCode.txt:7
+|  |  +--C:field:writeUInt               0        1        1419     0        
+|  |  |  
+|  |  +--Lua:field:Remove                0        10       473      1        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:1284
+|  |  |  +--C:field:removeConsume        0        10       473      1        
+|  |  |  |  +--Lua::<NA>                 0        10       473      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:375
+|  |  |  |  |  +--Lua:local:func         0        10       473      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:300
+|  |  |  |  |  |  +--Lua:global:UpdateData 0        1        473      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:254
+|  |  |  |  |  |  |  +--Lua:field:GetActorData 0        1        473      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  |  |  |  |  +--C::<NA>       0        1        2365     0        
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  +--C:field:getStaticVar 0        1        473      0        
+|  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  +--Lua:global:getTypeCfg 0        1        473      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config
+|  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  +--C::<NA>          0        1        3317     0        
+|  |  |  |  |  |  |  
+|  |  |  |  |  |  +--C:field:sendActivityData 0        9        473      0        
+|  |  |  |  |  |  |  +--Lua::<NA>        0        9        473      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:375
+|  |  |  |  |  |  |  |  +--Lua:global:CheckReqData 0        7        473      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:357
+|  |  |  |  |  |  |  |  |  +--Lua:local:func 0        1        473      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:156
+|  |  |  |  |  |  |  |  |  |  +--C:field:writeInt 0        1        6149     0        
+|  |  |  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  |  +--C:local:(for generator) 0        1        3311     0        
+|  |  |  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  |  +--Lua:field:GetActorData 0        1        473      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  |  |  |  |  |  |  |  +--C::<NA> 0        1        2365     0        
+|  |  |  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  |  +--Lua:global:GetBitData 0        1        2838     0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:116
+|  |  |  |  |  |  |  |  |  |  |  +--Lua:field:GetActorData 0        1        2838     0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  |  |  |  |  |  |  |  |  +--C::<NA> 0        1        14190    0        
+|  |  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  +--Lua:field:? 0        1        473      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:204
+|  |  |  |  |  |  |  |  |  |  +--C:global:pairs 0        1        473      0        
+|  |  |  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  |  +--C:local:(for generator) 0        1        2199     0        
+|  |  |  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  |  +--Lua:field:GetActorData 0        1        473      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  |  |  |  |  |  |  |  +--C::<NA> 0        1        2365     0        
+|  |  |  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  |  +--Lua:global:GetBitData 0        1        1067     0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:116
+|  |  |  |  |  |  |  |  |  |  |  +--Lua:field:GetActorData 0        1        1067     0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  |  |  |  |  |  |  |  |  +--C::<NA> 0        1        5335     0        
+|  |  |  |  |  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  |  |  |  +--C:field:getEntityType 0        1        1067     0        
+|  |  |  |  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  |  |  +--C:field:getIntBit 0        1        1067     0        
+|  |  |  |  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  |  |  +--C::<NA> 0        1        1067     0        
+|  |  |  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  |  +--C::<NA> 0        1        6039     0        
+|  |  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  +--C:field:writeByte 0        1        473      0        
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  +--Lua:global:CheckInitActivity 0        1        473      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:343
+|  |  |  |  |  |  |  |  |  +--Lua:global:GetActorData 0        1        473      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  |  |  |  |  |  |  +--C::<NA> 0        1        2365     0        
+|  |  |  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  |  +--C:field:getEntityType 0        1        473      0        
+|  |  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  +--Lua:global:GetGlobalData 0        1        473      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:110
+|  |  |  |  |  |  |  |  |  |  +--C::<NA> 0        1        2365     0        
+|  |  |  |  |  
+|  |  |  |  +--Lua::<NA>                 0        1        473      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/LangCode.txt:15
+|  |  |  |  |  +--Lua:local:func         0        1        473      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/functions/ActorEvent/ActorConsumeGameGoldHandler.txt:2
+|  |  |  
+|  |  +--C:field:ChouJiangByGroupId      0        1        473      0        
+|  |  |  
+|  |  +--C:field:SendActivityLog         0        15       473      0        
+|  |  |  
+|  |  +--C:local:(for generator)         0        1        2840     0        
+|  |  |  
+|  |  +--Lua:field:GetActorData          0        1        475      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  +--C::<NA>                      0        1        2375     0        
+|  |  |  |  
+|  |  |  +--C:field:getStaticVar         0        1        475      0        
+|  |  |  
+|  |  +--Lua:field:CheckBagIsEnough      0        1        473      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:1120
+|  |  |  +--C:field:bagIsEnough          0        1        473      0        
+|  |  |  
+|  |  +--Lua:field:AllocOperReturn       0        1        473      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:230
+|  |  |  +--C:field:allocPacket          0        1        473      0        
+|  |  |  |  
+|  |  |  +--C:field:writeUInt            0        1        473      0        
+|  |  |  
+|  |  +--Lua:field:CheckActorSources     0        1        950      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:1260
+|  |  |  +--C:field:CheckActorSource     0        1        950      0        
+|  |  |  
+|  |  +--C:field:format                  0        1        76       0        
+|  |  |  
+|  |  +--C:field:sendActivityData        0        1        473      0        
+|  |  |  +--Lua::<NA>                    0        1        473      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:375
+|  |  |  |  +--Lua:global:CheckReqData   0        1        473      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:357
+|  |  |  |  |  +--Lua:local:func         0        1        473      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:119
+|  |  |  |  |  |  +--Lua:field:GetActorData 0        1        473      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  |  |  |  +--C::<NA>          0        1        2365     0        
+|  |  |  |  |  
+|  |  |  |  +--Lua:global:CheckInitActivity 0        1        473      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:343
+|  |  |  |  |  +--Lua:global:GetActorData 0        1        473      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:176
+|  |  |  |  |  |  +--C::<NA>             0        1        2365     0        
+|  |  |  |  |  |  
+|  |  |  |  |  +--Lua:global:GetGlobalData 0        1        473      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:110
+|  |  |  |  |  |  +--C::<NA>             0        1        2365     0        
+|  |  |  
+|  |  +--C:field:broadcastTipmsgLimitLev 0        1        76       0        
+
+Lua::<NA>                                0        1        974      0        /opt/chuanqi/yfbx_server/s3/LogicServer/data/language/Zh-CN/TipMsg.config:75
++--C:field:checkCommonLimit              0        1        974      0        
+|  
++--Lua:global:getOnlineData              0        1        948      0        ./data/functions/GlobalFunction.txt:18
+|  +--C:field:getStaticVar               0        1        948      0        
+|  |  
+|  +--C::<NA>                            0        1        1896     0        
+|  
++--C::<NA>                               0        1        1896     0        
+
  
