@@ -71727,7 +71727,7 @@
     "dealType": 0,
     "denyDeal": 1,
     "denySell": 1,
-    "desc": "充值福利卡。开启获得2000元宝，幸运神水*2。每日限用一次，记得明日上线使用哦",
+    "desc": "充值福利卡。开启获得200元宝，幸运神水*2。每日限用一次，记得明日上线使用哦",
     "dropBroadcast": 0,
     "dropGroupid": 151026,
     "dup": 9999,
@@ -71745,7 +71745,7 @@
     "recordLog": 1,
     "recoverView": [
       {
-        "count": 200,
+        "count": 20,
         "id": 2,
         "rate": 100,
         "type": 2

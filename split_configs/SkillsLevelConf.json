@@ -6411,7 +6411,7 @@
         257,
         373
       ],
-      "cooldownTime": 10000,
+      "cooldownTime": 9000,
       "delayTime": 500,
       "hitId": 60,
       "id": 33,
@@ -6447,7 +6447,7 @@
         258,
         374
       ],
-      "cooldownTime": 10000,
+      "cooldownTime": 8000,
       "delayTime": 500,
       "hitId": 60,
       "id": 33,
@@ -6483,7 +6483,7 @@
         259,
         375
       ],
-      "cooldownTime": 10000,
+      "cooldownTime": 7000,
       "delayTime": 500,
       "hitId": 60,
       "id": 33,
@@ -6519,7 +6519,7 @@
         260,
         376
       ],
-      "cooldownTime": 10000,
+      "cooldownTime": 6000,
       "delayTime": 500,
       "hitId": 64,
       "id": 33,
@@ -6555,7 +6555,7 @@
         261,
         377
       ],
-      "cooldownTime": 10000,
+      "cooldownTime": 5000,
       "delayTime": 500,
       "hitId": 64,
       "id": 33,
@@ -6591,7 +6591,7 @@
         262,
         378
       ],
-      "cooldownTime": 10000,
+      "cooldownTime": 4000,
       "delayTime": 500,
       "hitId": 64,
       "id": 33,
@@ -6627,7 +6627,7 @@
         263,
         379
       ],
-      "cooldownTime": 10000,
+      "cooldownTime": 3000,
       "delayTime": 500,
       "hitId": 64,
       "id": 33,
@@ -6663,7 +6663,7 @@
         264,
         380
       ],
-      "cooldownTime": 10000,
+      "cooldownTime": 3000,  
       "delayTime": 500,
       "hitId": 64,
       "id": 33,
@@ -6699,7 +6699,7 @@
         265,
         381
       ],
-      "cooldownTime": 10000,
+      "cooldownTime": 3000,
       "delayTime": 500,
       "hitId": 112,
       "id": 33,

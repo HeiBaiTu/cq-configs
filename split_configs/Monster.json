@@ -3441,7 +3441,7 @@
     "monsterType": 1,
     "name": "超级圣兽",
     "propid": 124,
-    "scale": 70,
+    "scale": 50,
     "skills": [
       {
         "autoCD": false,
