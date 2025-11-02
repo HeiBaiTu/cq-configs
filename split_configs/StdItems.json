@@ -42891,59 +42891,59 @@
     "staitcAttrs": [
       {
         "type": 5,
-        "value": 1320
+        "value": 1120
       },
       {
         "type": 9,
-        "value": 74
+        "value": 52
       },
       {
         "type": 11,
-        "value": 90
+        "value": 66
       },
       {
         "type": 13,
-        "value": 74
+        "value": 52
       },
       {
         "type": 15,
-        "value": 90
+        "value": 66
       },
       {
         "type": 17,
-        "value": 74
+        "value": 52
       },
       {
         "type": 19,
-        "value": 90
+        "value": 66
       },
       {
         "type": 21,
-        "value": 76
+        "value": 63
       },
       {
         "type": 23,
-        "value": 92
+        "value": 77
       },
       {
         "type": 25,
-        "value": 76
+        "value": 63
       },
       {
         "type": 27,
-        "value": 92
+        "value": 77
       },
       {
         "type": 6,
-        "value": 1200
-      },
-      {
-        "type": 80,
-        "value": 2200
+        "value": 700
       },
       {
         "type": 81,
-        "value": 5000
+        "value": 4000
+      },
+      {
+        "type": 80,
+        "value": 1800
       }
     ],
     "suggVocation": 0,
@@ -42993,59 +42993,51 @@
     "staitcAttrs": [
       {
         "type": 47,
-        "value": 120
+        "value": 60
       },
       {
         "type": 5,
-        "value": 1320
+        "value": 1120
       },
       {
         "type": 9,
-        "value": 74
+        "value": 52
       },
       {
         "type": 11,
-        "value": 90
+        "value": 66
       },
       {
         "type": 13,
-        "value": 74
+        "value": 52
       },
       {
         "type": 15,
-        "value": 90
+        "value": 66
       },
       {
         "type": 17,
-        "value": 74
+        "value": 52
       },
       {
         "type": 19,
-        "value": 90
+        "value": 66
       },
       {
         "type": 21,
-        "value": 76
+        "value": 63
       },
       {
         "type": 23,
-        "value": 92
-      },
-      {
-        "type": 25,
-        "value": 76
-      },
-      {
-        "type": 27,
-        "value": 92
+        "value": 77
       },
       {
         "type": 6,
-        "value": 1200
+        "value": 700
       },
       {
         "type": 80,
-        "value": 2200
+        "value": 1800
       }
     ],
     "suggVocation": 0,
@@ -43095,59 +43087,51 @@
     "staitcAttrs": [
       {
         "type": 5,
-        "value": 1320
+        "value": 1120
       },
       {
         "type": 9,
-        "value": 74
+        "value": 52
       },
       {
         "type": 11,
-        "value": 90
+        "value": 66
       },
       {
         "type": 13,
-        "value": 74
+        "value": 52
       },
       {
         "type": 15,
-        "value": 90
+        "value": 66
       },
       {
         "type": 17,
-        "value": 74
+        "value": 52
       },
       {
         "type": 19,
-        "value": 90
-      },
-      {
-        "type": 21,
-        "value": 76
-      },
-      {
-        "type": 23,
-        "value": 92
+        "value": 66
       },
       {
         "type": 25,
-        "value": 76
+        "value": 63
       },
       {
         "type": 27,
-        "value": 92
+        "value": 77
       },
       {
         "type": 6,
-        "value": 1200
+        "value": 700
       },
       {
         "type": 80,
-        "value": 2200
+        "value": 1800
       },
       {
         "type": 140,
-        "value": 900
+        "value": 600
       }
     ],
     "suggVocation": 0,
@@ -43222,6 +43206,10 @@
       {
         "type": 27,
         "value": 80
+      },
+      {
+        "type": 54,
+        "value": 700
       },
       {
         "type": 6,
@@ -43306,6 +43294,10 @@
         "value": 80
       },
       {
+        "type": 54,
+        "value": 700
+      },
+      {
         "type": 6,
         "value": 4000
       },
@@ -43386,6 +43378,10 @@
       {
         "type": 27,
         "value": 80
+      },
+      {
+        "type": 54,
+        "value": 700
       },
       {
         "type": 6,
@@ -43532,7 +43528,7 @@
         "value": 2000
       },
       {
-        "type": 90,
+        "type": 80,
         "value": 1900
       },
       {
@@ -43657,43 +43653,43 @@
     "staitcAttrs": [
       {
         "type": 5,
-        "value": 690
+        "value": 450
       },
       {
         "type": 9,
-        "value": 99
+        "value": 62
       },
       {
         "type": 11,
-        "value": 118
+        "value": 76
       },
       {
         "type": 13,
-        "value": 99
+        "value": 62
       },
       {
         "type": 15,
-        "value": 118
+        "value": 76
       },
       {
         "type": 17,
-        "value": 99
+        "value": 62
       },
       {
         "type": 19,
-        "value": 118
+        "value": 76
       },
       {
         "type": 138,
-        "value": 900
+        "value": 600
       },
       {
         "type": 6,
-        "value": 1200
+        "value": 700
       },
       {
         "type": 80,
-        "value": 2200
+        "value": 1800
       }
     ],
     "suggVocation": 0,
@@ -43743,43 +43739,43 @@
     "staitcAttrs": [
       {
         "type": 5,
-        "value": 690
+        "value": 450
       },
       {
         "type": 9,
-        "value": 99
+        "value": 62
       },
       {
         "type": 11,
-        "value": 118
+        "value": 76
       },
       {
         "type": 13,
-        "value": 99
+        "value": 62
       },
       {
         "type": 15,
-        "value": 118
+        "value": 76
       },
       {
         "type": 17,
-        "value": 99
+        "value": 62
       },
       {
         "type": 19,
-        "value": 118
+        "value": 76
       },
       {
         "type": 136,
-        "value": 900
+        "value": 600
       },
       {
         "type": 6,
-        "value": 1200
+        "value": 700
       },
       {
         "type": 80,
-        "value": 2200
+        "value": 1800
       }
     ],
     "suggVocation": 0,
@@ -43829,43 +43825,43 @@
     "staitcAttrs": [
       {
         "type": 5,
-        "value": 690
+        "value": 450
       },
       {
         "type": 9,
-        "value": 99
+        "value": 62
       },
       {
         "type": 11,
-        "value": 118
+        "value": 76
       },
       {
         "type": 13,
-        "value": 99
+        "value": 62
       },
       {
         "type": 15,
-        "value": 118
+        "value": 76
       },
       {
         "type": 17,
-        "value": 99
+        "value": 62
       },
       {
         "type": 19,
-        "value": 118
+        "value": 76
       },
       {
         "type": 75,
-        "value": 900
+        "value": 600
       },
       {
         "type": 6,
-        "value": 1200
+        "value": 700
       },
       {
         "type": 80,
-        "value": 2200
+        "value": 1800
       }
     ],
     "suggVocation": 0,
@@ -43916,59 +43912,59 @@
     "staitcAttrs": [
       {
         "type": 5,
-        "value": 1620
+        "value": 1320
       },
       {
         "type": 9,
-        "value": 88
+        "value": 68
       },
       {
         "type": 11,
-        "value": 110
+        "value": 82
       },
       {
         "type": 13,
-        "value": 88
+        "value": 68
       },
       {
         "type": 15,
-        "value": 110
+        "value": 82
       },
       {
         "type": 17,
-        "value": 88
+        "value": 68
       },
       {
         "type": 19,
-        "value": 110
+        "value": 82
       },
       {
         "type": 21,
-        "value": 90
+        "value": 72
       },
       {
         "type": 23,
-        "value": 120
+        "value": 88
       },
       {
         "type": 25,
-        "value": 90
+        "value": 72
       },
       {
         "type": 27,
-        "value": 120
+        "value": 88
       },
       {
         "type": 6,
-        "value": 1500
+        "value": 900
       },
       {
         "type": 81,
-        "value": 6000
+        "value": 4500
       },
       {
         "type": 80,
-        "value": 2500
+        "value": 2000
       }
     ],
     "suggVocation": 0,
@@ -44019,59 +44015,51 @@
     "staitcAttrs": [
       {
         "type": 47,
-        "value": 150
+        "value": 70
       },
       {
         "type": 5,
-        "value": 1620
+        "value": 1320
       },
       {
         "type": 9,
-        "value": 88
+        "value": 68
       },
       {
         "type": 11,
-        "value": 110
+        "value": 82
       },
       {
         "type": 13,
-        "value": 88
+        "value": 68
       },
       {
         "type": 15,
-        "value": 110
+        "value": 82
       },
       {
         "type": 17,
-        "value": 88
+        "value": 68
       },
       {
         "type": 19,
-        "value": 110
+        "value": 82
       },
       {
         "type": 21,
-        "value": 90
+        "value": 72
       },
       {
         "type": 23,
-        "value": 120
-      },
-      {
-        "type": 25,
-        "value": 90
-      },
-      {
-        "type": 27,
-        "value": 120
+        "value": 88
       },
       {
         "type": 6,
-        "value": 1500
+        "value": 900
       },
       {
         "type": 80,
-        "value": 2500
+        "value": 2000
       }
     ],
     "suggVocation": 0,
@@ -44122,59 +44110,51 @@
     "staitcAttrs": [
       {
         "type": 5,
-        "value": 1620
+        "value": 1320
       },
       {
         "type": 9,
-        "value": 88
+        "value": 68
       },
       {
         "type": 11,
-        "value": 110
+        "value": 82
       },
       {
         "type": 13,
-        "value": 88
+        "value": 68
       },
       {
         "type": 15,
-        "value": 110
+        "value": 82
       },
       {
         "type": 17,
-        "value": 88
+        "value": 68
       },
       {
         "type": 19,
-        "value": 110
-      },
-      {
-        "type": 21,
-        "value": 90
-      },
-      {
-        "type": 23,
-        "value": 120
+        "value": 82
       },
       {
         "type": 25,
-        "value": 90
+        "value": 72
       },
       {
         "type": 27,
-        "value": 120
+        "value": 88
       },
       {
         "type": 6,
-        "value": 1500
+        "value": 900
       },
       {
         "type": 80,
-        "value": 2500
+        "value": 2000
       },
       {
         "type": 140,
-        "value": 1200
+        "value": 700
       }
     ],
     "suggVocation": 0,
@@ -44703,43 +44683,43 @@
     "staitcAttrs": [
       {
         "type": 5,
-        "value": 810
+        "value": 570
       },
       {
         "type": 9,
-        "value": 120
+        "value": 78
       },
       {
         "type": 11,
-        "value": 145
+        "value": 90
       },
       {
         "type": 13,
-        "value": 120
+        "value": 78
       },
       {
         "type": 15,
-        "value": 145
+        "value": 90
       },
       {
         "type": 17,
-        "value": 120
+        "value": 78
       },
       {
         "type": 19,
-        "value": 145
+        "value": 90
       },
       {
         "type": 138,
-        "value": 1200
+        "value": 700
       },
       {
         "type": 6,
-        "value": 1500
+        "value": 900
       },
       {
         "type": 80,
-        "value": 2500
+        "value": 2000
       }
     ],
     "suggVocation": 0,
@@ -44790,43 +44770,43 @@
     "staitcAttrs": [
       {
         "type": 5,
-        "value": 810
+        "value": 570
       },
       {
         "type": 9,
-        "value": 120
+        "value": 78
       },
       {
         "type": 11,
-        "value": 145
+        "value": 90
       },
       {
         "type": 13,
-        "value": 120
+        "value": 78
       },
       {
         "type": 15,
-        "value": 145
+        "value": 90
       },
       {
         "type": 17,
-        "value": 120
+        "value": 78
       },
       {
         "type": 19,
-        "value": 145
+        "value": 90
       },
       {
         "type": 136,
-        "value": 1200
+        "value": 700
       },
       {
         "type": 6,
-        "value": 1500
+        "value": 900
       },
       {
         "type": 80,
-        "value": 2500
+        "value": 2000
       }
     ],
     "suggVocation": 0,
@@ -44877,43 +44857,43 @@
     "staitcAttrs": [
       {
         "type": 5,
-        "value": 810
+        "value": 570
       },
       {
         "type": 9,
-        "value": 120
+        "value": 78
       },
       {
         "type": 11,
-        "value": 145
+        "value": 90
       },
       {
         "type": 13,
-        "value": 120
+        "value": 78
       },
       {
         "type": 15,
-        "value": 145
+        "value": 90
       },
       {
         "type": 17,
-        "value": 120
+        "value": 78
       },
       {
         "type": 19,
-        "value": 145
+        "value": 90
       },
       {
         "type": 75,
-        "value": 1200
+        "value": 700
       },
       {
         "type": 6,
-        "value": 1500
+        "value": 900
       },
       {
         "type": 80,
-        "value": 2500
+        "value": 2000
       }
     ],
     "suggVocation": 0,
@@ -44963,59 +44943,59 @@
     "staitcAttrs": [
       {
         "type": 5,
-        "value": 1120
+        "value": 1320
       },
       {
         "type": 9,
-        "value": 52
+        "value": 74
       },
       {
         "type": 11,
-        "value": 66
+        "value": 90
       },
       {
         "type": 13,
-        "value": 52
+        "value": 74
       },
       {
         "type": 15,
-        "value": 66
+        "value": 90
       },
       {
         "type": 17,
-        "value": 52
+        "value": 74
       },
       {
         "type": 19,
-        "value": 66
+        "value": 90
       },
       {
         "type": 21,
-        "value": 63
+        "value": 76
       },
       {
         "type": 23,
-        "value": 77
+        "value": 92
       },
       {
         "type": 25,
-        "value": 63
+        "value": 76
       },
       {
-        "type": 27,
-        "value": 77
+        "type": 76,
+        "value": 92
       },
       {
         "type": 6,
-        "value": 700
-      },
-      {
-        "type": 81,
-        "value": 4000
+        "value": 1200
       },
       {
         "type": 80,
-        "value": 1800
+        "value": 2200
+      },
+      {
+        "type": 81,
+        "value": 5000
       }
     ],
     "suggVocation": 0,
@@ -45065,51 +45045,59 @@
     "staitcAttrs": [
       {
         "type": 47,
-        "value": 60
+        "value": 120
       },
       {
         "type": 5,
-        "value": 1120
+        "value": 1320
       },
       {
         "type": 9,
-        "value": 52
+        "value": 74
       },
       {
         "type": 11,
-        "value": 66
+        "value": 90
       },
       {
         "type": 13,
-        "value": 52
+        "value": 74
       },
       {
         "type": 15,
-        "value": 66
+        "value": 90
       },
       {
         "type": 17,
-        "value": 52
+        "value": 74
       },
       {
         "type": 19,
-        "value": 66
+        "value": 90
       },
       {
         "type": 21,
-        "value": 63
+        "value": 76
       },
       {
         "type": 23,
-        "value": 77
+        "value": 92
+      },
+      {
+        "type": 25,
+        "value": 76
+      },
+      {
+        "type": 27,
+        "value": 92
       },
       {
         "type": 6,
-        "value": 700
+        "value": 1200
       },
       {
         "type": 80,
-        "value": 1800
+        "value": 2200
       }
     ],
     "suggVocation": 0,
@@ -45159,51 +45147,59 @@
     "staitcAttrs": [
       {
         "type": 5,
-        "value": 1120
+        "value": 1320
       },
       {
         "type": 9,
-        "value": 52
+        "value": 74
       },
       {
         "type": 11,
-        "value": 66
+        "value": 90
       },
       {
         "type": 13,
-        "value": 52
+        "value": 74
       },
       {
         "type": 15,
-        "value": 66
+        "value": 90
       },
       {
         "type": 17,
-        "value": 52
+        "value": 74
       },
       {
         "type": 19,
-        "value": 66
+        "value": 90
+      },
+      {
+        "type": 21,
+        "value": 76
+      },
+      {
+        "type": 23,
+        "value": 92
       },
       {
         "type": 25,
-        "value": 63
+        "value": 76
       },
       {
         "type": 27,
-        "value": 77
+        "value": 92
       },
       {
         "type": 6,
-        "value": 700
+        "value": 1200
       },
       {
         "type": 80,
-        "value": 1800
+        "value": 2200
       },
       {
         "type": 140,
-        "value": 600
+        "value": 900
       }
     ],
     "suggVocation": 0,
@@ -45255,55 +45251,55 @@
     "staitcAttrs": [
       {
         "type": 5,
-        "value": 1500
+        "value": 1900
       },
       {
         "type": 9,
-        "value": 62
+        "value": 102
       },
       {
         "type": 11,
-        "value": 78
+        "value": 118
       },
       {
         "type": 13,
-        "value": 62
+        "value": 102
       },
       {
         "type": 15,
-        "value": 78
+        "value": 118
       },
       {
         "type": 17,
-        "value": 62
+        "value": 102
       },
       {
         "type": 19,
-        "value": 78
+        "value": 118
       },
       {
         "type": 21,
-        "value": 65
+        "value": 100
       },
       {
         "type": 23,
-        "value": 80
+        "value": 120
       },
       {
         "type": 25,
-        "value": 65
+        "value": 100
       },
       {
         "type": 27,
-        "value": 80
+        "value": 120
+      },
+      {
+        "type": 6,
+        "value": 5000
       },
       {
         "type": 54,
         "value": 700
-      },
-      {
-        "type": 6,
-        "value": 4000
       }
     ],
     "suggVocation": 0,
@@ -45355,31 +45351,31 @@
     "staitcAttrs": [
       {
         "type": 9,
-        "value": 110
+        "value": 155
       },
       {
         "type": 11,
-        "value": 165
+        "value": 205
       },
       {
         "type": 116,
-        "value": 600
+        "value": 1000
       },
       {
         "type": 79,
-        "value": 1200
+        "value": 1600
       },
       {
         "type": 82,
-        "value": 2000
+        "value": 2400
       },
       {
         "type": 80,
-        "value": 1900
+        "value": 2700
       },
       {
         "type": 83,
-        "value": 9000
+        "value": 11000
       }
     ],
     "suggVocation": 1,
@@ -45431,27 +45427,27 @@
     "staitcAttrs": [
       {
         "type": 13,
-        "value": 100
+        "value": 155
       },
       {
         "type": 15,
-        "value": 165
+        "value": 205
       },
       {
         "type": 79,
-        "value": 1200
+        "value": 1600
       },
       {
         "type": 82,
-        "value": 2000
+        "value": 2400
       },
       {
         "type": 80,
-        "value": 1900
+        "value": 2700
       },
       {
         "type": 83,
-        "value": 9000
+        "value": 11000
       }
     ],
     "suggVocation": 2,
@@ -45503,27 +45499,27 @@
     "staitcAttrs": [
       {
         "type": 17,
-        "value": 110
+        "value": 155
       },
       {
         "type": 19,
-        "value": 165
+        "value": 205
       },
       {
         "type": 79,
-        "value": 1200
+        "value": 1600
       },
       {
         "type": 82,
-        "value": 2000
+        "value": 2400
       },
       {
         "type": 80,
-        "value": 1900
+        "value": 2700
       },
       {
         "type": 83,
-        "value": 9000
+        "value": 11000
       }
     ],
     "suggVocation": 3,
@@ -45573,43 +45569,43 @@
     "staitcAttrs": [
       {
         "type": 5,
-        "value": 450
+        "value": 690
       },
       {
         "type": 9,
-        "value": 62
+        "value": 99
       },
       {
         "type": 11,
-        "value": 76
+        "value": 118
       },
       {
         "type": 13,
-        "value": 62
+        "value": 99
       },
       {
         "type": 15,
-        "value": 76
+        "value": 118
       },
       {
         "type": 17,
-        "value": 62
+        "value": 99
       },
       {
         "type": 19,
-        "value": 76
+        "value": 118
       },
       {
         "type": 138,
-        "value": 600
+        "value": 900
       },
       {
         "type": 6,
-        "value": 700
+        "value": 1200
       },
       {
         "type": 80,
-        "value": 1800
+        "value": 2200
       }
     ],
     "suggVocation": 0,
@@ -45659,43 +45655,43 @@
     "staitcAttrs": [
       {
         "type": 5,
-        "value": 450
+        "value": 690
       },
       {
         "type": 9,
-        "value": 62
+        "value": 99
       },
       {
         "type": 11,
-        "value": 76
+        "value": 118
       },
       {
         "type": 13,
-        "value": 62
+        "value": 99
       },
       {
         "type": 15,
-        "value": 76
+        "value": 118
       },
       {
         "type": 17,
-        "value": 62
+        "value": 99
       },
       {
         "type": 19,
-        "value": 76
+        "value": 118
       },
       {
         "type": 136,
-        "value": 600
+        "value": 900
       },
       {
         "type": 6,
-        "value": 700
+        "value": 1200
       },
       {
         "type": 80,
-        "value": 1800
+        "value": 2200
       }
     ],
     "suggVocation": 0,
@@ -45745,43 +45741,43 @@
     "staitcAttrs": [
       {
         "type": 5,
-        "value": 450
+        "value": 690
       },
       {
         "type": 9,
-        "value": 62
+        "value": 99
       },
       {
         "type": 11,
-        "value": 76
+        "value": 118
       },
       {
         "type": 13,
-        "value": 62
+        "value": 99
       },
       {
         "type": 15,
-        "value": 76
+        "value": 118
       },
       {
         "type": 17,
-        "value": 62
+        "value": 99
       },
       {
         "type": 19,
-        "value": 76
+        "value": 118
       },
       {
         "type": 75,
-        "value": 600
+        "value": 900
       },
       {
         "type": 6,
-        "value": 700
+        "value": 1200
       },
       {
         "type": 80,
-        "value": 1800
+        "value": 2200
       }
     ],
     "suggVocation": 0,
@@ -45832,59 +45828,59 @@
     "staitcAttrs": [
       {
         "type": 5,
-        "value": 1320
+        "value": 1620
       },
       {
         "type": 9,
-        "value": 68
+        "value": 88
       },
       {
         "type": 11,
-        "value": 82
+        "value": 110
       },
       {
         "type": 13,
-        "value": 68
+        "value": 88
       },
       {
         "type": 15,
-        "value": 82
+        "value": 110
       },
       {
         "type": 17,
-        "value": 68
+        "value": 88
       },
       {
         "type": 19,
-        "value": 82
+        "value": 110
       },
       {
         "type": 21,
-        "value": 72
+        "value": 90
       },
       {
         "type": 23,
-        "value": 88
+        "value": 120
       },
       {
         "type": 25,
-        "value": 72
+        "value": 90
       },
       {
-        "type": 27,
-        "value": 88
+        "type": 76,
+        "value": 120
       },
       {
         "type": 6,
-        "value": 900
+        "value": 1500
       },
       {
         "type": 80,
-        "value": 2000
+        "value": 2500
       },
       {
         "type": 81,
-        "value": 4500
+        "value": 6000
       }
     ],
     "suggVocation": 0,
@@ -45935,51 +45931,59 @@
     "staitcAttrs": [
       {
         "type": 47,
-        "value": 70
+        "value": 150
       },
       {
         "type": 5,
-        "value": 1320
+        "value": 1620
       },
       {
         "type": 9,
-        "value": 68
-      },
-      {
-        "type": 11,
-        "value": 82
-      },
-      {
-        "type": 13,
-        "value": 68
-      },
-      {
-        "type": 15,
-        "value": 82
-      },
-      {
-        "type": 17,
-        "value": 68
-      },
-      {
-        "type": 19,
-        "value": 82
-      },
-      {
-        "type": 21,
-        "value": 72
-      },
-      {
-        "type": 23,
         "value": 88
       },
       {
+        "type": 11,
+        "value": 110
+      },
+      {
+        "type": 13,
+        "value": 88
+      },
+      {
+        "type": 15,
+        "value": 110
+      },
+      {
+        "type": 17,
+        "value": 88
+      },
+      {
+        "type": 19,
+        "value": 110
+      },
+      {
+        "type": 21,
+        "value": 90
+      },
+      {
+        "type": 23,
+        "value": 120
+      },
+      {
+        "type": 25,
+        "value": 90
+      },
+      {
+        "type": 76,
+        "value": 120
+      },
+      {
         "type": 6,
-        "value": 900
+        "value": 1500
       },
       {
         "type": 80,
-        "value": 2000
+        "value": 2500
       }
     ],
     "suggVocation": 0,
@@ -46030,51 +46034,59 @@
     "staitcAttrs": [
       {
         "type": 5,
-        "value": 1320
+        "value": 1620
       },
       {
         "type": 9,
-        "value": 68
-      },
-      {
-        "type": 11,
-        "value": 82
-      },
-      {
-        "type": 13,
-        "value": 68
-      },
-      {
-        "type": 15,
-        "value": 82
-      },
-      {
-        "type": 17,
-        "value": 68
-      },
-      {
-        "type": 19,
-        "value": 82
-      },
-      {
-        "type": 25,
-        "value": 72
-      },
-      {
-        "type": 27,
         "value": 88
       },
       {
+        "type": 11,
+        "value": 110
+      },
+      {
+        "type": 13,
+        "value": 88
+      },
+      {
+        "type": 15,
+        "value": 110
+      },
+      {
+        "type": 17,
+        "value": 88
+      },
+      {
+        "type": 19,
+        "value": 110
+      },
+      {
+        "type": 21,
+        "value": 90
+      },
+      {
+        "type": 23,
+        "value": 120
+      },
+      {
+        "type": 25,
+        "value": 90
+      },
+      {
+        "type": 76,
+        "value": 120
+      },
+      {
         "type": 6,
-        "value": 900
+        "value": 1500
       },
       {
         "type": 80,
-        "value": 2000
+        "value": 2500
       },
       {
         "type": 140,
-        "value": 700
+        "value": 1200
       }
     ],
     "suggVocation": 0,
@@ -46127,55 +46139,55 @@
     "staitcAttrs": [
       {
         "type": 5,
-        "value": 1700
+        "value": 2100
       },
       {
         "type": 9,
-        "value": 82
+        "value": 112
       },
       {
         "type": 11,
-        "value": 98
+        "value": 128
       },
       {
         "type": 13,
-        "value": 82
+        "value": 112
       },
       {
         "type": 15,
-        "value": 98
+        "value": 128
       },
       {
         "type": 17,
-        "value": 82
+        "value": 112
       },
       {
         "type": 19,
-        "value": 98
+        "value": 128
       },
       {
         "type": 21,
-        "value": 76
+        "value": 110
       },
       {
         "type": 23,
-        "value": 92
+        "value": 130
       },
       {
         "type": 25,
-        "value": 76
+        "value": 110
       },
       {
         "type": 27,
-        "value": 92
+        "value": 130
+      },
+      {
+        "type": 6,
+        "value": 5500
       },
       {
         "type": 54,
         "value": 1000
-      },
-      {
-        "type": 6,
-        "value": 4500
       }
     ],
     "suggVocation": 0,
@@ -46228,31 +46240,31 @@
     "staitcAttrs": [
       {
         "type": 9,
-        "value": 135
+        "value": 175
       },
       {
         "type": 11,
-        "value": 185
+        "value": 225
       },
       {
         "type": 116,
-        "value": 800
+        "value": 1000
       },
       {
         "type": 79,
-        "value": 1400
+        "value": 1800
       },
       {
         "type": 82,
-        "value": 2200
+        "value": 2600
       },
       {
         "type": 80,
-        "value": 2400
+        "value": 3000
       },
       {
         "type": 83,
-        "value": 10000
+        "value": 12000
       }
     ],
     "suggVocation": 1,
@@ -46305,27 +46317,27 @@
     "staitcAttrs": [
       {
         "type": 13,
-        "value": 135
+        "value": 175
       },
       {
         "type": 15,
-        "value": 185
+        "value": 225
       },
       {
         "type": 79,
-        "value": 1400
+        "value": 1800
       },
       {
         "type": 82,
-        "value": 2200
+        "value": 2600
       },
       {
         "type": 80,
-        "value": 2400
+        "value": 3000
       },
       {
         "type": 83,
-        "value": 10000
+        "value": 12000
       }
     ],
     "suggVocation": 2,
@@ -46378,27 +46390,27 @@
     "staitcAttrs": [
       {
         "type": 17,
-        "value": 135
+        "value": 175
       },
       {
         "type": 19,
-        "value": 185
+        "value": 225
       },
       {
         "type": 79,
-        "value": 1400
+        "value": 1800
       },
       {
         "type": 82,
-        "value": 2200
+        "value": 2600
       },
       {
         "type": 80,
-        "value": 2400
+        "value": 3000
       },
       {
         "type": 83,
-        "value": 10000
+        "value": 12000
       }
     ],
     "suggVocation": 3,
@@ -46449,43 +46461,43 @@
     "staitcAttrs": [
       {
         "type": 5,
-        "value": 570
+        "value": 810
       },
       {
         "type": 9,
-        "value": 78
+        "value": 120
       },
       {
         "type": 11,
-        "value": 90
+        "value": 145
       },
       {
         "type": 13,
-        "value": 78
+        "value": 120
       },
       {
         "type": 15,
-        "value": 90
+        "value": 145
       },
       {
         "type": 17,
-        "value": 78
+        "value": 120
       },
       {
         "type": 19,
-        "value": 90
+        "value": 145
       },
       {
         "type": 138,
-        "value": 700
+        "value": 1200
       },
       {
         "type": 6,
-        "value": 900
+        "value": 1500
       },
       {
         "type": 80,
-        "value": 2000
+        "value": 2500
       }
     ],
     "suggVocation": 0,
@@ -46536,43 +46548,43 @@
     "staitcAttrs": [
       {
         "type": 5,
-        "value": 570
+        "value": 810
       },
       {
         "type": 9,
-        "value": 78
+        "value": 120
       },
       {
         "type": 11,
-        "value": 90
+        "value": 145
       },
       {
         "type": 13,
-        "value": 78
+        "value": 120
       },
       {
         "type": 15,
-        "value": 90
+        "value": 145
       },
       {
         "type": 17,
-        "value": 78
+        "value": 120
       },
       {
         "type": 19,
-        "value": 90
+        "value": 145
       },
       {
         "type": 136,
-        "value": 700
+        "value": 1200
       },
       {
         "type": 6,
-        "value": 900
+        "value": 1500
       },
       {
         "type": 80,
-        "value": 2000
+        "value": 2500
       }
     ],
     "suggVocation": 0,
@@ -46623,43 +46635,43 @@
     "staitcAttrs": [
       {
         "type": 5,
-        "value": 570
+        "value": 810
       },
       {
         "type": 9,
-        "value": 78
+        "value": 120
       },
       {
         "type": 11,
-        "value": 90
+        "value": 145
       },
       {
         "type": 13,
-        "value": 78
+        "value": 120
       },
       {
         "type": 15,
-        "value": 90
+        "value": 145
       },
       {
         "type": 17,
-        "value": 78
+        "value": 120
       },
       {
         "type": 19,
-        "value": 90
+        "value": 145
       },
       {
         "type": 75,
-        "value": 700
+        "value": 1200
       },
       {
         "type": 6,
-        "value": 900
+        "value": 1500
       },
       {
         "type": 80,
-        "value": 2000
+        "value": 2500
       }
     ],
     "suggVocation": 0,
@@ -69737,55 +69749,55 @@
     "staitcAttrs": [
       {
         "type": 5,
-        "value": 1900
+        "value": 2200
       },
       {
         "type": 9,
-        "value": 104
+        "value": 130
       },
       {
         "type": 11,
-        "value": 120
+        "value": 150
       },
       {
         "type": 13,
-        "value": 104
+        "value": 130
       },
       {
         "type": 15,
-        "value": 120
+        "value": 150
       },
       {
         "type": 17,
-        "value": 104
+        "value": 130
       },
       {
         "type": 19,
-        "value": 120
+        "value": 150
       },
       {
         "type": 21,
-        "value": 96
+        "value": 120
       },
       {
         "type": 23,
-        "value": 100
+        "value": 140
       },
       {
         "type": 25,
-        "value": 96
+        "value": 120
       },
       {
         "type": 27,
-        "value": 110
+        "value": 140
+      },
+      {
+        "type": 6,
+        "value": 6000
       },
       {
         "type": 54,
         "value": 1200
-      },
-      {
-        "type": 6,
-        "value": 5000
       },
       {
         "type": 84,
@@ -69843,15 +69855,15 @@
     "staitcAttrs": [
       {
         "type": 9,
-        "value": 150
+        "value": 195
       },
       {
         "type": 11,
-        "value": 200
+        "value": 250
       },
       {
         "type": 116,
-        "value": 1000
+        "value": 1200
       },
       {
         "type": 79,
@@ -69859,15 +69871,15 @@
       },
       {
         "type": 82,
-        "value": 2600
+        "value": 2800
       },
       {
         "type": 80,
-        "value": 2600
+        "value": 3300
       },
       {
         "type": 83,
-        "value": 11000
+        "value": 13000
       }
     ],
     "suggVocation": 1,
@@ -69921,11 +69933,11 @@
     "staitcAttrs": [
       {
         "type": 13,
-        "value": 150
+        "value": 195
       },
       {
         "type": 15,
-        "value": 200
+        "value": 250
       },
       {
         "type": 79,
@@ -69933,15 +69945,15 @@
       },
       {
         "type": 82,
-        "value": 2600
+        "value": 2800
       },
       {
         "type": 80,
-        "value": 2600
+        "value": 3300
       },
       {
         "type": 83,
-        "value": 11000
+        "value": 13000
       }
     ],
     "suggVocation": 2,
@@ -69995,11 +70007,11 @@
     "staitcAttrs": [
       {
         "type": 17,
-        "value": 150
+        "value": 195
       },
       {
         "type": 19,
-        "value": 200
+        "value": 250
       },
       {
         "type": 79,
@@ -70007,15 +70019,15 @@
       },
       {
         "type": 82,
-        "value": 2600
+        "value": 2800
       },
       {
         "type": 80,
-        "value": 2600
+        "value": 3300
       },
       {
         "type": 83,
-        "value": 11000
+        "value": 13000
       }
     ],
     "suggVocation": 3,
@@ -74633,31 +74645,31 @@
     "staitcAttrs": [
       {
         "type": 9,
-        "value": 230
+        "value": 215
       },
       {
         "type": 11,
-        "value": 300
+        "value": 270
+      },
+      {
+        "type": 116,
+        "value": 1400
       },
       {
         "type": 79,
-        "value": 3000
+        "value": 2000
       },
       {
         "type": 82,
-        "value": 5500
+        "value": 3000
       },
       {
         "type": 80,
-        "value": 5500
+        "value": 3600
       },
       {
         "type": 83,
-        "value": 12000
-      },
-      {
-        "type": 75,
-        "value": 6000
+        "value": 14000
       }
     ],
     "suggVocation": 1,
@@ -74700,7 +74712,7 @@
     "recoverView": [
       {
         "count": 1,
-        "id": 846,
+        "id": 845,
         "rate": 100,
         "type": 0
       }
@@ -74711,31 +74723,31 @@
     "staitcAttrs": [
       {
         "type": 13,
-        "value": 230
+        "value": 215
       },
       {
         "type": 15,
-        "value": 300
+        "value": 270
+      },
+      {
+        "type": 116,
+        "value": 1400
       },
       {
         "type": 79,
-        "value": 3000
+        "value": 2000
       },
       {
         "type": 82,
-        "value": 5500
+        "value": 3000
       },
       {
         "type": 80,
-        "value": 5500
+        "value": 3600
       },
       {
         "type": 83,
-        "value": 12000
-      },
-      {
-        "type": 75,
-        "value": 6000
+        "value": 14000
       }
     ],
     "suggVocation": 2,
@@ -74789,31 +74801,31 @@
     "staitcAttrs": [
       {
         "type": 17,
-        "value": 230
+        "value": 215
       },
       {
         "type": 19,
-        "value": 300
+        "value": 270
+      },
+      {
+        "type": 116,
+        "value": 1400
       },
       {
         "type": 79,
-        "value": 3000
+        "value": 2000
       },
       {
         "type": 82,
-        "value": 5500
+        "value": 3000
       },
       {
         "type": 80,
-        "value": 5500
+        "value": 3600
       },
       {
         "type": 83,
-        "value": 12000
-      },
-      {
-        "type": 75,
-        "value": 6000
+        "value": 14000
       }
     ],
     "suggVocation": 3,
@@ -74871,27 +74883,27 @@
       },
       {
         "type": 9,
-        "value": 155
+        "value": 150
       },
       {
         "type": 11,
-        "value": 210
+        "value": 180
       },
       {
         "type": 13,
-        "value": 155
+        "value": 150
       },
       {
         "type": 15,
-        "value": 210
+        "value": 180
       },
       {
         "type": 17,
-        "value": 155
+        "value": 150
       },
       {
         "type": 19,
-        "value": 210
+        "value": 180
       },
       {
         "type": 21,
@@ -74899,7 +74911,7 @@
       },
       {
         "type": 23,
-        "value": 180
+        "value": 150
       },
       {
         "type": 25,
@@ -74907,15 +74919,15 @@
       },
       {
         "type": 27,
-        "value": 180
+        "value": 150
+      },
+      {
+        "type": 6,
+        "value": 6500
       },
       {
         "type": 54,
         "value": 1500
-      },
-      {
-        "type": 6,
-        "value": 6000
       },
       {
         "type": 84,
