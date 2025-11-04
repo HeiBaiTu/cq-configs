@@ -1283,7 +1283,7 @@
         75,
         358
       ],
-      "cooldownTime": 14000,
+      "cooldownTime": 13000,
       "delayTime": 0,
       "id": 8,
       "level": 7,
@@ -1317,7 +1317,7 @@
         76,
         359
       ],
-      "cooldownTime": 14000,
+      "cooldownTime": 12000,
       "delayTime": 0,
       "id": 8,
       "level": 8,
@@ -1351,7 +1351,7 @@
         77,
         360
       ],
-      "cooldownTime": 14000,
+      "cooldownTime": 11000,
       "delayTime": 0,
       "id": 8,
       "level": 9,
@@ -1385,7 +1385,7 @@
         78,
         361
       ],
-      "cooldownTime": 14000,
+      "cooldownTime": 10000,
       "delayTime": 0,
       "id": 8,
       "level": 10,
@@ -4131,7 +4131,7 @@
         165,
         369
       ],
-      "cooldownTime": 10000,
+      "cooldownTime": 9000,
       "delayTime": 500,
       "hitId": 104,
       "id": 21,
@@ -4167,7 +4167,7 @@
         166,
         370
       ],
-      "cooldownTime": 10000,
+      "cooldownTime": 8000,
       "delayTime": 500,
       "hitId": 104,
       "id": 21,
@@ -4203,7 +4203,7 @@
         167,
         371
       ],
-      "cooldownTime": 10000,
+      "cooldownTime": 7000,
       "delayTime": 500,
       "hitId": 106,
       "id": 21,
@@ -6183,9 +6183,9 @@
       "id": 30,
       "level": 10,
       "prepareId": 110,
-      "skillDesc": "召唤一只超级神宠麒麟，体力50000，攻击力为主人物攻、道术、魔法之和的0.6倍+200点",
+      "skillDesc": "召唤一只超级神宠麒麟，体力10000，攻击力为主人物攻、道术、魔法之和的0.6倍+1000点",
       "skillName": "skillicon_ds9",
-      "skillNextDesc": "",
+      "skillNextDesc": "召唤一只超级神宠麒麟，体力20000，攻击力为主人物攻、道术、魔法之和的0.6倍+2000点",
       "spellConds": [
         {
           "cond": 2,
@@ -6204,6 +6204,171 @@
           "consume": true,
           "count": 700,
           "value": 261
+        }
+      ]
+    },
+    "11": {
+      "actRange": [
+        233
+      ],
+      "cooldownTime": 1500,
+      "delayTime": 0,
+      "id": 30,
+      "level": 11,
+      "prepareId": 110,
+      "skillDesc": "召唤一只超级神宠麒麟，体力20000，攻击力为主人物攻、道术、魔法之和的0.6倍+2000点",
+      "skillName": "skillicon_ds9",
+      "skillNextDesc": "召唤一只超级神宠麒麟，体力30000，攻击力为主人物攻、道术、魔法之和的0.6倍+3000点",
+      "spellConds": [
+        {
+          "cond": 2,
+          "consume": true,
+          "value": 5
+        }
+      ],
+      "upgradeConds": [
+        {
+          "cond": 6,
+          "consume": false,
+          "value": 5
+        },
+        {
+          "cond": 3,
+          "consume": true,
+          "count": 10,
+          "value": 265
+        }
+      ]
+    },
+    "12": {
+      "actRange": [
+        234
+      ],
+      "cooldownTime": 1500,
+      "delayTime": 0,
+      "id": 30,
+      "level": 12,
+      "prepareId": 110,
+      "skillDesc": "召唤一只超级神宠麒麟，体力30000，攻击力为主人物攻、道术、魔法之和的0.6倍+3000点",
+      "skillName": "skillicon_ds9",
+      "skillNextDesc": "召唤一只超级神宠麒麟，体力50000，攻击力为主人物攻、道术、魔法之和的0.6倍+5000点",
+      "spellConds": [
+        {
+          "cond": 2,
+          "consume": true,
+          "value": 5
+        }
+      ],
+      "upgradeConds": [
+        {
+          "cond": 6,
+          "consume": false,
+          "value": 15
+        },
+        {
+          "cond": 3,
+          "consume": true,
+          "count": 50,
+          "value": 265
+        }
+      ]
+    },
+    "13": {
+      "actRange": [
+        235
+      ],
+      "cooldownTime": 1500,
+      "delayTime": 0,
+      "id": 30,
+      "level": 13,
+      "prepareId": 110,
+      "skillDesc": "召唤一只超级神宠麒麟，体力50000，攻击力为主人物攻、道术、魔法之和的0.6倍+5000点",
+      "skillName": "skillicon_ds9",
+      "skillNextDesc": "召唤一只超级神宠麒麟，体力80000，攻击力为主人物攻、道术、魔法之和的0.6倍+8000点",
+      "spellConds": [
+        {
+          "cond": 2,
+          "consume": true,
+          "value": 5
+        }
+      ],
+      "upgradeConds": [
+        {
+          "cond": 6,
+          "consume": false,
+          "value": 25
+        },
+        {
+          "cond": 3,
+          "consume": true,
+          "count": 100,
+          "value": 265
+        }
+      ]
+    },
+    "14": {
+      "actRange": [
+        236
+      ],
+      "cooldownTime": 1500,
+      "delayTime": 0,
+      "id": 30,
+      "level": 14,
+      "prepareId": 110,
+      "skillDesc": "召唤一只超级神宠麒麟，体力80000，攻击力为主人物攻、道术、魔法之和的0.6倍+8000点",
+      "skillName": "skillicon_ds9",
+      "skillNextDesc": "召唤一只超级神宠青龙圣兽，体力100000，攻击力为主人物攻、道术、魔法之和的0.6倍+10000点",
+      "spellConds": [
+        {
+          "cond": 2,
+          "consume": true,
+          "value": 5
+        }
+      ],
+      "upgradeConds": [
+        {
+          "cond": 6,
+          "consume": false,
+          "value": 35
+        },
+        {
+          "cond": 3,
+          "consume": true,
+          "count": 300,
+          "value": 265
+        }
+      ]
+    },
+    "15": {
+      "actRange": [
+        237
+      ],
+      "cooldownTime": 1500,
+      "delayTime": 0,
+      "id": 30,
+      "level": 15,
+      "prepareId": 110,
+      "skillDesc": "召唤一只超级神宠青龙圣兽，体力100000，攻击力为主人物攻、道术、魔法之和的0.6倍+10000点",
+      "skillName": "skillicon_ds9",
+      "skillNextDesc": "",
+      "spellConds": [
+        {
+          "cond": 2,
+          "consume": true,
+          "value": 5
+        }
+      ],
+      "upgradeConds": [
+        {
+          "cond": 6,
+          "consume": false,
+          "value": 50
+        },
+        {
+          "cond": 3,
+          "consume": true,
+          "count": 500,
+          "value": 265
         }
       ]
     }
