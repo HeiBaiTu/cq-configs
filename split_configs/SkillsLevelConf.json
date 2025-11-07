@@ -6202,7 +6202,7 @@
         {
           "cond": 3,
           "consume": true,
-          "count": 700,
+          "count": 1000,
           "value": 261
         }
       ]
@@ -6230,12 +6230,12 @@
         {
           "cond": 6,
           "consume": false,
-          "value": 5
+          "value": 10
         },
         {
           "cond": 3,
           "consume": true,
-          "count": 10,
+          "count": 20,
           "value": 265
         }
       ]
@@ -6263,7 +6263,7 @@
         {
           "cond": 6,
           "consume": false,
-          "value": 15
+          "value": 20
         },
         {
           "cond": 3,
@@ -6296,7 +6296,7 @@
         {
           "cond": 6,
           "consume": false,
-          "value": 25
+          "value": 30
         },
         {
           "cond": 3,
@@ -6329,7 +6329,7 @@
         {
           "cond": 6,
           "consume": false,
-          "value": 35
+          "value": 45
         },
         {
           "cond": 3,
@@ -6362,7 +6362,7 @@
         {
           "cond": 6,
           "consume": false,
-          "value": 50
+          "value": 60
         },
         {
           "cond": 3,
@@ -6576,7 +6576,7 @@
         257,
         373
       ],
-      "cooldownTime": 9000,
+      "cooldownTime": 10000,
       "delayTime": 500,
       "hitId": 60,
       "id": 33,
@@ -6612,7 +6612,7 @@
         258,
         374
       ],
-      "cooldownTime": 8000,
+      "cooldownTime": 9000,
       "delayTime": 500,
       "hitId": 60,
       "id": 33,
@@ -6648,7 +6648,7 @@
         259,
         375
       ],
-      "cooldownTime": 7000,
+      "cooldownTime": 9000,
       "delayTime": 500,
       "hitId": 60,
       "id": 33,
@@ -6684,7 +6684,7 @@
         260,
         376
       ],
-      "cooldownTime": 6000,
+      "cooldownTime": 8000,
       "delayTime": 500,
       "hitId": 64,
       "id": 33,
@@ -6720,7 +6720,7 @@
         261,
         377
       ],
-      "cooldownTime": 5000,
+      "cooldownTime": 8000,
       "delayTime": 500,
       "hitId": 64,
       "id": 33,
@@ -6756,7 +6756,7 @@
         262,
         378
       ],
-      "cooldownTime": 4000,
+      "cooldownTime": 7000,
       "delayTime": 500,
       "hitId": 64,
       "id": 33,
@@ -6792,7 +6792,7 @@
         263,
         379
       ],
-      "cooldownTime": 3000,
+      "cooldownTime": 7000,
       "delayTime": 500,
       "hitId": 64,
       "id": 33,
@@ -6828,7 +6828,7 @@
         264,
         380
       ],
-      "cooldownTime": 3000,  
+      "cooldownTime": 6000,  
       "delayTime": 500,
       "hitId": 64,
       "id": 33,
@@ -6864,7 +6864,7 @@
         265,
         381
       ],
-      "cooldownTime": 3000,
+      "cooldownTime": 5000,
       "delayTime": 500,
       "hitId": 112,
       "id": 33,
