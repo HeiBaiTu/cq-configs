@@ -996,8 +996,8 @@
         "levellimit": 6,
         "price": {
           "count": 1880,
-          "id": 4,
-          "type": 4
+          "id": 3,
+          "type": 3
         },
         "reincarnationlimit": 0,
         "shop": {
@@ -1225,7 +1225,7 @@
         "daylimit": 0,
         "levellimit": 6,
         "price": {
-          "count": 1380,
+          "count": 188,
           "id": 4,
           "type": 4
         },
