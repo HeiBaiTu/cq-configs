@@ -53604,28 +53604,52 @@
     "showQuality": 4,
     "staitcAttrs": [
       {
+        "type": 9,
+        "value": 300
+      },
+      {
+        "type": 11,
+        "value": 300
+      },
+      {
+        "type": 13,
+        "value": 300
+      },
+      {
+        "type": 15,
+        "value": 300
+      },
+      {
+        "type": 17,
+        "value": 300
+      },
+      {
+        "type": 19,
+        "value": 300
+      },
+      {
         "type": 21,
-        "value": 150
+        "value": 300
       },
       {
         "type": 23,
-        "value": 150
+        "value": 300
       },
       {
         "type": 25,
-        "value": 150
+        "value": 300
       },
       {
         "type": 27,
-        "value": 150
+        "value": 300
       },
       {
         "type": 54,
-        "value": 800
+        "value": 3000
       },
       {
         "type": 6,
-        "value": 1000
+        "value": 3000
       }
     ],
     "suggVocation": 0,
@@ -53727,35 +53751,35 @@
     "staitcAttrs": [
       {
         "type": 9,
-        "value": 8
+        "value": 100
       },
       {
         "type": 11,
-        "value": 8
+        "value": 100
       },
       {
         "type": 13,
-        "value": 8
+        "value": 100
       },
       {
         "type": 15,
-        "value": 8
+        "value": 100
       },
       {
         "type": 17,
-        "value": 8
+        "value": 100
       },
       {
         "type": 19,
-        "value": 8
+        "value": 100
       },
       {
         "type": 136,
-        "value": 1800
+        "value": 3000
       },
       {
         "type": 138,
-        "value": 800
+        "value": 2000
       }
     ],
     "suggVocation": 0,
@@ -53806,31 +53830,31 @@
     "staitcAttrs": [
       {
         "type": 9,
-        "value": 8
+        "value": 100
       },
       {
         "type": 11,
-        "value": 8
+        "value": 100
       },
       {
         "type": 13,
-        "value": 8
+        "value": 100
       },
       {
         "type": 15,
-        "value": 8
+        "value": 100
       },
       {
         "type": 17,
-        "value": 8
+        "value": 100
       },
       {
         "type": 19,
-        "value": 8
+        "value": 100
       },
       {
         "type": 75,
-        "value": 1000
+        "value": 5000
       }
     ],
     "suggVocation": 0,
@@ -54963,27 +54987,51 @@
     "staitcAttrs": [
       {
         "type": 9,
-        "value": 0
+        "value": 150
       },
       {
         "type": 11,
-        "value": 50
+        "value": 150
       },
       {
         "type": 13,
-        "value": 0
+        "value": 150
       },
       {
         "type": 15,
-        "value": 50
+        "value": 150
       },
       {
         "type": 17,
-        "value": 0
+        "value": 150
       },
       {
         "type": 19,
-        "value": 50
+        "value": 150
+      },
+      {
+        "type": 21,
+        "value": 150
+      },
+      {
+        "type": 23,
+        "value": 150
+      },
+      {
+        "type": 25,
+        "value": 150
+      },
+      {
+        "type": 27,
+        "value": 150
+      },
+      {
+        "type": 54,
+        "value": 1500
+      },
+      {
+        "type": 6,
+        "value": 1500
       }
     ],
     "suggVocation": 0,
@@ -55075,11 +55123,11 @@
       },
       {
         "type": 75,
-        "value": 1500
+        "value": 2500
       },
       {
         "type": 81,
-        "value": 500
+        "value": 1000
       }
     ],
     "suggVocation": 0,
@@ -55130,35 +55178,39 @@
     "staitcAttrs": [
       {
         "type": 9,
-        "value": 10
+        "value": 100
       },
       {
         "type": 11,
-        "value": 10
+        "value": 100
       },
       {
         "type": 13,
-        "value": 10
+        "value": 100
       },
       {
         "type": 15,
-        "value": 10
+        "value": 100
       },
       {
         "type": 17,
-        "value": 10
+        "value": 100
       },
       {
         "type": 19,
-        "value": 10
+        "value": 100
       },
       {
         "type": 82,
-        "value": 200
+        "value": 1000
       },
       {
         "type": 6,
-        "value": 1500
+        "value": 5000
+      },
+      {
+        "type": 80,
+        "value": 3000
       }
     ],
     "suggVocation": 0,
@@ -55249,11 +55301,11 @@
       },
       {
         "type": 75,
-        "value": 600
+        "value": 3500
       },
       {
         "type": 81,
-        "value": 600
+        "value": 2000
       }
     ],
     "suggVocation": 0,
@@ -55530,6 +55582,10 @@
       {
         "type": 19,
         "value": 100
+      },
+      {
+        "type": 80,
+        "value": 1000
       }
     ],
     "suggVocation": 0,

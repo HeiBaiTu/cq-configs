@@ -35,13 +35,17 @@ function  HandleGetSBKAward(pActor, packet)
             errorcode = 3;
             break;
         end
-        local nFlag = getSbkData();
-        if nFlag then
-            errorcode = 4;
+        
+        -- 优先检查活动状态：活动进行中不能领取奖励
+        if Actor.isActivityRunning(pActor, (cfg.ActivityID or 0)) or Actor.isActivityRunning(pActor, (cfg.ActivityID2 or 0)) then
+            errorcode = 5;  -- 活动进行中，不能领取
             break;
         end
-        if Actor.isActivityRunning(pActor, (cfg.ActivityID or 0)) or Actor.isActivityRunning(pActor, (cfg.ActivityID2 or 0)) then
-            errorcode = 5;
+        
+        -- 再检查是否已领取：每次活动只能领取一次
+        local nFlag = getSbkData();
+        if nFlag then
+            errorcode = 4;  -- 已领取过，不能重复领取
             break;
         end
         if cfg.noticereward then
