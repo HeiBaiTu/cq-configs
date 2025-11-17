@@ -285,12 +285,12 @@
       "type": 2
     },
     "item2": {
-      "count": 100,
+      "count": 60,
       "id": 916,
       "type": 0
     },
     "item3": {
-      "count": 100,
+      "count": 60,
       "id": 906,
       "type": 0
     },
@@ -325,12 +325,12 @@
       "type": 2
     },
     "item2": {
-      "count": 200,
+      "count": 100,
       "id": 916,
       "type": 0
     },
     "item3": {
-      "count": 200,
+      "count": 100,
       "id": 906,
       "type": 0
     },
@@ -365,12 +365,12 @@
       "type": 2
     },
     "item2": {
-      "count": 300,
+      "count": 200,
       "id": 916,
       "type": 0
     },
     "item3": {
-      "count": 300,
+      "count": 200,
       "id": 906,
       "type": 0
     },
@@ -405,12 +405,12 @@
       "type": 2
     },
     "item2": {
-      "count": 400,
+      "count": 300,
       "id": 916,
       "type": 0
     },
     "item3": {
-      "count": 400,
+      "count": 300,
       "id": 906,
       "type": 0
     },
